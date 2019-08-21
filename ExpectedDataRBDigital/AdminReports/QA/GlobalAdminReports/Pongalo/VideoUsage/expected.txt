@@ -1,0 +1,3 @@
+For Period: from 01/01/2017 to 01/22/2017
+Service	License Type	Library Name	System Name	Account #	State	Country	Title	Barcode	Email	Library	Views	Notes
+Total	0	

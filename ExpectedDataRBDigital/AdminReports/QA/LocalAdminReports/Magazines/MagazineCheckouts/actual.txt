@@ -1,0 +1,1004 @@
+Title	Barcode	Email	Library	RBID	Checkouts	Time Period	Current Issue Default	Status	Checkout Date	Issue Date
+frankie Magazine				RBZ0001631	0	Monthly	2500	Active		
+GQ Style Russia				RBZ0002265	0	Monthly	2500	Active		
+Horses and People				RBZ0000476	0	Monthly	2500	Active		
+Bicycling				RBZ0000141	0	Monthly	2500	Active		
+Collezioni Accessori				RBZ0001531	0	Monthly	2500	Active		
+Focus Storia Wars				RBZ0002369	0	Monthly	200	Active		
+RedSleds				RBZ0002956	0	Monthly	2500	Active		
+Images du monde				RBZ0002267	0	Annually	Unlimited	Active		
+CHIP Malaysia				RBZ0002741	0	Monthly	2500	Active		
+Maxim				RBZ0000573	0	Monthly	2500	Active		
+MASK The Magazine				RBZ0003090	0	Quarterly	500	Active		
+Outdoor Life				RBZ0000650	0	Monthly	2500	Active		
+The Marketing Survival Guide				RBZ0002960	0	Monthly	2500	Active		
+Hot Rod Deluxe				RBZ0001578	0	Monthly	2500	Active		
+Auto Express				RBZ0000097	0	Weekly	2500	Active		
+The Economist - UK edition				RBZ0001010	0	Weekly	25	Active		
+Road & Track				RBZ0000721	0	Monthly	500	Active		
+Idees				RBZ0000958	0	Monthly	2500	Active		
+400 Calories or Less: Easy Italian				RBZ0000016	0	Monthly	500	Active		
+Golf Tips				RBZ0000417	0	Monthly	2500	Active		
+Men's Health				RBZ0000578	0	Monthly	2500	Active		
+Smith Journal				RBZ0000769	0	Monthly	2500	Active		
+SARIE KOS				RBZ0000965	0	Monthly	2500	Active		
+The Economist - Asia Edition				RBZ0001007	0	Weekly	25	Active		
+Men's Fitness 12 Minute Workout				RBZ0003039	0	Monthly	2500	Active		
+Wellbeing Organic Garden				RBZ0000862	0	Monthly	2500	Active		
+MUY Historia				RBZ0001147	0	Monthly	2500	Active		
+The Advocate				RBZ0000028	0	Monthly	2500	Active		
+Best Buys – Audio & AV				RBZ0000129	0	Monthly	2500	Active		
+BirdWatching				RBZ0000149	0	Monthly	2500	Active		
+The Economist-Latin America				RBZ0000332	0	Weekly	25	Active		
+Australian Macworld: Mac Troubleshooting Superguide				RBZ0002759	0	Monthly	2500	Active		
+AZURE				RBZ0000103	0	Monthly	2500	Active		
+Digital Photo Pro				RBZ0000296	0	Monthly	2500	Active		
+GRIT Country Skills Series				RBZ0000436	0	Monthly	2500	Active		
+Harper's Bazaar				RBZ0000447	0	Monthly	500	Active		
+House Beautiful				RBZ0000482	0	Monthly	500	Active		
+Slam				RBZ0000764	0	Monthly	2500	Active		
+Slow Cooker				RBZ0000766	0	Monthly	500	Active		
+Esquire - España				RBZ0001640	0	Monthly	2500	Active		
+The Essential Guide to Portraits				RBZ0002552	0	Monthly	2500	Active		
+Petróleo & Energía				RBZ0000666	0	Monthly	2500	Active		
+Simple Wine News				RBZ0003069	0	Monthly	2500	Active		
+Côté Est				RBZ0002156	0	Monthly	2500	Active		
+Côté Ouest				RBZ0002077	0	Monthly	2500	Active		
+Rolling Stone - France				RBZ0001464	0	Monthly	2500	Active		
+Hotbook				RBZ0000479	0	Monthly	2500	Active		
+Gardening the Easy Way				RBZ0000405	0	Monthly	500	Active		
+Home Cinema Choice				RBZ0001740	0	Monthly	1500	Active		
+D-Photo				RBZ0001846	0	Monthly	2500	Active		
+CrossStitcher				RBZ0000266	0	Monthly	2500	Active		
+Ceramics: Art and Perception				RBZ0002938	0	Quarterly	500	Active		
+Clean Eating				RBZ0000222	0	Monthly	2500	Active		
+Beads				RBZ0000120	0	Monthly	2500	Active		
+Who Do You Think You Are?				RBZ0002504	0	Monthly	2500	Active		
+Cycling Weekly				RBZ0001035	0	Weekly	2500	Active		
+Ferrovissime				RBZ0002425	0	Monthly	2500	Active		
+Our Canada				RBZ0000646	0	Monthly	2500	Active		
+The Superfan's Guide to Justin Bieber				RBZ0001014	0	Monthly	2500	Active		
+Paramotor Magazin				RBZ0002921	0	Monthly	2500	Active		
+Soap Opera Digest				RBZ0001241	0	Weekly	500	Active		
+Remodeling & Makeovers				RBZ0000711	0	Monthly	500	Active		
+How to Make it in Music 2				RBZ0002065	0	Monthly	2500	Active		
+Motorcyclist				RBZ0000606	0	Monthly	2500	Active		
+Music Tech Focus				RBZ0000613	0	Monthly	2500	Active		
+AD France				RBZ0001804	0	Monthly	2500	Active		
+go Namibia				RBZ0000946	0	Monthly	2500	Active		
+Jalouse				RBZ0002557	0	Monthly	2500	Active		
+Small Gardens, Balconies & Courtyards				RBZ0000768	0	Monthly	2500	Active		
+The Beer Lovers Guide to Australia				RBZ0000126	0	Monthly	2500	Active		
+GQ Australia				RBZ0000427	0	Monthly	2500	Active		
+MilK				RBZ0001922	0	Monthly	100	Active		
+Les Idées de ma maison				RBZ0000536	0	Monthly	2500	Active		
+The Knitter				RBZ0001012	0	Monthly	2500	Active		
+net				RBZ0000002	0	Monthly	500	Active		
+WellBeing Anti-Ageing				RBZ0000857	0	Monthly	2500	Active		
+Pick Me Up!				RBZ0000904	0	Weekly	2500	Active		
+Star Magazine				RBZ0000780	0	Weekly	2500	Active		
+Autosport				RBZ0000099	0	Weekly	1000	Active		
+MilK Decoration				RBZ0001928	0	Monthly	100	Active		
+Men's Journal				RBZ0000581	0	Monthly	500	Active		
+Digital Camera Photographer of the Year 2008				RBZ0002164	0	Monthly	500	Active		
+The Complete Guide to Home Video				RBZ0002012	0	Monthly	2500	Active		
+Vanidades - Mexico				RBZ0000836	0	Monthly	2500	Active		
+Chat It's Fate				RBZ0000896	0	Monthly	2500	Active		
+Country Life				RBZ0000254	0	Weekly	2500	Active		
+Edge				RBZ0002740	0	Monthly	500	Active		
+Britain in 2011				RBZ0002813	0	Monthly	2500	Active		
+Inked				RBZ0000491	0	Monthly	2500	Active		
+Inside Out Renovating & Decorating Guide				RBZ0000495	0	Monthly	2500	Active		
+Opera Canada				RBZ0000642	0	Monthly	2500	Active		
+Bicycling South Africa				RBZ0000938	0	Monthly	2500	Active		
+Architectural Review Asia Pacific				RBZ0002687	0	Monthly	2500	Active		
+旭茉 Jessica				RBZ0002900	0	Monthly	2500	Active		
+Faces of Bhutan				RBZ0001974	0	Monthly	2500	Active		
+Photographers' Guide to Photoshop				RBZ0002361	0	Monthly	2500	Active		
+Macworld UK				RBZ0000559	0	Monthly	2500	Active		
+Indian Bride Look Book 2010-2011				RBZ0002903	0	Monthly	2500	Active		
+Build a Better PC 2011				RBZ0002935	0	Monthly	2500	Active		
+Annabel Karmel Family Cookbook Winter and Christmas 2009				RBZ0002035	0	Monthly	2500	Active		
+Weg Namibië				RBZ0000972	0	Monthly	2500	Active		
+Tour De France 2012				RBZ0001041	0	Monthly	2500	Active		
+Queensland Homes				RBZ0000693	0	Monthly	2500	Active		
+The Beader's Handbook 2				RBZ0000119	0	Monthly	2500	Active		
+Easy Meals				RBZ0000328	0	Monthly	500	Active		
+FineScale Modeler				RBZ0000375	0	Monthly	2500	Active		
+Hola! Mexico				RBZ0000465	0	Weekly	2500	Active		
+Radio Ink Magazine				RBZ0001413	0	Weekly	500	Active		
+The Computer Arts Book of Inspiration				RBZ0002163	0	Monthly	500	Active		
+ScrapBook inspirations - Ideas Book				RBZ0002331	0	Monthly	500	Active		
+Total Body Plan				RBZ0003033	0	Monthly	2500	Active		
+Tv Notas Horóscopos 2015				RBZ0000823	0	Monthly	2500	Active		
+Newsweek				RBZ0000629	0	Weekly	2500	Active		
+Winter Warmth				RBZ0000874	0	Monthly	2500	Active		
+Point de vue				RBZ0001461	0	Monthly	2500	Active		
+Maison Magazine hors-série				RBZ0002392	0	Monthly	2500	Active		
+Guida Alle Aree di Sosta Italia				RBZ0003074	0	Monthly	2500	Active		
+Fantasy Art Exhibition: Volume 2				RBZ0003012	0	Monthly	500	Active		
+Video Focus: Final Cut Pro				RBZ0002803	0	Monthly	2500	Active		
+Alt om DATA				RBZ0001110	0	Monthly	2500	Active		
+HOLA				RBZ0001200	0	Weekly	2500	Active		
+Guitar Techniques				RBZ0000442	0	Monthly	500	Active		
+Total Film				RBZ0001015	0	Monthly	500	Active		
+SFX				RBZ0001001	0	Monthly	500	Active		
+MacFormat Presents: iPad The Essential Handbook				RBZ0002279	0	Monthly	500	Active		
+Shape up at Home				RBZ0002944	0	Monthly	2500	Active		
+Drawing: The Complete Course				RBZ0000311	0	Monthly	2500	Active		
+Health & Fitness Tone up in 10 Minutes				RBZ0000455	0	Monthly	2500	Active		
+Build a Better Website				RBZ0002011	0	Monthly	2500	Active		
+The Ultimate Guide to Digital Photography 4				RBZ0002325	0	Monthly	2500	Active		
+Australian Yoga Journal				RBZ0000095	0	Monthly	2500	Active		
+Artists & Illustrators				RBZ0000066	0	Monthly	2500	Active		
+World Soccer				RBZ0000912	0	Monthly	2500	Active		
+Bike				RBZ0000146	0	Monthly	2500	Active		
+Focus				RBZ0002495	0	Monthly	2500	Active		
+BBC Wildlife Magazine				RBZ0002499	0	Monthly	2500	Active		
+BBC Top Gear Magazine				RBZ0002502	0	Monthly	2500	Active		
+Successful Farming				RBZ0000787	0	Monthly	500	Active		
+PC Gamer				RBZ0000984	0	Monthly	500	Active		
+Horse & Hound				RBZ0000473	0	Weekly	2500	Active		
+Ultimate Guide to Amazon Kindle				RBZ0001023	0	Monthly	2500	Active		
+Le Soir magazine				RBZ0003111	0	Weekly	2500	Active		
+Wine Enthusiast Magazine				RBZ0001717	0	Monthly	500	Active		
+Chat Passion				RBZ0000897	0	Monthly	2500	Active		
+Better Homes and Gardens Australia				RBZ0000139	0	Monthly	2500	Active		
+Fast Bikes				RBZ0000365	0	Monthly	500	Active		
+DIVA				RBZ0000305	0	Monthly	1000	Active		
+Magazine TED par QA&V				RBZ0000560	0	Monthly	2500	Active		
+Gourmet Kitchen Planner				RBZ0000426	0	Monthly	2500	Active		
+Truckin				RBZ0000818	0	Monthly	2500	Active		
+Le Point - Les années Michael Jackson				RBZ0001768	0	Monthly	2500	Active		
+Vogue Living Before + After				RBZ0000850	0	Monthly	2500	Active		
+AppleMagazine				RBZ0000059	0	Weekly	2500	Active		
+Pianiste				RBZ0002388	0	Monthly	2500	Active		
+Total Guitar				RBZ0001016	0	Monthly	500	Active		
+Mountain Biking UK				RBZ0000610	0	Monthly	2500	Active		
+Hi-Fi Choice				RBZ0001739	0	Monthly	1500	Active		
+3D World				RBZ0000014	0	Monthly	500	Active		
+The Ultimate Guide to Marathon Running				RBZ0002049	0	Monthly	2500	Active		
+WellBeing Yoga				RBZ0000864	0	Monthly	2500	Active		
+Amateur Photographer				RBZ0000040	0	Weekly	2500	Active		
+Le Point - Hors série Jeux				RBZ0001872	0	Monthly	2500	Active		
+Queensland Brides				RBZ0000692	0	Monthly	2500	Active		
+Worlds Of Whedon				RBZ0002815	0	Monthly	500	Active		
+OK! Magazine				RBZ0000638	0	Weekly	2500	Active		
+Motociclismo				RBZ0001093	0	Weekly	2500	Active		
+The Independent Guide to the Mac				RBZ0001785	0	Monthly	2500	Active		
+Create Jewelry: 101 All-New Designs				RBZ0000008	0	Monthly	2500	Active		
+Moto Revue				RBZ0001758	0	Monthly	2500	Active		
+Knit&Spin				RBZ0000520	0	Monthly	2500	Active		
+Beijing Review				RBZ0002795	0	Monthly	2500	Active		
+Wellbeing Parenting				RBZ0000863	0	Monthly	2500	Active		
+Landbouweekblad				RBZ0000959	0	Weekly	2500	Active		
+ImagineFX Presents Anatomy				RBZ0002587	0	Monthly	500	Active		
+Woman's Day - Comfort Food				RBZ0000876	0	Monthly	500	Active		
+Weight Watchers				RBZ0000855	0	Monthly	2500	Active		
+Us Weekly				RBZ0000831	0	Weekly	500	Active		
+Australian Country				RBZ0000076	0	Monthly	2500	Active		
+Le Point				RBZ0001404	0	Monthly	2500	Active		
+Sarie Woon				RBZ0002737	0	Monthly	2500	Active		
+Dernière Heure				RBZ0000283	0	Weekly	2500	Active		
+Drum English				RBZ0000940	0	Weekly	2500	Active		
+NME Originals - Folk				RBZ0001106	0	Monthly	2500	Active		
+Proceso				RBZ0000685	0	Weekly	2500	Active		
+TV&Satellite Week				RBZ0001043	0	Weekly	2500	Active		
+DestinAsian				RBZ0001298	0	Monthly	2500	Active		
+OK! Russia				RBZ0002849	0	Weekly	2500	Active		
+Líderes Mexicanos - Special Editions				RBZ0000538	0	Monthly	2500	Active		
+Giardini				RBZ0001495	0	Monthly	2500	Active		
+Superyacht				RBZ0002348	0	Monthly	2500	Active		
+Gentlemen Drive				RBZ0001994	0	Monthly	2500	Active		
+Zigzag				RBZ0002599	0	Monthly	2500	Active		
+Spin-Off				RBZ0003055	0	Quarterly	500	Active		
+Farm Collector				RBZ0001878	0	Monthly	500	Active		
+Aperture				RBZ0000057	0	Monthly	2500	Active		
+Casaviva México				RBZ0000192	0	Monthly	2500	Active		
+Classic Dirt Bike				RBZ0000213	0	Monthly	2500	Active		
+The Threepenny Review				RBZ0002319	0	Quarterly	500	Active		
+¡Hola! Especial Viajes				RBZ0002333	0	Monthly	2500	Active		
+Luhho				RBZ0002682	0	Monthly	2500	Active		
+PleinAir Magazine				RBZ0003003	0	Quarterly	500	Active		
+Bodas				RBZ0003059	0	Monthly	2500	Active		
+TPCA Magazine 電路板會刊				RBZ0001204	0	Monthly	2500	Active		
+Thermik Magazin				RBZ0002920	0	Monthly	2500	Active		
+Yoga Journal				RBZ0000890	0	Monthly	2500	Active		
+Gripped: The Climbing Magazine				RBZ0001304	0	Monthly	500	Active		
+R&E-Relojes&Estilográficas				RBZ0001615	0	Monthly	2500	Active		
+Caribbean Living				RBZ0001416	0	Quarterly	500	Active		
+Earth Island Journal				RBZ0002303	0	Quarterly	500	Active		
+Mieux vivre votre argent				RBZ0001534	0	Monthly	2500	Active		
+Vogue Collections				RBZ0001705	0	Monthly	2500	Active		
+Saveur				RBZ0000736	0	Monthly	2500	Active		
+Classic Toy Trains				RBZ0000220	0	Monthly	2500	Active		
+Country Living				RBZ0000256	0	Monthly	500	Active		
+Traditional Home				RBZ0000810	0	Monthly	500	Active		
+Women's Health				RBZ0000880	0	Monthly	2500	Active		
+Knitscene				RBZ0000521	0	Monthly	2500	Active		
+Food Network Magazine				RBZ0000383	0	Monthly	500	Active		
+Jp Magazine				RBZ0001366	0	Monthly	2500	Active		
+The Art of Healing				RBZ0000065	0	Monthly	2500	Active		
+Britain				RBZ0000166	0	Monthly	2500	Active		
+Especial Relojes de Esquire ES				RBZ0001718	0	Monthly	2500	Active		
+Signature Travel & Lifestyle				RBZ0002629	0	Monthly	2500	Active		
+Marlin				RBZ0001098	0	Monthly	500	Active		
+L'Officiel Paris				RBZ0002554	0	Monthly	2500	Active		
+Wanderlust				RBZ0002477	0	Monthly	2500	Active		
+Business Traveller Asia-Pacific Edition				RBZ0002830	0	Monthly	2500	Active		
+Smithsonian Magazine				RBZ0000770	0	Monthly	2500	Active		
+Côté Paris				RBZ0002142	0	Monthly	2500	Active		
+Côté Sud				RBZ0002076	0	Monthly	2500	Active		
+L'impresa				RBZ0002571	0	Monthly	2500	Active		
+Men's Fitness - France				RBZ0001463	0	Monthly	500	Active		
+Classic Boat				RBZ0000212	0	Monthly	2500	Active		
+Quo				RBZ0001158	0	Monthly	2500	Active		
+Viz				RBZ0002873	0	Monthly	2500	Active		
+Audio Technology				RBZ0000073	0	Monthly	2500	Active		
+Rhythms Monthly 經典				RBZ0001054	0	Monthly	2500	Active		
+Collezioni Bambini				RBZ0001496	0	Monthly	2500	Active		
+La revue des Montres				RBZ0002556	0	Monthly	2500	Active		
+Micro Pratique				RBZ0001813	0	Monthly	2500	Active		
+WEALTH INVEST WEEKLY 先探投資週刊				RBZ0001066	0	Weekly	2500	Active		
+4Ruedas				RBZ0000017	0	Monthly	2500	Active		
+Manager Today 經理人				RBZ0001160	0	Monthly	2500	Active		
+Let's Talk in English 大家說英語				RBZ0001064	0	Monthly	2500	Active		
+Guideposts				RBZ0000439	0	Monthly	2500	Active		
+Frame				RBZ0002912	0	Monthly	2500	Active		
+BuildHome				RBZ0000171	0	Monthly	2500	Active		
+Country Living UK				RBZ0000257	0	Monthly	2500	Active		
+Homes & Antiques				RBZ0002496	0	Monthly	2500	Active		
+Le Grand Mag				RBZ0002574	0	Monthly	2500	Active		
+Muy Interesante - Mexico				RBZ0000615	0	Monthly	2500	Active		
+Motociclismo Panamericano				RBZ0000598	0	Monthly	2500	Active		
+Peppermint Magazine				RBZ0000663	0	Monthly	2500	Active		
+Go! Photography				RBZ0000950	0	Monthly	2500	Active		
+Collezioni Uomo				RBZ0001546	0	Monthly	2500	Active		
+Collezioni Haute Couture				RBZ0001543	0	Monthly	2500	Active		
+LA, Journal of Landscape Architecture				RBZ0002320	0	Monthly	2500	Active		
+HELLO! magazine				RBZ0000458	0	Weekly	2500	Active		
+Gas Engine Magazine				RBZ0001879	0	Monthly	500	Active		
+ELLE México				RBZ0000340	0	Monthly	2500	Active		
+ELLE QUÉBEC				RBZ0000341	0	Monthly	2500	Active		
+The Hockey News				RBZ0000462	0	Weekly	2500	Active		
+Esquire - Mexico				RBZ0000348	0	Monthly	2500	Active		
+Scientific American Chinese Edition				RBZ0001235	0	Monthly	2500	Active		
+Rolling Stone				RBZ0000729	0	Weekly	500	Active		
+Reader's Digest International				RBZ0000089	0	Monthly	2500	Active		
+FourFourTwo UK				RBZ0003107	0	Monthly	1000	Active		
+Equus				RBZ0000344	0	Monthly	2500	Active		
+Emmy Magazine				RBZ0001642	0	Monthly	500	Active		
+Kid's Collections				RBZ0001929	0	Monthly	100	Active		
+Zigzag Photo Journal				RBZ0000978	0	Monthly	2500	Active		
+Lyd & Bilde				RBZ0001445	0	Monthly	2500	Active		
+Vogue Australia				RBZ0000848	0	Monthly	2500	Active		
+Gramophone Magazine				RBZ0000431	0	Monthly	2500	Active		
+Essentials South Africa				RBZ0000923	0	Monthly	2500	Active		
+How to Operate Your Model Railroad				RBZ0000487	0	Monthly	2500	Active		
+Les Affaires				RBZ0000535	0	Weekly	2500	Active		
+Computer Arts Presents iPad - The creative pro's guide				RBZ0002380	0	Monthly	500	Active		
+The Ultimate Guide to Marathon Running 2nd edition				RBZ0002568	0	Monthly	2500	Active		
+Fairlady Bride				RBZ0002738	0	Monthly	2500	Active		
+Porsche Classics				RBZ0003041	0	Monthly	2500	Active		
+Tú Ediciones Especiales				RBZ0000821	0	Monthly	2500	Active		
+Maison Française hors-série				RBZ0002393	0	Monthly	2500	Active		
+India Today				RBZ0002353	0	Weekly	2500	Active		
+New Zealand Weddings				RBZ0002250	0	Monthly	2500	Active		
+Games World of Puzzles				RBZ0000398	0	Monthly	2500	Active		
+The Independent Guide to the iPhone 4				RBZ0002476	0	Monthly	2500	Active		
+Huisgenoot Tempo				RBZ0002748	0	Monthly	2500	Active		
+go! Mozambique				RBZ0000949	0	Monthly	2500	Active		
+Diabetic Living				RBZ0000288	0	Monthly	500	Active		
+Heritage Commercials				RBZ0001920	0	Monthly	2500	Active		
+Audubon Magazine				RBZ0000074	0	Monthly	2500	Active		
+La Revue des Montres - l'Horoguide				RBZ0002947	0	Monthly	2500	Active		
+Metro				RBZ0000584	0	Monthly	2500	Active		
+Gadgets & Gizmos				RBZ0002420	0	Monthly	2500	Active		
+Decanter Italy				RBZ0002866	0	Monthly	2500	Active		
+Caras-México				RBZ0000194	0	Weekly	2500	Active		
+Women's Fitness The Ultimate 2 Week Fat Loss Diet				RBZ0001030	0	Monthly	2500	Active		
+Latino Leaders				RBZ0000532	0	Monthly	2500	Active		
+L'Officiel Voyage				RBZ0002753	0	Monthly	2500	Active		
+Italia! Guide to Tuscany				RBZ0002811	0	Monthly	2500	Active		
+Music Tech Focus: Logic Pro 9				RBZ0002810	0	Monthly	2500	Active		
+Music Tech Focus: Ableton Live 8				RBZ0002808	0	Monthly	2500	Active		
+Macworld Australia				RBZ0000557	0	Monthly	2500	Active		
+Voie Libre international				RBZ0002429	0	Monthly	2500	Active		
+Keyboards Recording Hors-série				RBZ0003068	0	Monthly	2500	Active		
+Diabetic Living Australia				RBZ0000289	0	Monthly	2500	Active		
+Common Wealth Parenting 親子天下				RBZ0001460	0	Monthly	2500	Active		
+Girlfriend Australia				RBZ0000409	0	Monthly	2500	Active		
+Oxygen				RBZ0000655	0	Monthly	2500	Active		
+TV Times				RBZ0001042	0	Weekly	2500	Active		
+Le fana de l'aviation				RBZ0001870	0	Monthly	2500	Active		
+Houses: Kitchens + Bathrooms				RBZ0000486	0	Monthly	2500	Active		
+Italia magazine				RBZ0000506	0	Monthly	2500	Active		
+¡Hola! Cocina				RBZ0002062	0	Monthly	2500	Active		
+Hello magazine Special Fashion Supplement				RBZ0003018	0	Monthly	2500	Active		
+Man on The Moon Collector's Edition				RBZ0002500	0	Monthly	2500	Active		
+Ultimate PC and Web Workshops				RBZ0001374	0	Monthly	2500	Active		
+Ultimate Euro 2012 Guide				RBZ0001022	0	Monthly	2500	Active		
+Ultimate 2012 Olympic Guide				RBZ0001021	0	Monthly	2500	Active		
+duPont REGISTRY				RBZ0002332	0	Monthly	500	Active		
+Ultimate Guide to Android Tablets				RBZ0001024	0	Monthly	2500	Active		
+The Independent Guide to the iPhone 3GS				RBZ0001991	0	Monthly	2500	Active		
+Fortean Times Paranormal Handbook				RBZ0000387	0	Monthly	2500	Active		
+GQ France				RBZ0001704	0	Monthly	2500	Active		
+Chicago Magazine				RBZ0000199	0	Monthly	2500	Active		
+Brides UK				RBZ0000165	0	Monthly	500	Active		
+Living and Loving				RBZ0000936	0	Monthly	2500	Active		
+Cinema Scope				RBZ0000206	0	Monthly	2500	Active		
+Racecar Engineering				RBZ0000991	0	Monthly	2500	Active		
+ShowBoats International				RBZ0002814	0	Monthly	2500	Active		
+Boat International - Best of the Best				RBZ0000159	0	Monthly	2500	Active		
+Hobby Consolas				RBZ0002413	0	Monthly	2500	Active		
+Auto Bild es				RBZ0002410	0	Weekly	2500	Active		
+House and Leisure				RBZ0000933	0	Monthly	2500	Active		
+Wild				RBZ0000869	0	Monthly	2500	Active		
+Woman & Home				RBZ0000915	0	Monthly	2500	Active		
+OUT				RBZ0000648	0	Monthly	2500	Active		
+Wilderness				RBZ0002475	0	Monthly	1000	Active		
+Cosmopolitan				RBZ0000242	0	Monthly	500	Active		
+Car and Driver				RBZ0000191	0	Monthly	500	Active		
+NME Originals - Goth				RBZ0001077	0	Monthly	2500	Active		
+The Journal of the Texas Trophy Hunters				RBZ0001451	0	Monthly	500	Active		
+TvNotas				RBZ0000824	0	Weekly	2500	Active		
+Weg!				RBZ0000973	0	Monthly	2500	Active		
+Huisgenoot				RBZ0000955	0	Weekly	2500	Active		
+Loco-Revue				RBZ0002426	0	Monthly	2500	Active		
+NME Originals				RBZ0001080	0	Monthly	2500	Active		
+Motor Boat & Yachting				RBZ0000599	0	Monthly	2500	Active		
+Seventeen - Mexico				RBZ0000750	0	Monthly	2500	Active		
+Runner's World - Mexico				RBZ0000733	0	Monthly	2500	Active		
+Cocina Fácil				RBZ0000228	0	Monthly	2500	Active		
+iPad & iPhone User				RBZ0000502	0	Monthly	2500	Active		
+NZ Hot Rod				RBZ0002520	0	Monthly	500	Active		
+Car India				RBZ0002185	0	Monthly	2500	Active		
+Vogue Living				RBZ0000849	0	Monthly	2500	Active		
+Rail Express				RBZ0000992	0	Monthly	2500	Active		
+You South Africa				RBZ0000977	0	Weekly	2500	Active		
+Weg Kuierkos				RBZ0000971	0	Monthly	2500	Active		
+Sarie Bruid				RBZ0002739	0	Monthly	2500	Active		
+Go! Kgalagadi				RBZ0000948	0	Monthly	2500	Active		
+Kiplinger's Personal Finance				RBZ0000514	0	Monthly	2500	Active		
+Guitar Player				RBZ0000441	0	Monthly	2500	Active		
+Focus 360°				RBZ0003045	0	Monthly	200	Active		
+The Complete Guide to World Cup 2010				RBZ0002230	0	Monthly	2500	Active		
+NME Originals - 80's				RBZ0001076	0	Monthly	2500	Active		
+Reason: The Ultimate Guide				RBZ0002079	0	Monthly	500	Active		
+Guitarist Presents - 100 Guitar Heroes				RBZ0006693	0	Monthly	500	Active		
+Ultimate PC and Web Workshops (2007)				RBZ0001256	0	Monthly	2500	Active		
+The Ultimate Blackberry Guide				RBZ0002050	0	Monthly	2500	Active		
+What Digital SLR				RBZ0001411	0	Monthly	2500	Active		
+Good Housekeeping				RBZ0000420	0	Monthly	500	Active		
+Guide to Commuting				RBZ0003014	0	Monthly	500	Active		
+Field & Stream				RBZ0000372	0	Monthly	2500	Active		
+Travel + Leisure India & South Asia				RBZ0002642	0	Monthly	2500	Active		
+Octane - Chrono				RBZ0002721	0	Monthly	2500	Active		
+Jaguar: The Complete Story				RBZ0003103	0	Monthly	2500	Active		
+Digital SLR Photography				RBZ0000298	0	Monthly	2500	Active		
+Custom PC UK				RBZ0002510	0	Monthly	2500	Active		
+Classic Motorcycle Mechanics				RBZ0000215	0	Monthly	2500	Active		
+Men's Fitness Complete Guide to Abs 2nd edition				RBZ0002943	0	Monthly	2500	Active		
+Computer Shopper				RBZ0000234	0	Monthly	2500	Active		
+Boating NZ				RBZ0001697	0	Monthly	2500	Active		
+Avantages				RBZ0003020	0	Monthly	200	Active		
+House and Leisure Food				RBZ0000934	0	Monthly	2500	Active		
+Arizona Highways Magazine				RBZ0000063	0	Monthly	2500	Active		
+Woman's Weekly				RBZ0000911	0	Weekly	2500	Active		
+Ideat				RBZ0002371	0	Monthly	2500	Active		
+Stereophile				RBZ0000783	0	Monthly	2500	Active		
+Reader's Digest				RBZ0000704	0	Monthly	2500	Active		
+Big League Weekly Edition				RBZ0000145	0	Weekly	2500	Active		
+0024 Horloges				RBZ0002360	0	Monthly	2500	Active		
+Island Racer				RBZ0001645	0	Monthly	2500	Active		
+Classic Bike Guide				RBZ0000211	0	Monthly	2500	Active		
+Marie Claire Idées				RBZ0002911	0	Monthly	200	Active		
+Macworld				RBZ0000556	0	Monthly	2500	Active		
+L’Annuel CANADIENS Yearbook				RBZ0000524	0	Monthly	2500	Active		
+Procycling Photography 2010: A year with the pro peloton				RBZ0003013	0	Monthly	500	Active		
+Casa Diez				RBZ0001161	0	Monthly	2500	Active		
+F1 Racing UK				RBZ0000359	0	Monthly	1000	Active		
+Cosmopolitan - España				RBZ0001148	0	Monthly	2500	Active		
+Fantasy Art Exhibition: Volume 1				RBZ0003011	0	Monthly	500	Active		
+Four Wheeler				RBZ0000388	0	Monthly	2500	Active		
+Yachting				RBZ0001285	0	Monthly	500	Active		
+Quién				RBZ0000695	0	Weekly	2500	Active		
+Elle				RBZ0000337	0	Monthly	500	Active		
+NME Originals - Mod				RBZ0001063	0	Monthly	2500	Active		
+Country Homes & Interiors				RBZ0000253	0	Monthly	2500	Active		
+The Ultimate World Cup Guide 2010				RBZ0002166	0	Monthly	2500	Active		
+HWM Singapore				RBZ0002559	0	Monthly	2500	Active		
+Linux: The Complete Manual				RBZ0002103	0	Monthly	2500	Active		
+Hot Rod				RBZ0000478	0	Monthly	2500	Active		
+¡Hola! Especial Decoración				RBZ0002056	0	Monthly	2500	Active		
+Viz Das Krapital - Roger's Profanisaurus				RBZ0003102	0	Monthly	2500	Active		
+The Independent Guide to Ebay 2010				RBZ0001874	0	Monthly	2500	Active		
+Prevention				RBZ0000683	0	Monthly	2500	Active		
+Film Comment				RBZ0002876	0	Monthly	500	Active		
+Electronic Musician				RBZ0000335	0	Monthly	2500	Active		
+COOL!				RBZ0000241	0	Monthly	2500	Active		
+VegNews Magazine				RBZ0000841	0	Monthly	2500	Active		
+SA Country Life				RBZ0000997	0	Monthly	2500	Active		
+O, The Oprah Magazine				RBZ0000635	0	Monthly	500	Active		
+Woman & Home South Africa				RBZ0001028	0	Monthly	2500	Active		
+11 Freunde				RBZ0009106	0	Monthly	2500	Active		
+The Field				RBZ0001040	0	Monthly	2500	Active		
+BBC Good Food Magazine				RBZ0000112	0	Monthly	2500	Active		
+RIDERS CLUB　ライダースクラブ				RBZ0002879	0	Annually	Unlimited	Active		
+flick!				RBZ0002543	0	Monthly	2500	Active		
+Music Tech Magazine				RBZ0000614	0	Monthly	2500	Active		
+Garden Railways				RBZ0000403	0	Monthly	2500	Active		
+The Caravan				RBZ0002484	0	Monthly	2500	Active		
+Business Traveller				RBZ0000172	0	Monthly	2500	Active		
+Taste of Home				RBZ0000796	0	Monthly	2500	Active		
+White Sposa				RBZ0002506	0	Monthly	2500	Active		
+Classic & Sports Car				RBZ0000208	0	Monthly	1000	Active		
+The Guitar Magazine				RBZ0000440	0	Monthly	2500	Active		
+Rolling Stone Hors-Série				RBZ0001930	0	Monthly	2500	Active		
+L'Officiel Hommes Paris				RBZ0002933	0	Monthly	2500	Active		
+Olive Magazine				RBZ0000113	0	Monthly	2500	Active		
+Quattroruote				RBZ0002904	0	Monthly	2500	Active		
+Architecture Australia				RBZ0000062	0	Monthly	2500	Active		
+New American Paintings				RBZ0002519	0	Monthly	500	Active		
+PC Home				RBZ0001053	0	Monthly	2500	Active		
+Motorsport News				RBZ0000607	0	Weekly	1000	Active		
+L'Officiel 1000 Modèles				RBZ0002941	0	Monthly	2500	Active		
+Proyecto Contract				RBZ0001738	0	Monthly	2500	Active		
+Voile Magazine				RBZ0001788	0	Monthly	2500	Active		
+EatingWell				RBZ0000330	0	Monthly	500	Active		
+Outdoor Photographer				RBZ0000651	0	Monthly	2500	Active		
+Discover Japan　				RBZ0002582	0	Monthly	2500	Active		
+Business Today 今周刊				RBZ0001111	0	Weekly	2500	Active		
+Business Weekly 商業周刊				RBZ0001060	0	Weekly	2500	Active		
+Le monde du camping-car				RBZ0001812	0	Monthly	2500	Active		
+Capital Week 證券市場週刊				RBZ0001061	0	Annually	Unlimited	Active		
+Coté Sud hors-série				RBZ0002394	0	Monthly	2500	Active		
+Aquarium a la Maison				RBZ0002428	0	Monthly	2500	Active		
+Maxim Australia				RBZ0000574	0	Monthly	2500	Active		
+Ivy League Enjoy English 常春藤生活英語				RBZ0001344	0	Monthly	2500	Active		
+Ganoderma 健康靈芝				RBZ0001726	0	Monthly	2500	Active		
+AD Russia				RBZ0002263	0	Monthly	2500	Active		
+Côté Sud / Est / Ouest / Paris				RBZ0002395	0	Monthly	2500	Active		
+Elle Decoration				RBZ0001886	0	Monthly	2500	Active		
+Psychologies Russia				RBZ0001891	0	Monthly	2500	Active		
+Счастливые родители				RBZ0001890	0	Monthly	2500	Active		
+Vogue Russia				RBZ0002261	0	Monthly	2500	Active		
+Runner’s World Trail Runner (South African Edition)				RBZ0000967	0	Monthly	2500	Active		
+BBC Easycook				RBZ0000111	0	Monthly	2500	Active		
+RealClassic				RBZ0000993	0	Monthly	2500	Active		
+Harper's Magazine				RBZ0000450	0	Monthly	500	Active		
+Vogue Italia				RBZ0003052	0	Monthly	200	Active		
+Heritage Railway				RBZ0001164	0	Monthly	2500	Active		
+Motorcycle Sport & Leisure				RBZ0000605	0	Monthly	2500	Active		
+Taste.com.au				RBZ0000079	0	Monthly	2500	Active		
+Golf Australia				RBZ0000415	0	Monthly	2500	Active		
+Inside Sport				RBZ0000496	0	Monthly	2500	Active		
+Marie Claire Australia				RBZ0000567	0	Monthly	2500	Active		
+4 Wheel & Off Road				RBZ0000015	0	Monthly	2500	Active		
+Street Rodder				RBZ0000785	0	Monthly	2500	Active		
+Australian Road Rider				RBZ0000090	0	Monthly	2500	Active		
+Sport Life				RBZ0001119	0	Monthly	2500	Active		
+Moto Verde				RBZ0001182	0	Monthly	2500	Active		
+Automobile				RBZ0001299	0	Monthly	2500	Active		
+Car Craft				RBZ0001323	0	Monthly	2500	Active		
+Diesel Power				RBZ0001361	0	Monthly	2500	Active		
+Common Health Magazine 康健				RBZ0001459	0	Monthly	2500	Active		
+Evergreen 常春				RBZ0001456	0	Monthly	2500	Active		
+Men's Fitness UK				RBZ0000577	0	Monthly	2500	Active		
+Getaway				RBZ0002330	0	Monthly	2500	Active		
+Texas Highways Magazine				RBZ0001315	0	Monthly	500	Active		
+Steelers Digest				RBZ0001644	0	Monthly	500	Active		
+Evo				RBZ0000356	0	Monthly	2500	Active		
+Super Street				RBZ0001362	0	Monthly	2500	Active		
+Flying				RBZ0000381	0	Monthly	2500	Active		
+Defense Technology Monthly 尖端科技				RBZ0001065	0	Monthly	2500	Active		
+Advanced 彭蒙惠英語				RBZ0001171	0	Monthly	2500	Active		
+Studio Classroom 空中英語教室				RBZ0001172	0	Monthly	2500	Active		
+Ivy League Analytical English 常春藤解析英語				RBZ0001345	0	Monthly	2500	Active		
+Business Today				RBZ0002354	0	Weekly	2500	Active		
+Coup de Pouce				RBZ0000259	0	Monthly	2500	Active		
+Australian Men's Fitness				RBZ0000084	0	Monthly	2500	Active		
+Family Circle				RBZ0000362	0	Monthly	500	Active		
+Homes & Gardens				RBZ0000472	0	Monthly	2500	Active		
+Home				RBZ0000954	0	Monthly	2500	Active		
+Ser Padres Hoy + El Bebe de ser Padres				RBZ0001109	0	Monthly	2500	Active		
+Fairlady				RBZ0000941	0	Monthly	2500	Active		
+True Love				RBZ0000968	0	Monthly	2500	Active		
+Drive Out				RBZ0000939	0	Monthly	2500	Active		
+Quilting Arts Magazine				RBZ0000698	0	Monthly	2500	Active		
+Skin Deep Tattoo Magazine				RBZ0001499	0	Monthly	2500	Active		
+Dwell				RBZ0000319	0	Monthly	2500	Active		
+Elle Canada				RBZ0000338	0	Monthly	2500	Active		
+The Hockey News Poolbook French				RBZ0000464	0	Monthly	2500	Active		
+Traces (formerly Inside History)				RBZ0000492	0	Monthly	2500	Active		
+Just Cars				RBZ0000508	0	Monthly	2500	Active		
+Northern Home and Cottage				RBZ0001359	0	Monthly	500	Active		
+MOTHER EARTH NEWS				RBZ0000593	0	Monthly	2500	Active		
+Queensland Homes Gold				RBZ0000694	0	Monthly	2500	Active		
+Reader's Digest Living Well With Diabetes				RBZ0000706	0	Monthly	2500	Active		
+Yoga for Beginners				RBZ0000889	0	Monthly	2500	Active		
+SARIE				RBZ0000964	0	Monthly	2500	Active		
+The Economist - Continental Europe edition				RBZ0001008	0	Weekly	25	Active		
+Nuevo Estilo				RBZ0001169	0	Monthly	2500	Active		
+Good				RBZ0001328	0	Monthly	2500	Active		
+Florida Sport Fishing				RBZ0001727	0	Monthly	500	Active		
+The Legend of Harley Davidson				RBZ0002032	0	Monthly	2500	Active		
+Annabel Karmel Family Summer Cookbook				RBZ0002139	0	Monthly	2500	Active		
+The Ideal Home and Garden				RBZ0002191	0	Monthly	2500	Active		
+Focus Storia Collection				RBZ0002370	0	Monthly	200	Active		
+Gardens Illustrated Magazine				RBZ0002501	0	Monthly	2500	Active		
+GQ JAPAN				RBZ0002633	0	Monthly	2500	Active		
+Organic NZ				RBZ0002788	0	Monthly	2500	Active		
+Metro Home & Entertaining				RBZ0002505	0	Monthly	2500	Active		
+Car Plus + HIM 車王				RBZ0002906	0	Monthly	2500	Active		
+Your Family Tree Presents: Get Started in Family History				RBZ0002222	0	Monthly	500	Active		
+Climbing				RBZ0000223	0	Monthly	2500	Active		
+Angels on Earth magazine				RBZ0000054	0	Monthly	2500	Active		
+Green Living Guide				RBZ0000433	0	Monthly	2500	Active		
+CBS Soaps In Depth				RBZ0001849	0	Weekly	500	Active		
+The American Poetry Review				RBZ0000048	0	Monthly	2500	Active		
+House Beautiful 500+ Favorite Paint Colors				RBZ0000483	0	Monthly	500	Active		
+Truck Trend				RBZ0000817	0	Monthly	2500	Active		
+Runner's World Complete Guide to Running				RBZ0002363	0	Monthly	2500	Active		
+Watch!				RBZ0002612	0	Monthly	500	Active		
+Recording & Music Production – Guerrilla Guide				RBZ0000708	0	Monthly	2500	Active		
+Backpacker				RBZ0000105	0	Monthly	2500	Active		
+Australian Sky & Telescope				RBZ0000092	0	Monthly	2500	Active		
+Armes de chasse				RBZ0001871	0	Monthly	2500	Active		
+Vogue Paris				RBZ0001803	0	Monthly	2500	Active		
+British GQ				RBZ0000429	0	Monthly	500	Active		
+The Artist's Guide to Photoshop				RBZ0003101	0	Monthly	2500	Active		
+Líderes Mexicanos				RBZ0000537	0	Monthly	2500	Active		
+Women's Fitness Tone up at Home				RBZ0001031	0	Monthly	2500	Active		
+Algarabía				RBZ0000035	0	Monthly	2500	Active		
+Classic Supercars				RBZ0000219	0	Monthly	2500	Active		
+VOGUE India				RBZ0002616	0	Monthly	2500	Active		
+Cruising World				RBZ0000268	0	Monthly	2500	Active		
+Best of Creative Jewelry				RBZ0000134	0	Monthly	2500	Active		
+Shape				RBZ0000753	0	Annually	Unlimited	Active		
+CommonWealth Magazine 天下雜誌				RBZ0001059	0	Weekly	2500	Active		
+Vegetarian Times - Healing Foods Cookbook				RBZ0000840	0	Monthly	2500	Active		
+Kicks				RBZ0001662	0	Monthly	2500	Active		
+Reader's Digest Canada				RBZ0000705	0	Monthly	2500	Active		
+Nueva				RBZ0000633	0	Weekly	2500	Active		
+Dirt Action				RBZ0000300	0	Monthly	2500	Active		
+NZ Performance Car				RBZ0001862	0	Monthly	2500	Active		
+Men's Health Belly Off Guide				RBZ0000961	0	Monthly	2500	Active		
+Capital				RBZ0001107	0	Monthly	2500	Active		
+Interweave Crochet				RBZ0000500	0	Monthly	2500	Active		
+Woodworker's Journal				RBZ0000883	0	Monthly	2500	Active		
+The Economist - Middle East and Africa edition				RBZ0001009	0	Weekly	25	Active		
+Classica				RBZ0002147	0	Monthly	2500	Active		
+NZBusiness+Management				RBZ0002301	0	Monthly	500	Active		
+Life & Style México				RBZ0000539	0	Monthly	2500	Active		
+Growing Vegetables is Fun				RBZ0001858	0	Monthly	2500	Active		
+Living The Country Life				RBZ0000544	0	Monthly	500	Active		
+The Ultimate Guide to Office 2010				RBZ0002335	0	Monthly	2500	Active		
+WegSleep				RBZ0000975	0	Monthly	2500	Active		
+Business Next 數位時代				RBZ0001055	0	Annually	Unlimited	Active		
+Rock and Folk				RBZ0001760	0	Monthly	2500	Active		
+White Horses				RBZ0000867	0	Monthly	2500	Active		
+L'Express hors-serie				RBZ0002387	0	Monthly	2500	Active		
+Men's Fitness Ultimate Workout Plan				RBZ0003031	0	Monthly	2500	Active		
+Health & Fitness Look Younger Naturally				RBZ0000454	0	Monthly	2500	Active		
+Da Man				RBZ0002958	0	Monthly	2500	Active		
+Gluten-Free Living				RBZ0000412	0	Monthly	2500	Active		
+National Geographic Traveler				RBZ0000619	0	Monthly	200	Active		
+Esprit Bonsai				RBZ0002427	0	Monthly	2500	Active		
+CAPITAL 資本雜誌				RBZ0002905	0	Monthly	2500	Active		
+Australian New Car Buyer				RBZ0000086	0	Monthly	2500	Active		
+The Ultimate Guide to Graphic Design 2				RBZ0002168	0	Monthly	2500	Active		
+The Complete Guide To Windows 7				RBZ0002671	0	Monthly	2500	Active		
+Surfing Life				RBZ0000096	0	Monthly	2500	Active		
+Woman				RBZ0001045	0	Weekly	2500	Active		
+Woman's Own				RBZ0001046	0	Weekly	2500	Active		
+GQ India				RBZ0002617	0	Monthly	2500	Active		
+Autopista				RBZ0001155	0	Weekly	2500	Active		
+Cowboys & Indians				RBZ0000261	0	Monthly	2500	Active		
+Shortcut Desserts: 123 Yummy Easiest-Ever Recipes				RBZ0000756	0	Monthly	500	Active		
+Sailing World				RBZ0001101	0	Weekly	500	Active		
+VOGUE JAPAN				RBZ0002632	0	Monthly	2500	Active		
+Wellbeing Food				RBZ0000860	0	Monthly	2500	Active		
+Computer Arts Projects Special				RBZ0002165	0	Monthly	500	Active		
+Good Food Festive Collection				RBZ0000419	0	Monthly	2500	Active		
+knit.wear				RBZ0000519	0	Monthly	2500	Active		
+Getting Started in Digital SLR Photography 2nd ed				RBZ0002812	0	Monthly	2500	Active		
+Australian HiFi				RBZ0000081	0	Monthly	2500	Active		
+Spoke				RBZ0001783	0	Monthly	2500	Active		
+Sailing Today				RBZ0000999	0	Monthly	2500	Active		
+Tatler Russia				RBZ0002266	0	Monthly	2500	Active		
+01net				RBZ0001638	0	Weekly	200	Active		
+Arabian Horse World				RBZ0001437	0	Monthly	500	Active		
+$10 DINNERS (OR LESS!)				RBZ0000001	0	Monthly	500	Active		
+Desnivel				RBZ0001211	0	Monthly	2500	Active		
+Fortean Times: It Happened To Me Vol. 1				RBZ0002060	0	Monthly	2500	Active		
+Fortean Times: It Happened To Me Vol.3				RBZ0002578	0	Monthly	2500	Active		
+Cruise International				RBZ0000267	0	Monthly	2500	Active		
+Food & Home Entertaining				RBZ0000926	0	Monthly	2500	Active		
+Canadian Living				RBZ0000187	0	Monthly	2500	Active		
+Black Belt Magazine				RBZ0001176	0	Monthly	2500	Active		
+Best				RBZ0000128	0	Weekly	2500	Active		
+Good Housekeeping Christmas Cookbook				RBZ0000422	0	Monthly	2500	Active		
+Leisure Wheels				RBZ0002806	0	Monthly	2500	Active		
+Australian Macworld: Mac Basics Superguide 2				RBZ0002219	0	Monthly	2500	Active		
+Woman's Day - Holiday Appetizers				RBZ0000877	0	Monthly	500	Active		
+Utne Reader				RBZ0000832	0	Monthly	2500	Active		
+Automovil Panamericano				RBZ0000098	0	Monthly	2500	Active		
+New York Review of Books				RBZ0000627	0	Weekly	2500	Active		
+Handwoven				RBZ0000445	0	Monthly	2500	Active		
+Simply Knitting				RBZ0001741	0	Monthly	2500	Active		
+Computer Arts				RBZ0002828	0	Monthly	500	Active		
+Cosmopolitan South Africa				RBZ0000920	0	Monthly	2500	Active		
+Scootering				RBZ0001000	0	Monthly	2500	Active		
+Marie Claire Maison				RBZ0002541	0	Monthly	200	Active		
+Blue Water Sailing				RBZ0002042	0	Monthly	500	Active		
+Fast Ford				RBZ0002790	0	Monthly	500	Active		
+Classics Monthly				RBZ0000221	0	Monthly	500	Active		
+Classic Ford				RBZ0000214	0	Monthly	500	Active		
+Winestate Magazine				RBZ0000873	0	Monthly	2500	Active		
+iPhone Life				RBZ0000504	0	Monthly	2500	Active		
+Yachting Monthly				RBZ0000913	0	Monthly	2500	Active		
+Harper's Bazaar - Mexico				RBZ0000448	0	Weekly	2500	Active		
+Open Magazine				RBZ0000980	0	Weekly	2500	Active		
+Mini Magazine				RBZ0000587	0	Monthly	500	Active		
+High Times				RBZ0001370	0	Monthly	500	Active		
+PaperCraft Inspirations				RBZ0000981	0	Monthly	2500	Active		
+MacFormat				RBZ0000552	0	Monthly	500	Active		
+Future Music				RBZ0000395	0	Monthly	500	Active		
+Computer Music				RBZ0000233	0	Monthly	500	Active		
+Woman's Day - Last Minute Christmas				RBZ0000878	0	Monthly	2500	Active		
+Grandes Espacios				RBZ0001218	0	Monthly	2500	Active		
+Seventeen: Justin Beiber Special Issue				RBZ0000751	0	Monthly	500	Active		
+Salon Platinum 2010				RBZ0002736	0	Monthly	2500	Active		
+Quilts and More				RBZ0000699	0	Monthly	500	Active		
+MiCasa				RBZ0001181	0	Monthly	2500	Active		
+ImagineFX				RBZ0000489	0	Monthly	500	Active		
+Guitarist				RBZ0000443	0	Monthly	500	Active		
+50 Great British Locomotives				RBZ0000019	0	Monthly	2500	Active		
+Huisgenoot- Nelson Mandela – Man van Versoening				RBZ0003073	0	Monthly	2500	Active		
+Fast Car				RBZ0000366	0	Monthly	500	Active		
+Decanter-New Zealand 2011				RBZ0002961	0	Monthly	2500	Active		
+Total Bike Repair & Maintenance				RBZ0002078	0	Monthly	500	Active		
+Conde Nast Traveller UK				RBZ0000235	0	Monthly	500	Active		
+De Viajes				RBZ0001139	0	Monthly	2500	Active		
+Popular Mechanics				RBZ0000676	0	Monthly	500	Active		
+Sound & Vision				RBZ0000773	0	Monthly	2500	Active		
+Rooi Rose				RBZ0000996	0	Monthly	2500	Active		
+Cycling Plus				RBZ0000276	0	Monthly	2500	Active		
+Pick Me Up! Special				RBZ0000905	0	Monthly	2500	Active		
+Forbes Woman				RBZ0003030	0	Monthly	2500	Active		
+Motor Boat & Yachting Russia				RBZ0002848	0	Monthly	2500	Active		
+Сноб				RBZ0002260	0	Monthly	2500	Active		
+Golf Monthly				RBZ0000416	0	Monthly	2500	Active		
+Elle Russia				RBZ0001888	0	Monthly	2500	Active		
+Volkswagen Camper and Commercial				RBZ0001520	0	Monthly	2500	Active		
+Collezioni Donna				RBZ0001544	0	Monthly	2500	Active		
+Ljud & Bild				RBZ0001646	0	Monthly	2500	Active		
+Working Mother				RBZ0000884	0	Monthly	2500	Active		
+Computer Hoy				RBZ0002411	0	Weekly	2500	Active		
+Tú				RBZ0000820	0	Weekly	2500	Active		
+Best Ideas for Christmas				RBZ0000132	0	Monthly	500	Active		
+Digital Camera World				RBZ0000294	0	Monthly	500	Active		
+Expansión				RBZ0000357	0	Weekly	2500	Active		
+Casa Viva				RBZ0001658	0	Monthly	2500	Active		
+Aston Martin: The Complete Story				RBZ0003042	0	Monthly	2500	Active		
+Best of Step by Step Beads				RBZ0000135	0	Monthly	2500	Active		
+Poets & Writers Magazine				RBZ0000673	0	Monthly	2500	Active		
+Rachael Ray Every Day				RBZ0000354	0	Monthly	500	Active		
+Fred Dibnah's World of Steam				RBZ0002226	0	Monthly	2500	Active		
+Visi				RBZ0002596	0	Monthly	2500	Active		
+(inside) interior design review				RBZ0002688	0	Monthly	2500	Active		
+GQ Russia				RBZ0002262	0	Monthly	2500	Active		
+Glamour Russia				RBZ0002264	0	Monthly	2500	Active		
+Bike México				RBZ0000147	0	Monthly	2500	Active		
+Wealth Magazine 財訊雙週刊				RBZ0001114	0	Weekly	2500	Active		
+Mother Jones				RBZ0000596	0	Monthly	2500	Active		
+Motorcycle Classics				RBZ0000602	0	Monthly	2500	Active		
+SkyNews				RBZ0000763	0	Monthly	2500	Active		
+L'Officel 1000 Modèles - Design				RBZ0002946	0	Monthly	2500	Active		
+ELLE GIRL Russia				RBZ0001887	0	Monthly	2500	Active		
+Martha Stewart Living				RBZ0000569	0	Annually	Unlimited	Active		
+Health & Fitness Women's Guide to Running				RBZ0000456	0	Monthly	2500	Active		
+Cuisine et Vins de France				RBZ0002909	0	Monthly	200	Active		
+Mas Alla				RBZ0001648	0	Monthly	2500	Active		
+Motor Trend				RBZ0000601	0	Monthly	2500	Active		
+La Moto				RBZ0001135	0	Monthly	2500	Active		
+Texas Monthly				RBZ0001397	0	Monthly	500	Active		
+BBC Gardeners' World				RBZ0002503	0	Monthly	2500	Active		
+Adweek				RBZ0002643	0	Weekly	250	Active		
+Do It Yourself				RBZ0000306	0	Monthly	500	Active		
+Gardening Australia				RBZ0000404	0	Monthly	2500	Active		
+Model Railroader				RBZ0000588	0	Monthly	2500	Active		
+NZ4WD				RBZ0002300	0	Monthly	500	Active		
+Landscape Architecture Magazine				RBZ0001535	0	Monthly	500	Active		
+Integral				RBZ0001660	0	Monthly	2500	Active		
+Men's Health South Africa				RBZ0000962	0	Monthly	2500	Active		
+Super Chevy				RBZ0001438	0	Monthly	2500	Active		
+Boat International				RBZ0000158	0	Monthly	2500	Active		
+Yachts & Yachting magazine				RBZ0001033	0	Monthly	2500	Active		
+MUY Interesante - España				RBZ0001126	0	Monthly	2500	Active		
+Cosmopolitan Body				RBZ0000243	0	Monthly	2500	Active		
+DESIGNLINES				RBZ0000284	0	Monthly	2500	Active		
+ELLE DECOR				RBZ0000339	0	Monthly	500	Active		
+Just Bikes				RBZ0000507	0	Monthly	2500	Active		
+Kitchen Garden				RBZ0000517	0	Monthly	2500	Active		
+Land Rover Monthly				RBZ0000528	0	Monthly	2500	Active		
+Marie Claire - UK				RBZ0000566	0	Monthly	2500	Active		
+Octane				RBZ0000636	0	Monthly	2500	Active		
+PC Magazine				RBZ0000660	0	Monthly	2500	Active		
+Robb Report				RBZ0000724	0	Monthly	2500	Active		
+Runner's World				RBZ0000732	0	Monthly	2500	Active		
+elGourmet.com - Mexico				RBZ0000921	0	Monthly	2500	Active		
+go!				RBZ0000947	0	Monthly	2500	Active		
+Tuis				RBZ0000969	0	Monthly	2500	Active		
+PC Pro				RBZ0000985	0	Monthly	2500	Active		
+Rugby World				RBZ0001037	0	Monthly	2500	Active		
+Emprendedores				RBZ0001087	0	Monthly	2500	Active		
+Car and Driver				RBZ0001090	0	Monthly	2500	Active		
+OPEN				RBZ0001292	0	Monthly	2500	Active		
+Power & Motoryacht				RBZ0001363	0	Monthly	2500	Active		
+Historia Y Vida				RBZ0001473	0	Monthly	2500	Active		
+Clio				RBZ0001659	0	Monthly	2500	Active		
+Cosmopolitan FR				RBZ0002039	0	Monthly	200	Active		
+Mother & Baby India				RBZ0002170	0	Monthly	2500	Active		
+Marie Claire - France				RBZ0002311	0	Monthly	200	Active		
+Accion Cine-Video				RBZ0002375	0	Monthly	2500	Active		
+Cycle World				RBZ0000273	0	Monthly	2500	Active		
+La Revue du Vin de France				RBZ0002910	0	Monthly	200	Active		
+Traverse, Northern Michigan's Magazine				RBZ0001352	0	Monthly	500	Active		
+Geo España				RBZ0001108	0	Monthly	2500	Active		
+Lapidary Journal Jewelry Artist				RBZ0000530	0	Monthly	2500	Active		
+Nautica				RBZ0002347	0	Monthly	2500	Active		
+WellBeing				RBZ0000856	0	Monthly	2500	Active		
+Lowrider				RBZ0000550	0	Monthly	2500	Active		
+Good Housekeeping UK				RBZ0000423	0	Monthly	2500	Active		
+Harper’s Bazaar España				RBZ0002608	0	Monthly	2500	Active		
+Bicycling Buyers' Guide				RBZ0000143	0	Monthly	2500	Active		
+Modèle Magazine				RBZ0001815	0	Monthly	2500	Active		
+AD Collector				RBZ0001829	0	Monthly	2500	Active		
+Vogue hommes English Version				RBZ0002836	0	Monthly	2500	Active		
+Esquire: The Big Watch Book				RBZ0000350	0	Monthly	2500	Active		
+CAR				RBZ0002329	0	Monthly	2500	Active		
+Trains				RBZ0000811	0	Monthly	2500	Active		
+Harper's Bazaar UK				RBZ0000449	0	Monthly	2500	Active		
+CQ Amateur Radio				RBZ0000262	0	Monthly	2500	Active		
+Film Journal International				RBZ0002644	0	Monthly	250	Active		
+Fortean Times				RBZ0000386	0	Monthly	2500	Active		
+Smart 智富				RBZ0001056	0	Monthly	2500	Active		
+Yachting World				RBZ0000914	0	Monthly	2500	Active		
+Our State: Down Home in North Carolina				RBZ0001608	0	Monthly	500	Active		
+Focus - Italia				RBZ0001729	0	Monthly	200	Active		
+Australian Home Beautiful				RBZ0000082	0	Monthly	2500	Active		
+Ideal Home				RBZ0000488	0	Monthly	2500	Active		
+Living Etc				RBZ0000901	0	Monthly	2500	Active		
+SA Garden and Home				RBZ0000998	0	Monthly	2500	Active		
+Indianapolis Monthly				RBZ0001881	0	Monthly	500	Active		
+Mopar Muscle				RBZ0001403	0	Monthly	2500	Active		
+Chevy High Performance				RBZ0001360	0	Monthly	2500	Active		
+Cheers Magazine 快樂工作人				RBZ0001237	0	Monthly	2500	Active		
+PCWorld				RBZ0000662	0	Monthly	2500	Active		
+Decanter				RBZ0000278	0	Monthly	2500	Active		
+Mountain Bike Rider				RBZ0000608	0	Monthly	2500	Active		
+The Writer				RBZ0000886	0	Monthly	2500	Active		
+Popular Mechanics South Africa				RBZ0002809	0	Monthly	2500	Active		
+Datatid				RBZ0001124	0	Monthly	2500	Active		
+Focus Storia				RBZ0001743	0	Monthly	200	Active		
+25 Beautiful Homes				RBZ0000011	0	Monthly	2500	Active		
+5280 Magazine				RBZ0000021	0	Monthly	2500	Active		
+Classic American				RBZ0000210	0	Monthly	2500	Active		
+Clin d'oeil				RBZ0000224	0	Monthly	2500	Active		
+Cosmopolitan UK				RBZ0000247	0	Monthly	2500	Active		
+Health & Fitness				RBZ0000453	0	Monthly	2500	Active		
+Good Housekeeping South Africa				RBZ0000930	0	Monthly	2500	Active		
+SA Hunter/Jagter				RBZ0000956	0	Monthly	2500	Active		
+Runner's World South Africa				RBZ0000963	0	Monthly	2500	Active		
+The Classic MotorCycle				RBZ0001006	0	Monthly	2500	Active		
+Elle España				RBZ0001150	0	Monthly	2500	Active		
+Muscle Mustangs & Fast Fords				RBZ0001379	0	Monthly	2500	Active		
+BIKE India				RBZ0002186	0	Monthly	2500	Active		
+Smart Photography				RBZ0002187	0	Monthly	2500	Active		
+Caravan e Camper Granturismo				RBZ0002497	0	Monthly	2500	Active		
+IL - Idee e lifestyle del Sole 24 ORE				RBZ0002381	0	Monthly	2500	Active		
+Men's Health Australia				RBZ0000579	0	Monthly	2500	Active		
+Moteur Boat Magazine				RBZ0001764	0	Monthly	2500	Active		
+NZ Rugby World				RBZ0001410	0	Monthly	Unlimited	Active		
+Astronomy				RBZ0000068	0	Monthly	2500	Active		
+7 Jours				RBZ0000022	0	Weekly	2500	Active		
+Elizabeth The Queen: Diamond Jubilee Souvenir				RBZ0000922	0	Monthly	2500	Active		
+Boating				RBZ0000160	0	Monthly	2500	Active		
+Woman's Day				RBZ0000875	0	Monthly	500	Active		
+Mountain Biking Australia				RBZ0000609	0	Monthly	2500	Active		
+Ultimate Aircraft				RBZ0000827	0	Monthly	2500	Active		
+Interiores				RBZ0001474	0	Monthly	2500	Active		
+NZ Classic Car				RBZ0001847	0	Monthly	2500	Active		
+Lowrider Arte				RBZ0001371	0	Monthly	2500	Active		
+Pro Photo				RBZ0000684	0	Monthly	2500	Active		
+Bonsai Pasion				RBZ0001230	0	Monthly	2500	Active		
+House Beautiful Ultimate Guide to Kitchens sponsored by Kohler				RBZ0000485	0	Monthly	500	Active		
+Sport Fishing				RBZ0000777	0	Monthly	2500	Active		
+NZ Export and Trade Handbook				RBZ0002988	0	Monthly	500	Active		
+Vogue Hommes				RBZ0001706	0	Monthly	2500	Active		
+Town & Country				RBZ0000808	0	Monthly	500	Active		
+Vanidades Novias				RBZ0000837	0	Monthly	2500	Active		
+Salt Water Sportsman				RBZ0001286	0	Monthly	500	Active		
+Sound + Image				RBZ0000774	0	Monthly	2500	Active		
+Affaires Plus (A+)				RBZ0000023	0	Monthly	2500	Active		
+Holidays for Couples				RBZ0000470	0	Monthly	2500	Active		
+The Week				RBZ0002827	0	Weekly	2500	Active		
+The Africa Report				RBZ0002891	0	Monthly	500	Active		
+New Scientist				RBZ0000626	0	Weekly	500	Active		
+Dish				RBZ0001194	0	Monthly	2500	Active		
+Discover				RBZ0000304	0	Monthly	500	Active		
+Marie Claire Enfants				RBZ0002542	0	Monthly	200	Active		
+The Economist				RBZ0000331	0	Weekly	25	Active		
+Style At Home				RBZ0000907	0	Monthly	2500	Active		
+YOU - Nelson Mandela – Man of History				RBZ0003067	0	Monthly	2500	Active		
+The Big Black Book				RBZ0000144	0	Monthly	2500	Active		
+WellBeing Astrology				RBZ0000858	0	Monthly	2500	Active		
+John Wilson's 501 Fishing Tips v.2				RBZ0002227	0	Monthly	2500	Active		
+L'Officiel NL				RBZ0002948	0	Monthly	2500	Active		
+BBC Sky at Night				RBZ0002494	0	Monthly	2500	Active		
+WellBeing Fitness				RBZ0000859	0	Monthly	2500	Active		
+Interweave Knits				RBZ0000501	0	Monthly	2500	Active		
+Australian Muscle Car				RBZ0000085	0	Monthly	2500	Active		
+Market Watch				RBZ0002674	0	Monthly	500	Active		
+Handcrafted Jewelry				RBZ0000444	0	Monthly	2500	Active		
+ABC Soaps In Depth				RBZ0001850	0	Weekly	500	Active		
+52 Bracelets				RBZ0000020	0	Monthly	2500	Active		
+100 Biker				RBZ0000007	0	Monthly	2500	Active		
+Conde Nast Traveller India				RBZ0002565	0	Monthly	2500	Active		
+Scuba Diving				RBZ0000744	0	Monthly	2500	Active		
+NZV8				RBZ0001863	0	Monthly	2500	Active		
+BlueWater Boats & Sportsfishing				RBZ0000157	0	Monthly	2500	Active		
+Modern Patchwork				RBZ0000589	0	Monthly	2500	Active		
+PieceWork				RBZ0000669	0	Monthly	2500	Active		
+Rotman Management				RBZ0000731	0	Monthly	2500	Active		
+SAIL				RBZ0001268	0	Monthly	2500	Active		
+Motor Trend New Car Buyer's Guide				RBZ0001509	0	Monthly	2500	Active		
+Sélection du Reader's Digest				RBZ0000747	0	Monthly	2500	Active		
+Bike France				RBZ0001811	0	Monthly	2500	Active		
+Easy Decorating Ideas				RBZ0000326	0	Monthly	500	Active		
+Outside				RBZ0000653	0	Monthly	2500	Active		
+What's on TV				RBZ0001044	0	Weekly	2500	Active		
+Webuser				RBZ0001026	0	Weekly	2500	Active		
+The Essential Guide to Landscape Photography 2nd edition				RBZ0002384	0	Monthly	2500	Active		
+How to set up an Online Business				RBZ0002326	0	Monthly	2500	Active		
+Ferrari Supercars The Third Edition				RBZ0000370	0	Monthly	2500	Active		
+The Ultimate Guide to Bicycle Maintenance				RBZ0002305	0	Monthly	2500	Active		
+Build Better Model Aircraft				RBZ0000170	0	Monthly	2500	Active		
+Wine Spectator				RBZ0001129	0	Monthly	500	Active		
+Veranda				RBZ0000842	0	Monthly	2500	Active		
+Cosmopolitan de Mexico				RBZ0000244	0	Weekly	2500	Active		
+TvNotas Especiales				RBZ0000055	0	Monthly	2500	Active		
+Slam Skateboarding				RBZ0000765	0	Monthly	2500	Active		
+Good Organic Gardening				RBZ0000929	0	Monthly	2500	Active		
+Australian Homespun				RBZ0000083	0	Monthly	2500	Active		
+Home Design				RBZ0000551	0	Monthly	2500	Active		
+Taste of Home Cooking School				RBZ0000797	0	Monthly	2500	Active		
+Train like an Olympian				RBZ0001018	0	Monthly	2500	Active		
+Weg Kruger				RBZ0000970	0	Monthly	2500	Active		
+La Cucina Italiana				RBZ0002478	0	Monthly	2500	Active		
+Arizona Foothills				RBZ0002194	0	Monthly	500	Active		
+Quilting Arts Holiday				RBZ0000697	0	Monthly	2500	Active		
+Superyacht International				RBZ0002349	0	Monthly	2500	Active		
+Runners World Coach				RBZ0002634	0	Monthly	2500	Active		
+Marie Claire				RBZ0000565	0	Monthly	500	Active		
+L'Officiel Hommes NL				RBZ0002949	0	Monthly	2500	Active		
+ScrapBook inspirations - Ideas Book 2nd Edition				RBZ0002223	0	Monthly	500	Active		
+TVyNovelas				RBZ0000825	0	Weekly	2500	Active		
+Familia Saludable				RBZ0000361	0	Monthly	2500	Active		
+Practical Photoshop				RBZ0000988	0	Monthly	500	Active		
+Macworld Australia: iPad Superguide				RBZ0000558	0	Monthly	2500	Active		
+Esquire UK				RBZ0000349	0	Monthly	2500	Active		
+Crochet Traditions				RBZ0000263	0	Monthly	2500	Active		
+Capital CEO 資本才俊				RBZ0002887	0	Monthly	2500	Active		
+Forbes Russia				RBZ0002823	0	Monthly	2500	Active		
+Publishers Weekly				RBZ0000688	0	Weekly	100	Active		
+Horse & Rider				RBZ0000474	0	Monthly	2500	Active		
+Bead&Button				RBZ0000118	0	Monthly	2500	Active		
+Classic Rock				RBZ0000217	0	Monthly	2500	Active		
+Linux Format				RBZ0002743	0	Monthly	500	Active		
+Collezioni Sport & Street				RBZ0001498	0	Monthly	2500	Active		
+BBC Countryfile Magazine				RBZ0000258	0	Monthly	2500	Active		
+Florida Design				RBZ0000380	0	Monthly	2500	Active		
+Ideas				RBZ0000957	0	Monthly	2500	Active		
+Woodcraft Magazine				RBZ0000882	0	Monthly	2500	Active		
+Grit				RBZ0000435	0	Monthly	2500	Active		
+Kung Fu Tai Chi				RBZ0000523	0	Monthly	2500	Active		
+Surfer				RBZ0001288	0	Monthly	2500	Active		
+Good Food Eat well, Healthy				RBZ0000418	0	Monthly	2500	Active		
+Popular Science				RBZ0000678	0	Monthly	2500	Active		
+PhotoPlus : The Canon Magazine				RBZ0002377	0	Monthly	500	Active		
+Проект Россия/Project Russia				RBZ0002730	0	Monthly	2500	Active		
+Columbia Journalism Review				RBZ0000230	0	Monthly	2500	Active		
+Family Handyman				RBZ0000363	0	Monthly	2500	Active		
+Neptune Yachting Moteur				RBZ0001765	0	Monthly	2500	Active		
+Zoomer Magazine				RBZ0000895	0	Monthly	2500	Active		
+Top Homes				RBZ0000807	0	Monthly	2500	Active		
+ESPN The Magazine				RBZ0000346	0	Weekly	2500	Active		
+Lonely Planet Magazine: Dream Trips				RBZ0000547	0	Monthly	2500	Active		
+Country Gardens				RBZ0000252	0	Monthly	500	Active		
+Sustainable & Water Wise Gardens				RBZ0000792	0	Monthly	2500	Active		
+Marie Claire Russia				RBZ0001918	0	Monthly	2500	Active		
+Procycling				RBZ0000989	0	Monthly	2500	Active		
+¡Hola! Prêt-À-Porter				RBZ0002061	0	Monthly	2500	Active		
+Space				RBZ0002128	0	Monthly	2500	Active		
+Micro Simulateur				RBZ0001814	0	Monthly	2500	Active		
+House and Garden				RBZ0000481	0	Monthly	500	Active		
+MAXIM Russia				RBZ0001889	0	Monthly	2500	Active		
+Good Housekeeping All-time favourite Summer Cookbook				RBZ0000421	0	Monthly	2500	Active		
+サンデー毎日 Sunday Mainichi				RBZ0002670	0	Monthly	2500	Active		
+週刊エコノミスト				RBZ0002669	0	Monthly	2500	Active		
+PC Powerplay				RBZ0000661	0	Monthly	2500	Active		
+Lebanon Opportunities				RBZ0002118	0	Monthly	2500	Active		
+Digital Photo				RBZ0000295	0	Monthly	2500	Active		
+El Croquis				RBZ0001402	0	Monthly	2500	Active		
+Dirt Rag Magazine				RBZ0001435	0	Monthly	2500	Active		
+Adirondack Explorer				RBZ0003021	0	Monthly	500	Active		
+Intramuros				RBZ0001436	0	Monthly	2500	Active		
+WOOD Magazine				RBZ0000881	0	Monthly	500	Active		
+Bicycling Australia				RBZ0000142	0	Monthly	2500	Active		
+American Snowmobiler				RBZ0000049	0	Monthly	2500	Active		
+Powder				RBZ0000679	0	Monthly	2500	Active		
+American Craft				RBZ0000044	0	Monthly	2500	Active		
+Dreamscapes Travel & Lifestyle Magazine				RBZ0000316	0	Monthly	2500	Active		
+Beadwork				RBZ0000122	0	Monthly	2500	Active		
+Classic Racer				RBZ0000216	0	Monthly	2500	Active		
+Cosmetic Surgery & Beauty				RBZ0002423	0	Monthly	2500	Active		
+Camera				RBZ0000175	0	Monthly	2500	Active		
+American Patchwork & Quilting				RBZ0000046	0	Monthly	500	Active		
+Blue Mountains Life				RBZ0000156	0	Monthly	2500	Active		
+Ski Magazine				RBZ0000760	0	Monthly	2500	Active		
+Quilters Companion				RBZ0000696	0	Monthly	2500	Active		
+Keyboards Recording				RBZ0002389	0	Monthly	2500	Active		
+Backyard & Garden Design Ideas				RBZ0000106	0	Monthly	2500	Active		
+Women's Health South Africa				RBZ0000976	0	Monthly	2500	Active		
+IT for Business				RBZ0001634	0	Monthly	200	Active		
+Men's Health UK				RBZ0000580	0	Monthly	2500	Active		
+House Beautiful UK				RBZ0000484	0	Monthly	2500	Active		
+Plane & Pilot				RBZ0000671	0	Monthly	2500	Active		
+Que leer				RBZ0001900	0	Monthly	2500	Active		
+Esquire				RBZ0000347	0	Monthly	500	Active		
+Practical Horseman				RBZ0000680	0	Monthly	2500	Active		
+Interior Taiwan 室內				RBZ0001295	0	Monthly	2500	Active		
+Glamour France				RBZ0001703	0	Monthly	2500	Active		
+Moto verte				RBZ0001759	0	Monthly	2500	Active		
+The World's Weirdest News Stories				RBZ0002825	0	Monthly	2500	Active		
+Landscapes				RBZ0000529	0	Monthly	2500	Active		
+Men's Fitness Body Challenge				RBZ0003040	0	Monthly	2500	Active		
+House Beautiful Christmas Ideas				RBZ0000123	0	Monthly	2500	Active		
+MacFormat Presents: The Essential iPhone 4 Handbook				RBZ0002522	0	Monthly	500	Active		
+Flash Essentials				RBZ0002327	0	Monthly	500	Active		
+Fast Bikes Bookazine: Sportsbike Legends				RBZ0002224	0	Monthly	500	Active		
+Eating Light				RBZ0000329	0	Monthly	500	Active		
+Decanter World Wine Awards				RBZ0001955	0	Monthly	2500	Active		
+Dirt Action Photo Collection				RBZ0000301	0	Monthly	2500	Active		
+America’s Best Home Workshops				RBZ0000041	0	Monthly	500	Active		
+Ferrari - The world's greatest F1 team in pictures				RBZ0000369	0	Monthly	1000	Active		
+Men's Fitness Complete Training Guide 2nd edition				RBZ0002826	0	Monthly	2500	Active		
+Independent Guide to the iPad				RBZ0002336	0	Monthly	2500	Active		
+Men's Fitness Complete Guide to Home Workouts				RBZ0003036	0	Monthly	2500	Active		
+The Ultimate iPod Guide 5				RBZ0002009	0	Monthly	2500	Active		
+The Fat Trap				RBZ0000368	0	Monthly	2500	Active		
+Algarabía Tópicos				RBZ0000037	0	Monthly	2500	Active		
+Good Housekeeping Christmas Cookbook				RBZ0002635	0	Monthly	2500	Active		
+Getting Started in DSLR Photography				RBZ0002328	0	Monthly	2500	Active		
+Road Rider Bike Guide				RBZ0000722	0	Monthly	2500	Active		
+Automovil				RBZ0001086	0	Monthly	2500	Active		
+Marketing				RBZ0002760	0	Monthly	Unlimited	Active		
+Wellbeing Happiness				RBZ0000861	0	Monthly	2500	Active		
+Woman & Home Feel Good Food				RBZ0000910	0	Monthly	2500	Active		
+Cross Country				RBZ0000264	0	Monthly	2500	Active		
+Côté Terrasses et Jardins				RBZ0002396	0	Monthly	2500	Active		
+National Geographic				RBZ0000618	0	Monthly	200	Active		
+Collezioni Trends				RBZ0001547	0	Monthly	2500	Active		
+Holiday: 301 Recipes & Decorating Ideas				RBZ0000469	0	Monthly	500	Active		
+Finweek - Afrikaans				RBZ0000943	0	Weekly	2500	Active		
+Baseball America				RBZ0001049	0	Weekly	2500	Active		
+Bathroom Yearbook				RBZ0000110	0	Annually	2500	Active		
+Finweek - English				RBZ0000944	0	Weekly	2500	Active		
+Billboard Magazine				RBZ0000148	0	Weekly	2500	Active		
+The Hollywood Reporter				RBZ0002649	0	Weekly	250	Active		
+4x4 magazine				RBZ0001787	0	Monthly	2500	Active		
+Total	0					

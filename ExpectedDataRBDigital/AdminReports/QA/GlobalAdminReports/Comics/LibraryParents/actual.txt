@@ -1,0 +1,20 @@
+Libraries that were subscribed to comics on 07/31/2019
+Library Nickname	Official Name	State	Country	Child Library Name
+test51	8080 Test Library	Alabama	US	fixed format goodness
+test51	8080 Test Library	Alabama	US	test1
+test51	8080 Test Library	Alabama	US	test_2
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Altoona Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Bondurant Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Carlisle Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Grimes Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Indianola Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Johnston Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Kirkendall Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Norwalk Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Pleasant Hill Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Urbandale Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Winterset Public Library
+dachshund	The Dachshund Test Library	Maryland	US	Long
+dachshund	The Dachshund Test Library	Maryland	US	Short
+dachshund	The Dachshund Test Library	Maryland	US	Tweenie
+dachshund	The Dachshund Test Library	Maryland	US	Wannabe

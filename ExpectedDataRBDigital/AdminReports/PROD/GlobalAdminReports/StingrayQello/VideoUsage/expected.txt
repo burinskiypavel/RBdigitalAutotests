@@ -1,0 +1,173 @@
+For Period: from 01/01/2017 to 01/22/2017
+Service	License Type	Library Name	System Name	Account #	State	Country	Title	Barcode	Email	Library	Views	Notes
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artists - Rock & Roll Hall of Fame 25th Anniversary Concerts	21659011140181	katiew2100@aol.com		58	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	David Foster And Friends - The Hit Man Returns	21659011140181	katiew2100@aol.com		55	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artists - Bridge School Benefit	21659011140181	katiew2100@aol.com		22	Qello, Pongalo, TGC, IF
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Judy Collins And Elizabeth Cotten - Rainbow Quest: Judy Collins and Elizabeth Cotten		bridout@cabq.gov		21	
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	3 Doors Down - Live At The Tabernacle 2014	21659011140181	katiew2100@aol.com		15	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Pink Floyd - Classic Albums: The Dark Side Of The Moon	21659010116067	bmrpwalker@hotmail.com		14	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Pink Floyd - Live at Knebworth 1990 - Volume III	21659010116067	bmrpwalker@hotmail.com		14	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Queen - Rock Montreal	21659010116067	bmrpwalker@hotmail.com		14	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Paul McCartney - Good Evening New York City	21659011140181	katiew2100@aol.com		14	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Queen - Live at Wembley Stadium	21659010116067	bmrpwalker@hotmail.com		13	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Wilco - Live at Soundstage	21659012528822	dnlafleur@gmail.com		12	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Luciano Pavarotti - Christmas at Notre Dame	21659012528822	dnlafleur@gmail.com		11	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Amos Lee - Live At Hangout Music Fest 2014	21659011140181	katiew2100@aol.com		11	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	David Newman - Hollywood In Vienna The World Of James Horner	21659011140181	katiew2100@aol.com		11	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	The Piano Guys - Live at the Red Butte Garden	21659011140181	katiew2100@aol.com		10	Qello, Pongalo, TGC, IF
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Pat Metheny Group - We Live Here		bridout@cabq.gov		9	
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Gungor - Let There Be	21659011140181	katiew2100@aol.com		8	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	John Denver - Country Roads: Live in Birmingham	21659011140181	katiew2100@aol.com		7	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Fleetwood Mac - The Dance	21659010116067	bmrpwalker@hotmail.com		6	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Journey - Journey - 2001	21659011140181	katiew2100@aol.com		6	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Kurt Cobain - Montage of Heck	21659011809249	cmcaminita@gmail.com		5	Qello, Pongalo, TGC, IF
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Elvis Presley - Classic Album: Elvis Presley		bridout@cabq.gov		5	
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	The Rolling Stones - Some Girls: Live in Texas	21659010116067	bmrpwalker@hotmail.com		5	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Anne Sophie Mutter - The Club Album Concert	21659011140181	katiew2100@aol.com		5	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Gateway Worship - Walls	21659011140181	katiew2100@aol.com		5	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Nile Rodgers & Chic - Live At Montreux	21659011140181	katiew2100@aol.com		5	Qello, Pongalo, TGC, IF
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Pink - Live from Wembley Arena		bridout@cabq.gov		4	
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Jackie Evancho - Dream With Me Concert	21659011140181	katiew2100@aol.com		4	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Sade - Bring Me Home: Live 2011	21659011140181	katiew2100@aol.com		4	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artists - Farm Aid 2003: Part 2	21659011140181	katiew2100@aol.com		4	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Elton John - Classic Album: Goodbye Yellow Brick Road	21659002660312	jmcoutee@cox.net		3	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	The B52s - With The Wild Crowd: Live in Athens, GA	21659013398696	exaltaretunombre@gmail.com		3	Qello, Pongalo, TGC, IF
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Dixie Chicks - An Evening with the Dixie Chicks		bridout@cabq.gov		3	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Various Artists - Bridge School Benefit		cebert@dconc.gov		3	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Various Artists - Rock & Roll Hall of Fame 25th Anniversary Concerts		cebert@dconc.gov		3	
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	The Police - Certifiable		f_hulse@yahoo.com		3	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Pink Floyd - The Pink Floyd & Syd Barrett Story	21659010116067	bmrpwalker@hotmail.com		3	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Pink Floyd - The Story of Wish You Were Here	21659010116067	bmrpwalker@hotmail.com		3	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Queen - Classic Album: Night at The Opera	21659010116067	bmrpwalker@hotmail.com		3	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Queen - Days of Our Lives	21659010116067	bmrpwalker@hotmail.com		3	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Ray Charles - Live At Montreux	21659010116067	bmrpwalker@hotmail.com		3	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Claudio Abbado - Mahler Symphony No. 9	21659011140181	katiew2100@aol.com		3	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Norah Jones - Front Row Center	21659011140181	katiew2100@aol.com		3	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artists - Farm Aid 2003: Part 1	21659011140181	katiew2100@aol.com		3	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Venezuelan Brass Ensemble thomas Clamor - Gran Fanfare	21659011140181	katiew2100@aol.com		3	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	The Bee Gees - One Night Only	21659007411802	wguil12525@aol.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	The Grateful Dead - Classic Albums: Anthem To Beauty	21659011024237	jwosbrpc@cox.net		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Meat Loaf - Classic Album: Bat Out Of Hell	21659014836462	Esposmp@gmail.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	David Bowie - Ziggy Stardust and the Spiders From Mars	21659014870875	Drehernyc@aol.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	David Byrne - Ride, Rise, Roar	21659014870875	Drehernyc@aol.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	The Rolling Stones - In Exile	21659014870875	Drehernyc@aol.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Tony Palmer - Episode 10: Good Times - Rhythm And Blues		bridout@cabq.gov		2	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Various Artists - Rock & Roll Hall of Fame 25th Anniversary Concerts		hhankel@jefferson.lib.la.us		2	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	George Martin - Produced By George Martin		jeannaallums@gmail.com		2	
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Lynyrd Skynyrd - Live from Freedom Hall	21659010116067	bmrpwalker@hotmail.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Berliner Philharmonic Orchestra - Waldbühne 2006- Thousand and One Nights	21659011140181	katiew2100@aol.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Berliner Philharmoniker Andris Nelsons - Waldbühne 2012	21659011140181	katiew2100@aol.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Bill & Gloria Gaither - Amazing Grace: With the Homecoming Friends	21659011140181	katiew2100@aol.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	For King & Country - Hope Is What We Crave: Live	21659011140181	katiew2100@aol.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Hillsong - Let There Be Light - Live in Sydney	21659011140181	katiew2100@aol.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Jackie Evancho - Awakening	21659011140181	katiew2100@aol.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Marvin Gaye - Live in Amsterdam 1976	21659011140181	katiew2100@aol.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Passion - OneDay live	21659011140181	katiew2100@aol.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Ray Charles - In Concert with the Edmonton Symphony	21659011140181	katiew2100@aol.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artists - Country's Family Reunion Old Time Gospel Volume One	21659011140181	katiew2100@aol.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artists - New Orleans Concert: The Music of America's Soul	21659011140181	katiew2100@aol.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artists - The 12 Cellists - The 40th Anniversary Concert	21659011140181	katiew2100@aol.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Luther Vandross - Live At Wembley	21659011181771	jwheeler89@gmail.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	David Bowie - Ziggy Stardust and the Spiders From Mars	21659013961683	zacharymcgar@gmail.com		2	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	America - Live at Soundstage		wwatts@ebrpl.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Elvis Presley - Classic Album: Elvis Presley	21659002660312	jmcoutee@cox.net		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Chris Botti - Live with Orchestra and Special Guests	21659009006477	jchow7184@me.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Dave Matthews Band - Europe 2009	21659009006477	jchow7184@me.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Fleetwood Mac - The Dance	21659009006477	jchow7184@me.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Motörhead - Classic Album: Ace of Spades	21659011024237	jwosbrpc@cox.net		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Tom Petty - Classic Album: Damn The Torpedoes	21659011024237	jwosbrpc@cox.net		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Cake - Guitar Center Sessions	21659011984794	ryanpwest1@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Jimi Hendrix - Jimi Plays Berkeley	21659011984794	ryanpwest1@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Milk Carton Kids - Live at the Lincoln Theater	21659011984794	ryanpwest1@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Mumford & Sons - The Road To Red Rocks	21659011984794	ryanpwest1@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	The Avett Brothers - Live At Hangout Music Fest 2014	21659011984794	ryanpwest1@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Eagles - History Of The Eagles	21659012528822	dnlafleur@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Jerry Lee Lewis - Legends in Concert	21659012528822	dnlafleur@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Leonard Cohen - Live in London	21659012528822	dnlafleur@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Raphael - Live Vu Pard Jacques Audiard	21659012528822	dnlafleur@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Hillsong - Let There Be Light - Live in Sydney	21659012950604	jamesbutchmorris@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Pink - Live from Wembley Arena	21659013269723	janedamiano@yahoo.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artists - Teenage Cancer Trust	21659013398696	exaltaretunombre@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	George Martin - Produced By George Martin	21659014836462	Esposmp@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Neil Sedaka - The Show Goes On Live At The Royal Albert Hall	21659014836462	Esposmp@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Pink Floyd - The Story of Wish You Were Here	21659014836462	Esposmp@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Steely Dan - Classic Albums: Aja	21659014836462	Esposmp@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artists - Rock & Roll Hall of Fame 25th Anniversary Concerts	21659014836462	Esposmp@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Bob Dylan - MTV Unplugged	21659014870875	Drehernyc@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	David Bowie - A Reality Tour	21659014870875	Drehernyc@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	The Avett Brothers - Live At Hangout Music Fest 2014	21659014870875	Drehernyc@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	The Rolling Stones - Sweet Summer Sun: Hyde Park Live	21659014870875	Drehernyc@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Tupac - Live at Club 662	21659020014478	e_leverson@hotmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Dixie Chicks - Top of the World Tour: Live		bridout@cabq.gov		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	George Michael - Live in London		bridout@cabq.gov		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Joan Baez - How Sweet The Sound		bridout@cabq.gov		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Pink Floyd - Classic Albums: The Dark Side Of The Moon		bridout@cabq.gov		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	The String Cheese Incident - Live in Ashville		bridout@cabq.gov		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Various Artists - The Swingtime Collection:Half Past Jump Time!		bridout@cabq.gov		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Dar Williams And Gillian Welch - Live at Soundstage		cebert@dconc.gov		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Rickie Lee Jones - Live at Soundstage		cebert@dconc.gov		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Southside Johnny & The Asbury Jukes - The Fever Feature		cebert@dconc.gov		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Beyoncé - The Beyonce Experience Tour		hgeorgiou@bellsouth.net		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Deep Purple - With Orchestra: Live at Montreux 2011		hgeorgiou@bellsouth.net		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Dixie Chicks - Top of the World Tour: Live		hgeorgiou@bellsouth.net		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Jerry Lee Lewis - Jerry Lee Lewis and Friends		hgeorgiou@bellsouth.net		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	The Disco Biscuits - Bisco Inferno '10		hgeorgiou@bellsouth.net		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Various Artists - Rock & Roll Hall of Fame 25th Anniversary Concerts		hgeorgiou@bellsouth.net		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	ZZ Top - Live From Texas		hgeorgiou@bellsouth.net		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Barry White - Legends in Concert		hhankel@jefferson.lib.la.us		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Billy Joel - A Matter of Trust: The Bridge to Russia (Documentary)		hsmitch912@gmail.com		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Various Artists - Gold and Silver Gala		hsmitch912@gmail.com		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Duran Duran - A Diamond In The Mind		jculpepper@sgrl.org		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Various Artists - Rock & Roll Hall of Fame 25th Anniversary Concerts		jculpepper@sgrl.org		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Eagles - History Of The Eagles		jeannaallums@gmail.com		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Goo Goo Dolls - Guitar Center Sessions		jeannaallums@gmail.com		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Madonna - Queens of Pop		jeannaallums@gmail.com		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Pink Floyd - The Story of Wish You Were Here		jeannaallums@gmail.com		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	The Beatles - From Liverpool to San Francisco		jeannaallums@gmail.com		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Various Artists - Coachella		jeannaallums@gmail.com		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Various Artists - Rock & Roll Hall of Fame 25th Anniversary Concerts		jeannaallums@gmail.com		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Rainbow - Live in Munich 1977		nicholas.van.dorn@nutley.bccls.org		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Eagles - History Of The Eagles		refdept@newingtonct.gov		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Tony Bennett - Legends in Concert - The Sound of Velvet		refdept@newingtonct.gov		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	AC/DC - Live At River Plate		vanessa.skowbo@kerrvilletx.gov		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Avenged Sevenfold - Live in The LBC & Diamonds in the Rough		vanessa.skowbo@kerrvilletx.gov		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Social Distortion - Guitar Center Sessions		vanessa.skowbo@kerrvilletx.gov		1	
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Celtic Thunder - Celtic Thunder - Celtic Roots		f_hulse@yahoo.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Celtic Thunder - Storm		f_hulse@yahoo.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Daniel Harding - Frauenkirche Concert Homage to Robert Schumann		f_hulse@yahoo.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Judy Collins And Elizabeth Cotten - Rainbow Quest: Judy Collins and Elizabeth Cotten		f_hulse@yahoo.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Eagles - History Of The Eagles	21659010116067	bmrpwalker@hotmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Backstreet Boys - Homecoming: Live in Orlando	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Buddy Guy - Guitar Center Sessions	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	CeeLo Green - Loberace: Live in Vegas	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Chris Botti - Live with Orchestra and Special Guests	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Dave Brubeck - Legends in Concert	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Diana Krall - Live In Paris	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Diana Krall - Live In Rio	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	En Vogue - Live in the USA	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Etta James & The Roots Band - Burnin' Down The house	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	For King & Country - The Live Room Sessions at RCA Studio A	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Hillsong United - Of Dirt and Grace Feature	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Hillsong Worship - No Other Name	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	James Brown - Legends in Concert	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Le Quatuor Ebène - Fiction	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Lynyrd Skynyrd - Live from Freedom Hall	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Matthew West - Into The Light: Live In Concert	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Michael Buble - Meets Madison Square Garden	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Paul McCartney - Live Kisses	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Quincy Jones - 75th Birthday Anniversary: Live at Montreux	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Tedeschi Trucks Band - Live at the Filmore Auditorium	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artists - Ballet's Greatest Hits	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artists - Black and White Ballets Feature	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artists - Hans Van Manen Festival	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Willie Nelson - Outlaws and Angels	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Willie Nelson - Willie Nelson with Wynton Marsalis Playing The Blues	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Wynton Marsalis - Congo Square	21659011140181	katiew2100@aol.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Cosi Fan Tutte - Cosi Fan tutte at Glyndebourne Act I	21659013300551	stephenandrewstanford@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Tony Palmer - Episode 08: Diamonds As Big As The Ritz - The Musical	21659013300551	stephenandrewstanford@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Metallica - Classic Album: Metallica	21659013961683	zacharymcgar@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Nine Inch Nails - Beside You In Time	21659013961683	zacharymcgar@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Queen - Rock Montreal	21659013961683	zacharymcgar@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Wishbone Ash - Live 30th Anniversary Concert	21659013961683	zacharymcgar@gmail.com		1	Qello, Pongalo, TGC, IF
+qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artists - Country's Family Reunion Old Time Gospel Volume One	21659014077976	brmom6381@gmail.com		1	Qello, Pongalo, TGC, IF
+Total	571	

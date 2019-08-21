@@ -1,0 +1,4 @@
+For Period: from 01/01/2017 to 01/08/2017
+Active and Inactive Subscriptions counted
+Region	State	Library	AccountId	SalesRep	Subscription Start Date	Subscription End Date	Subscription Status	System Name
+Europe, UK	England	W F Howes Customer Services			03/13/2015	10/15/2019	Active	

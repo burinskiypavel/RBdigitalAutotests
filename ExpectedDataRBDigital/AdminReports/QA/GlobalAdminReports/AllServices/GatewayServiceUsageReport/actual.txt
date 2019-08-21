@@ -1,0 +1,5 @@
+For Period: from 07/01/2019 to 07/01/2019
+Region: UK
+Library ID	Account #	Library Name	State / Province	Country	Active Patrons	Checkouts / Views / Downloads / Sessions	Service
+surrey	trial	Surrey Libraries	England	GB	2	7	great-courses
+llcuk		London Libraries Consortium	England	GB	1	1	great-courses

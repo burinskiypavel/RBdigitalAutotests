@@ -1,0 +1,20 @@
+Screen Name	Email	Library	AccountId	Country	State	Start Date	End Date	System Name
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	10/01/2013	12/31/2018	
+Brad Doss	bdoss@recordedbooks.com	Central Rappahannock Regional Library	7184541	US	Virginia	07/01/2019	06/30/2020	Library of Virginia/Lyrasis-7051842
+Brad Doss	bdoss@recordedbooks.com	Central Rappahannock Regional Library	7184541	US	Virginia	07/01/2018	06/30/2019	Library of Virginia/Lyrasis-7051842
+Brad Doss	bdoss@recordedbooks.com	Central Rappahannock Regional Library	7184541	US	Virginia	07/01/2017	06/30/2018	Library of Virginia/Lyrasis-7051842
+Brad Doss	bdoss@recordedbooks.com	Central Rappahannock Regional Library	7184541	US	Virginia	06/30/2016	06/30/2017	Library of Virginia/Lyrasis-7051842
+Brad Doss	bdoss@recordedbooks.com	Bucks County Free Library	7044953	US	Pennsylvania	10/01/2013	09/30/2014	
+Brad Gray	bgray@recordedbooks.com	DNUTest academic collection		US	Maryland	06/01/2014	06/18/2020	
+Brian Gilbert	bgilbert@recordedbooks.com	Greater Clarks Hill Regional Library System	7118372	US	Georgia	07/01/2019	06/30/2020	GADD SVOD - A, IF, Q-unl
+Brian Gilbert	bgilbert@recordedbooks.com	Sumter County Library System	7180565	US	Florida	05/01/2019	04/30/2020	
+Brian Gilbert	bgilbert@recordedbooks.com	Greater Clarks Hill Regional Library System	7118372	US	Georgia	07/01/2018	06/30/2019	GADD SVOD - A, IF, Q-unl
+Brian Gilbert	bgilbert@recordedbooks.com	Sumter County Library System	7180565	US	Florida	05/01/2018	04/30/2019	
+Brian Gilbert	bgilbert@recordedbooks.com	PAL Public Library Cooperative	7083942	US	Florida	02/01/2018	01/31/2019	
+Brian Gilbert	bgilbert@recordedbooks.com	Martin County Library System	7075133	US	Florida	10/01/2017	09/30/2018	
+Brian Gilbert	bgilbert@recordedbooks.com	Greater Clarks Hill Regional Library System	7118372	US	Georgia	07/01/2017	06/30/2018	GADD SVOD - A, IF, Q-unl
+Brian Gilbert	bgilbert@recordedbooks.com	New Port Richey Public Library	7039871	US	Florida	06/01/2017	05/31/2018	
+Brian Gilbert	bgilbert@recordedbooks.com	Sumter County Library System	7180565	US	Florida	05/01/2017	04/30/2018	
+Brian Gilbert	bgilbert@recordedbooks.com	PAL Public Library Cooperative	7083942	US	Florida	02/01/2017	01/31/2018	
+Brian Gilbert	bgilbert@recordedbooks.com	Martin County Library System	7075133	US	Florida	10/01/2016	09/30/2017	
+Brian Gilbert	bgilbert@recordedbooks.com	Greater Clarks Hill Regional Library System	7118372	US	Georgia	07/01/2016	06/30/2017	GADD SVOD - A, IF, Q-unl

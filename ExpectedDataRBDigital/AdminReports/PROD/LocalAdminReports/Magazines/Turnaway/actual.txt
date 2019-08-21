@@ -1,0 +1,6 @@
+Barcode	Email	Library	Title	RBID	Frequency	Total Current Issue Turnaways
+	ymelnik@envionsoftware.com	test1	01net	RBZ0001638	Weekly	8
+APP1233778	rbtest3@gmail.com	test_2	01net	RBZ0001638	Weekly	3
+APP6820123	b@c.com	fixed format goodness	01net	RBZ0001638	Weekly	2
+	test@test.com		The Economist	RBZ0000331	Weekly	1
+Total	14

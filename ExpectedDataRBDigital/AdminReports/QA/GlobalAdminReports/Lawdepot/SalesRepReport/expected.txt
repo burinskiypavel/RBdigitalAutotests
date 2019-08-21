@@ -1,0 +1,284 @@
+Screen Name	Email	Library	AccountId	Country	State	Start Date	End Date	System Name
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	10/01/2013	12/31/2018	
+Brad Doss	bdoss@recordedbooks.com	Central Rappahannock Regional Library	7184541	US	Virginia	07/01/2019	06/30/2020	Library of Virginia/Lyrasis-7051842
+Brad Doss	bdoss@recordedbooks.com	Central Rappahannock Regional Library	7184541	US	Virginia	07/01/2018	06/30/2019	Library of Virginia/Lyrasis-7051842
+Brad Doss	bdoss@recordedbooks.com	Central Rappahannock Regional Library	7184541	US	Virginia	07/01/2017	06/30/2018	Library of Virginia/Lyrasis-7051842
+Brad Doss	bdoss@recordedbooks.com	Central Rappahannock Regional Library	7184541	US	Virginia	06/30/2016	06/30/2017	Library of Virginia/Lyrasis-7051842
+Brad Doss	bdoss@recordedbooks.com	Bucks County Free Library	7044953	US	Pennsylvania	10/01/2013	09/30/2014	
+Brad Gray	bgray@recordedbooks.com	DNUTest academic collection		US	Maryland	06/01/2014	06/18/2020	
+Brian Gilbert	bgilbert@recordedbooks.com	Greater Clarks Hill Regional Library System	7118372	US	Georgia	07/01/2019	06/30/2020	GADD SVOD - A, IF, Q-unl
+Brian Gilbert	bgilbert@recordedbooks.com	Sumter County Library System	7180565	US	Florida	05/01/2019	04/30/2020	
+Brian Gilbert	bgilbert@recordedbooks.com	Greater Clarks Hill Regional Library System	7118372	US	Georgia	07/01/2018	06/30/2019	GADD SVOD - A, IF, Q-unl
+Brian Gilbert	bgilbert@recordedbooks.com	Sumter County Library System	7180565	US	Florida	05/01/2018	04/30/2019	
+Brian Gilbert	bgilbert@recordedbooks.com	PAL Public Library Cooperative	7083942	US	Florida	02/01/2018	01/31/2019	
+Brian Gilbert	bgilbert@recordedbooks.com	Martin County Library System	7075133	US	Florida	10/01/2017	09/30/2018	
+Brian Gilbert	bgilbert@recordedbooks.com	Greater Clarks Hill Regional Library System	7118372	US	Georgia	07/01/2017	06/30/2018	GADD SVOD - A, IF, Q-unl
+Brian Gilbert	bgilbert@recordedbooks.com	New Port Richey Public Library	7039871	US	Florida	06/01/2017	05/31/2018	
+Brian Gilbert	bgilbert@recordedbooks.com	Sumter County Library System	7180565	US	Florida	05/01/2017	04/30/2018	
+Brian Gilbert	bgilbert@recordedbooks.com	PAL Public Library Cooperative	7083942	US	Florida	02/01/2017	01/31/2018	
+Brian Gilbert	bgilbert@recordedbooks.com	Martin County Library System	7075133	US	Florida	10/01/2016	09/30/2017	
+Brian Gilbert	bgilbert@recordedbooks.com	Greater Clarks Hill Regional Library System	7118372	US	Georgia	07/01/2016	06/30/2017	GADD SVOD - A, IF, Q-unl
+Brian Gilbert	bgilbert@recordedbooks.com	New Port Richey Public Library	7039871	US	Florida	06/01/2016	05/31/2017	
+Brian Gilbert	bgilbert@recordedbooks.com	Sumter County Library System	7180565	US	Florida	04/27/2016	04/30/2017	
+Brian Gilbert	bgilbert@recordedbooks.com	PAL Public Library Cooperative	7083942	US	Florida	02/01/2016	01/31/2017	
+Brian Gilbert	bgilbert@recordedbooks.com	Martin County Library System	7075133	US	Florida	02/01/2016	09/30/2016	
+Brian Gilbert	bgilbert@recordedbooks.com	Greater Clarks Hill Regional Library System	7118372	US	Georgia	07/01/2015	06/30/2016	GADD SVOD - A, IF, Q-unl
+Brian Gilbert	bgilbert@recordedbooks.com	New Port Richey Public Library	7039871	US	Florida	06/01/2015	05/31/2016	
+Brian Gilbert	bgilbert@recordedbooks.com	PAL Public Library Cooperative	7083942	US	Florida	02/01/2015	01/31/2016	
+Brian Gilbert	bgilbert@recordedbooks.com	Martin County Library System	7075133	US	Florida	02/01/2015	01/31/2016	
+Brian Gilbert	bgilbert@recordedbooks.com	Greater Clarks Hill Regional Library System	7118372	US	Georgia	06/26/2014	06/30/2015	GADD SVOD - A, IF, Q-unl
+Brian Gilbert	bgilbert@recordedbooks.com	PAL Public Library Cooperative	7083942	US	Florida	02/01/2014	01/31/2015	
+Brian Gilbert	bgilbert@recordedbooks.com	Martin County Library System	7075133	US	Florida	10/01/2013	09/30/2014	
+Brian Gilbert	bgilbert@recordedbooks.com	Pasco County Library System	7043799	US	Florida	09/01/2013	08/31/2014	
+BryanMessersmith	bmessersmith@recordedbooks.com	Dayton Metro Library	7054056	US	Ohio	07/01/2019	06/30/2020	
+BryanMessersmith	bmessersmith@recordedbooks.com	Dayton Metro Library	7054056	US	Ohio	07/01/2018	06/30/2019	
+BryanMessersmith	bmessersmith@recordedbooks.com	Dayton Metro Library	7054056	US	Ohio	07/01/2017	06/30/2018	
+BryanMessersmith	bmessersmith@recordedbooks.com	Dayton Metro Library	7054056	US	Ohio	07/01/2016	06/30/2017	
+BryanMessersmith	bmessersmith@recordedbooks.com	Dayton Metro Library	7054056	US	Ohio	07/01/2013	06/30/2014	
+Chris Pitcher	cpitcher@recordedbooks.com	Watertown Regional Library	7220001	US	South Dakota	06/01/2019	05/31/2020	
+Chris Pitcher	cpitcher@recordedbooks.com	Weber County Library	7200718	US	Utah	05/01/2019	04/30/2020	
+Chris Pitcher	cpitcher@recordedbooks.com	Huron Public Library	7132211	US	South Dakota	01/01/2019	12/31/2019	
+Chris Pitcher	cpitcher@recordedbooks.com	Rapid City Public Libraries	7155970	US	South Dakota	01/01/2019	12/31/2019	
+Chris Pitcher	cpitcher@recordedbooks.com	Twin Falls Public Library	7220222	US	Idaho	08/30/2018	08/31/2019	
+Chris Pitcher	cpitcher@recordedbooks.com	Watertown Regional Library	7220001	US	South Dakota	06/20/2018	05/31/2019	
+Chris Pitcher	cpitcher@recordedbooks.com	Weber County Library	7200718	US	Utah	05/01/2018	04/30/2019	
+Chris Pitcher	cpitcher@recordedbooks.com	Rapid City Public Libraries	7155970	US	South Dakota	01/01/2018	12/31/2018	
+Chris Pitcher	cpitcher@recordedbooks.com	Huron Public Library	7132211	US	South Dakota	01/01/2018	12/31/2018	
+Chris Pitcher	cpitcher@recordedbooks.com	Weber County Library	7200718	US	Utah	05/01/2017	04/30/2018	
+Chris Pitcher	cpitcher@recordedbooks.com	Rapid City Public Libraries	7155970	US	South Dakota	01/01/2017	12/31/2017	
+Chris Pitcher	cpitcher@recordedbooks.com	Huron Public Library	7132211	US	South Dakota	01/01/2017	12/31/2017	
+Chris Pitcher	cpitcher@recordedbooks.com	Rapid City Public Libraries	7155970	US	South Dakota	12/16/2015	12/31/2016	
+Chris Pitcher	cpitcher@recordedbooks.com	Huron Public Library	7132211	US	South Dakota	01/01/2016	12/31/2016	
+Chris Pitcher	cpitcher@recordedbooks.com	Huron Public Library	7132211	US	South Dakota	12/23/2014	12/31/2015	
+Clayton Strickland	cstrickland@recordedbooks.com	Brownsville Public Library System	7187300	US	Texas	08/01/2018	01/31/2019	
+Clayton Strickland	cstrickland@recordedbooks.com	Brownsville Public Library System	7187300	US	Texas	08/01/2017	07/31/2018	
+Clayton Strickland	cstrickland@recordedbooks.com	St. Bernard Parish Public Library	7106497	US	Louisiana	04/01/2014	03/31/2018	
+Clayton Strickland	cstrickland@recordedbooks.com	Brownsville Public Library System	7187300	US	Texas	08/01/2016	07/31/2017	
+Clayton Strickland	cstrickland@recordedbooks.com	Vermilion Parish Library	7148138	US	Louisiana	08/01/2016	07/31/2017	
+Clayton Strickland	cstrickland@recordedbooks.com	Richardson Public Library	7180631	US	Texas	05/05/2016	04/30/2017	
+Clayton Strickland	cstrickland@recordedbooks.com	Vermilion Parish Library	7148138	US	Louisiana	07/22/2015	07/31/2016	
+Clayton Strickland	cstrickland@recordedbooks.com	Harlingen Public Library	7120273	US	Texas	07/17/2014	07/31/2015	
+Clayton Strickland	cstrickland@recordedbooks.com	Round Rock Public Library	7044870	US	Texas	11/01/2013	10/31/2014	
+Clayton Strickland	cstrickland@recordedbooks.com	Flower Mound Public Library	7028806	US	Texas	07/01/2013	06/30/2014	
+Debbie McDonald	dmcdonald@recordedbooks.com	Tippecanoe County Public Library	7039977	US	Indiana	06/17/2019	06/30/2020	
+Debbie McDonald	dmcdonald@recordedbooks.com	Hammond Public Library	7183164	US	Indiana	07/01/2019	06/30/2020	
+Debbie McDonald	dmcdonald@recordedbooks.com	Greene County Public Library	7032885	US	Ohio	07/01/2019	06/30/2020	Central Library Consortium, Acorn Only
+Debbie McDonald	dmcdonald@recordedbooks.com	Parkersburg and Wood County Public Library	7221012	US	West Virginia	06/26/2019	06/30/2020	
+Debbie McDonald	dmcdonald@recordedbooks.com	Leslie County Library	7040580	US	Kentucky	07/01/2019	06/30/2020	
+Debbie McDonald	dmcdonald@recordedbooks.com	Marion County Public Library	7038610	US	West Virginia	05/01/2019	04/30/2020	WV Deli-7120407
+Debbie McDonald	dmcdonald@recordedbooks.com	Anderson Public Library	7179660	US	Indiana	05/01/2019	04/30/2020	
+Debbie McDonald	dmcdonald@recordedbooks.com	Belmont County District Library	7200105	US	Ohio	05/01/2019	04/30/2020	
+Debbie McDonald	dmcdonald@recordedbooks.com	Athens County Public Libraries	7214824	US	Ohio	04/01/2019	03/31/2020	Acorn Only
+Debbie McDonald	dmcdonald@recordedbooks.com	Brown County Public Library	7211480	US	Indiana	01/01/2019	12/31/2019	
+Debbie McDonald	dmcdonald@recordedbooks.com	Whiting Public Library	7187792	US	Indiana	09/01/2018	08/31/2019	
+Debbie McDonald	dmcdonald@recordedbooks.com	Leslie County Library	7040580	US	Kentucky	07/01/2018	06/30/2019	
+Debbie McDonald	dmcdonald@recordedbooks.com	Hammond Public Library	7183164	US	Indiana	07/01/2018	06/30/2019	
+Debbie McDonald	dmcdonald@recordedbooks.com	Greene County Public Library	7032885	US	Ohio	07/01/2018	06/30/2019	Central Library Consortium, Acorn Only
+Debbie McDonald	dmcdonald@recordedbooks.com	Marion County Public Library	7038610	US	West Virginia	05/01/2018	04/30/2019	WV Deli-7120407
+Debbie McDonald	dmcdonald@recordedbooks.com	Belmont County District Library	7200105	US	Ohio	05/01/2018	04/30/2019	
+Debbie McDonald	dmcdonald@recordedbooks.com	Anderson Public Library	7179660	US	Indiana	05/01/2018	04/30/2019	
+Debbie McDonald	dmcdonald@recordedbooks.com	Cuyahoga Falls Library	7198624	US	Ohio	04/01/2018	03/31/2019	
+Debbie McDonald	dmcdonald@recordedbooks.com	Athens County Public Libraries	7214824	US	Ohio	03/15/2018	03/31/2019	Acorn Only
+Debbie McDonald	dmcdonald@recordedbooks.com	Brown County Public Library	7211480	US	Indiana	12/18/2017	12/31/2018	
+Debbie McDonald	dmcdonald@recordedbooks.com	Whiting Public Library	7187792	US	Indiana	09/01/2017	08/31/2018	
+Debbie McDonald	dmcdonald@recordedbooks.com	Hammond Public Library	7183164	US	Indiana	07/01/2017	06/30/2018	
+Debbie McDonald	dmcdonald@recordedbooks.com	Greene County Public Library	7032885	US	Ohio	07/01/2017	06/30/2018	Central Library Consortium, Acorn Only
+Debbie McDonald	dmcdonald@recordedbooks.com	Leslie County Library	7040580	US	Kentucky	07/01/2017	06/30/2018	
+Debbie McDonald	dmcdonald@recordedbooks.com	Anderson Public Library	7179660	US	Indiana	05/01/2017	04/30/2018	
+Debbie McDonald	dmcdonald@recordedbooks.com	Marion County Public Library	7038610	US	West Virginia	04/21/2017	04/30/2018	WV Deli-7120407
+Debbie McDonald	dmcdonald@recordedbooks.com	Belmont County District Library	7200105	US	Ohio	04/20/2017	04/30/2018	
+Debbie McDonald	dmcdonald@recordedbooks.com	Cuyahoga Falls Library	7198624	US	Ohio	03/15/2017	03/31/2018	
+Debbie McDonald	dmcdonald@recordedbooks.com	Whiting Public Library	7187792	US	Indiana	08/16/2016	08/31/2017	
+Debbie McDonald	dmcdonald@recordedbooks.com	Hammond Public Library	7183164	US	Indiana	06/16/2016	06/30/2017	
+Debbie McDonald	dmcdonald@recordedbooks.com	Leslie County Library	7040580	US	Kentucky	07/01/2016	06/30/2017	
+Debbie McDonald	dmcdonald@recordedbooks.com	Greene County Public Library	7032885	US	Ohio	07/01/2016	06/30/2017	Central Library Consortium, Acorn Only
+Debbie McDonald	dmcdonald@recordedbooks.com	Anderson Public Library	7179660	US	Indiana	04/19/2016	04/30/2017	
+Debbie McDonald	dmcdonald@recordedbooks.com	Leslie County Library	7040580	US	Kentucky	07/01/2015	06/30/2016	
+Debbie McDonald	dmcdonald@recordedbooks.com	Greene County Public Library	7032885	US	Ohio	07/01/2015	06/30/2016	Central Library Consortium, Acorn Only
+Debbie McDonald	dmcdonald@recordedbooks.com	Traverse Area District Library	7097940	US	Michigan	02/01/2015	01/31/2016	
+Debbie McDonald	dmcdonald@recordedbooks.com	Leslie County Library	7040580	US	Kentucky	07/01/2013	06/30/2015	
+Debbie McDonald	dmcdonald@recordedbooks.com	Marion Public Library	7031549	US	Indiana	06/01/2013	05/31/2015	
+Debbie McDonald	dmcdonald@recordedbooks.com	Avon-Washington Township Public Library	7037389	US	Indiana	02/01/2014	01/31/2015	
+Debbie McDonald	dmcdonald@recordedbooks.com	Traverse Area District Library	7097940	US	Michigan	02/01/2014	01/31/2015	
+Debbie McDonald	dmcdonald@recordedbooks.com	Rodman Public Library	7048469	US	Ohio	12/01/2013	11/30/2014	
+Debbie McDonald	dmcdonald@recordedbooks.com	Medina County District Library	7043817	US	Ohio	10/01/2013	09/30/2014	
+Debbie McDonald	dmcdonald@recordedbooks.com	Greene County Public Library	7032885	US	Ohio	07/01/2013	06/30/2014	Central Library Consortium, Acorn Only
+Debbie McDonald	dmcdonald@recordedbooks.com	Stark County District Library	7039271	US	Ohio	07/01/2013	06/30/2014	
+Debbie McDonald	dmcdonald@recordedbooks.com	Portage Lake District Library	7028050	US	Michigan	06/01/2013	05/31/2014	
+Debbie McDonald	dmcdonald@recordedbooks.com	Lebanon Public Library	7027586	US	Ohio	05/01/2013	04/30/2014	
+Debbie McDonald	dmcdonald@recordedbooks.com	Franklin Springboro Public Library	7039151	US	Ohio	05/01/2013	04/30/2014	
+Debbie McDonald	dmcdonald@recordedbooks.com	Bridgeport Public Library		US	West Virginia	03/01/2013	02/28/2014	WV Deli-7120407
+Debbie McDonald	dmcdonald@recordedbooks.com	Marion County Public Library	7038610	US	West Virginia	03/01/2013	02/28/2014	WV Deli-7120407
+Debbie McDonald	dmcdonald@recordedbooks.com	Traverse Area District Library	7097940	US	Michigan	02/01/2014	02/01/2014	
+Joe Levy	jlevy@recordedbooks.com	Fall River Public Library	7146689	US	Massachusetts	07/01/2019	06/30/2020	
+Joe Levy	jlevy@recordedbooks.com	Boston Public Library System	7219985	US	Massachusetts	07/01/2019	06/30/2020	
+Joe Levy	jlevy@recordedbooks.com	West Hartford Public Library	7181562	US	Connecticut	06/01/2019	05/31/2020	
+Joe Levy	jlevy@recordedbooks.com	Hubbard Memorial Library	7219948	US	Massachusetts	06/01/2019	05/31/2020	SVOD - Acorn and QC
+Joe Levy	jlevy@recordedbooks.com	Coventry Public Library	7218152	US	Rhode Island	06/01/2019	05/31/2020	
+Joe Levy	jlevy@recordedbooks.com	Southington Public Library	7180625	US	Connecticut	05/01/2019	04/30/2020	
+Joe Levy	jlevy@recordedbooks.com	Lucy Robbins Welles Library	7199976	US	Connecticut	05/01/2019	04/30/2020	Value; SVOD--Acorn
+Joe Levy	jlevy@recordedbooks.com	East Hartford Public Library	7052626	US	Connecticut	03/01/2019	02/28/2020	
+Joe Levy	jlevy@recordedbooks.com	Boston Public Library System	7219985	US	Massachusetts	06/15/2018	06/30/2019	
+Joe Levy	jlevy@recordedbooks.com	Fall River Public Library	7146689	US	Massachusetts	07/01/2018	06/30/2019	
+Joe Levy	jlevy@recordedbooks.com	Welles Turner Memorial Library	7032185	US	Connecticut	07/01/2018	06/30/2019	SVOD--Acorn, Qello, Pongalo; TGCNC, Method Test Prep, IF, Learn It Live; Unlimited;
+Joe Levy	jlevy@recordedbooks.com	Hubbard Memorial Library	7219948	US	Massachusetts	06/01/2018	05/31/2019	SVOD - Acorn and QC
+Joe Levy	jlevy@recordedbooks.com	Coventry Public Library	7218152	US	Rhode Island	05/16/2018	05/31/2019	
+Joe Levy	jlevy@recordedbooks.com	West Hartford Public Library	7181562	US	Connecticut	06/01/2018	05/31/2019	
+Joe Levy	jlevy@recordedbooks.com	Southington Public Library	7180625	US	Connecticut	05/01/2018	04/30/2019	
+Joe Levy	jlevy@recordedbooks.com	Lucy Robbins Welles Library	7199976	US	Connecticut	05/01/2018	04/30/2019	Value; SVOD--Acorn
+Joe Levy	jlevy@recordedbooks.com	East Hartford Public Library	7052626	US	Connecticut	02/16/2018	02/28/2019	
+Joe Levy	jlevy@recordedbooks.com	Russell Library	7199918	US	Connecticut	05/01/2018	06/30/2018	
+Joe Levy	jlevy@recordedbooks.com	Fall River Public Library	7146689	US	Massachusetts	07/01/2017	06/30/2018	
+Joe Levy	jlevy@recordedbooks.com	Welles Turner Memorial Library	7032185	US	Connecticut	07/01/2017	06/30/2018	SVOD--Acorn, Qello, Pongalo; TGCNC, Method Test Prep, IF, Learn It Live; Unlimited;
+Joe Levy	jlevy@recordedbooks.com	West Hartford Public Library	7181562	US	Connecticut	06/01/2017	05/31/2018	
+Joe Levy	jlevy@recordedbooks.com	Lucy Robbins Welles Library	7199976	US	Connecticut	04/17/2017	04/30/2018	Value; SVOD--Acorn
+Joe Levy	jlevy@recordedbooks.com	Russell Library	7199918	US	Connecticut	04/17/2017	04/30/2018	
+Joe Levy	jlevy@recordedbooks.com	Southington Public Library	7180625	US	Connecticut	05/01/2017	04/30/2018	
+Joe Levy	jlevy@recordedbooks.com	Bristol Public Library	7157757	US	Connecticut	02/01/2017	01/31/2018	
+Joe Levy	jlevy@recordedbooks.com	Welles Turner Memorial Library	7032185	US	Connecticut	07/01/2016	06/30/2017	SVOD--Acorn, Qello, Pongalo; TGCNC, Method Test Prep, IF, Learn It Live; Unlimited;
+Joe Levy	jlevy@recordedbooks.com	Fall River Public Library	7146689	US	Massachusetts	07/01/2016	06/30/2017	
+Joe Levy	jlevy@recordedbooks.com	West Hartford Public Library	7181562	US	Connecticut	05/15/2016	05/31/2017	
+Joe Levy	jlevy@recordedbooks.com	Southington Public Library	7180625	US	Connecticut	04/16/2016	04/30/2017	
+Joe Levy	jlevy@recordedbooks.com	Bristol Public Library	7157757	US	Connecticut	01/16/2016	01/31/2017	
+Joe Levy	jlevy@recordedbooks.com	Welles Turner Memorial Library	7032185	US	Connecticut	07/01/2015	06/30/2016	SVOD--Acorn, Qello, Pongalo; TGCNC, Method Test Prep, IF, Learn It Live; Unlimited;
+Joe Levy	jlevy@recordedbooks.com	Fall River Public Library	7146689	US	Massachusetts	06/15/2015	06/30/2016	
+Joe Levy	jlevy@recordedbooks.com	Watertown Free Public Library	7040545	US	Massachusetts	08/01/2013	07/31/2014	
+Joe Levy	jlevy@recordedbooks.com	Dighton Public Library	7032311	US	Massachusetts	07/01/2013	06/30/2014	
+Joe Levy	jlevy@recordedbooks.com	East Hartford Public Library	7052626	US	Connecticut	07/01/2013	06/30/2014	
+Joe Levy	jlevy@recordedbooks.com	Welles Turner Memorial Library	7032185	US	Connecticut	07/01/2013	06/30/2014	SVOD--Acorn, Qello, Pongalo; TGCNC, Method Test Prep, IF, Learn It Live; Unlimited;
+Joe Levy	jlevy@recordedbooks.com	Joseph Plumb Memorial Library	7039553	US	Massachusetts	04/01/2013	03/31/2014	
+Joe Levy	jlevy@recordedbooks.com	Bridgeport Public Library	7038611	US	Connecticut	03/01/2013	03/01/2013	
+Lisa Kurucz	lkurucz@recordedbooks.com	Allentown Library District	7181525	US	Pennsylvania	07/01/2019	06/30/2020	
+Lisa Kurucz	lkurucz@recordedbooks.com	Belleville Public Library and Information Center	7190176	US	New Jersey	11/01/2018	10/31/2019	
+Lisa Kurucz	lkurucz@recordedbooks.com	Peters Township Public Library	7220053	US	Pennsylvania	07/16/2018	07/31/2019	
+Lisa Kurucz	lkurucz@recordedbooks.com	Allentown Library District	7181525	US	Pennsylvania	07/01/2018	06/30/2019	
+Lisa Kurucz	lkurucz@recordedbooks.com	Belleville Public Library and Information Center	7190176	US	New Jersey	11/01/2017	10/31/2018	
+Lisa Kurucz	lkurucz@recordedbooks.com	Allentown Library District	7181525	US	Pennsylvania	07/01/2017	06/30/2018	
+Lisa Kurucz	lkurucz@recordedbooks.com	Belleville Public Library and Information Center	7190176	US	New Jersey	10/17/2016	10/31/2017	
+Lisa Kurucz	lkurucz@recordedbooks.com	Allentown Library District	7181525	US	Pennsylvania	06/15/2016	06/30/2017	
+Lisa Kurucz	lkurucz@recordedbooks.com	Carnegie Library of Pittsburgh	7039573	US	Pennsylvania	08/01/2015	07/31/2016	
+Lisa Kurucz	lkurucz@recordedbooks.com	Carnegie Library of Pittsburgh	7039573	US	Pennsylvania	08/01/2014	07/31/2015	
+Lisa Kurucz	lkurucz@recordedbooks.com	Carnegie Library of Pittsburgh	7039573	US	Pennsylvania	05/01/2013	04/30/2015	
+Lisa Kurucz	lkurucz@recordedbooks.com	Ocean City Free Public Library	7040113	US	New Jersey	06/01/2013	05/31/2014	
+Lisa Kurucz	lkurucz@recordedbooks.com	Carnegie Library of Pittsburgh	7039573	US	Pennsylvania	11/30/1999	11/30/1999	
+Mark Ransdell	mransdell@recordedbooks.com	Rancho Mirage Public Library	7147240	US	California	07/01/2017	06/30/2018	Inland Library System
+Mark Ransdell	mransdell@recordedbooks.com	Rancho Mirage Public Library	7147240	US	California	07/01/2016	06/30/2017	Inland Library System
+Mark Ransdell	mransdell@recordedbooks.com	Rancho Mirage Public Library	7147240	US	California	07/01/2015	06/30/2016	Inland Library System
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Pitkin County Library	7032722	US	Colorado	07/01/2019	06/30/2020	Marmot; SVOD - Acorn, Indieflix, Qello, Pongalo, MTP
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Bud Werner Memorial Library	7034909	US	Colorado	09/01/2018	08/31/2019	
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Pitkin County Library	7032722	US	Colorado	07/01/2018	06/30/2019	Marmot; SVOD - Acorn, Indieflix, Qello, Pongalo, MTP
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Bud Werner Memorial Library	7034909	US	Colorado	09/01/2017	08/31/2018	
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Pitkin County Library	7032722	US	Colorado	07/01/2017	06/30/2018	Marmot; SVOD - Acorn, Indieflix, Qello, Pongalo, MTP
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Bud Werner Memorial Library	7034909	US	Colorado	09/01/2016	08/31/2017	
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Pitkin County Library	7032722	US	Colorado	07/01/2016	06/30/2017	Marmot; SVOD - Acorn, Indieflix, Qello, Pongalo, MTP
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Santa Cruz Public Libraries	7115782	US	California	07/01/2016	06/30/2017	
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Bud Werner Memorial Library	7034909	US	Colorado	09/01/2015	08/31/2016	
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Pitkin County Library	7032722	US	Colorado	07/01/2015	06/30/2016	Marmot; SVOD - Acorn, Indieflix, Qello, Pongalo, MTP
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Santa Cruz Public Libraries	7115782	US	California	07/01/2015	06/30/2016	
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Bud Werner Memorial Library	7034909	US	Colorado	09/01/2014	08/31/2015	
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Pitkin County Library	7032722	US	Colorado	07/01/2014	06/30/2015	Marmot; SVOD - Acorn, Indieflix, Qello, Pongalo, MTP
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Santa Cruz Public Libraries	7115782	US	California	06/16/2014	06/30/2015	
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Clear Creek Library District	7037965	US	Colorado	01/01/2014	12/31/2014	
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Bud Werner Memorial Library	7034909	US	Colorado	09/01/2013	08/31/2014	
+MarkHaley-NationalAccountsWest	mhaley@recordedbooks.com	Basalt Regional Library District	7032215	US	Colorado	04/01/2013	03/31/2014	
+Meghan Haddad-Null	mhaddadnull@recordedbooks.com	Matteson Area Public Library District	7221049	US	Illinois	07/01/2019	06/30/2020	
+Meghan Haddad-Null	mhaddadnull@recordedbooks.com	Manhattan-Elwood Public Library District	7146730	US	Illinois	07/01/2017	06/30/2018	
+Meghan Haddad-Null	mhaddadnull@recordedbooks.com	Manhattan-Elwood Public Library District	7146730	US	Illinois	07/01/2016	06/30/2017	
+Meghan Haddad-Null	mhaddadnull@recordedbooks.com	Manhattan-Elwood Public Library District	7146730	US	Illinois	07/01/2015	06/30/2016	
+Meghan Haddad-Null	mhaddadnull@recordedbooks.com	Coal City Public Library District	7037985	US	Illinois	07/01/2013	06/30/2014	
+PaulGillespie	pgillespie@recordedbooks.com	Des Moines Public Library	7220089	US	Iowa	09/17/2018	09/30/2019	
+Roger Seifert	rseifert@recordedbooks.com	Kawartha Lakes Public Library	7192818	CA	Ontario	01/01/2019	12/31/2019	
+Roger Seifert	rseifert@recordedbooks.com	Owen Sound & North Grey Union Public Library	7037920	CA	Ontario	01/01/2019	12/31/2019	
+Roger Seifert	rseifert@recordedbooks.com	Oxford County Library	7193149	CA	Ontario	01/01/2019	12/31/2019	
+Roger Seifert	rseifert@recordedbooks.com	Barrie Public Library	7211094	CA	Ontario	01/01/2019	12/31/2019	
+Roger Seifert	rseifert@recordedbooks.com	Chatham-Kent Public Library	7183574	CA	Ontario	01/01/2019	12/31/2019	
+Roger Seifert	rseifert@recordedbooks.com	York-Simcoe Library Consortium	7193172	CA	Ontario	01/01/2019	12/31/2019	
+Roger Seifert	rseifert@recordedbooks.com	Barrie Public Library	7211094	CA	Ontario	12/16/2017	12/31/2018	
+Roger Seifert	rseifert@recordedbooks.com	Oxford County Library	7193149	CA	Ontario	01/01/2018	12/31/2018	
+Roger Seifert	rseifert@recordedbooks.com	Owen Sound & North Grey Union Public Library	7037920	CA	Ontario	12/16/2017	12/31/2018	
+Roger Seifert	rseifert@recordedbooks.com	Chatham-Kent Public Library	7183574	CA	Ontario	01/01/2018	12/31/2018	
+Roger Seifert	rseifert@recordedbooks.com	Kawartha Lakes Public Library	7192818	CA	Ontario	01/01/2018	12/31/2018	
+Roger Seifert	rseifert@recordedbooks.com	York-Simcoe Library Consortium	7193172	CA	Ontario	01/01/2018	12/31/2018	
+Roger Seifert	rseifert@recordedbooks.com	Saint Thomas Public Library	7189298	CA	Ontario	10/01/2017	09/30/2018	
+Roger Seifert	rseifert@recordedbooks.com	Chatham-Kent Public Library	7183574	CA	Ontario	01/01/2017	12/31/2017	
+Roger Seifert	rseifert@recordedbooks.com	Oxford County Library	7193149	CA	Ontario	12/15/2016	12/31/2017	
+Roger Seifert	rseifert@recordedbooks.com	York-Simcoe Library Consortium	7193172	CA	Ontario	12/15/2016	12/31/2017	
+Roger Seifert	rseifert@recordedbooks.com	Kawartha Lakes Public Library	7192818	CA	Ontario	12/15/2016	12/31/2017	
+Roger Seifert	rseifert@recordedbooks.com	Saint Thomas Public Library	7189298	CA	Ontario	09/15/2016	09/30/2017	
+Roger Seifert	rseifert@recordedbooks.com	King Township Public Library	7172689	CA	Ontario	03/16/2016	03/31/2017	
+Roger Seifert	rseifert@recordedbooks.com	Chatham-Kent Public Library	7183574	CA	Ontario	06/15/2016	12/31/2016	
+Roger Seifert	rseifert@recordedbooks.com	Brantford Public Library	7037917	CA	Ontario	07/01/2013	06/30/2014	
+Scott Williams	swilliams@recordedbooks.com	Durham County Library	7141929	US	North Carolina	04/01/2019	03/31/2020	
+Scott Williams	swilliams@recordedbooks.com	The Public Libraries of Suffolk County	7035851	US	New York	10/01/2018	09/30/2019	
+Scott Williams	swilliams@recordedbooks.com	Salem Public Library	7220128	US	Virginia	08/16/2018	08/31/2019	Library of Virginia/Lyrasis-7051842
+Scott Williams	swilliams@recordedbooks.com	Charlotte Mecklenburg Library	7130610	US	North Carolina	08/01/2018	07/31/2019	
+Scott Williams	swilliams@recordedbooks.com	Roosevelt Public Library	7041113	US	New York	07/01/2018	06/30/2019	Nassau
+Scott Williams	swilliams@recordedbooks.com	Henry Waldinger Memorial Library	7202806	US	New York	07/01/2018	06/30/2019	Nassau
+Scott Williams	swilliams@recordedbooks.com	Durham County Library	7141929	US	North Carolina	04/01/2018	03/31/2019	
+Scott Williams	swilliams@recordedbooks.com	The Public Libraries of Suffolk County	7035851	US	New York	10/01/2017	09/30/2018	
+Scott Williams	swilliams@recordedbooks.com	Charlotte Mecklenburg Library	7130610	US	North Carolina	08/01/2017	07/31/2018	
+Scott Williams	swilliams@recordedbooks.com	Henry Waldinger Memorial Library	7202806	US	New York	06/15/2017	06/30/2018	Nassau
+Scott Williams	swilliams@recordedbooks.com	Roosevelt Public Library	7041113	US	New York	07/01/2017	06/30/2018	Nassau
+Scott Williams	swilliams@recordedbooks.com	Durham County Library	7141929	US	North Carolina	04/01/2017	03/31/2018	
+Scott Williams	swilliams@recordedbooks.com	The Public Libraries of Suffolk County	7035851	US	New York	10/01/2016	09/30/2017	
+Scott Williams	swilliams@recordedbooks.com	Charlotte Mecklenburg Library	7130610	US	North Carolina	12/01/2016	07/31/2017	
+Scott Williams	swilliams@recordedbooks.com	Roosevelt Public Library	7041113	US	New York	06/28/2016	06/30/2017	Nassau
+Scott Williams	swilliams@recordedbooks.com	Durham County Library	7141929	US	North Carolina	04/01/2016	03/31/2017	
+Scott Williams	swilliams@recordedbooks.com	Charlotte Mecklenburg Library	7130610	US	North Carolina	12/01/2015	11/30/2016	
+Scott Williams	swilliams@recordedbooks.com	The Public Libraries of Suffolk County	7035851	US	New York	10/01/2015	09/30/2016	
+Scott Williams	swilliams@recordedbooks.com	New Hanover County Public Library	7148181	US	North Carolina	07/22/2015	08/31/2016	
+Scott Williams	swilliams@recordedbooks.com	Durham County Library	7141929	US	North Carolina	04/01/2015	03/31/2016	
+Scott Williams	swilliams@recordedbooks.com	Charlotte Mecklenburg Library	7130610	US	North Carolina	11/16/2014	11/30/2015	
+Scott Williams	swilliams@recordedbooks.com	The Public Libraries of Suffolk County	7035851	US	New York	10/01/2014	09/30/2015	
+Scott Williams	swilliams@recordedbooks.com	The Public Libraries of Suffolk County	7035851	US	New York	10/01/2013	09/30/2014	
+Steve Wilks	swilks@recordedbooks.com	Mid-Continent Public Library	7182986	US	Missouri	07/01/2019	06/30/2020	
+Steve Wilks	swilks@recordedbooks.com	Okmulgee Public Library	7202354	US	Oklahoma	06/01/2019	05/31/2020	
+Steve Wilks	swilks@recordedbooks.com	Fayetteville Public Library	7199975	US	Arkansas	05/01/2019	04/30/2020	
+Steve Wilks	swilks@recordedbooks.com	Webb City Public Library	7033900	US	Missouri	05/01/2019	04/30/2020	
+Steve Wilks	swilks@recordedbooks.com	Christian County Library	7177353	US	Missouri	04/01/2019	03/31/2020	Value Collection
+Steve Wilks	swilks@recordedbooks.com	Southeastern Public Library System of Oklahoma	7195386	US	Oklahoma	03/01/2019	02/29/2020	Oklahoma Digital
+Steve Wilks	swilks@recordedbooks.com	Carroll Madison Library System	7212463	US	Arkansas	02/01/2019	01/31/2020	
+Steve Wilks	swilks@recordedbooks.com	Bentonville Public Library	7192562	US	Arkansas	01/01/2019	12/31/2019	
+Steve Wilks	swilks@recordedbooks.com	White County Regional Library	7220608	US	Arkansas	12/21/2018	12/31/2019	
+Steve Wilks	swilks@recordedbooks.com	Riverside Regional Library	7211479	US	Missouri	01/01/2019	12/31/2019	
+Steve Wilks	swilks@recordedbooks.com	Lebanon Laclede County Library	7220474	US	Missouri	11/15/2018	11/30/2019	
+Steve Wilks	swilks@recordedbooks.com	North Kansas City Public Library	7189568	US	Missouri	10/01/2018	09/30/2019	Value Collection
+Steve Wilks	swilks@recordedbooks.com	Johnson County and Olathe Public Library	7220191	US	Kansas	08/15/2018	08/31/2019	
+Steve Wilks	swilks@recordedbooks.com	Woodward Public Library	7220112	US	Oklahoma	08/01/2018	07/31/2019	Oklahoma Digital
+Steve Wilks	swilks@recordedbooks.com	Little Dixie Regional Library	7183903	US	Missouri	07/01/2018	06/30/2019	
+Steve Wilks	swilks@recordedbooks.com	Mid-Continent Public Library	7182986	US	Missouri	07/01/2018	06/30/2019	
+Steve Wilks	swilks@recordedbooks.com	Alva Public Library	7202659	US	Oklahoma	07/01/2018	06/30/2019	
+Steve Wilks	swilks@recordedbooks.com	Okmulgee Public Library	7202354	US	Oklahoma	06/01/2018	05/31/2019	
+Steve Wilks	swilks@recordedbooks.com	Webb City Public Library	7033900	US	Missouri	05/01/2018	04/30/2019	
+Steve Wilks	swilks@recordedbooks.com	Fayetteville Public Library	7199975	US	Arkansas	05/01/2018	04/30/2019	
+Steve Wilks	swilks@recordedbooks.com	Christian County Library	7177353	US	Missouri	04/01/2018	03/31/2019	Value Collection
+Steve Wilks	swilks@recordedbooks.com	Southeastern Public Library System of Oklahoma	7195386	US	Oklahoma	03/01/2018	02/28/2019	Oklahoma Digital
+Steve Wilks	swilks@recordedbooks.com	Livingston County Library	7159335	US	Missouri	03/01/2018	02/28/2019	
+Steve Wilks	swilks@recordedbooks.com	Carroll Madison Library System	7212463	US	Arkansas	01/16/2018	01/31/2019	
+Steve Wilks	swilks@recordedbooks.com	Riverside Regional Library	7211479	US	Missouri	12/15/2017	12/31/2018	
+Steve Wilks	swilks@recordedbooks.com	Bentonville Public Library	7192562	US	Arkansas	01/01/2018	12/31/2018	
+Steve Wilks	swilks@recordedbooks.com	North Kansas City Public Library	7189568	US	Missouri	10/01/2017	09/30/2018	Value Collection
+Steve Wilks	swilks@recordedbooks.com	Alva Public Library	7202659	US	Oklahoma	06/21/2017	06/30/2018	
+Steve Wilks	swilks@recordedbooks.com	Little Dixie Regional Library	7183903	US	Missouri	07/01/2017	06/30/2018	
+Steve Wilks	swilks@recordedbooks.com	Mid-Continent Public Library	7182986	US	Missouri	07/01/2017	06/30/2018	
+Steve Wilks	swilks@recordedbooks.com	Okmulgee Public Library	7202354	US	Oklahoma	06/05/2017	05/31/2018	
+Steve Wilks	swilks@recordedbooks.com	Fayetteville Public Library	7199975	US	Arkansas	04/17/2017	04/30/2018	
+Steve Wilks	swilks@recordedbooks.com	Webb City Public Library	7033900	US	Missouri	04/18/2017	04/30/2018	
+Steve Wilks	swilks@recordedbooks.com	Enid Garfield Library	7172629	US	Oklahoma	04/01/2017	03/31/2018	
+Steve Wilks	swilks@recordedbooks.com	Christian County Library	7177353	US	Missouri	04/01/2017	03/31/2018	Value Collection
+Steve Wilks	swilks@recordedbooks.com	Southeastern Public Library System of Oklahoma	7195386	US	Oklahoma	02/15/2017	02/28/2018	Oklahoma Digital
+Steve Wilks	swilks@recordedbooks.com	Rolling Hills Consolidated Library	7159424	US	Missouri	03/01/2017	02/28/2018	Acorn, Qello
+Steve Wilks	swilks@recordedbooks.com	Livingston County Library	7159335	US	Missouri	03/01/2017	02/28/2018	
+Steve Wilks	swilks@recordedbooks.com	Emporia Public Library	7191378	US	Kansas	12/15/2016	12/31/2017	
+Steve Wilks	swilks@recordedbooks.com	Bentonville Public Library	7192562	US	Arkansas	11/18/2016	12/31/2017	
+Steve Wilks	swilks@recordedbooks.com	North Kansas City Public Library	7189568	US	Missouri	09/23/2016	09/30/2017	Value Collection
+Steve Wilks	swilks@recordedbooks.com	Little Dixie Regional Library	7183903	US	Missouri	06/20/2016	06/30/2017	
+Steve Wilks	swilks@recordedbooks.com	Mid-Continent Public Library	7182986	US	Missouri	06/15/2016	06/30/2017	
+Steve Wilks	swilks@recordedbooks.com	Christian County Library	7177353	US	Missouri	04/04/2016	03/31/2017	Value Collection
+Steve Wilks	swilks@recordedbooks.com	Enid Garfield Library	7172629	US	Oklahoma	03/21/2016	03/31/2017	
+Steve Wilks	swilks@recordedbooks.com	Livingston County Library	7159335	US	Missouri	02/17/2016	02/28/2017	
+Steve Wilks	swilks@recordedbooks.com	Rolling Hills Consolidated Library	7159424	US	Missouri	02/22/2016	02/28/2017	Acorn, Qello
+Steve Wilks	swilks@recordedbooks.com	Tahlequah Public Library	7040549	US	Oklahoma	07/01/2013	06/30/2014	
+Steve Wilks	swilks@recordedbooks.com	Garland County Library	7052531	US	Arkansas	06/01/2013	05/31/2014	
+Steve Wilks	swilks@recordedbooks.com	Camden County Library District	7037998	US	Missouri	03/01/2013	02/28/2014	
+Total	282

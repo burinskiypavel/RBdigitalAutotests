@@ -1,0 +1,309 @@
+Region: UK
+For Period: from 07/01/2019 to 07/01/2019
+Email	BarCode	Join Date	Library Name	AccountId	Last Service Login	Last Login Date
+gdahern@hotmail.co.uk	05000098704	07/01/2019	brighton		magazines	07/08/2019
+hamida_begum_@hotmail.com	D000372673	07/01/2019	llcuk		indieflix	07/01/2019
+rmaodonnell@hotmail.com	0005264898	07/01/2019	wales		unknown	07/23/2019
+1330677@brunel.ac.uk	20112010808219	07/01/2019	hillingdon	HIL338	magazines	08/01/2019
+sarah.collinson@blueyonder.co.uk	20028300	07/01/2019	newcastleupontyne		unknown	07/19/2019
+jomonty07@hotmail.co.uk	1000669219	07/01/2019	librariesni		magazines	07/01/2019
+dazyw13@gmail.com	858166891	07/01/2019	hertfordshirelibraries	10000514	magazines	07/14/2019
+paddymobrien@gmail.com	B230455	07/01/2019	kildare		unknown	07/13/2019
+stephenmanthorpe1965@icloud.com	20129020070432	07/01/2019	norfolk		unknown	08/03/2019
+jools.1977@icloud.com	20129020070440	07/01/2019	norfolk		magazines	07/23/2019
+jhnbuckle@aol.com	DD200300766165	07/01/2019	cambridgeshire	10000029	magazines	07/30/2019
+rich_g_mccarthy@yahoo.co.uk	28080600224273	07/01/2019	stoke	10000213		
+cosuir@gmail.com	1002109283	07/01/2019	librariesni		magazines	08/05/2019
+gilltomison@gmail.com	A380108	07/01/2019	perthkinrossuk	10000168	magazines	07/02/2019
+cscullion91@outlook.com	1249091	07/01/2019	librariesni		unknown	07/02/2019
+glassesbase@gmail.com	069889709	07/01/2019	westsussex	10000242	unknown	08/01/2019
+e.adepoju1@yahoo.co.uk	LMP04891104	07/01/2019	lambeth		magazines	07/01/2019
+foodee.ltd@gmail.com	01100122106	07/01/2019	llcuk		unknown	07/24/2019
+drohandaisy@icloud.com	20005002694428	07/01/2019	lgma		magazines	08/04/2019
+ceriblower@googlemail.com	2206109	07/01/2019	surrey	10000216	unknown	07/01/2019
+PRowe41810@gmail.com	DD200300328278	07/01/2019	cambridgeshire	10000029	magazines	08/03/2019
+gtsteer@gmail.com	2755614	07/01/2019	surrey	10000216	magazines	08/01/2019
+PRowe41810@aol.com	DD200300234469	07/01/2019	cambridgeshire	10000029	unknown	08/04/2019
+sigridstamm@gmail.com	C0000001265290	07/01/2019	devon	DEV111	magazines	07/30/2019
+richardjomccormick@gmail.com	D2000000299329	07/01/2019	lgma		magazines	07/01/2019
+m_hbaker@hotmail.co.uk	061581749	07/01/2019	westsussex	10000242	magazines	07/01/2019
+polly.stanton@ntlworld.com	Dd220000073998	07/01/2019	cambridgeshire	10000029	magazines	08/03/2019
+aidanoregan@yahoo.com	D3000004189649	07/01/2019	fingal	10000076	unknown	07/09/2019
+Theresasoss@gmail.com	020335243	07/01/2019	bedford		unknown	07/01/2019
+colin.mcginnis@gmail.com	20119100012600	07/01/2019	llcuk		unknown	07/01/2019
+m.racheva@gmail.com	20124008060513	07/01/2019	falkirklibraries		magazines	07/01/2019
+shonaweir71@gmail.com	28053004204209	07/01/2019	westlothian	10000240	magazines	07/03/2019
+sarahlhead@hotmail.com	020018614	07/01/2019	bedford		unknown	07/16/2019
+lorrainegahagan@yahoo.co.uk	D001958305	07/01/2019	glasgowlife		magazines	07/16/2019
+ger715@gmail.com	20001000839351	07/01/2019	lgma		magazines	07/01/2019
+sl.rogers@hotmail.co.uk	DD200300711137	07/01/2019	cambridgeshire	10000029	unknown	07/24/2019
+airam.a.a@hotmail.com	1000771257	07/01/2019	librariesni		magazines	07/15/2019
+dicurley@yahoo.com	8039316	07/01/2019	lgma		magazines	07/31/2019
+yatesdon1@gmail.com	8000082685901	07/01/2019	bracknellforest	10000020	magazines	07/21/2019
+rosie2537@googlemail.com	9852816001	07/01/2019	wiltshire	WIL064	magazines	08/02/2019
+katoogood@hotmail.com	633597021010098906	07/01/2019	bracknellforest	10000020	magazines	07/01/2019
+amandalarmstrong@aol.com	20130023825343	07/01/2019	essex	10000073	unknown	07/01/2019
+laralaing57@gmail.com	T021555	07/01/2019	fife		magazines	08/01/2019
+james@felbridge.com	069340869	07/01/2019	westsussex	10000242	magazines	08/04/2019
+andrewne17@hotmail.com	20130211501722	07/01/2019	essex	10000073	unknown	07/01/2019
+aminat_omotosho@outlook.com	28015010717730	07/01/2019	croydon	CRO001	unknown	07/01/2019
+emily1_anderson@hotmail.co.uk	24144000940039	07/01/2019	scottishborders	10000191	unknown	07/02/2019
+jennybanks05@hotmail.co.uk	200068137	07/01/2019	sthelens		magazines	08/01/2019
+s_horner@btinternet.com	T097744	07/01/2019	fife		unknown	07/01/2019
+nathaliewk@yahoo.fr	002363386V	07/01/2019	dorset		magazines	07/17/2019
+ciarandevlin11@gmail.com	020182318	07/01/2019	bedford		unknown	07/23/2019
+kamini1482@yahoo.co.in	20130214674930	07/01/2019	essex	10000073	unknown	07/02/2019
+bethanydekoning@outlook.com	20130212391578	07/01/2019	essex	10000073	unknown	07/04/2019
+thefourofus@btinternet.com	T119999	07/01/2019	fife		unknown	08/04/2019
+morleyc@outlook.com	24130001899670	07/01/2019	wokingham	10000250	unknown	08/07/2019
+catgray@outlook.com	28030006386317	07/01/2019	wales		magazines	07/22/2019
+berylclarke@outlook.com	068729339	07/01/2019	westsussex	10000242	magazines	08/04/2019
+judy_b_carter@ntlworld.com	020325329	07/01/2019	bedford		unknown	07/01/2019
+mattrich50@hotmail.com	0803715606	07/01/2019	somerset	SOM_105	magazines	08/03/2019
+gina.barnes505@gmail.com	P04798279	07/01/2019	cityoflondon		unknown	07/01/2019
+michelle.dekoning@hotmail.com	20130214390305	07/01/2019	essex	10000073	magazines	07/30/2019
+shinea.7@hotmail.co.uk	20120008010813	07/01/2019	islington		magazines	07/28/2019
+sarahdymock@hotmail.com	2977657	07/01/2019	surrey	10000216	unknown	07/04/2019
+gwen.power@icloud.com	DD200300753824	07/01/2019	cambridgeshire	10000029	unknown	07/31/2019
+soulfulghost@gmail.com	dd200300778791	07/01/2019	cambridgeshire	10000029	magazines	07/16/2019
+jackiefisherathome@me.com	20132004026641	07/01/2019	northumberland	NOR202	unknown	07/01/2019
+ohdear66@hotmail.com	060977219	07/01/2019	westsussex	10000242	unknown	07/01/2019
+whittakermatthew@hotmail.com	663498334	07/01/2019	derbyshire		magazines	07/01/2019
+cjohnson@cravendc.gov.uk	D11D1103680000	07/01/2019	northyorkshire	10000160	magazines	07/27/2019
+c.chisholm72@gmail.com	000682155	07/01/2019	sheffield		magazines	07/04/2019
+postmaster@johnrdavidson.plus.com	300016497	07/01/2019	sheffield		unknown	07/01/2019
+davesgibbo@googlemail.com	d1000000174815	07/01/2019	greatermanchester		unknown	07/01/2019
+pmwood2009@googlemail.com	dd300200638779	07/01/2019	cambridgeshire	10000029	unknown	07/01/2019
+traceyholden@hotmail.com	1000157790	07/01/2019	librariesni		magazines	07/01/2019
+tamgam75@gmail.com	DD200300025222	07/01/2019	cambridgeshire	10000029	magazines	07/01/2019
+adsbartlett@hotmail.com	070014449	07/01/2019	westsussex	10000242	magazines	08/05/2019
+cofranex@gmail.com	DD200300192649	07/01/2019	cambridgeshire	10000029	unknown	07/02/2019
+donnanov7@gmail.com	20112010265410	07/01/2019	hillingdon	HIL338	unknown	07/01/2019
+gh_kh_79@yahoo.com	2988297	07/01/2019	surrey	10000216	unknown	08/03/2019
+keithfitz@tiscali.co.uk	28003001156464	07/01/2019	cumbria	10000046	unknown	07/01/2019
+wendyfairbank@blueyonder.co.uk	D00133086X	07/01/2019	sefton	SEF449	magazines	07/01/2019
+william.priced@gmail.com	080040184	07/01/2019	bedford		unknown	08/03/2019
+glenn@glennbarden.net	P04349296	07/01/2019	cityoflondon		magazines	07/02/2019
+prattmaryrose81@gmail.com	20002000853863	07/01/2019	lgma		magazines	08/06/2019
+laura_langston@hotmail.com	6337681902727252	07/01/2019	hillingdon	HIL338	magazines	07/01/2019
+kpricedewey@gmail.com	080040183	07/01/2019	bedford		unknown	07/01/2019
+martinhammond9@gmail.com	860093671	07/01/2019	hertfordshirelibraries	10000514	magazines	07/22/2019
+ckorn@btinternet.com	24102003946817	07/01/2019	llcuk		magazines	07/02/2019
+jimbob56@sky.com	4000032326	07/01/2019	lincolnshire	10000127	magazines	07/11/2019
+dhbowra@btinternet.com	855885085	07/01/2019	hertfordshirelibraries	10000514	magazines	07/15/2019
+inmanr1987@gmail.com	002569219Y	07/01/2019	dorset		unknown	07/01/2019
+nick.dove@jh-co.com	28005005848665	07/01/2019	londontriborough	TRI002	unknown	07/04/2019
+shaniepickering1995@gmail.com	44072002216254	07/01/2019	hull	KIN110	magazines	07/01/2019
+mariskao@gmail.com	05000077417	07/01/2019	brighton		magazines	07/28/2019
+colettedempsey@gmail.com	20016001116518	07/01/2019	lgma		magazines	07/01/2019
+donair_totalchaos_2004@yahoo.co.uk	066365869	07/01/2019	westsussex	10000242	unknown	07/01/2019
+john@twisleton.co.uk	069261799	07/01/2019	westsussex	10000242	magazines	08/05/2019
+Kathleen.phethean@virgin.net	16P05606039	07/01/2019	greatermanchester		magazines	07/07/2019
+amygill23@hotmail.com	300023419	07/01/2019	sheffield		unknown	08/05/2019
+srivett@deloitte.co.uk	P04815114	07/01/2019	cityoflondon		unknown	07/04/2019
+pengwyn22@aol.com	6336703851402903	07/01/2019	dumfriesandgalloway		magazines	07/06/2019
+kamilaha04@gmail.com	002037261	07/01/2019	llcuk		unknown	07/26/2019
+ertan.demirkiran@gmail.com	P04859472	07/01/2019	cityoflondon		magazines	07/14/2019
+pk.savage@hotmail.com	dd200300512092	07/01/2019	cambridgeshire	10000029	magazines	07/29/2019
+cibillonbeth@gmail.com	0005470315	07/01/2019	wales		magazines	08/05/2019
+azameen@azameen.plus.com	20130203898045	07/01/2019	essex	10000073	unknown	07/01/2019
+linda-wilson@live.co.uk	030394867	07/01/2019	northlanarkshire		magazines	07/23/2019
+kenwina@gmail.com	28015010907422	07/01/2019	croydon	CRO001	magazines	08/06/2019
+anyemarie@yahoo.co.uk	01500077717	07/01/2019	llcuk		great-courses	07/01/2019
+leflufy@gmail.com	0305230344	07/01/2019	somerset	SOM_105	magazines	08/04/2019
+seanbanks1970@gmail.com	002151660	07/01/2019	bedford		unknown	07/02/2019
+casyone1@gmail.com	20130211251112	07/01/2019	essex	10000073	unknown	07/01/2019
+mmcmickan@hotmail.com	6336703847535302	07/01/2019	dumfriesandgalloway		magazines	08/07/2019
+amackay4@gmail.com	60127322	07/01/2019	rutland		magazines	07/01/2019
+gus.mcgowan@lineone.net	28011000259056	07/01/2019	highlandlibraryservice	10000095	unknown	07/01/2019
+mjachacy22@googlemail.com	A413674	07/01/2019	perthkinrossuk	10000168	magazines	07/09/2019
+pandnwilson@gmail.com	9859002001	07/01/2019	wiltshire	WIL064	unknown	07/02/2019
+djrobinson999@hotmail.com	P03554759	07/01/2019	cityoflondon		magazines	07/24/2019
+michvann16@gmail.com	D11D2453070000	07/01/2019	northyorkshire	10000160	magazines	07/19/2019
+Ccstickland@yahoo.co.uk	000990524	07/01/2019	sheffield		magazines	07/01/2019
+n.stanleywood@btinternet.com	P0419294X	07/01/2019	cityoflondon		magazines	08/04/2019
+mickotoole@gmail.com	b254044	07/01/2019	lgma		magazines	07/01/2019
+stephlamb1@hotmail.co.uk	20129018606866	07/01/2019	norfolk		magazines	07/31/2019
+bowessp@gmail.com	D3000004199471	07/01/2019	fingal	10000076	unknown	07/01/2019
+lilibrown28@gmail.com	dd200300029478	07/01/2019	cambridgeshire	10000029	magazines	07/18/2019
+penny.hazell@gmail.com	DD200300639042	07/01/2019	cambridgeshire	10000029	magazines	07/31/2019
+ashleighpj03@hotmail.com	NAP00777919	07/01/2019	northayrshirelibraries		magazines	07/31/2019
+kellygary83@gmail.com	05100049932	07/01/2019	buckinghamshire	10000024	magazines	07/01/2019
+joy@davisemail.co.uk	B0015705714	07/01/2019	edinburgh	10000071	unknown	07/28/2019
+tanjila.hasan@hotmail.com	D000526770	07/01/2019	llcuk		unknown	07/12/2019
+kcaines3014@gmail.com	700001287	07/01/2019	leicester		unknown	07/01/2019
+annlyon29@gmail.com	4000126112	07/01/2019	lincolnshire	10000127	unknown	07/23/2019
+asreynolds1983@gmail.com	300026972	07/01/2019	sheffield		unknown	07/01/2019
+timins70@gmail.com	05500019883	07/01/2019	kent		magazines	07/31/2019
+sujit.bhatt@sky.com	B003606210	07/01/2019	hampshire		magazines	07/02/2019
+adrian.roberts1@btinternet.com	B779514660	07/01/2019	miltonkeynes	MIL222	magazines	07/01/2019
+michael.koenig.gb@gmail.com	05000077483	07/01/2019	brighton		unknown	08/04/2019
+anaylor168@gmail.com	20202013793003	07/01/2019	greatermanchester		magazines	08/04/2019
+wyliesara25@icloud.com	20130211183778	07/01/2019	essex	10000073	unknown	07/19/2019
+rooholmes@hotmail.com	DD056000217111	07/01/2019	wrexham			
+sarah_cromwell@yahoo.com	D5000000350667	07/01/2019	birmingham	10000013	unknown	07/29/2019
+ciaracostelloe07@gmail.com	20021001779968	07/01/2019	lgma		magazines	07/30/2019
+tempus2011@hotmail.co.uk	1002135640	07/01/2019	librariesni		magazines	08/04/2019
+simonandgerry@aol.com	NAP00992658	07/01/2019	northayrshirelibraries		unknown	07/12/2019
+macandrew51@gmail.com	B079935	07/01/2019	lgma		magazines	07/01/2019
+vivbohling@outlook.com	60119203	07/01/2019	rutland		magazines	07/01/2019
+sarahx27@hotmail.co.uk	200080891	07/01/2019	sthelens		unknown	07/13/2019
+miksparks@yahoo.com	400014485Q	07/01/2019	greatermanchester		unknown	07/02/2019
+rosie.coles@live.co.uk	NAP02081202	07/01/2019	northayrshirelibraries		magazines	07/24/2019
+andrew.jose@hants.gov.uk		07/01/2019	hampshire		unknown	07/01/2019
+crcentre@sense.org.uk	DD200300716235	07/01/2019	cambridgeshire	10000029	magazines	07/29/2019
+bonniegold52@gmail.com	20111017793903	07/01/2019	camdenuk		magazines	08/07/2019
+imhayleypoos@hotmail.co.uk	D005208323	07/01/2019	medway	MED399	magazines	08/05/2019
+lynette.mullins@sky.com	200011112	07/01/2019	sthelens		magazines	08/04/2019
+carys199@aol.co.uk	28048002531116	07/01/2019	stirling	10000210	magazines	08/04/2019
+Cujimmy65@gmail.com	Dd200300760781	07/01/2019	cambridgeshire	10000029	magazines	08/06/2019
+caitnishuilleabhain@gmail.com	20007004007853	07/01/2019	lgma		magazines	07/01/2019
+voraciousreading97@gmail.com	DD200300777003	07/01/2019	cambridgeshire	10000029	unknown	07/18/2019
+gerardsmall1@talktalk.net	28030006308501	07/01/2019	wales		magazines	08/04/2019
+Rory_m_brown@hotmail.com	T111134	07/01/2019	fife			
+joanpender1@gmail.com	D2000000348969	07/01/2019	rathdown		unknown	07/02/2019
+lennonmatt@gmail.com	28040007522729	07/01/2019	llcuk		magazines	08/05/2019
+fruitymusicdmfr@gmail.com	D1000001014066	07/01/2019	lgma		magazines	07/01/2019
+jonathanclark18@gmail.com	P04898001	07/01/2019	cityoflondon		unknown	07/01/2019
+2nickpaw@gmail.com	b002531084	07/01/2019	hampshire		magazines	07/31/2019
+claire.jones01@hotmail.co.uk	0000426465	07/01/2019	wakefield	10000230		
+birendas8@gmail.com	769989367	07/01/2019	miltonkeynes	MIL222	unknown	07/16/2019
+sunnyjassal@me.com	00676906	07/01/2019	leicestershire		unknown	07/01/2019
+shaun.millward@hotmail.com	00300872	07/01/2019	leicestershire		magazines	07/26/2019
+Ceilvain@aol.co.uk	C0000001894398	07/01/2019	devon	DEV111	magazines	07/21/2019
+gswands@tiscali.co.uk	205228	07/01/2019	greatermanchester		magazines	07/27/2019
+annsoullier@gmail.com	0306655856	07/01/2019	somerset	SOM_105	magazines	07/01/2019
+Guildjr@btinternet.com	28053005882896	07/01/2019	westlothian	10000240	magazines	07/20/2019
+maggynherky@gmail.com	020086746	07/01/2019	bedford			
+mrsandythomas@googlemail.com	28009015819286	07/01/2019	cornwall	10000042	unknown	07/01/2019
+lyndsey.bryant@tiscali.co.uk	005763619	07/01/2019	westsussex	10000242	unknown	08/05/2019
+cpwaldron@icloud.com	D2000000253557	07/01/2019	lgma		magazines	07/02/2019
+jonathanclark18@gmail.com	20111017677130	07/01/2019	camdenuk		unknown	07/01/2019
+donjamieson99@gmail.com	T040144	07/01/2019	fife		unknown	07/18/2019
+jonathanebrady@gmail.com	D00082830X	07/01/2019	dundee		magazines	07/03/2019
+nikkisanaa@yahoo.co.uk	dd200300766715	07/01/2019	cambridgeshire	10000029	magazines	07/17/2019
+michaelhealy725@gmail.com	D4000000492721	07/01/2019	southdublin		unknown	07/01/2019
+bryan.burke@doctor.com	1002309817	07/01/2019	librariesni		magazines	08/04/2019
+steph_hamilton@hotmail.com	200051615	07/01/2019	sthelens		unknown	08/03/2019
+julietgooch@gmail.com	DD200300758701	07/01/2019	cambridgeshire	10000029	unknown	08/02/2019
+hartopp1940@btinternet.com	4000113121	07/01/2019	lincolnshire	10000127	magazines	07/03/2019
+lesarnott@live.co.uk	28014021227441	07/01/2019	Staffordshire		unknown	07/01/2019
+duncancpage@googlemail.com	9820998001	07/01/2019	wiltshire	WIL064	unknown	07/01/2019
+charleslawn@eircom.net	20019000209763	07/01/2019	lgma		magazines	07/01/2019
+spamas000@gmail.com	B003538211	07/01/2019	hampshire		magazines	07/25/2019
+mr.j.ashton@gmail.com		07/01/2019	cambridgeshire	10000029	magazines	08/02/2019
+mmendes_08@hotmail.com	20117013427313	07/01/2019	londontriborough	TRI002	unknown	07/01/2019
+sjk123lex@gmail.com	069621979	07/01/2019	westsussex	10000242	magazines	07/02/2019
+garycorb@hotmail.com	28080500348289	07/01/2019	stoke	10000213		
+powell.kathy@gmail.com	01100130859	07/01/2019	llcuk		indieflix	08/06/2019
+deirdre.ohle@gmail.com	4127279	07/01/2019	lgma		magazines	07/01/2019
+rsadler94@gmail.com	0105100678	07/01/2019	somerset	SOM_105	magazines	07/30/2019
+laurajaneapplegate@gmail.com	LMP05736323	07/01/2019	lambeth		unknown	07/07/2019
+michmcauliffe@yahoo.com	20008004677836	07/01/2019	lgma		magazines	08/05/2019
+gillclark60@googlemail.com	00071240	07/01/2019	wales		magazines	07/01/2019
+liz.shiels@icloud.com	28048001340915	07/01/2019	stirling	10000210	magazines	08/07/2019
+maryrobinson.bray@gmail.com	20006001236804	07/01/2019	lgma		magazines	07/01/2019
+aostapowicz@wp.pl	D4000000491687	07/01/2019	lgma		magazines	07/01/2019
+aandadcheatle@hotmail.com	068006749	07/01/2019	westsussex	10000242	unknown	08/02/2019
+tj70@hotmail.co.uk	0408182915	07/01/2019	somerset	SOM_105	magazines	07/01/2019
+catriona.obrien3@gmail.com	8032915	07/01/2019	lgma		magazines	08/04/2019
+Jcamden017@btinternet.com	24130002169032	07/01/2019	wokingham	10000250	unknown	07/11/2019
+steve4181@hotmail.co.uk	24102000906566	07/01/2019	llcuk		indieflix	07/01/2019
+olliemw@gmail.com	300021397	07/01/2019	sheffield		unknown	07/01/2019
+sammy.barker74@gmail.com	068464449	07/01/2019	westsussex	10000242	unknown	07/03/2019
+rosa.sulley@gmail.com	P0484551X	07/01/2019	cityoflondon		magazines	07/24/2019
+luisramos76@gmail.com	05619734	07/01/2019	southwarklibraries		magazines	07/01/2019
+jk55jac@gmail.com	2459143	07/01/2019	surrey	10000216	unknown	07/18/2019
+leonardo.zambrano@gmail.com	D1000000817667	07/01/2019	dublincity	DUB101	artistworks	07/20/2019
+PAMELA.MCPHEE@HOTMAIL.COM	D9999010852374	07/01/2019	greatermanchester		magazines	07/01/2019
+phillipcameron80@gmail.com	2405627	07/01/2019	surrey	10000216	unknown	07/01/2019
+lindaandjan@live.co.uk	dd200300732790	07/01/2019	cambridgeshire	10000029	magazines	08/07/2019
+nik.corcoran@me.com	D1000000273280	07/01/2019	greatermanchester		magazines	07/30/2019
+info@kirkmottershead.com	28016005768977	07/01/2019	greatermanchester		magazines	07/01/2019
+grainne.bennett@hotmail.com	20010001150197	07/01/2019	lgma		magazines	08/05/2019
+dsmck@sky.com	1002133313	07/01/2019	librariesni		magazines	08/07/2019
+peterjduggan@gmail.com	D001909383	07/01/2019	glasgowlife		magazines	08/04/2019
+sandra.godkin@dublincity.ie	d1000000920222	07/01/2019	lgma		magazines	07/01/2019
+mileslandesman@hotmail.co.uk	C0000001791794	07/01/2019	devon	DEV111	unknown	07/01/2019
+evadiasgoa@gmail.com	01100198660	07/01/2019	llcuk		magazines	07/08/2019
+Bowessp@gmail.com	D3000004199471	07/01/2019	lgma			
+nualareilly@hotmail.co.uk	1000721333	07/01/2019	librariesni		unknown	07/01/2019
+fino2009@live.ie	D4000000493542	07/01/2019	southdublin		unknown	07/01/2019
+carole.craig5@btinternet.com	28048003047179	07/01/2019	stirling	10000210	magazines	07/17/2019
+ben.dewrance@gmail.com	LDP92896898	07/01/2019	leeds			
+saraperkes@hotmail.com	005519383	07/01/2019	bedford		unknown	07/19/2019
+lala336@hotmail.co.uk	05600095503	07/01/2019	medway	MED399	magazines	07/31/2019
+prose2512@gmail.com	20130205323133	07/01/2019	essex	10000073	unknown	07/01/2019
+cacurd21@yahoo.com	28060011350453	07/01/2019	edunbartonshireuk		magazines	07/01/2019
+amk2326@hotmail.co.uk	1002098865	07/01/2019	librariesni			
+jonny.b010996@gmail.com	6222204	07/01/2019	eastsussex	EAS195	unknown	07/11/2019
+patbownes@yahoo.co.uk	1000121306	07/01/2019	librariesni		magazines	07/09/2019
+tomleitch7@gmail.com	28048003086201	07/01/2019	stirling	10000210	magazines	07/02/2019
+rmboswell7@gmail.com	DD200300665875	07/01/2019	cambridgeshire	10000029	unknown	07/08/2019
+georgehowlett@hotmail.co.uk	B003606216	07/01/2019	hampshire		magazines	07/01/2019
+jessamys@btinternet.com	9721808001	07/01/2019	wiltshire	WIL064		
+julia.eastaugh@icloud.com	065640639	07/01/2019	westsussex	10000242	unknown	07/01/2019
+vivruck@gmail.com	0305536342	07/01/2019	somerset	SOM_105	unknown	07/23/2019
+leanda_chapman@intuit.com	06090008693	07/01/2019	westberkshire		magazines	08/01/2019
+dragonflytoo@hotmail.co.uk	20124008292892	07/01/2019	falkirklibraries		magazines	07/01/2019
+jonnypatersonspir@gmail.com	020227243	07/01/2019	bedford		unknown	07/01/2019
+robertwblack@me.com	28048002674106	07/01/2019	stirling	10000210	magazines	07/22/2019
+bjrippingham@outlook.com	D9999010634786	07/01/2019	greatermanchester		magazines	07/22/2019
+aamoosa@gmail.com	700097119	07/01/2019	leicester		magazines	07/27/2019
+stephanie2hacket@aol.com	DD200300194697	07/01/2019	cambridgeshire	10000029	magazines	07/09/2019
+irenapolson@gmail.com	0000021395009	07/01/2019	shetland		unknown	07/01/2019
+jfcrowley@eircom.net	D4000000443132	07/01/2019	lgma		magazines	08/02/2019
+magdalenakot6@gmail.com	6222140	07/01/2019	eastsussex	EAS195	magazines	07/01/2019
+jamesshaw24@gmail.com	D1000000412133	07/01/2019	greatermanchester		unknown	07/26/2019
+anita.rice@westsussex.gov.uk	069912279	07/01/2019	westsussex	10000242	unknown	07/01/2019
+cheryl.hodgkinson@gmail.com	20011001722688	07/01/2019	lgma		magazines	07/01/2019
+wilcox3@hotmail.co.uk	7702856220	07/01/2019	gloucestershire			
+claire_meola@hotmail.com	857079926	07/01/2019	hertfordshirelibraries	10000514	magazines	07/23/2019
+Lynnwoollcott@gmail.com	D99612169	07/01/2019	nottinghamshire	10000162	magazines	08/02/2019
+jonathan.arch@googlemail.com	ROCH1000005740	07/01/2019	greatermanchester		magazines	07/01/2019
+hoangc89@gmail.com	20130215246647	07/01/2019	essex	10000073	magazines	07/07/2019
+jenpad500@yahoo.com	067483459	07/01/2019	westsussex	10000242	unknown	07/21/2019
+littlesooze@hotmail.com	d99458520	07/01/2019	nottinghamshire	10000162	magazines	07/25/2019
+jean_wilson@sky.com	L2608260010	07/01/2019	sunderland	SUN114	magazines	07/25/2019
+mcronin01@gmail.com	D2000000320616	07/01/2019	lgma		magazines	07/21/2019
+lisamoon123@hotmail.com	859436247	07/01/2019	hertfordshirelibraries	10000514	magazines	07/01/2019
+george.nuttall@gmail.com	00705094080	07/01/2019	richmond		magazines	07/01/2019
+1tonyd1@gmail.com	002575315S	07/01/2019	dorset		magazines	07/01/2019
+gavin@midgleys.org.uk	DD200300423397	07/01/2019	cambridgeshire	10000029	magazines	07/01/2019
+alisondenvir@hotmail.com	20117013392038	07/01/2019	londontriborough	TRI002	magazines	07/02/2019
+katirpage@gmail.com	DD200300616097	07/01/2019	cambridgeshire	10000029	unknown	07/01/2019
+junecoxhead@gmail.com		07/01/2019	cambridgeshire	10000029	magazines	08/06/2019
+brianelliot@talktalk.net	0211681722	07/01/2019	wales		magazines	08/04/2019
+carole.staniland@btinternet.com	300023455	07/01/2019	sheffield		unknown	08/03/2019
+dave.westdrip@gmail.co.uk	28048003024608	07/01/2019	stirling	10000210	unknown	07/01/2019
+peter.f.archer@btinternet.com	DD200300470699	07/01/2019	cambridgeshire	10000029	magazines	07/22/2019
+barrycurley@gmail.com	D1000001016316	07/01/2019	lgma			
+subria380@sky.com	0211455317	07/01/2019	somerset	SOM_105	magazines	07/01/2019
+kittyburchell2@gmail.com	DD200300428600	07/01/2019	cambridgeshire	10000029	magazines	08/06/2019
+roberts_ic@hotmail.com	dd200300551322	07/01/2019	cambridgeshire	10000029	unknown	08/06/2019
+sschmid@tcd.ie	D000604486	07/01/2019	llcuk		magazines	07/01/2019
+nettaevans24@gmail.com	067510709	07/01/2019	westsussex	10000242	unknown	08/07/2019
+rmboswell7@gmail.com		07/01/2019	norfolk		magazines	07/01/2019
+nigelanddavida@gmail.com	0304917032	07/01/2019	somerset	SOM_105	magazines	07/01/2019
+alan@rawlinson.co.uk	DD056000182579	07/01/2019	wales		magazines	07/01/2019
+thesmiths2017@icloud.com		07/01/2019	norfolk		magazines	07/01/2019
+sanfeyregina@gmail.com	d4000000274985	07/01/2019	lgma		magazines	07/31/2019
+doreen.netley@talktalk.net	B009321543	07/01/2019	eastlothian	10000066	magazines	08/06/2019
+joyant46@yahoo.co.uk	05600097977	07/01/2019	medway	MED399		
+Steven7448@live.ie	20011001818940	07/01/2019	lgma		magazines	07/01/2019
+acharris45@yahoo.co.uk	000774225	07/01/2019	sheffield		unknown	07/01/2019
+kirstymauger89@gmail.com	10492429	07/01/2019	guernsey		magazines	07/01/2019
+matthew@springwoodhouse.net	660152601	07/01/2019	derbyshire		magazines	07/01/2019
+suzanne.chasemore@derbyshire.gov.uk	66588035x	07/01/2019	derbyshire			
+serena.soong@gmail.com	20117009605484	07/01/2019	londontriborough	TRI002	magazines	07/01/2019
+Fi.g.smith@icloud.com	2978343	07/01/2019	surrey	10000216	magazines	07/27/2019
+wendyboulter@waitrose.com	11081511	07/01/2019	Herefordshire			
+dave_djc@hotmail.com	0005287367	07/01/2019	eastriding		magazines	07/14/2019
+Eensy99@yahoo.co.uk	63325000992300	07/01/2019	fife		magazines	07/11/2019
+bryanselner@hotmail.com	20117013336795	07/01/2019	londontriborough	TRI002	magazines	07/13/2019
+gdidemcelikaslan@gmail.com	D1000001024082	07/01/2019	dublincity	DUB101	hoonuit	07/09/2019
+a.b.toon@btinternet.com		07/01/2019	hampshire		magazines	07/31/2019
+judecwhite@gmail.com	4000088258	07/01/2019	lincolnshire	10000127	unknown	07/01/2019
+rhydian.potter@gmail.com	067853929	07/01/2019	westsussex	10000242	unknown	07/19/2019
+silverfell85@gmail.com	SW444378	07/01/2019	wales		unknown	08/01/2019
+Total	305					

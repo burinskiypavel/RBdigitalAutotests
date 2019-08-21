@@ -1,0 +1,2 @@
+License Type	Barcode	Email	Library	Licenses #	Description	Monthly Patron Cap	Overall Cap	Group Cap	Patron Cap	Service Cap	Turnaway Reason	Total Turnaways
+Total	0

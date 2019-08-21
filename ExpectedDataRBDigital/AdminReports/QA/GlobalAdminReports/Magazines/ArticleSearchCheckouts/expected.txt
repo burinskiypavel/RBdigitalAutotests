@@ -1,0 +1,347 @@
+For Period: from 01/01/2017 to 02/01/2017
+Title	RBID	Quantity	Issue Date	Library Name
+(inside) interior design review	RBZ0002688	1	11/01/2016	southeastzone
+25 Beautiful Homes	RBZ0000011	11	01/01/2017	wfhowes
+3D World	RBZ0000014	2	12/01/2016	greatermanchester
+4 Wheel & Off Road	RBZ0000015	1	01/01/2017	banqqc
+5280 Magazine	RBZ0000021	2	10/01/2015	douglascountylibraries
+7 Jours	RBZ0000022	7	11/18/2016	banqqc
+ABC Organic Gardener Magazine	RBZ0005129	1	01/01/2017	SAPLN
+Aero Australia	RBZ0000029	2	01/01/2016	auckland
+Allrecipes	RBZ0006296	4	12/01/2016	uplc
+Allure	RBZ0005641	4	11/01/2016	edmontonab
+Amateur Gardening	RBZ0006696	8	10/29/2016	hertfordshirelibraries
+Amateur Photographer	RBZ0000040	18	04/09/2016	hertfordshirelibraries
+American History	RBZ0005968	1	10/01/2016	rbdigitalgatewaytrial
+American Patchwork & Quilting	RBZ0000046	8	02/01/2017	mainincnj
+AppleMagazine	RBZ0000059	9	07/15/2016	cinhamiltonoh
+Architectural Digest	RBZ0005581	8	01/01/2017	mainincnj
+Art & Décoration	RBZ0006171	2	12/01/2016	rbdigitaltrial
+Art Almanac	RBZ0005834	3	09/01/2016	wapldmc
+Artist's Palette	RBZ0007484	1	04/01/2016	wapldmc
+Artists & Illustrators	RBZ0000066	31	01/01/2017	SAPLN
+Astronomy	RBZ0000068	8	01/01/2017	northeastlibrarydistrict
+Audubon Magazine	RBZ0000074	2	11/01/2016	lmxac
+Australian 4WD & SUV Buyer's Guide	RBZ0005096	1	09/01/2016	southeastzone
+Australian 4WD Action	RBZ0007788	1	11/01/2016	SAPLN
+Australian FourFourTwo	RBZ0000077	2	02/01/2016	auckland
+Australian Golf Digest	RBZ0000078	2	10/01/2016	SAPLN
+Australian Handyman	RBZ0000080	4	12/01/2016	SAPLN
+Australian Home Beautiful	RBZ0000082	1	10/01/2016	campbelltown
+Australian Homespun	RBZ0000083	2	10/01/2016	southernsydney
+Australian House & Garden	RBZ0005792	4	01/01/2017	hawkesbury
+Australian Knitting	RBZ0007535	3	04/01/2015	SAPLN
+Australian Mountain Bike	RBZ0006424	1	09/01/2016	easternregionallibraries
+Australian Natural Health Magazine	RBZ0005599	1	12/01/2016	auckland
+Australian Road Rider	RBZ0000090	4	12/01/2016	SAPLN
+Australian Trailrider	RBZ0000093	3	08/01/2016	SAPLN
+Australian Yoga Journal	RBZ0000095	1	01/01/2017	melbourne
+Autocar	RBZ0007099	6	11/09/2016	hampshire
+Automobile	RBZ0001299	1	12/01/2016	banqqc
+Backpacker	RBZ0000105	3	10/01/2016	douglascountylibraries
+Backyard & Garden Design Ideas	RBZ0000106	1	04/01/2016	hornsby
+BBC Good Food Magazine	RBZ0000112	16	10/01/2016	librariesni
+BBC Top Gear Magazine	RBZ0002502	10	01/01/2017	hertfordshirelibraries
+Beanies Shawls and Scarves	RBZ0007510	1	04/01/2016	SAPLN
+Belle	RBZ0005116	1	11/01/2016	brisbane
+Better Homes and Gardens Australia	RBZ0000139	8	05/01/2016	wapldmc
+Better Nutrition	RBZ0004675	1	09/01/2016	auckland
+Bicycle Times	RBZ0000140	1	10/01/2016	calgaryab
+Bicycling	RBZ0000141	2	05/01/2016	rbdigitalgatewaytrial
+Bicycling Australia	RBZ0000142	2	09/01/2016	SAPLN
+BIKE	RBZ0007870	3	01/01/2017	eastsussex
+BlueWater Boats & Sportsfishing	RBZ0000157	1	09/01/2016	SAPLN
+Boating	RBZ0000160	2	11/01/2016	harfordcountymd
+Boating NZ	RBZ0001697	1	12/01/2016	auckland
+Bon Appetit	RBZ0005580	1	12/01/2016	lmxac
+Brides	RBZ0005640	1	12/01/2016	librariesni
+Britain	RBZ0000166	1	03/01/2016	greatermanchester
+British GQ	RBZ0000429	1	01/01/2017	banqqc
+British Vogue	RBZ0007086	2	11/01/2016	wfhowes
+Canadian Living	RBZ0000187	1	01/01/2017	shortgrassab
+Canoe & Kayak	RBZ0000189	1	01/01/2017	rbdigitalgatewaytrial
+Car and Driver	RBZ0000191	7	01/01/2017	lakelandcoop
+Caravan and Motorhome On Tour	RBZ0008237	4	08/01/2016	brisbane
+Chat	RBZ0005335	2	11/03/2016	llcuk
+Chat Passion	RBZ0000897	2	12/01/2016	llcuk
+Chicago Magazine	RBZ0000199	3	12/01/2016	huntleyil
+Classic Cars	RBZ0007872	1	01/01/2017	wfhowes
+Clin d'oeil	RBZ0000224	2	01/01/2017	auckland
+Closer	RBZ0007873	2	12/06/2016	douglascountylibraries
+Cloth Paper Scissors	RBZ0000225	1	03/01/2016	westchesterin
+Conde Nast Traveler	RBZ0005577	6	12/01/2016	lmxac
+Conde Nast Traveller UK	RBZ0000235	2	01/01/2016	lgma
+Cook's Country	RBZ0005495	2	12/01/2016	rbdigitalgatewaytrial
+Cook's Illustrated	RBZ0005493	2	11/01/2016	capitalareadistrict
+COOL!	RBZ0000241	2	01/01/2017	canada50ON
+Cosmopolitan	RBZ0000242	3	10/01/2016	milwaukeecountyfederatedwi
+Cosmopolitan Australia	RBZ0005122	6	01/01/2017	auckland
+Cosmopolitan FR	RBZ0002039	1	01/01/2017	wapldmc
+Cosmopolitan UK	RBZ0000247	12	01/01/2017	bromley
+Country Homes & Interiors	RBZ0000253	13	01/01/2017	bromley
+Country Life	RBZ0000254	15	11/30/2016	brisbane
+Country Living	RBZ0000256	6	11/01/2016	easternregionallibraries
+Country Living UK	RBZ0000257	7	01/01/2017	banqqc
+Country Style	RBZ0004004	1	10/01/2016	SAPLN
+Country Walking	RBZ0007874	7	07/01/2016	hertfordshirelibraries
+Creative Knitting	RBZ0007543	1	06/01/2016	wapldmc
+Creative PaperCraft	RBZ0008937	1	08/01/2016	SAPLN
+Cross Stitch Collection	RBZ0000265	9	11/01/2016	easternregionallibraries
+Cuisine et Vins de France	RBZ0002909	1	12/01/2016	wapldmc
+Cyclist Australia	RBZ0005965	2	07/01/2016	southeastzone
+Decanter	RBZ0000278	1	01/01/2017	lgma
+delicious	RBZ0004005	2	11/01/2016	christchurch
+Delicious UK	RBZ0008266	1	11/01/2016	hertfordshirelibraries
+Destination Weddings & Honeymoons	RBZ0000285	1	09/01/2016	rbdigitaltrial
+Digital Camera World	RBZ0000294	14	09/01/2016	hertfordshirelibraries
+Digital Photo	RBZ0000295	2	10/01/2016	huttcity
+Digital Photographer	RBZ0004544	9	11/01/2015	westsussex
+Digital SLR Photography	RBZ0000298	5	12/01/2016	hertfordshirelibraries
+Discover	RBZ0000304	3	09/01/2016	milwaukeecountyfederatedwi
+Dogs Life	RBZ0000307	1	09/01/2016	bridgeportwv
+Dolly Magazine Australia	RBZ0007754	1	01/01/2017	Ipswichlibrary
+donna hay magazine	RBZ0004006	2	04/01/2016	auckland
+donna hay: Fresh + Light	RBZ0008436	2	11/01/2016	goldcoastau
+Dr. Oz The Good Life	RBZ0006802	2	12/01/2016	cinhamiltonoh
+Dreamscapes Travel & Lifestyle Magazine	RBZ0000316	1	01/01/2016	SAPLN
+Dwell	RBZ0000319	4	12/01/2016	mlcmo
+Earth Garden	RBZ0007508	1	09/01/2016	wapldmc
+EARTH Magazine	RBZ0000324	3	12/01/2016	lmxac
+EatingWell	RBZ0000330	2	11/01/2016	knoxtn
+Edge	RBZ0002740	1	06/01/2016	eastsussex
+Elle	RBZ0000337	7	01/01/2017	seacliffny
+ELLE Australia	RBZ0007665	4	10/01/2016	auckland
+Elle Canada	RBZ0000338	2	01/01/2017	strathconacoab
+Elle Decoration UK	RBZ0006993	4	10/01/2016	hertfordshirelibraries
+Empire	RBZ0007876	12	10/01/2016	greatermanchester
+ESPN The Magazine	RBZ0000346	1	12/12/2016	huntleyil
+Esquire	RBZ0000347	1	11/01/2016	woollahra
+Esquire UK	RBZ0000349	2	11/01/2016	auckland
+Essentials Magazine	RBZ0001036	1	12/01/2016	wfhowes
+Evo	RBZ0000356	5	01/01/2017	SAPLN
+F1 Racing Australia	RBZ0000924	5	12/01/2016	SAPLN
+Family Circle	RBZ0000362	2	11/01/2014	harfordcountymd
+Family Handyman	RBZ0000363	1	06/01/2016	milwaukeecountyfederatedwi
+FASHION FOCUS SETS.DRESSES	RBZ0009017	1	03/01/2017	rbdigitalgatewaytrial
+FASHION FOCUS WOMAN BEACHWEAR	RBZ0009091	1	10/01/2017	rbdigitaltrial
+Feng Shui World	RBZ0003279	1	08/01/2016	auckland
+FIDO Friendly	RBZ0000371	1	05/01/2016	harfordcountymd
+Field & Stream	RBZ0000372	1	07/01/2015	harfordcountymd
+First for Women	RBZ0008598	1	01/02/2017	douglascountylibraries
+Fit & Well	RBZ0007807	1	11/01/2016	SAPLN
+Food Network Magazine	RBZ0000383	3	10/01/2016	wales
+Foreword Reviews	RBZ0001481	1	08/01/2016	wapldmc
+Future Music	RBZ0000395	1	11/01/2016	SAPLN
+Games World of Puzzles	RBZ0000398	1	01/01/2017	easternregionallibraries
+Gamesmaster	RBZ0000399	2	12/01/2016	westsussex
+Gardening Australia	RBZ0000404	3	07/01/2016	thehills
+Girlfriend Australia	RBZ0000409	1	11/01/2016	auckland
+Glamour	RBZ0005576	4	01/01/2017	lakelandcoop
+Glamour UK	RBZ0000411	1	12/01/2016	lgma
+Gluten-Free Living	RBZ0000412	1	05/01/2016	southeastzone
+Golf Australia	RBZ0000415	3	05/01/2016	shorelink
+Golf Monthly	RBZ0000416	6	08/01/2016	northyorkshire
+Good Health	RBZ0005115	1	01/01/2017	campbelltown
+Good Housekeeping	RBZ0000420	10	12/01/2016	cinhamiltonoh
+Good Housekeeping UK	RBZ0000423	8	12/01/2016	Suffolk
+Gourmet Traveller	RBZ0006979	1	11/01/2016	wapldmc
+GQ	RBZ0005575	2	10/01/2016	douglascountylibraries
+GQ Australia	RBZ0000427	2	11/01/2016	southeastzone
+Grazia	RBZ0007879	2	11/21/2016	kensingtonandchelsea
+Great Walks	RBZ0008608	1	11/15/2016	gleneira
+Harper's Bazaar	RBZ0000447	2	12/01/2016	oclnny
+Harper's Bazaar Australia	RBZ0005127	1	11/01/2016	lakemacquarie
+Healthy Food Guide	RBZ0005551	4	11/01/2016	hornsby
+Heat	RBZ0007880	4	11/19/2016	derbyshire
+HELLO! magazine	RBZ0000458	9	11/28/2016	christchurch
+Hemmings Motor News	RBZ0008656	2	01/01/2017	rbdigitaltrial
+HGTV Magazine	RBZ0003848	1	07/01/2016	oclnny
+High Five	RBZ0007848	3	01/01/2017	metropolitanok
+High Times	RBZ0001370	1	11/01/2016	rbdigitalgatewaytrial
+Highlights for Children	RBZ0007847	1	01/01/2017	lakelandcoop
+HOLA	RBZ0001200	1	11/23/2016	llcuk
+Homes & Gardens	RBZ0000472	9	12/01/2016	porirua
+Homes +	RBZ0007756	2	11/01/2016	SAPLN
+homestyle	RBZ0005143	1	12/01/2016	christchurch
+Hot Rod	RBZ0000478	2	01/01/2017	wapldmc
+Hyper	RBZ0007997	1	03/01/2016	SAPLN
+Ideal Home	RBZ0000488	10	06/01/2016	bromley
+Ideas	RBZ0000957	1	12/01/2016	porirua
+ImagineFX	RBZ0000489	3	10/01/2016	SAPLN
+In Touch Weekly	RBZ0008596	6	11/21/2016	douglascountylibraries
+India Today	RBZ0002353	4	09/19/2016	auckland
+Inked	RBZ0000491	1	07/01/2015	librariesni
+Inside Out	RBZ0004016	3	10/01/2016	yarraplenty
+Inside Sport	RBZ0000496	1	08/01/2016	lakemacquarie
+Interweave Knits	RBZ0000501	9	11/01/2016	huntleyil
+iPad & iPhone User	RBZ0000502	1	11/01/2016	calgaryab
+Just Bikes	RBZ0000507	5	11/01/2016	SAPLN
+Kiplinger's Personal Finance	RBZ0000514	11	01/01/2017	lakelandcoop
+Kiteworld Magazine Travel Guide 2015	RBZ0008357	1	03/01/2016	rbdigitaltrial
+Knitting & Crochet from Woman’s Weekly	RBZ0007343	9	01/01/2017	lgma
+L'auto-journal acheteur	RBZ0004713	1	11/01/2016	banqqc
+Le Journal du dimanche	RBZ0008537	1	12/04/2016	rbdigitaltrial
+Le Point	RBZ0001404	1	11/03/2016	rbdigitaltrial
+Life & Style Weekly	RBZ0008597	2	12/19/2016	rbdigitaltrial
+Linux Format	RBZ0002743	4	11/01/2016	wapldmc
+Lion’s Roar	RBZ0005077	2	01/01/2017	easternregionallibraries
+Living Etc	RBZ0000901	3	02/01/2015	wfhowes
+Lonely Planet Traveller	RBZ0006756	23	01/01/2017	brisbane
+Love to make with Woman's Weekly	RBZ0007342	2	06/01/2016	SAPLN
+MacFormat	RBZ0000552	1	08/01/2016	hertfordshirelibraries
+MacLife	RBZ0005068	1	11/01/2016	calgaryab
+Mania	RBZ0007861	2	06/01/2016	auckland
+Marie Claire	RBZ0000565	3	11/01/2016	douglascountylibraries
+Marie Claire - France	RBZ0002311	4	01/01/2017	banqqc
+Marie Claire - UK	RBZ0000566	13	01/01/2017	rotherhammbc
+Marie France	RBZ0004237	1	11/01/2016	banqqc
+Martha Stewart Living	RBZ0000569	16	09/01/2016	ocpubliclibraries
+Maxim	RBZ0000573	5	05/01/2015	stlouismo
+MCN	RBZ0007883	1	11/30/2016	auckland
+Men's Fitness	RBZ0000576	2	11/01/2016	stlouismo
+Men's Health	RBZ0000578	3	10/01/2016	knoxtn
+Men's Health Australia	RBZ0000579	4	01/01/2017	defenceau
+Men's Health UK	RBZ0000580	6	10/01/2016	wales
+Men's Journal	RBZ0000581	3	01/01/2017	knoxtn
+Mezzanine	RBZ0008235	1	01/01/2017	SAPLN
+Model Rail	RBZ0007884	1	06/01/2016	wales
+MOJO	RBZ0007885	3	01/01/2017	kent
+Mollie Makes	RBZ0003271	15	03/01/2017	kent
+Money Australia	RBZ0005793	1	12/01/2016	brisbane
+Mother Earth Living	RBZ0005254	2	01/01/2017	lakelandcoop
+MOTHER EARTH NEWS	RBZ0000593	3	12/01/2016	auckland
+MOTHER EARTH NEWS Wiser Living Series	RBZ0000595	1	12/01/2016	westchesterin
+Motor Trend	RBZ0000601	16	01/01/2017	milwaukeecountyfederatedwi
+Muscle & Fitness	RBZ0005761	2	10/01/2016	fountaindaleil
+National Enquirer	RBZ0005759	2	12/05/2016	calgaryab
+National Geographic	RBZ0000618	4	11/01/2016	douglascountylibraries
+National Geographic Traveler	RBZ0000619	6	12/01/2016	huntleyil
+net	RBZ0000002	5	09/01/2016	wales
+New Scientist Australian Edition	RBZ0006376	5	11/26/2016	abc
+New Scientist The Collection	RBZ0007315	4	04/01/2016	easternregionallibraries
+New York Review of Books	RBZ0000627	7	12/22/2016	lgma
+Newsweek	RBZ0000629	14	12/09/2016	cinhamiltonoh
+NEXT	RBZ0008905	2	12/01/2016	auckland
+Nourish magazine	RBZ0007632	5	11/01/2016	moretonbay
+Now	RBZ0000902	6	08/15/2016	greatermanchester
+NW Magazine	RBZ0007759	1	12/05/2016	rbdigitalgatewaytrial
+NZ Lifestyle Block	RBZ0001714	1	09/01/2016	huttcity
+NZBusiness+Management	RBZ0002301	5	09/01/2015	librarysupply
+O, The Oprah Magazine	RBZ0000635	23	01/01/2017	southeastzone
+Octane	RBZ0000636	3	01/01/2017	auckland
+Official PlayStation Magazine - UK Edition	RBZ0003970	1	11/01/2016	highlandlibraryservice
+OK! Magazine	RBZ0000638	16	12/12/2016	auckland
+OK! Magazine Australia	RBZ0007760	1	10/10/2016	SAPLN
+Outdoor Photographer	RBZ0000651	1	08/01/2015	auckland
+Overlander 4WD	RBZ0007812	1	07/01/2016	southeastzone
+Oxygen Magazine Australian Edition	RBZ0008811	1	09/01/2016	SAPLN
+Paleo Magazine	RBZ0004359	1	06/01/2016	cinhamiltonoh
+Parents	RBZ0005912	1	07/01/2016	uplc
+PC & Tech Authority	RBZ0000659	5	11/01/2016	brisbane
+PC Magazine	RBZ0000660	4	12/01/2016	mainincnj
+PC Pro	RBZ0000985	16	12/01/2016	hertfordshirelibraries
+PCWorld	RBZ0000662	2	07/01/2016	westsussex
+People Magazine South Africa	RBZ0005960	2	10/21/2016	rbdigitalbusinesstrial
+Peppermint Magazine	RBZ0000663	4	09/01/2016	SAPLN
+Photography Week	RBZ0007637	1	12/01/2016	SAPLN
+PieceWork	RBZ0000669	2	09/01/2016	cinhamiltonoh
+Plane & Pilot	RBZ0000671	1	12/01/2016	auckland
+Poets & Writers Magazine	RBZ0000673	3	11/01/2016	wapldmc
+Point de vue	RBZ0001461	1	11/23/2016	banqqc
+Popular Mechanics	RBZ0000676	2	12/01/2016	douglascountylibraries
+Popular Photography	RBZ0000677	5	01/01/2017	lakelandcoop
+Popular Science	RBZ0000678	4	09/01/2016	southernsydney
+Practical Classics	RBZ0007888	2	01/01/2017	wfhowes
+Prevention	RBZ0000683	4	11/01/2016	auckland
+Q Magazine	RBZ0007892	2	10/01/2015	greatermanchester
+Rachael Ray Every Day	RBZ0000354	3	06/01/2016	harfordcountymd
+Radio Times	RBZ0007730	5	12/03/2016	llcuk
+Rapid Bikes	RBZ0005753	5	11/01/2016	SAPLN
+Reader's Digest	RBZ0000704	2	12/01/2016	greatermanchester
+Reader's Digest International	RBZ0000089	1	09/01/2016	SAPLN
+recipes+	RBZ0005119	1	12/01/2016	wapldmc
+Red UK	RBZ0006994	4	01/01/2017	lgma
+Redbook	RBZ0000709	6	11/01/2016	southeastzone
+RIDE Cycling Review	RBZ0000718	1	10/01/2016	SAPLN
+Rolling Stone	RBZ0000729	2	12/15/2016	milwaukeecountyfederatedwi
+Rolling Stone - France	RBZ0001464	1	12/01/2016	banqqc
+Rolling Stone Australia	RBZ0007761	4	01/01/2017	hamilton
+Rugby World	RBZ0001037	3	11/01/2016	wapldmc
+Runner's World	RBZ0000732	1	09/01/2014	harfordcountymd
+Runner's World UK	RBZ0006988	4	01/01/2017	eastriding
+Saveur	RBZ0000736	1	12/01/2016	auckland
+Screen Education	RBZ0003861	2	01/01/2017	SAPLN
+SFX	RBZ0001001	5	01/01/2017	Suffolk
+Shape	RBZ0000753	1	07/01/2015	harfordcountymd
+Shutterbug	RBZ0000757	1	11/01/2016	calgaryab
+Simply Crochet	RBZ0005583	17	01/01/2017	librariesni
+Skiing	RBZ0000761	1	11/01/2016	rbdigitaltrial
+SkyNews	RBZ0000763	1	01/01/2017	calgaryab
+Smith Journal	RBZ0000769	1	01/01/2017	easternregionallibraries
+Smithsonian Magazine	RBZ0000770	8	01/01/2015	lmxac
+Soap Opera Digest	RBZ0001241	1	12/05/2016	palmbeachfl
+Southern Lady	RBZ0007831	1	01/01/2017	lakelandcoop
+Spirituality & Health Magazine	RBZ0000776	3	05/01/2015	SAPLN
+Star Magazine	RBZ0000780	2	07/04/2016	fountaindaleil
+Stuff UK	RBZ0007092	8	12/01/2016	hertfordshirelibraries
+Style At Home	RBZ0000907	12	10/01/2016	wfhowes
+Successful Farming	RBZ0000787	1	11/01/2016	banqqc
+Super Food Ideas	RBZ0004019	5	11/01/2016	frasercoast
+Surfing World Magazine	RBZ0000791	1	01/01/2017	lakemacquarie
+T3	RBZ0006995	2	12/01/2016	SAPLN
+Taste of the South	RBZ0007821	6	01/01/2017	lakelandcoop
+Taste.com.au	RBZ0000079	1	12/01/2016	Ipswichlibrary
+Teen Vogue	RBZ0005639	1	12/01/2016	midyorkny
+The Advocate	RBZ0000028	1	10/01/2016	wapldmc
+The Artist's Magazine	RBZ0005320	3	10/01/2016	SAPLN
+The Atlantic	RBZ0005403	2	09/01/2016	midyorkny
+The Australian Women's Weekly	RBZ0006978	15	11/01/2016	gleneira
+The Economist	RBZ0000331	12	05/28/2016	lgma
+The Field	RBZ0001040	1	12/01/2016	auckland
+The Hockey News	RBZ0000462	1	12/05/2016	strathconacoab
+The New Yorker	RBZ0006233	16	07/04/2016	cinhamiltonoh
+The Week	RBZ0002827	6	11/19/2016	banqqc
+The Week Magazine	RBZ0005102	3	11/18/2016	rbdigitaltrial
+The Writer	RBZ0000886	1	01/01/2017	oclnny
+Today's Golfer	RBZ0007894	1	01/01/2017	lgma
+Total Film	RBZ0001015	1	01/01/2017	librariesni
+Traditional Home	RBZ0000810	1	09/01/2016	douglascountylibraries
+Trains	RBZ0000811	2	01/01/2017	calgaryab
+Travel + Leisure India & South Asia	RBZ0002642	1	06/01/2016	brisbane
+TV Guide Magazine	RBZ0005492	3	11/21/2016	milwaukeecountyfederatedwi
+Two Wheels	RBZ0007913	4	02/01/2016	SAPLN
+UNCUT	RBZ0007155	1	12/01/2016	wapldmc
+Us Weekly	RBZ0000831	2	09/19/2016	baldwinny
+Vanity Fair	RBZ0005579	10	11/01/2016	christchurch
+Vegetarian Today	RBZ0000839	4	11/01/2013	oclnny
+Victoria	RBZ0007833	2	01/01/2017	lakelandcoop
+Vogue	RBZ0006586	2	11/01/2016	librariesni
+Vogue Magazin (D)	RBZ0004535	1	01/01/2017	banqqc
+Wallpaper	RBZ0006999	2	05/01/2016	auckland
+Webuser	RBZ0001026	16	11/30/2016	southeastzone
+Weight Watchers	RBZ0000855	2	07/01/2016	SAPLN
+Wilderness	RBZ0002475	1	08/01/2016	wellingtoncity
+Wine Enthusiast Magazine	RBZ0001717	3	11/01/2016	auckland
+Winestate Magazine	RBZ0000873	3	01/01/2016	wapldmc
+WIRED	RBZ0005574	3	11/01/2016	abc
+WIRED UK	RBZ0003876	1	12/01/2016	llcuk
+Woman	RBZ0001045	16	09/05/2016	sheffield
+Woman & Home	RBZ0000915	15	12/01/2016	bromley
+Woman & Home Feel Good You	RBZ0006271	1	03/01/2016	llcuk
+Woman's Day	RBZ0005128	7	11/28/2016	selwyndistrict
+Woman's Day	RBZ0000875	4	11/01/2013	harfordcountymd
+Woman's Own	RBZ0001046	10	12/12/2016	greatermanchester
+Woman's Weekly	RBZ0000911	19	09/13/2016	SAPLN
+Woman's World	RBZ0008599	9	12/05/2016	pimacoaz
+Women's Health	RBZ0000880	7	12/01/2016	douglascountylibraries
+Women's Health and Fitness Magazine	RBZ0005597	3	07/01/2016	wapldmc
+WOOD Magazine	RBZ0000881	2	12/01/2016	auckland
+Woodcraft Magazine	RBZ0000882	1	12/01/2016	snap
+World Soccer	RBZ0000912	1	08/01/2016	llcuk
+Yachting Monthly	RBZ0000913	1	10/01/2016	wales
+Yachting World	RBZ0000914	5	12/01/2016	shorelink
+Yen	RBZ0000888	2	05/01/2016	SAPLN
+Yoga Journal	RBZ0000890	1	12/01/2016	librariesni
+Your Home and Garden	RBZ0008877	2	09/01/2016	auckland
+Yours Magazine	RBZ0007920	1	11/08/2016	llcuk
+Total	1314		

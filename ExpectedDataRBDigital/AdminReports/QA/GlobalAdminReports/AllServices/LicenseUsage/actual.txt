@@ -1,0 +1,7 @@
+For Period: from 04/01/2019 to 04/17/2019
+Service	Date	Library Name	System Name	State	Country	Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
+method-test-prep	04/11/2019	8080 Test Library		Alabama	US	test51				apr11@gmail.com	test1	7-day		1	1
+acorntv	04/17/2019	8080 Test Library		Alabama	US	test51				apr17@gmail.com	test1	7-day		1	0
+learnitlive	04/17/2019	8080 Test Library		Alabama	US	test51				apr17@gmail.com	test1	7-day		1	0
+method-test-prep	04/17/2019	8080 Test Library		Alabama	US	test51				apr17@gmail.com	test1	7-day		1	1
+Total	4	2

@@ -1,0 +1,20 @@
+Screen Name	Email	Library	AccountId	Country	State	Start Date	End Date	System Name
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	10/01/2017	10/01/2018	
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	09/01/2016	09/30/2017	
+Barney Allan	barney@digitalcontentassociates.com	Stadtbibliothek Bremen	7220584	DE	Bremen	12/16/2018	12/31/2019	
+Barney Allan	barney@digitalcontentassociates.com	RBdigital Global Catalog	Trial	US	Maryland	03/20/2017	02/28/2019	
+Barney Allan	barney@digitalcontentassociates.com	Shenzhen Library	Trial	CN	China	12/12/2018	01/12/2019	TRIAL
+Barney Allan	barney@digitalcontentassociates.com	Stadtbibliothek Bremen Trial	Trial	DE	Bremen	12/07/2018	12/31/2018	
+Barney Allan	barney@digitalcontentassociates.com	Bilecik Seyh Edebali University	Trial	TR	Turkey	11/13/2018	12/14/2018	
+Barney Allan	barney@digitalcontentassociates.com	Koc University	Trial	TR	Turkey	11/13/2018	12/14/2018	
+Barney Allan	barney@digitalcontentassociates.com	Xinghai Conservatory of Music	Trial	CN	China	10/24/2018	11/30/2018	
+Barney Allan	barney@digitalcontentassociates.com	Shenzhen Library	Trial	CN	China	11/01/2018	11/30/2018	TRIAL
+Barney Allan	barney@digitalcontentassociates.com	Shenzhen Library	Trial	CN	China	08/27/2018	10/31/2018	TRIAL
+Barney Allan	barney@digitalcontentassociates.com	China Conservatory of Music Trial	Trial	CN	China	05/17/2018	06/30/2018	
+Barney Allan	barney@digitalcontentassociates.com	Hong Kong Central Library Trial	Trial	HK	Hong Kong	05/29/2018	06/30/2018	
+Barney Allan	barney@digitalcontentassociates.com	Central Conservatory of Music Trial	Trial	CN	China	05/17/2018	06/30/2018	
+Barney Allan	barney@digitalcontentassociates.com	Shanghai Library Trial	Trial	CN	China	04/16/2018	05/31/2018	
+Barney Allan	barney@digitalcontentassociates.com	Beijing Institute of Fashion Technology	Trial	CN	China	04/19/2018	05/20/2018	
+Barney Allan	barney@digitalcontentassociates.com	Sabah State Library	Trial	MY	Malaysia	11/15/2017	12/31/2017	
+Barney Allan	barney@digitalcontentassociates.com	Hong Kong Central Library Trial	Trial	HK	Hong Kong	02/17/2017	04/11/2017	
+Brad Doss	bdoss@recordedbooks.com	Cobb County Public Library System	7207215	US	Georgia	09/01/2019	08/31/2020	

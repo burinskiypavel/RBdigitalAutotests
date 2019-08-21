@@ -1,0 +1,20 @@
+Screen Name	Email	Library	AccountId	Country	State	Start Date	End Date	System Name
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	09/30/2015	10/01/2018	
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	05/01/2013	09/30/2013	
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	05/01/2013	05/19/2013	
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	05/01/2013	05/01/2013	
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama		07/31/2012	
+Barney Allan	barney@digitalcontentassociates.com	RBdigital Global Catalog		US	Maryland	01/01/2019	12/31/2019	
+Barney Allan	barney@digitalcontentassociates.com	Specialized Presidential Council for Education and Scientific Research (SPCESR)	7154981	EG	Cairo	01/01/2019	12/31/2019	
+Barney Allan	barney@digitalcontentassociates.com	Specialized Presidential Council for Education and Scientific Research (SPCESR)	7154981	EG	Cairo	01/01/2018	12/31/2018	
+Barney Allan	barney@digitalcontentassociates.com	RBdigital Global Catalog		US	Maryland	02/01/2017	12/31/2018	
+Barney Allan	barney@digitalcontentassociates.com	Hong Kong Central Library Trial	Trial	HK	Hong Kong	06/01/2018	06/30/2018	
+Barney Allan	barney@digitalcontentassociates.com	Sabah State Library	Trial	MY	Malaysia	11/15/2017	12/31/2017	
+Barney Allan	barney@digitalcontentassociates.com	Specialized Presidential Council for Education and Scientific Research (SPCESR)	7154981	EG	Cairo	01/01/2017	12/31/2017	
+Barney Allan	barney@digitalcontentassociates.com	RBdigital Global Catalog		US	Maryland	02/01/2016	01/31/2017	
+Barney Allan	barney@digitalcontentassociates.com	Specialized Presidential Council for Education and Scientific Research (SPCESR)	7154981	EG	Cairo	01/01/2016	12/31/2016	
+Barney Allan	barney@digitalcontentassociates.com	Specialized Presidential Council for Education and Scientific Research (SPCESR)	7154981	EG	Cairo	12/01/2015	12/31/2015	
+Barney Allan	barney@digitalcontentassociates.com	Saudi Digital Library		SA	MD	04/21/2015	06/30/2015	
+BethanyLeach	bleach@recordedbooks.com	Charlevoix Public Library	7047496	US	Michigan	01/01/2017	12/31/2017	
+BethanyLeach	bleach@recordedbooks.com	Livonia Public Library	7187908	US	Michigan	08/16/2016	08/31/2017	
+BethanyLeach	bleach@recordedbooks.com	Charlevoix Public Library	7047496	US	Michigan	01/01/2016	12/31/2016	

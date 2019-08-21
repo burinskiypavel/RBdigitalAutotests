@@ -1,0 +1,4 @@
+Screen Name	Email	Library	AccountId	Country	State	Start Date	End Date	System Name
+Pedro Moura	pedro.moura@wfhowes.co.uk	Danskernes Digitale Bibliotek - Qello Concerts	7220604	DK	Denmark	01/01/2019	12/31/2019	
+Pedro Moura	pedro.moura@wfhowes.co.uk	Danskernes Digitale Bibliotek - Qello Concerts	7220604	DK	Denmark	09/16/2017	12/31/2018	
+Total	2

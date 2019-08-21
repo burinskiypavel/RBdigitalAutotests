@@ -1,0 +1,381 @@
+Screen Name	Email	Library	AccountId	Country	State	System Name
+Stelly Cattell	scattell@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+Cooper Cobb	dcobb@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+BradGrayTrialSite	bgray@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+Becky Bramall	becky.bramall@wfhowes.co.uk	RBdigital Trial Customer Library		US	Maryland	
+Sarah Hayes	sarah.hayes@wfhowes.co.uk	W. F. Howes Trial	TEST	GB	England	
+Joanna Palmer	joanna.palmer@gloucestershire.gov.uk	W. F. Howes Trial	TEST	GB	England	
+Kate Aston	kate.aston-williams@gloucestershire.gov.uk	W. F. Howes Trial	TEST	GB	England	
+Sarah Evans	sarah.evans@gloucestershire.gov.uk	W. F. Howes Trial	TEST	GB	England	
+peter kobilarov	petar.kobilarov@missing-link.de	W. F. Howes Trial	TEST	GB	England	
+pedro moura	pedro.moura@wfhowes.co.uk	W. F. Howes Trial	TEST	GB	England	
+qatest1	qatest@gmail.com	W. F. Howes Trial	TEST	GB	England	
+Jim Schmidt	jschmidt@recordedbooks.com	Skipjack Library	test	US	Maryland	
+Scott Williams	swilliams@recordedbooks.com	Skipjack Library	test	US	Maryland	
+skipjackadmin1	skipjackadmin1@gmail.com	Skipjack Library	test	US	Maryland	
+jen Admin test	jennie01@gmail.com	Skipjack Library	test	US	Maryland	
+Brad Gray	bradleypgray@recordedbooks.com	Skipjack Library	test	US	Maryland	
+sunnysales	sunnysales@gmail.com	Skipjack Library	test	US	Maryland	
+Brooks Bushnell	bbushnell@recordedbooks.com	Skipjack Library	test	US	Maryland	
+becky	becky.stabik@wfhowes.co.uk	W. F. Howes Internal Test Site	TEST	GB	England	
+Chris Simmons	chris.simmons@ottawa.ca	Ottawa Public Library	7209905	CA	Ontario	
+Stephen McAllister	stephen.mcallister@biblioottawalibrary.ca	Ottawa Public Library	7209905	CA	Ontario	
+Jo-Ann Obrien	jo-ann.obrien@biblioottawalibrary.ca	Ottawa Public Library	7209905	CA	Ontario	
+dcrawley	devin.crawley@ottawa.ca	Ottawa Public Library	7209905	CA	Ontario	
+Kevin Wollenschlager	kevin.wollenschlager@biblioottawalibrary.ca	Ottawa Public Library	7209905	CA	Ontario	
+Zoe Pappas-Acreman	zoe.pappas-acreman@ottawa.ca	Ottawa Public Library	7209905	CA	Ontario	
+Xiao Feng Xing	xiaofeng.xing@biblioottawalibrary.ca	Ottawa Public Library	7209905	CA	Ontario	
+Name1	test@gmail.com	RBdigital Internal Library	test	US	Maryland	
+QA	qatest@gmail.com	RBdigital Internal Library	test	US	Maryland	
+qatest	qatest@recordedbooks.com	RBdigital Internal Library	test	US	Maryland	
+Kevin Deamandel	kevin@deamandel.co	RBdigital Internal Library	test	US	Maryland	
+Ellen Hathaway	hathaway@clark.lib.wv.us	Morgantown Public Library	7202570	US	West Virginia	WV Deli-7120407
+Sarah Palfrey	sarah.palfrey@clark.lib.wv.us	Morgantown Public Library	7202570	US	West Virginia	WV Deli-7120407
+Pat Barnett	barnettp@weirton.lib.wv.us	Mary H. Weir Public Library	7202571	US	West Virginia	WV Deli-7120407
+Richard Rekowski	rekowski@weirton.lib.wv.us	Mary H. Weir Public Library	7202571	US	West Virginia	WV Deli-7120407
+Erika Reed	ereed@mcpls.org	Marion County Public Library	7202572	US	West Virginia	WV Deli-7120407
+Larissa Dean	ldean@mcpls.org	Marion County Public Library	7202572	US	West Virginia	WV Deli-7120407
+Sharon Saye	saye@bridgeportwv.com	Bridgeport Public Library	7151192	US	West Virginia	WV Deli-7120407
+Susan Murphy	susan.murphy@kanawhalibrary.org	Kanawha County Public Library	7202573	US	West Virginia	WV Deli-7120407
+Sarah Mitchell	sarah.mitchell@kanawhalibrary.org	Kanawha County Public Library	7202573	US	West Virginia	WV Deli-7120407
+Seth Newell	seth.newell@kanawhalibrary.org	Kanawha County Public Library	7202573	US	West Virginia	WV Deli-7120407
+Samantha Hale	samantha.hale@mail.mln.lib.wv.us	Fayette County Public Library	7202574	US	West Virginia	WV Deli-7120407
+Todd Duncan	todd@scplwv.org	South Charleston Public Library	7202575	US	West Virginia	WV Deli-7120407 - SVOD - Acorn, Indieflix
+Jill Rafter	jill.rafter@clark.lib.wv.us	Clarksburg Harrison Public Library	7202576	US	West Virginia	WV Deli-7120407
+Tammy Richards	richards@clark.lib.wv.us	Clarksburg Harrison Public Library	7202576	US	West Virginia	WV Deli-7120407
+Gail Westbrook	gail.westbrook@glenville.edu	Glenville State College	7202577	US	West Virginia	WV Deli-7120407
+Jason Gum	jason.gum@glenville.edu	Glenville State College	7202577	US	West Virginia	WV Deli-7120407
+Jane Friedmann	jane.friedmann@glenville.edu	Glenville State College	7202577	US	West Virginia	WV Deli-7120407
+Amy Kastigar	ocplweb@weirton.lib.wv.us	Ohio County Public Library	7202578	US	West Virginia	WV Deli-7120407 - Acorn, Qello, Indieflix
+Dottie Thomas	thomasd@weirton.lib.wv.us	Ohio County Public Library	7202578	US	West Virginia	WV Deli-7120407 - Acorn, Qello, Indieflix
+Toru Chiba	Toru.Chiba@fairmontstate.edu	Fairmont State University	7202580	US	West Virginia	WV Deli-7120407
+Charley Hively	charley.hively@fairmontstate.edu	Fairmont State University	7202580	US	West Virginia	WV Deli-7120407
+Becky Plimpton	bplimpton@cwmars.org	Joshua Hyde Public Library	7219909	US	Massachusetts	
+Lauren	lrouhana@hernandocounty.us	Hernando County Public Library	7198690	US	Florida	
+becky stabik	becky.stabik@wfhowes.co.uk	W F Howes Customer Services		GB	England	
+Pedro Moura	pedro.moura@wfhowes.co.uk	W F Howes Customer Services		GB	England	
+Shelley Pruitt	shelleypruitt@kyol.net	Green County Public Library	7203130	US	Kentucky	
+Larry Fischer	lfischer@gcpl.lib.oh.us	Greene County Public Library	7157114	US	Ohio	Central Library Consortium, Acorn Only
+Tamar Kreke	tkreke@gcpl.lib.oh.us	Greene County Public Library	7157114	US	Ohio	Central Library Consortium, Acorn Only
+Sheri Holland	holland.sheri@ocls.info	Orange County Library System	7147680	US	Florida	No MTP
+Cassie Shivers	shivers.cassandra@ocls.info	Orange County Library System	7147680	US	Florida	No MTP
+Digital Help Desk	digitalhelpdesk@ocls.info	Orange County Library System	7147680	US	Florida	No MTP
+Jo Ann Sampson	sampson.joann@ocls.info	Orange County Library System	7147680	US	Florida	No MTP
+Christina Adelman	adelman.christina@ocls.info	Orange County Library System	7147680	US	Florida	No MTP
+Vanessa Neblett	neblett.vanessa@ocls.info	Orange County Library System	7147680	US	Florida	No MTP
+David Noe	noe.david@ocls.info	Orange County Library System	7147680	US	Florida	No MTP
+Harriet Protos	libfl@mfo.org	Multinational Force and Observers	7149542	EG	Military	
+Celine Maciejewski	cmacieje@myepl.org	Elkhart Public Library	7220058	US	Indiana	
+Katrina Maust	kmaust@myepl.org	Elkhart Public Library	7220058	US	Indiana	
+Trevor Wendzonka	twendzonka@myepl.org	Elkhart Public Library	7220058	US	Indiana	
+Cheryl Morales	cmorales@pplc.us	PPLC	7220079	US	Florida	
+Clearwater Reference Desk	referencedesk@myclearwater.com	PPLC	7220079	US	Florida	
+David Stoner	dstoner@pplc.us	PPLC	7220079	US	Florida	
+Anita Carroll	acarroll@granvillelibrary.org	Granville Public Library	7204626	US	Ohio	
+Dinah Bonesteel	bonested@cobbcat.org	Cobb County Public Library System	7207216	US	Georgia	
+Jonathan McKeown	mckeownj@cobbcat.org	Cobb County Public Library System	7207216	US	Georgia	
+Deborah McLaughlin	mclaughd@cobbcat.org	Cobb County Public Library System	7207216	US	Georgia	
+Shelly Zhang	zhangs@cobbcat.org	Cobb County Public Library System	7207216	US	Georgia	
+Burr Osoinach	osoinacb@cobbcat.org	Cobb County Public Library System	7207216	US	Georgia	
+John Willard	john.willard@cobbcounty.org	Cobb County Public Library System	7207216	US	Georgia	
+Ralph Bingham	rbingham@gcls.org	Gloucester County Library	7147132	US	New Jersey	
+Bryan Bonfiglio	bbonfiglio@gcls.org	Gloucester County Library	7147132	US	New Jersey	
+Elayna Turner	eturner@gcls.org	Gloucester County Library	7147132	US	New Jersey	
+GCLS Database Stats	dbstats@gcls.org	Gloucester County Library	7147132	US	New Jersey	
+Jonathan Amey	jamey@gcls.org	Gloucester County Library	7147132	US	New Jersey	
+Jason Scott	scottj@hammond.lib.in.us	Hammond Public Library	7187545	US	Indiana	
+Carol Williams	willic@hammond.lib.in.us	Hammond Public Library	7187545	US	Indiana	
+Jenny Bean	beanj@hammond.lib.in.us	Hammond Public Library	7187545	US	Indiana	
+Andrea Taylor	ajtaylor@scgov.net	Sarasota County Public Libraries	7186944	US	Florida	
+Melanie Emerson	memerson@muscleshoals.lib.al.us	Muscle Shoals Public Library	7151201	US	Alabama	
+Denita Lester	dlester@muscleshoals.lib.al.us	Muscle Shoals Public Library	7151201	US	Alabama	
+Anne Marie Fryer	annemarie.fryer@calgarypubliclibrary.com	Calgary Public Library	7220255	CA	Alberta	Alberta Municipal Affairs 7104420
+Bonita Burchat	bonita.burchat@calgarypubliclibrary.com	Calgary Public Library	7220255	CA	Alberta	Alberta Municipal Affairs 7104420
+nicholle plante	nicholle.plante@calgarylibrary.ca	Calgary Public Library	7220255	CA	Alberta	Alberta Municipal Affairs 7104420
+stephen gibbs	stephen.gibbs@calgarypubliclibrary.com	Calgary Public Library	7220255	CA	Alberta	Alberta Municipal Affairs 7104420
+Marshall Sumka	Marshall.Sumka@calgarylibrary.ca	Calgary Public Library	7220255	CA	Alberta	Alberta Municipal Affairs 7104420
+Marita Dimond	marita.dimond@tularecountylibrary.org	Tulare County Library	7220262	US	California	
+Faythe Arredondo	faythe.arredondo@tularecountylibrary.org	Tulare County Library	7220262	US	California	
+Maria Pagan	library@holyoke.org	Holyoke Public Library	7220266	US	Massachusetts	
+Kristen Campbell	kristen.campbell@us.af.mil	Air Force Library & Information System	7208772	US	Military	DOD-MWR Air Force/7208672
+Elizabeth Arias	elizabeth.arias.2@us.af.mil	Air Force Library & Information System	7208772	US	Military	DOD-MWR Air Force/7208672
+Mark Dobbins	mark.dobbins.1@us.af.mil	Air Force Library & Information System	7208772	US	Military	DOD-MWR Air Force/7208672
+Sam Richards	samuel.richards.1@us.af.mil	Air Force Library & Information System	7208772	US	Military	DOD-MWR Air Force/7208672
+Dave Van Kirk	david.van_kirk.1@us.af.mil	Air Force Library & Information System	7208772	US	Military	DOD-MWR Air Force/7208672
+Ako Mendoza	ayako.mendoza@us.af.mil	Air Force Library & Information System	7208772	US	Military	DOD-MWR Air Force/7208672
+Ann Langlois	ann.l.langlois@us.army.mil	Air Force Library & Information System	7208772	US	Military	DOD-MWR Air Force/7208672
+Ann Langlois	ann.l.langlois@us.army.mil	Army MWR Library	7208772	US	Military	DOD-MWR Air Force/7208672
+Stacy Graham	stacy.h.graham.naf@mail.mil	Army MWR Library	7208772	US	Military	DOD-MWR Air Force/7208672
+Misa Whiteford	misa.l.whiteford.naf@mail.mil	Army MWR Library	7208772	US	Military	DOD-MWR Air Force/7208672
+Krystyna Mrozek	krystyna.b.mrozek.naf@mail.mil	Army MWR Library	7208772	US	Military	DOD-MWR Air Force/7208672
+Karen Cole	karen.s.cole8.naf@mail.mil	Army MWR Library	7208772	US	Military	DOD-MWR Air Force/7208672
+Christina Kruger	christina.m.kruger.naf@mail.mil	Army MWR Library	7208772	US	Military	DOD-MWR Air Force/7208672
+Dave Van Kirk	david.van_kirk.1@us.af.mil	Army MWR Library	7208772	US	Military	DOD-MWR Air Force/7208672
+Cynthia Shipley	cynthia.shipley@usmc.mil	USMC Library Program	7208772	US	Military	DOD-MWR Air Force/7208672
+Dave Van Kirk	david.van_kirk.1@us.af.mil	USMC Library Program	7208772	US	Military	DOD-MWR Air Force/7208672
+Erica Stiner	erica.stiner@navy.mil	Navy Library Program	7198670	US	Military	DOD-MWR Air Force/7208672
+Navy Admin	NGLP@navy.mil	Navy Library Program	7198670	US	Military	DOD-MWR Air Force/7208672
+Dave Van Kirk	david.van_kirk.1@us.af.mil	Navy Library Program	7198670	US	Military	DOD-MWR Air Force/7208672
+Bethany Campbell	bethany.campbell1@navy.mil	Navy Library Program	7198670	US	Military	DOD-MWR Air Force/7208672
+Dave Van Kirk	david.van_kirk.1@us.af.mil	MWR Digital Library	7208772	US	Virginia	DOD-MWR Air Force/7208672
+Nicole Frilling	nicole.frilling@kentonlibrary.org	Kenton County Public Library	7151411	US	Kentucky	
+Reference Staff	weblib@kentonlibrary.org	Kenton County Public Library	7151411	US	Kentucky	
+Orange Boy	seneta@orangeboyinc.com	Kenton County Public Library	7151411	US	Kentucky	
+Allison Maynard	petteelibrary@yahoo.com	Pettee Memorial Library	7220318	US	Vermont	
+Naomi Robbins	naomi.robbins@wellfleet-ma.gov	Wellfleet Public Library	7190188	US	Massachusetts	
+Jennifer Wertkin	jennifer.wertkin@wellfleet-ma.gov	Wellfleet Public Library	7190188	US	Massachusetts	
+Gabrielle Griffis	ggriffis@clamsnet.org	Wellfleet Public Library	7190188	US	Massachusetts	
+WebServices	webservices@hcplonline.org	Harford County Public Library	7190700	US	Maryland	
+Jennifer Ralston	Ralston@hcplonline.org	Harford County Public Library	7190700	US	Maryland	
+Adam Romanik	romanik@hcplonline.org	Harford County Public Library	7190700	US	Maryland	
+Ryan Rickels	rickels@hcplonline.org	Harford County Public Library	7190700	US	Maryland	
+John Flores	doverfreelibrary1913@yahoo.com	Dover Free Library	7220383	US	Vermont	Value; SVOD--Indieflix, Acorn, Qello, Pongalo, Great Courses; unlimited;
+Tamara	dflkidlibrary@gmail.com	Dover Free Library	7220383	US	Vermont	Value; SVOD--Indieflix, Acorn, Qello, Pongalo, Great Courses; unlimited;
+Carmel Turner	carmel.turner@fingal.ie	Fingal County Libraries	FIN102	IE	Swords	
+Carmel Mulligan	carmel.mulligan@fingal.ie	Fingal County Libraries	FIN102	IE	Swords	
+Joanne Mcloughlin	joanne.mcloughlin@fingal.ie	Fingal County Libraries	FIN102	IE	Swords	
+Betty Codd	betty.codd@dublincity.ie	Dublin City Public Libraries	dublincity	IE	Ireland	
+Deirdre Thornton	deirdre.thornton@dublincity.ie	Dublin City Public Libraries	dublincity	IE	Ireland	
+Beth Gallaway	bgallaway@cwmars.org	Grafton Public Library	7152159	US	Massachusetts	
+Carol Dement	cdement@plan.lib.fl.us	PLAN Digital Group	7191399	US	Florida	PLAN 7191397
+Charles Mayberry	cmayberry@plan.lib.fl.us	PLAN Digital Group	7191399	US	Florida	PLAN 7191397
+Regina Burgess	rburgess@plan.lib.fl.us	PLAN Digital Group	7191399	US	Florida	PLAN 7191397
+Carol Dement	cdement@plan.lib.fl.us	Panhandle Library Cooperative	7191523	US	Florida	PLAN 7191397
+Charles Mayberry	cmayberry@plan.lib.fl.us	Panhandle Library Cooperative	7191523	US	Florida	PLAN 7191397
+Mary Balint	admin@pplcs.net	Panhandle Library Cooperative	7191523	US	Florida	PLAN 7191397
+Terrie McColl	mccoll@newmilford.bccls.org	New Milford Public Library	7207624	US	New Jersey	Bergen County Cooperative Library System
+Susan Dubois	nsmlibrary@yahoo.com	North Smithfield Public Library	7155225	US	Rhode Island	
+Sarah Breen	sbreen@minlib.net	Needham Free Public Library	7198164	US	Massachusetts	
+Stefanie Claydon	sclaydon@minlib.net	Needham Free Public Library	7198164	US	Massachusetts	
+Michael Gannon	michael.gannon@pgcmls.info	Prince George's County Memorial Library System	7153535	US	Maryland	
+Monica McAbee	Monica.McAbee@pgcmls.info	Prince George's County Memorial Library System	7153535	US	Maryland	
+Digital Services	josie.fiore@pgcmls.info	Prince George's County Memorial Library System	7153535	US	Maryland	
+Lynn Stonesifer	lynn.stonesifer@pgcmls.info	Prince George's County Memorial Library System	7153535	US	Maryland	
+Brad Gray RBdigital	bgray@recordedbooks.com	Prince George's County Memorial Library System	7153535	US	Maryland	
+Robin Jacobsen	Robin.Jacobsen@pgcmls.info	Prince George's County Memorial Library System	7153535	US	Maryland	
+PGCMLS Administrator	admin@pgcmls.info	Prince George's County Memorial Library System	7153535	US	Maryland	
+Orangeboy	orangeboy@pgcmls.info	Prince George's County Memorial Library System	7153535	US	Maryland	
+Colin Khem	colin.khem@pgcmls.info	Prince George's County Memorial Library System	7153535	US	Maryland	
+Adam Wall	Adam.wall@pgcmls.info	Prince George's County Memorial Library System	7153535	US	Maryland	
+June Courtney	june.courtney@pgcmls.info	Prince George's County Memorial Library System	7153535	US	Maryland	
+Blane Halliday	blane.halliday@pgcmls.info	Prince George's County Memorial Library System	7153535	US	Maryland	
+Sean Minkel	sminkel@rcplib.org	Rapid City Public Libraries	7192564	US	South Dakota	
+Jennifer Michaelson	jmichaelson@rcplib.org	Rapid City Public Libraries	7192564	US	South Dakota	
+Business Office	busoffice@rcplib.org	Rapid City Public Libraries	7192564	US	South Dakota	
+Sam Slocum	sslocum@rcplib.org	Rapid City Public Libraries	7192564	US	South Dakota	
+Laurinda Tapper	ltapper@rcplib.org	Rapid City Public Libraries	7192564	US	South Dakota	
+Jennifer Ranck	jranck@worcesterlibrary.org	Worcester County Library	7183565	US	Maryland	
+Zoe Pride	zpride@madisoncountytn.gov	Jackson Madison County Library	7192992	US	Tennessee	
+Dinah Harris	dharris@madisoncountytn.gov	Jackson Madison County Library	7192992	US	Tennessee	
+Maureen Kerr	maureenkerr@donegalcoco.ie	Donegal County Library		IE	Donegal	
+Marianne Lynch	Marianne.lynch@donegalcoco.ie	Donegal County Library		IE	Donegal	
+Catherine Tucker	brooklyntownlibrary3@yahoo.com	Brooklyn Town Library	7153626	US	Connecticut	Value; SVOD - Acorn, Great Courses, Qello
+Heather Alblas	halblas@egpl.ca	East Gwillimbury Public Library	7211367	CA	Ontario	
+Ben Van Gorp	bvangorp@egpl.ca	East Gwillimbury Public Library	7211367	CA	Ontario	
+Angela Clements	er@cdpl.lib.in.us	Crawfordsville District Public Library	7220520	US	Indiana	
+William Helling	web@cdpl.lib.in.us	Crawfordsville District Public Library	7220520	US	Indiana	
+Angela White	di@cdpl.lib.in.us	Crawfordsville District Public Library	7220520	US	Indiana	
+Larry Hathaway	dir@cdpl.lib.in.us	Crawfordsville District Public Library	7220520	US	Indiana	
+Jodie Wilson	dir2@cdpl.lib.in.us	Crawfordsville District Public Library	7220520	US	Indiana	
+Holly Richards Sorensen	hsorensen@dppl.org	Des Plaines Public Library	7155248	US	Illinois	
+Cathy Friedman	cfriedman@dppl.org	Des Plaines Public Library	7155248	US	Illinois	
+IT Department	ITdepartment@dppl.org	Des Plaines Public Library	7155248	US	Illinois	
+Christina Tropea	ctropea@dppl.org	Des Plaines Public Library	7155248	US	Illinois	
+Jo Bonell	jbonell@dppl.org	Des Plaines Public Library	7155248	US	Illinois	
+Brandi Resendez	bresendez@shrls.org	Sara Hightower Regional Library System	7192565	US	Georgia	GADD
+Amberly Cole	acole@shrls.org	Sara Hightower Regional Library System	7192565	US	Georgia	GADD
+David Daniels	ddaniels@shrls.org	Sara Hightower Regional Library System	7192565	US	Georgia	GADD
+Angie Barnes	abarnes@shrls.org	Sara Hightower Regional Library System	7192565	US	Georgia	GADD
+Delana Sissel	dsissel@shrls.org	Sara Hightower Regional Library System	7192565	US	Georgia	GADD
+Stori Snyder	director@browncounty.lib.in.us	Brown County Public Library	7211481	US	Indiana	
+Tina Nielsen	tnielsen@bowenlibrary.ca	Bowen Island Public Library	7194201	CA	British Columbia	BC Libraries Cooperative 7040759
+Tami Setala	tami.setala@bc.libraries.coop	Bowen Island Public Library	7194201	CA	British Columbia	BC Libraries Cooperative 7040759
+Sara King	sking@jesspublib.org	Jessamine County Public Library	7195209	US	Kentucky	
+David Powell	dpowell@jesspublib.org	Jessamine County Public Library	7195209	US	Kentucky	
+Mary Abner	mabner@jesspublib.org	Jessamine County Public Library	7195209	US	Kentucky	
+Karin Von Wittgenstein	director@kimberleylibrary.net	Kimberley Public Library	7194201	CA	British Columbia	BC Libraries Cooperative 7040759
+Tami Setala	tami.setala@bc.libraries.coop	Kimberley Public Library	7194201	CA	British Columbia	BC Libraries Cooperative 7040759
+Naomi Balla-Boudreau	library@mcbridebc.org	McBride & District Public Library	7194201	CA	British Columbia	BC Libraries Cooperative 7040759
+Martina	ill@mcbridebc.org	McBride & District Public Library	7194201	CA	British Columbia	BC Libraries Cooperative 7040759
+Doreen	doreen@mcbridebc.org	McBride & District Public Library	7194201	CA	British Columbia	BC Libraries Cooperative 7040759
+Tami Setala	tami.setala@bc.libraries.coop	McBride & District Public Library	7194201	CA	British Columbia	BC Libraries Cooperative 7040759
+Carmen Oleskevich	coleskevich@crd.bc.ca	Southern Gulf Islands Community Libraries	7194201	CA	British Columbia	BC Libraries Cooperative-7040759
+Lisa Miettinen	lmiettinen@ocl.net	Oxford County Library	7193150	CA	Ontario	
+Cristina McLaren	cmclaren@ocl.net	Oxford County Library	7193150	CA	Ontario	
+Sarah McDonald	smcdonald@ocl.net	Oxford County Library	7193150	CA	Ontario	
+Michael Nitz	mnitz@apl.org	InfoSoup	7155101	US	Wisconsin	
+Tina Babler	tbabler@apl.org	InfoSoup	7155101	US	Wisconsin	
+Sara Kopesky	skopesky@apl.org	InfoSoup	7155101	US	Wisconsin	
+Brad Gray - Recorded Books	bgray@recordedbooks.com	InfoSoup	7155101	US	Wisconsin	
+Katie Scullion	cscullion@apl.org	InfoSoup	7155101	US	Wisconsin	
+Evan Bend	ebend@owlsweb.org	InfoSoup	7155101	US	Wisconsin	
+Liz Kauth	lkauth@owlsweb.org	InfoSoup	7155101	US	Wisconsin	
+Molly Komp	mlawlor@owlsweb.org	InfoSoup	7155101	US	Wisconsin	
+Jenny Ellis	Jenny.Ellis@nashville.gov	Nashville Public Library	7152151	US	Tennessee	
+James Staub	James.Staub@nashville.gov	Nashville Public Library	7152151	US	Tennessee	
+Noel Rutherford	noel.rutherford@nashville.gov	Nashville Public Library	7152151	US	Tennessee	
+Patrick	patrick.johnson@nashville.gov	Nashville Public Library	7152151	US	Tennessee	
+patricia stone	pstone@rodmanlibrary.com	Rodman Public Library	7194222	US	Ohio	
+Karen Perone	kperone@rodmanlibrary.com	Rodman Public Library	7194222	US	Ohio	
+DJ Digianantonio	ddigianantonio@rodmanlibrary.com	Rodman Public Library	7194222	US	Ohio	
+Karen Barratt	collections@barrielibrary.ca	Barrie Public Library	7210996	CA	Ontario	
+Beth Harding	bharding@sols.org	Barrie Public Library	7210996	CA	Ontario	
+Karen Barratt	karen.barratt@barrielibrary.ca	Barrie Public Library	7210996	CA	Ontario	
+Karen Ellis	karen.ellis@barrielibrary.ca	Barrie Public Library	7210996	CA	Ontario	
+Dave Brush	dbrush@sdglibrary.ca	SDG Library	7193530	CA	Ontario	
+Rachel Vivarais	rvivarais@sdglibrary.ca	SDG Library	7193530	CA	Ontario	
+Susan Wallwork	swallwork@sdglibrary.ca	SDG Library	7193530	CA	Ontario	
+tech services	techservices@sdglibrary.ca	SDG Library	7193530	CA	Ontario	
+Debbie Sumpter	sumpterd@bpl.on.ca	Burlington Public Library	7210295	CA	Ontario	
+Darcy Glidden	gliddend@bpl.on.ca	Burlington Public Library	7210295	CA	Ontario	
+Cody Vanderslot	vanderslotc@bpl.on.ca	Burlington Public Library	7210295	CA	Ontario	
+Jessica Cammer	jcammer@reginalibrary.ca	Regina Public Library	7220590	CA	Saskatchewan	
+Pam Fingas	pfingas@reginalibrary.ca	Regina Public Library	7220590	CA	Saskatchewan	
+Jack Ma	jack.ma@gov.sk.ca	Regina Public Library	7220590	CA	Saskatchewan	
+Cerys Gordon	cgordon@reginalibrary.ca	Regina Public Library	7220590	CA	Saskatchewan	
+Paul Diette	pdiette@haldimandcounty.on.ca	Haldimand County Public Library	7193417	CA	Ontario	
+Valerie Smith	vsmith@lpls.info	Lorain Public Library System	7182059	US	Ohio	
+Joanne Eldridge	jeldridge@lpls.info	Lorain Public Library System	7182059	US	Ohio	
+Cheryl Paganelli	cpaganelli@lpls.info	Lorain Public Library System	7182059	US	Ohio	
+Francois Pominville	fpominville@ddo.qc.ca	Bibliotheque Publique de Dollard-des-Ormeaux	7155585	CA	Quebec	
+Jennifer Slone	jslone@crcpl.org	Chillicothe and Ross County Public Library	7220552	US	Ohio	
+Debbie Nunziato	dnunziato@crcpl.org	Chillicothe and Ross County Public Library	7220552	US	Ohio	
+Brad Gray	bgray@recordedbooks.com	RBdigital Account Manager Demo Library		US	Maryland	
+Kevin Karrick	kevin@artistworks.com	RBdigital Account Manager Demo Library		US	Maryland	
+John Shea	jshea@rbmediaglobal.com	RBdigital Account Manager Demo Library		US	Maryland	
+Donna Vollmer	dvollmer@recordedbooks.com	RBdigital Account Manager Demo Library		US	Maryland	
+Craig	callen@recordedbooks.com	RBdigital Account Manager Demo Library		US	Maryland	
+Kelly Morris	kmorris@rhcl.org	Rolling Hills Consolidated Library	7211911	US	Missouri	Acorn, Qello
+Michelle Mears	mmears@rhcl.org	Rolling Hills Consolidated Library	7211911	US	Missouri	Acorn, Qello
+Martin Canchola	mcanchola@rhcl.org	Rolling Hills Consolidated Library	7211911	US	Missouri	Acorn, Qello
+Amy Mortensen	amortensen@twinfallspubliclibrary.org	Twin Falls Public Library	7220629	US	Idaho	
+Tara Bartley	tbartley@twinfallspubliclibrary.org	Twin Falls Public Library	7220629	US	Idaho	
+Kim Harrington	harringtonk@colonielibrary.org	William K Sanford Library	7220645	US	New York	
+Evelyn Neale	director@colonielibrary.org	William K Sanford Library	7220645	US	New York	
+Rebekah Jarvis-Girtler	bekah@colonielibrary.org	William K Sanford Library	7220645	US	New York	
+Stephanie Jones	infolib@nprlibrary.org	New Port Richey Public Library	7212546	US	Florida	
+Jessica Meredith	youthlib@nprlibrary.org	New Port Richey Public Library	7212546	US	Florida	
+Alesia Burnley	director@wilsonlibrary.org	Wilson County Lebanon Public Library	7194889	US	Tennessee	
+Maureen Wynkoop	maureen@camdencountylibrary.org	Camden County Library	7157775	US	New Jersey	
+Nick Battiste	nbattiste@camdencountylibrary.org	Camden County Library	7157775	US	New Jersey	
+Lisa Derfler	LDERFL@camden.lib.nj.us	Camden County Library	7157775	US	New Jersey	
+Ryan Lammers	rlammers@camdencountylibrary.org	Camden County Library	7157775	US	New Jersey	
+Bryan Blank	bryan.blank@elmlib.org	Elmhurst Public Library	7195068	US	Illinois	
+Brad Gray - Zinio Product Manager	bgray@recordedbooks.com	Elmhurst Public Library	7195068	US	Illinois	
+Rita Perona	rita.perona@elmlib.org	Elmhurst Public Library	7195068	US	Illinois	
+Jeannine Lau	jeannine.lau@elmlib.org	Elmhurst Public Library	7195068	US	Illinois	
+John Walsh	IT-Dedham@minlib.net	Dedham Public Library	7212771	US	Massachusetts	
+Bonnie Roalsen	broalsen@minlib.net	Dedham Public Library	7212771	US	Massachusetts	
+Amber Moroney	amoroney@dedham-ma.gov	Dedham Public Library	7212771	US	Massachusetts	
+Betsy Perry	bperry@cwmars.org	Sutton Public Library	7212250	US	Massachusetts	
+Sam Alvarez	salvarez@mvlc.org	Reuben Hoar Library	7220710	US	Massachusetts	SVOD -- Acorn, Qello, Pongalo, Great Courses, Learn it Live, MTP;
+Chip Kruthoffer	c.kruthoffer@lanepl.org	Lane Libraries	7195203	US	Ohio	
+Katrina Bate	k.bate@lanepl.org	Lane Libraries	7195203	US	Ohio	
+Heidi Patterson	h.patterson@lanepl.org	Lane Libraries	7195203	US	Ohio	
+Christman Hersha	c.hersha@lanepl.org	Lane Libraries	7195203	US	Ohio	
+Joe Greenward	j.greenward@lanepl.org	Lane Libraries	7195203	US	Ohio	
+Emmy Piatt	e.piatt@lanepl.org	Lane Libraries	7195203	US	Ohio	
+Kile Byington	k.byington@lanepl.org	Lane Libraries	7195203	US	Ohio	
+Ryan Gay	r.gay@lanepl.org	Lane Libraries	7195203	US	Ohio	
+Stephanie Shuler	s.shuler@lanepl.org	Lane Libraries	7195203	US	Ohio	
+Katie Krol	kkrol@cwmars.org	Monson Free Library	7156910	US	Massachusetts	Value; All SVOD except Pongalo
+Lori Dethloff	ldethloff@cwmars.org	Monson Free Library	7156910	US	Massachusetts	Value; All SVOD except Pongalo
+Hope Bodwell	hbodwell@cwmars.org	Monson Free Library	7156910	US	Massachusetts	Value; All SVOD except Pongalo
+Dani Scott	dscott@cwmars.org	Monson Free Library	7156910	US	Massachusetts	Value; All SVOD except Pongalo
+Keith Hammersla	keith.hammersla@mbcpl.org	Martinsburg Berkeley County Public Library	7159966	US	West Virginia	
+Gretchen Fry	gretchen.fry@mbcpl.org	Martinsburg Berkeley County Public Library	7159966	US	West Virginia	
+Lynn Walker	lwalker@mbcpl.org	Martinsburg Berkeley County Public Library	7159966	US	West Virginia	
+Sarah Shewbridge	sarah.shewbridge@mbcpl.org	Martinsburg Berkeley County Public Library	7159966	US	West Virginia	
+Lisa Carr	lcarr@seymourlib.org	Seymour Library	7199074	US	New York	
+Mary Lovell	mlovell@seymourlib.org	Seymour Library	7199074	US	New York	
+Tracy Kirby	tracy.kirby@darlington.gov.uk	Darlington	DAR121	GB	England	
+Michael Wilkinson	michael.wilkinson@darlington.gov.uk	Darlington	DAR121	GB	England	
+Linda Wentworth	wentworthl@joneslibrary.org	The Jones Library	7195336	US	Massachusetts	
+Matthew Berube	BerubeM@joneslibrary.org	The Jones Library	7195336	US	Massachusetts	
+Kristin Cunningham	library@okmcity.net	Okmulgee Public Library	7214710	US	Oklahoma	
+Shirley ONeill	shirley.oneill@hclibrary.org	Howard County Library System	7197522	US	Maryland	
+Cindy Jones	cindy.jones@hclibrary.org	Howard County Library System	7197522	US	Maryland	
+Ruth Vargas	ruth.vargas@hclibrary.org	Howard County Library System	7197522	US	Maryland	
+Beth Tribe	beth.tribe@hclibrary.org	Howard County Library System	7197522	US	Maryland	
+Kim Montenyohl	kim.montenyohl@hclibrary.org	Howard County Library System	7197522	US	Maryland	
+Debbie Seibert	dseibert@tcpclibrary.org	Perry County Public Library	7195364	US	Indiana	
+John Mundy	jmundy@tcpclibrary.org	Perry County Public Library	7195364	US	Indiana	
+Laura Clark	laura.c@baxlib.org	Baxter County Library/Donald W Reynolds Library	7220711	US	Arkansas	
+Stephen Gaines	sgaines@ncls.org	North Country Library System	7178982	US	New York	
+Steve Bolton	bolton@ncls.org	North Country Library System	7178982	US	New York	
+Matthew Corey	mcorey@ncls.org	North Country Library System	7178982	US	New York	
+Potsdam Library	wells@twcny.rr.com	North Country Library System	7178982	US	New York	
+Mary Climes	thrall1@warwick.net	Middletown Thrall Library	7199573	US	New York	
+Robert Tiess	thrall12@warwick.net	Middletown Thrall Library	7199573	US	New York	
+Donna Duff	dduff@eastlothian.gov.uk	East Lothian Libraries	EAS165	GB	Scotland	
+Agnes Guyon	aguyon@eastlothian.gov.uk	East Lothian Libraries	EAS165	GB	Scotland	
+Kelly Gallacher	kgallacher3@eastlothian.gov.uk	East Lothian Libraries	EAS165	GB	Scotland	
+Mary Lin Maner	mlmaner@columbiacountyga.gov	Greater Clarks Hill Regional Library System	7195325	US	Georgia	GADD SVOD - A, IF, Q-unl
+Natalie Gibson	ngibson@columbiacountyga.gov	Greater Clarks Hill Regional Library System	7195325	US	Georgia	GADD SVOD - A, IF, Q-unl
+Micah Newsome	mnewsome@columbiacountyga.gov	Greater Clarks Hill Regional Library System	7195325	US	Georgia	GADD SVOD - A, IF, Q-unl
+Jeanne Peloquin	jpeloquin@columbiacountyga.gov	Greater Clarks Hill Regional Library System	7195325	US	Georgia	GADD SVOD - A, IF, Q-unl
+Sam Link	slink@columbiacountyga.gov	Greater Clarks Hill Regional Library System	7195325	US	Georgia	GADD SVOD - A, IF, Q-unl
+Emma Morgan	emmamorgan@carmarthenshire.gov.uk	Carmarthenshire County Council	CAR002	GB	Wales	
+Dan Alliston	DAlliston@carmarthenshire.gov.uk	Carmarthenshire County Council	CAR002	GB	Wales	
+A Richards	ARichards@carmarthenshire.gov.uk	Carmarthenshire County Council	CAR002	GB	Wales	
+GMJ Phillips	GMJPhillips@carmarthenshire.gov.uk	Carmarthenshire County Council	CAR002	GB	Wales	
+T Jewell	TJewell@carmarthenshire.gov.uk	Carmarthenshire County Council	CAR002	GB	Wales	
+P Evans	PEEvans@carmarthenshire.gov.uk	Carmarthenshire County Council	CAR002	GB	Wales	
+Kathryn Edwards	KEdwards@carmarthenshire.gov.uk	Carmarthenshire County Council	CAR002	GB	Wales	
+Mary Beth Revels	mrevels@sjpl.lib.mo.us	St. Joseph Public Library	7216999	US	Missouri	
+Eric Mathis	emathis@sgrl.org	Willis L Miller Public Library	7201715	US	Georgia	GADD
+Bernard Bulemu	bbulemu@sgrl.org	Willis L Miller Public Library	7201715	US	Georgia	GADD
+Jeanna Allums	jallums@sgrl.org	Willis L Miller Public Library	7201715	US	Georgia	GADD
+Deb Mitchell	deb@warren.lib.ms.us	Warren County Vicksburg Public Library	7220896	US	Mississippi	
+Katrina Stokes	kstokes@warren.lib.ms.us	Warren County Vicksburg Public Library	7220896	US	Mississippi	
+John Shortall	jshortall@carlowcoco.ie	carlow		IE	Carlow	
+Megan Weeden	megan@coventrylibrary.org	Coventry Public Library	7218096	US	Rhode Island	
+Robin Shader	rshader@nwrls.com	Northwest Regional Library System	7219194	US	Florida	
+Lynn Elliott	lelliott@baycountyfl.gov	Northwest Regional Library System	7219194	US	Florida	
+Jason Neely	jneely@enfield.org	Enfield Public Library	7220933	US	Connecticut	
+Ceil Smith	csmith@trrl.org	Three Rivers Regional Library System	7183737	US	Georgia	Value Collection
+Kristen Grills	marketingandcommunicationsdepartment@jcplin.org	Johnson County Public Library	7201901	US	Indiana	
+Melanie Johnson	mjohnson@jcplin.org	Johnson County Public Library	7201901	US	Indiana	
+Erin Kirchhoff	ekirchhoff@jcplin.org	Johnson County Public Library	7201901	US	Indiana	
+Kim Porter	director@ebatesville.com	Batesville Memorial Public Library	7184119	US	Indiana	
+Gloria Farmer	gfarmer@eodls.org	Eastern Oklahoma District Library	7201724	US	Oklahoma	
+Andrea Castrogiovanni	andrea.castrogiovanni@montgomerycountymd.gov	Montgomery County Public Library	7183777	US	Maryland	
+Lib Virtual Services	lib.virtualservices@montgomerycountymd.gov	Montgomery County Public Library	7183777	US	Maryland	
+Kelly Cooper	Kelly.cooper@montgomerycountymd.gov	Montgomery County Public Library	7183777	US	Maryland	
+Daisy Papa	papad@forsythpl.org	Forsyth County Public Library	7183748	US	Georgia	
+Holly Barfield	barfieldh@forsythpl.org	Forsyth County Public Library	7183748	US	Georgia	
+Sarah Reynolds	reynoldss@forsythpl.org	Forsyth County Public Library	7183748	US	Georgia	
+Jinhee Yang	yangj@forsythpl.org	Forsyth County Public Library	7183748	US	Georgia	
+Kim Tomblin	tomblink@forsythpl.org	Forsyth County Public Library	7183748	US	Georgia	
+Janice Anderson	andersonj@forsythpl.org	Forsyth County Public Library	7183748	US	Georgia	
+Martha Amerson	amersonm@forsythpl.org	Forsyth County Public Library	7183748	US	Georgia	
+Jeff Fisher	fisherj@forsythpl.org	Forsyth County Public Library	7183748	US	Georgia	
+Jim Flury	jflury@tln.lib.mi.us	Hartland (Cromaine) District Library	7220993	US	Michigan	The Library Network
+Glenn Fischer	eresources@cromaine.org	Hartland (Cromaine) District Library	7220993	US	Michigan	The Library Network
+Sandra Causey	sandrac@oldhampl.org	Oldham County Public Library	7219964	US	Kentucky	
+Mary Mielczarek	marym@oldhampl.org	Oldham County Public Library	7219964	US	Kentucky	
+Vicki Niehaus	vniehaus@oldhampl.org	Oldham County Public Library	7219964	US	Kentucky	
+Bethany Morse	bethanym@oldhampl.org	Oldham County Public Library	7219964	US	Kentucky	
+Jessica Powell	jessica.powell@oldhampl.org	Oldham County Public Library	7219964	US	Kentucky	
+Lapeer Admin	acq@lib.lapeer.org	Lapeer District Library	7220972	US	Michigan	The Library Network
+Jim Flury	jflury@tln.lib.mi.us	Lapeer District Library	7220972	US	Michigan	The Library Network
+Gilbert Angulo	gilbert.angulo@yumalibrary.org	Yuma County Library District	7153155	US	Arizona	Arizona State Library
+Bryan Summers	bsummers@yumalibrary.org	Yuma County Library District	7153155	US	Arizona	Arizona State Library
+Mary Villegas	mvillegas@azlibrary.gov	Yuma County Library District	7153155	US	Arizona	Arizona State Library
+Mary Rose Quinn	mquinn@mvlc.org	Stevens Memorial Library	7209604	US	Massachusetts	
+Irja Finn	ifinn@mvlc.org	Stevens Memorial Library	7209604	US	Massachusetts	
+Lucinda Mazza	lmazza@northandoverma.gov	Stevens Memorial Library	7209604	US	Massachusetts	
+Kathleen Keenan	kkeenan@northandoverma.gov	Stevens Memorial Library	7209604	US	Massachusetts	
+Linda Zink	LZink@NorthAndoverMA.gov	Stevens Memorial Library	7209604	US	Massachusetts	
+Sarah Peterson	sarah.peterson@tulsalibrary.org	Tulsa City County Library System	7184726	US	Oklahoma	
+Rebekah Cowan	rcowan@tulsalibrary.org	Tulsa City County Library System	7184726	US	Oklahoma	
+Micah Wulfers	mwulfer@tulsalibrary.org	Tulsa City County Library System	7184726	US	Oklahoma	
+Krista Beth Dudley	KristaBeth.Dudley@tulsalibrary.org	Tulsa City County Library System	7184726	US	Oklahoma	
+Library Stats	stats@tulsalibrary.org	Tulsa City County Library System	7184726	US	Oklahoma	
+shona koehn	shona.koehn@tulsalibrary.org	Tulsa City County Library System	7184726	US	Oklahoma	
+Orange Boy	demarcus@organgeboyinc.com	Tulsa City County Library System	7184726	US	Oklahoma	
+Holli Jayko	hjayko@town.adams.ma.us	Adams Free Library	7181707	US	Massachusetts	SVOD - Acorn, IndieFlix, Great Courses; MTP
+Luis Ayala	layala@norwalkpubliclibrary.org	Norwalk Public Library	7184488	US	Connecticut	
+Wendy Dunlop	wdunlop@norwalkpubliclibrary.org	Norwalk Public Library	7184488	US	Connecticut	
+Cynde Bloom Lahey	clahey@norwalkpubliclibrary.org	Norwalk Public Library	7184488	US	Connecticut	
+Total	379

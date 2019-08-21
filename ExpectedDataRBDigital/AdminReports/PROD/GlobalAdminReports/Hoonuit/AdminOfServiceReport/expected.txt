@@ -1,0 +1,241 @@
+Screen Name	Email	Library	AccountId	Country	State	System Name
+Claire Wood	Claire.Wood@latrobe.vic.gov.au	Latrobe City Libraries	W_LAT001	AU	Victoria	
+Julie McCulloch	julie.mcculloch@latrobe.vic.gov.au	Latrobe City Libraries	W_LAT001	AU	Victoria	
+Deb Skinner	Debbie.Skinner@latrobe.vic.gov.au	Latrobe City Libraries	W_LAT001	AU	Victoria	
+Rudie Noble	nobler@cantonpl.org	Canton Public Library	7220955	US	Michigan	
+Alyssa Yavorenko	yavorenkoa@cantonpl.org	Canton Public Library	7220955	US	Michigan	
+Louise Alcorn	louise.alcorn@wdm.iowa.gov	West Des Moines Public Library	7220036	US	Iowa	
+Sarah Hayes	sarah.hayes@wfhowes.co.uk	W. F. Howes Trial	TESTCS	GB	England	
+Joanna Palmer	joanna.palmer@gloucestershire.gov.uk	W. F. Howes Trial	TESTCS	GB	England	
+Kate Aston	kate.aston-williams@gloucestershire.gov.uk	W. F. Howes Trial	TESTCS	GB	England	
+Sarah Evans	sarah.evans@gloucestershire.gov.uk	W. F. Howes Trial	TESTCS	GB	England	
+peter kobilarov	petar.kobilarov@missing-link.de	W. F. Howes Trial	TESTCS	GB	England	
+pedro moura	pedro.moura@wfhowes.co.uk	W. F. Howes Trial	TESTCS	GB	England	
+qatest1	qatest@gmail.com	W. F. Howes Trial	TESTCS	GB	England	
+Fran Moroney	franmoroney@gladstonerc.qld.gov.au	Gladstone Regional Library		AU	Queensland	
+Gay Sirriss	gays@gladstone.qld.gov.au	Gladstone Regional Library		AU	Queensland	
+Mandy Hayward	mandy.hayward@coventry.gov.uk	Coventry Libraries and Information Service		GB	England	
+David Lloyd	dave.lloyd@coventry.gov.uk	Coventry Libraries and Information Service		GB	England	
+libraries247	libraries247@coventry.gov.uk	Coventry Libraries and Information Service		GB	England	
+Heather Williams	Heather.Williams@coventry.gov.uk	Coventry Libraries and Information Service		GB	England	
+Stacey Vail	stacey.vail@coventry.gov.uk	Coventry Libraries and Information Service		GB	England	
+James Cotton	james.cotton@coventry.gov.uk	Coventry Libraries and Information Service		GB	England	
+Debra Burn	dburn@thegrovelibrary.com	Grove Library		AU	Western Australia	
+Geoff Searle	gsearle@thegrovelibrary.com	Grove Library		AU	Western Australia	
+grove	live@thegrovelibrary.com	Grove Library		AU	Western Australia	
+Peter Main	peter.main@camden.nsw.gov.au	Camden Council Library Service		AU	New South Wales	
+Bernadette Fleet	Bernadette.fleet@camden.nsw.gov.au	Camden Council Library Service		AU	New South Wales	
+Jessica Bruce	jessice.bruce@camden.nsw.gov.au	Camden Council Library Service		AU	New South Wales	
+Kim White	kim.white@camden.nsw.gov.au	Camden Council Library Service		AU	New South Wales	
+Chris Fulham	Chris.Fulham@camden.nsw.gov.au	Camden Council Library Service		AU	New South Wales	
+Diana Brown	diana.brown@waverley.nsw.gov.au	Waverley Library		AU	New South Wales	
+Roniet Meyerthal	Roniet.Meyerthal@waverley.nsw.gov.au	Waverley Library		AU	New South Wales	
+Samson Leung	samson.leung@canadabay.nsw.gov.au	City of Canada Bay Library Services		AU	New South Wales	
+Lisa Benham	lisa.benham@canadabay.nsw.gov.au	City of Canada Bay Library Services		AU	New South Wales	
+Jim Schmidt	jschmidt@recordedbooks.com	Skipjack Library	test	US	Maryland	
+Scott Williams	swilliams@recordedbooks.com	Skipjack Library	test	US	Maryland	
+skipjackadmin1	skipjackadmin1@gmail.com	Skipjack Library	test	US	Maryland	
+jen Admin test	jennie01@gmail.com	Skipjack Library	test	US	Maryland	
+Brad Gray	bradleypgray@recordedbooks.com	Skipjack Library	test	US	Maryland	
+sunnysales	sunnysales@gmail.com	Skipjack Library	test	US	Maryland	
+Brooks Bushnell	bbushnell@recordedbooks.com	Skipjack Library	test	US	Maryland	
+Jodie Porter	jporter@amrshire.wa.gov.au	Augusta-Margaret River Library		AU	Western Australia	
+Heather Auld	hauld@amrshire.wa.gov.au	Augusta-Margaret River Library		AU	Western Australia	
+Name1	test@gmail.com	RBdigital Internal Library	test	US	Maryland	
+QA	qatest@gmail.com	RBdigital Internal Library	test	US	Maryland	
+qatest	qatest@recordedbooks.com	RBdigital Internal Library	test	US	Maryland	
+Kevin Deamandel	kevin@deamandel.co	RBdigital Internal Library	test	US	Maryland	
+Julie Adamski	jadamski@helenplum.org	Helen Plum Library	7117802	US	Illinois	
+Kristie Leslie	kleslie@helenplum.org	Helen Plum Library	7117802	US	Illinois	
+Kate Pierson	kpierson@helenplum.org	Helen Plum Library	7117802	US	Illinois	
+Claudia Krauspe	ckrauspe@helenplum.org	Helen Plum Library	7117802	US	Illinois	
+Alex Vancina	avancina@helenplum.org	Helen Plum Library	7117802	US	Illinois	
+becky stabik	becky.stabik@wfhowes.co.uk	W F Howes Customer Services		GB	England	
+Pedro Moura	pedro.moura@wfhowes.co.uk	W F Howes Customer Services		GB	England	
+Kathryn Brown	kathryn@oceancitylibrary.org	Ocean City Free Public Library	7134913	US	New Jersey	
+John Ruban	john@oceancitylibrary.org	Ocean City Free Public Library	7134913	US	New Jersey	
+Judy Kerstetter	jkerstet@sctylib.org	South Country Library	7220042	US	New York	
+Sean McDonald	smcdonal@sctylib.org	South Country Library	7220042	US	New York	
+Kathleen Galasso	kgalasso@sctylib.org	South Country Library	7220042	US	New York	
+Adrienne Portz	alvargas@sctylib.org	South Country Library	7220042	US	New York	
+Kate Olsson	kolsson@sctylib.org	South Country Library	7220042	US	New York	
+Howard Coy	hcoy@state.lib.la.us	Vernon Parish Public Library	7149314	US	Louisiana	
+Harriet Protos	libfl@mfo.org	Multinational Force and Observers	7121684	EG	Military	
+Mandy Webb	mandy.webb@newham.gov.uk	Newham	NEW059	GB	England	
+Steve Cameron	Steve.Cameron@newham.gov.uk	Newham	NEW059	GB	England	
+Heidi Krueger	hkrueger@stcharleslibrary.org	St. Charles Public Library	7044120	US	Illinois	
+Sarah Slack	sslack@stcharleslibrary.org	St. Charles Public Library	7044120	US	Illinois	
+Michele Collette	MCollette@stcharleslibrary.org	St. Charles Public Library	7044120	US	Illinois	
+Amanda Kaiser	akaiser@stcharleslibrary.org	St. Charles Public Library	7044120	US	Illinois	
+Kent Walker	kent.walker@myclearwater.com	Clearwater Public Library	7205758	US	Florida	
+David Stoner	david.stoner@myclearwater.com	Clearwater Public Library	7205758	US	Florida	
+Heather Husted	heather.husted@myclearwater.com	Clearwater Public Library	7205758	US	Florida	
+Michelle Arnold	michelle.arnold@myclearwater.com	Clearwater Public Library	7205758	US	Florida	
+Carmen Heidt	carmen.heidt@myclearwater.com	Clearwater Public Library	7205758	US	Florida	
+Adriana Topel	adriana.topel@myclearwater.com	Clearwater Public Library	7205758	US	Florida	
+Holly Richards Sorensen	hsorensen@dppl.org	Des Plaines Public Library	7189660	US	Illinois	
+Cathy Friedman	cfriedman@dppl.org	Des Plaines Public Library	7189660	US	Illinois	
+IT Department	ITdepartment@dppl.org	Des Plaines Public Library	7189660	US	Illinois	
+Christina Tropea	ctropea@dppl.org	Des Plaines Public Library	7189660	US	Illinois	
+Jo Bonell	jbonell@dppl.org	Des Plaines Public Library	7189660	US	Illinois	
+Sean Birmingham	sbirmingham@vppl.info	Villa Park Public Library	7129048	US	Illinois	
+Jeff Sand	jsand@vppl.info	Villa Park Public Library	7129048	US	Illinois	
+Daniel Criscione	dcriscione@vppl.info	Villa Park Public Library	7129048	US	Illinois	
+Marcia Bose	mbose@roselle.lib.il.us	Roselle Public Library	7129047	US	Illinois	
+Lynn Dennis	ldennis@roselle.lib.il.us	Roselle Public Library	7129047	US	Illinois	
+Lisa Jackson	ljackson@pasadenatx.gov	Pasadena Public Library	7120440	US	Texas	
+Jo Lynne Hailey	jhailey@pasadenatx.gov	Pasadena Public Library	7120440	US	Texas	
+Sharon Saye	saye@bridgeportwv.com	Bridgeport Public Library	7121957	US	West Virginia	WV Deli-7120407
+Phil Barott	pbarott@rowlett.com	Rowlett Public Library	7151190	US	Texas	
+Laura Tschoerner	ltschoerner@rowlett.com	Rowlett Public Library	7151190	US	Texas	
+Yvette Couser	ycouser@merrimacklibrary.org	Merrimack Public Library	7151486	US	New Hampshire	
+Min Liu	minliu@lilrc.org	Long Island Library Resources Council	7074896	US	New York	
+Barbara Bailey	barbara.bailey@glastonbury-ct.gov	Welles Turner Memorial Library	7045089	US	Connecticut	SVOD--Acorn, Qello, Pongalo; TGCNC, Method Test Prep, IF, Learn It Live; Unlimited;
+Betty King	bking@cowtx.org	Watauga Public Library NTLOG	7044036	US	Texas	
+Trina Nosenzo	tnosenzo@wataugatx.org	Watauga Public Library NTLOG	7044036	US	Texas	
+Andrew Tadman	atadman@ebrpl.com	East Baton Rouge Parish Library	7082276	US	Louisiana	
+Mechelle Whitney	mwhitney@ebrpl.com	East Baton Rouge Parish Library	7082276	US	Louisiana	
+Adam St. Pierre	astpierre@ebrpl.com	East Baton Rouge Parish Library	7082276	US	Louisiana	
+Eric	EricCahanin@ebrpl.com	East Baton Rouge Parish Library	7082276	US	Louisiana	
+Nita Day	nday@ebrpl.com	East Baton Rouge Parish Library	7082276	US	Louisiana	
+Ashley Michel	amichel@ebrpl.com	East Baton Rouge Parish Library	7082276	US	Louisiana	
+Jenna Jaureguy	jjaureguy@ebrpl.com	East Baton Rouge Parish Library	7082276	US	Louisiana	
+Edward Sims	esims@stjohn.lib.la.us	St. John the Baptist Parish Library	7047920	US	Louisiana	
+Cynthia DuBois	cdubois@stjohn.lib.la.us	St. John the Baptist Parish Library	7047920	US	Louisiana	
+Jose Ocasio	JOcasio@stjohn.lib.la.us	St. John the Baptist Parish Library	7047920	US	Louisiana	
+Betty Codd	betty.codd@dublincity.ie	Dublin City Public Libraries		IE	Ireland	
+Deirdre Thornton	deirdre.thornton@dublincity.ie	Dublin City Public Libraries		IE	Ireland	
+Terry Bivens	terry.bivens@mauneylibrary.org	Mauney Memorial Library	7049251	US	North Carolina	
+Christina Martin	christina.martin@mauneylibrary.org	Mauney Memorial Library	7049251	US	North Carolina	
+Mary Frankenfield	mfrankenfield@mrcpl.org	Mansfield-Richland County Public Library	7132706	US	Ohio	
+Mary Anne DiAlesandro	mdialesandro@mrcpl.org	Mansfield-Richland County Public Library	7132706	US	Ohio	
+Karen Fischer	kfischer@mrcpl.org	Mansfield-Richland County Public Library	7132706	US	Ohio	
+Chris May	cmay@mrcpl.org	Mansfield-Richland County Public Library	7132706	US	Ohio	
+Peter Moore	pmoore@mrcpl.org	Mansfield-Richland County Public Library	7132706	US	Ohio	
+Molly Ernst	mernst@mrcpl.org	Mansfield-Richland County Public Library	7132706	US	Ohio	
+Chris Desmond	chris.desmond@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Claire Manville	claire.manville@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Jenny Bower	jenny.bower@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Marina Dipaolo	marina.dipaolo@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Dhimati Acharya	Dhimati.Acharya@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Rebecca Beesley	rebecca.beesley@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Sara Leonard	sara.leonard@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Williams	chloe.williams@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Michele Brooker	Michele.Brooker@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Elaine Clarke	Elaine.Clarke@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Ann Foxall	Ann.Foxall@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Eve Elphick	Eve.Elphick@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Claire Morley	Claire.Morley@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Henry Young	Henry.Young@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Jacqui Richardson	Jacqui.richardson@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Alison Doig	Alison.Doig@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Tamsyn Sutton	Tamsyn.Sutton@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Rachel Sweeney	Rachel.Sweeney@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Pip Jenkins	Pip.Jenkins@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Katie Williams	katie.williams@eastsussex.gov.uk	East Sussex	EAS195	GB	England	
+Susan Pizzolato	spizzolo@sailsinc.org	Mattapoisett Public Library	7044342	US	Massachusetts	
+Elizabeth Sherry	esherry@sailsinc.org	Mattapoisett Public Library	7044342	US	Massachusetts	
+Luis Ayala	layala@norwalkpubliclibrary.org	Norwalk Public Library	7049413	US	Connecticut	
+Wendy Dunlop	wdunlop@norwalkpubliclibrary.org	Norwalk Public Library	7049413	US	Connecticut	
+Cynde Bloom Lahey	clahey@norwalkpubliclibrary.org	Norwalk Public Library	7049413	US	Connecticut	
+Larie Myers	lmyers1@state.lib.la.us	Ascension Parish Library	7049407	US	Louisiana	
+Brad Gray	bgray@recordedbooks.com	RBdigital Account Manager Demo Library		US	Maryland	
+Kevin Karrick	kevin@artistworks.com	RBdigital Account Manager Demo Library		US	Maryland	
+John Shea	jshea@rbmediaglobal.com	RBdigital Account Manager Demo Library		US	Maryland	
+Donna Vollmer	dvollmer@recordedbooks.com	RBdigital Account Manager Demo Library		US	Maryland	
+Craig	callen@recordedbooks.com	RBdigital Account Manager Demo Library		US	Maryland	
+Brad Gray	bgray@recordedbooks.com	RBdigital Global Catalog		US	Maryland	
+Nicola Everitt	nicola@digitalcontentassociates.com	RBdigital Global Catalog		US	Maryland	
+Andrea Ruud	andrea.ruud@tln.lib.ee	RBdigital Global Catalog		US	Maryland	
+Stelly Cattell	scattell@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+Cooper Cobb	dcobb@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+BradGrayTrialSite	bgray@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+Becky Bramall	becky.bramall@wfhowes.co.uk	RBdigital Trial Customer Library		US	Maryland	
+Pamela Daubenspeck	daubenspeckp@wtcpl.org	Warren-Trumbull County Public Library	7132073	US	Ohio	
+Yvette Wasko	waskoy@wtcpl.org	Warren-Trumbull County Public Library	7132073	US	Ohio	
+Kristina M. Martinez	martinezk@wtcpl.org	Warren-Trumbull County Public Library	7132073	US	Ohio	
+Greg Ricker	rickerg@wtcpl.org	Warren-Trumbull County Public Library	7132073	US	Ohio	
+Jim Wilkins	wilkinsj@wtcpl.org	Warren-Trumbull County Public Library	7132073	US	Ohio	
+Sue Ridnour	sue.ridnour@flower-mound.com	Flower Mound Public Library	7132695	US	Texas	
+Lynne Craddock	lynne.craddock@flower-mound.com	Flower Mound Public Library	7132695	US	Texas	
+Lisa Smith	lisa.smith@flower-mound.com	Flower Mound Public Library	7132695	US	Texas	
+Jennie Evans	jennie.evans@flower-mound.com	Flower Mound Public Library	7132695	US	Texas	
+Mohamed El-Araby	mharaby@limsegypt.com.eg	Specialized Presidential Council for Education and Scientific Research (SPCESR)	7154981	EG	Cairo	
+Haytham Kamal	hgkamal@limsegypt.com	Specialized Presidential Council for Education and Scientific Research (SPCESR)	7154981	EG	Cairo	
+Mary Kay Perrenot	perrenot@northbrook.info	Northbrook Public Library	7050010	US	Illinois	
+Jill McKee	jill.mckee@renfrewshire.gov.uk	Renfrewshire Libraries Headquarters	REN101	GB	Scotland	
+Susan McIver	susan.mciver@renfrewshire.gov.uk	Renfrewshire Libraries Headquarters	REN101	GB	Scotland	
+Stephen Slevin	stephen.slevin@renfrewshire.gov.uk	Renfrewshire Libraries Headquarters	REN101	GB	Scotland	
+Elaine Finlay	elaine.finlay@renfrewshire.gov.uk	Renfrewshire Libraries Headquarters	REN101	GB	Scotland	
+pamela logue	pamela.logue@renfrewshire.gov.uk	Renfrewshire Libraries Headquarters	REN101	GB	Scotland	
+Annette Casci	annette.casci@renfrewshire.gov.uk	Renfrewshire Libraries Headquarters	REN101	GB	Scotland	
+Kim Zrubek	kzrubek@friendswood.lib.tx.us	Friendswood Public Library	7049967	US	Texas	
+Matthew Riley	mriley@friendswood.lib.tx.us	Friendswood Public Library	7049967	US	Texas	
+Mary Perroni	mperroni@friendswood.com	Friendswood Public Library	7049967	US	Texas	
+Derek O Connell	Derek.oconnell@nelincs.gov.uk	North East Lincolnshire Council	NOR313	GB	England	
+Anna Worrall	anna.worrall@nelincs.gov.uk	North East Lincolnshire Council	NOR313	GB	England	
+Robin Garland	robin.garland@nelincs.gov.uk	North East Lincolnshire Council	NOR313	GB	England	
+Chris Walmsley	chris.walmsley@nelincs.gov.uk	North East Lincolnshire Council	NOR313	GB	England	
+Lynne Antunes	lantunes@sailsinc.org	Dartmouth Public Libraries	7135244	US	Massachusetts	
+Sharani Robins	srobins@sailsinc.org	Dartmouth Public Libraries	7135244	US	Massachusetts	
+Gretchen Pruett	g.pruett@gmail.com	New Braunfels Public Library	7050339	US	Texas	
+Diane Watson	dwatson@nbtexas.org	New Braunfels Public Library	7050339	US	Texas	
+Kevin L. Wilkinson	KWilkinson@nbtexas.org	New Braunfels Public Library	7050339	US	Texas	
+Ben Pensiero	BPensiero@nbtexas.org	New Braunfels Public Library	7050339	US	Texas	
+Robin Beavers	robin@grandeprairie.org	Grande Prairie Public Library	7220768	US	Illinois	
+Neeti Saxena	Neeti.saxena@britishcouncil.org	British Council Libraries	BRI059	IN	India	
+Nirmala Rajan	Nirmala.rajan@britishcouncil.org	British Council Libraries	BRI059	IN	India	
+Megha	megha.kakkar@britishcouncil.org	British Council Libraries	BRI059	IN	India	
+Colin Todd	colin.todd@sutton.gov.uk	Sutton Libraries		GB	England	
+Ivona Bryant	ivona.bryant@sutton.gov.uk	Sutton Libraries		GB	England	
+Shelley Kemp	Shelley.kemp@sutton.gov.uk	Sutton Libraries		GB	England	
+Moira Cockcroft	moira.cockcroft@sutton.gov.uk	Sutton Libraries		GB	England	
+Laura Newsome	laura.newsome@sutton.gov.uk	Sutton Libraries		GB	England	
+Fran Burke-Urr	fran.burke-urr@fauquiercounty.gov	Fauquier County Public Library	7055490	US	Virginia	Library of Virginia/Lyrasis-7051842
+Alison Pruntel	Alison.Pruntel@fauquiercounty.gov	Fauquier County Public Library	7055490	US	Virginia	Library of Virginia/Lyrasis-7051842
+Lisa Pavlock	lisa.pavlock@fauquiercounty.gov	Fauquier County Public Library	7055490	US	Virginia	Library of Virginia/Lyrasis-7051842
+Jennifer Schultz Angoli	jennifer.schultz@fauquiercounty.gov	Fauquier County Public Library	7055490	US	Virginia	Library of Virginia/Lyrasis-7051842
+June Robertson	june.robertson@highlifehighland.com	High Life Highland Libraries	HIG094	GB	Scotland	
+Robert Reid	robert.reid@highlifehighland.com	High Life Highland Libraries	HIG094	GB	Scotland	
+Brenda Hoare	Brenda.Hoare@highlifehighland.com	High Life Highland Libraries	HIG094	GB	Scotland	
+Ian Dalrymple	ian.dalrymple@highlifehighland.com	High Life Highland Libraries	HIG094	GB	Scotland	
+Katie Jeffs	Katie.jeffs@highlifehighland.com	High Life Highland Libraries	HIG094	GB	Scotland	
+Hazel Edward	hedward@aberdeencity.gov.uk	Aberdeen City Library	ABE122	GB	Scotland	
+Library Systems	librarysystems@aberdeencity.gov.uk	Aberdeen City Library	ABE122	GB	Scotland	
+Deb Mitchell	deb@warren.lib.ms.us	Warren County Vicksburg Public Library	7220894	US	Mississippi	
+Katrina Stokes	kstokes@warren.lib.ms.us	Warren County Vicksburg Public Library	7220894	US	Mississippi	
+Bozena Cromwell	bozena.cromwell@slough.gov.uk	Slough	SLO001	GB	England	
+Liz McMillan	liz.mcmillan@slough.gov.uk	Slough	SLO001	GB	England	
+Patsy To	patsy.to@slough.gov.uk	Slough	SLO001	GB	England	
+Ece Tufanyazici	ece.tufanyazici@bilgi.edu.tr	Istanbul Bilgi University Trial		TR	Turkey	
+Gorkem Isci	gorkem@sayisalgrafik.com.tr	Istanbul Bilgi University Trial		TR	Turkey	
+Gloria Farmer	gfarmer@eodls.org	Eastern Oklahoma District Library	7144912	US	Oklahoma	
+Amy Caviness	acaviness@mymcpl.org	Mid-Continent Public Library	7040628	US	Missouri	
+Barbara Jo Waliczek	bwaliczek@mymcpl.org	Mid-Continent Public Library	7040628	US	Missouri	
+Amy Fisher	afisher@mymcpl.org	Mid-Continent Public Library	7040628	US	Missouri	
+Katina Jones	katinajones@mymcpl.org	Mid-Continent Public Library	7040628	US	Missouri	
+Kathy Jo Anderson	kjanderson@mymcpl.org	Mid-Continent Public Library	7040628	US	Missouri	
+Lisa Cheever	lcheever@cwmars.org	Blackstone Public Library	7109094	US	Massachusetts	SVOD - Acorn
+Tressy Collier	tcollier@cwmars.org	Blackstone Public Library	7109094	US	Massachusetts	SVOD - Acorn
+Donna Ansell	dansell@cwmars.org	Blackstone Public Library	7109094	US	Massachusetts	SVOD - Acorn
+Laura Horn	lhorn@farmingtonlibraries.org	The Farmington Libraries	7220980	US	Connecticut	
+Sarah Mias	smias@farmingtonlibraries.org	The Farmington Libraries	7220980	US	Connecticut	
+Daisy Papa	papad@forsythpl.org	Forsyth County Public Library	7183747	US	Georgia	
+Holly Barfield	barfieldh@forsythpl.org	Forsyth County Public Library	7183747	US	Georgia	
+Sarah Reynolds	reynoldss@forsythpl.org	Forsyth County Public Library	7183747	US	Georgia	
+Jinhee Yang	yangj@forsythpl.org	Forsyth County Public Library	7183747	US	Georgia	
+Kim Tomblin	tomblink@forsythpl.org	Forsyth County Public Library	7183747	US	Georgia	
+Janice Anderson	andersonj@forsythpl.org	Forsyth County Public Library	7183747	US	Georgia	
+Martha Amerson	amersonm@forsythpl.org	Forsyth County Public Library	7183747	US	Georgia	
+Jeff Fisher	fisherj@forsythpl.org	Forsyth County Public Library	7183747	US	Georgia	
+Robert Schriek	rschriek@chathamlibrary.org	Library of the Chathams	7220988	US	New Jersey	M.A.I.N., Inc
+Michael Hull	mhull@oklibrary.net	Southeastern Public Library System of Oklahoma	7201745	US	Oklahoma	Oklahoma Digital
+Kameran Huggins	kameran.huggins@oklibrary.net	Southeastern Public Library System of Oklahoma	7201745	US	Oklahoma	Oklahoma Digital
+Nick White	sepl@sporos.net	Southeastern Public Library System of Oklahoma	7201745	US	Oklahoma	Oklahoma Digital
+Irina Zaionts	izaionts@greatnecklibrary.org	Great Neck Library	7144934	US	New York	
+Roslyn Rubinstein	rrubinstein@waterfordct.org	Waterford Public Library	7221014	US	Connecticut	
+Laura Erickson	lerickson@waterfordct.org	Waterford Public Library	7221014	US	Connecticut	
+Jill Adams	jadams@waterfordct.org	Waterford Public Library	7221014	US	Connecticut	
+Carla Lydon	clydon@ecrlib.org	East Central Regional Library System	7202495	US	Minnesota	
+Sarah Hawkins	shawkins@ecrlib.org	East Central Regional Library System	7202495	US	Minnesota	
+Total	239

@@ -1,0 +1,20 @@
+Screen Name	Email	Library	AccountId	Country	State	Start Date	End Date	System Name
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	05/01/2019	12/31/2026	
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	05/01/2013	12/31/2016	
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	05/01/2013	12/31/2013	
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	05/01/2013	08/31/2013	
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	05/01/2013	07/31/2013	
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	05/01/2013	06/30/2013	
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	05/01/2013	05/17/2013	
+Barney Allan	barney@digitalcontentassociates.com	Altinbas University	7211906	TR	Turkey	02/01/2019	01/31/2020	
+Barney Allan	barney@digitalcontentassociates.com	RBdigital Global Catalog		US	Maryland	01/01/2019	12/31/2019	
+Barney Allan	barney@digitalcontentassociates.com	Izmir Institute of Technology	7212551	TR	Turkey	01/16/2018	01/31/2019	
+Barney Allan	barney@digitalcontentassociates.com	Altinbas University	7211906	TR	Turkey	01/16/2018	01/31/2019	
+Barney Allan	barney@digitalcontentassociates.com	RBdigital Global Catalog		US	Maryland	02/01/2017	12/31/2018	
+Barney Allan	barney@digitalcontentassociates.com	Koc University	Trial	TR	Turkey	11/13/2018	12/28/2018	
+Barney Allan	barney@digitalcontentassociates.com	Bilecik Seyh Edebali University	Trial	TR	Turkey	11/13/2018	12/14/2018	
+Barney Allan	barney@digitalcontentassociates.com	Baskent University Trial	Trial	TR	Turkey	10/01/2018	11/30/2018	
+Barney Allan	barney@digitalcontentassociates.com	Izmir University of Economics Trial	Trial	TR	Turkey	10/19/2018	11/22/2018	
+Barney Allan	barney@digitalcontentassociates.com	Cankaya University	7208975	TR	Turkey	10/01/2017	09/30/2018	
+Barney Allan	barney@digitalcontentassociates.com	Hong Kong Central Library Trial	Trial	HK	Hong Kong	05/29/2018	06/30/2018	
+Barney Allan	barney@digitalcontentassociates.com	Yildiz Technical University Trial	Trial	TR	Turkey	05/17/2018	06/18/2018	

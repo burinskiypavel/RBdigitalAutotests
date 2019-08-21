@@ -1,0 +1,1449 @@
+For Period: from 02/02/2017 to 02/02/2017
+Active and Inactive Subscriptions counted
+Region	State	Library	AccountId	SalesRep	Subscription Start Date	Subscription End Date	Subscription Status	System Name
+North America	Alabama	8080 Test Library		avolkov_sales	09/03/2014	09/18/2019	Active	
+Asia	Oman	ABA - an IB World School		ballan1	10/16/2016	10/31/2017	Inactive	
+North America	Massachusetts	Abbot Public Library		jlevy	08/01/2016	07/31/2017	Inactive	SVOD - Acorn, IF, Great Courses
+Australia	New South Wales	ABC Reference Library			01/18/2016	02/29/2020	Active	
+Europe, UK	Scotland	Aberdeen City Library			04/01/2015	03/31/2018	Inactive	
+Europe, UK	Scotland	Aberdeenshire Library & Info. Services			01/01/2015	03/31/2019	Inactive	
+North America	Illinois	Addison Public Library	7039945	mhaddadnull	02/01/2017	01/31/2018	Inactive	
+North America	Massachusetts	Agawam Public Library	7055493	jlevy	07/01/2016	06/30/2017	Inactive	SVOD - A, Q, TGCNC; Unl.; No IF, P
+North America	Military	Air Force Library & Information System	7026668	Doss	11/01/2016	10/31/2017	Inactive	DOD-MWR Air Force/7208672
+North America	Ohio	Akron Summit County Public Library		dmcdonald1	10/01/2016	09/30/2017	Inactive	Acorn, Qello, Indieflix
+North America	Florida	Alachua County Library District		Doss	10/01/2016	09/30/2017	Inactive	
+North America	North Carolina	Alamance County Public Libraries		swilliams1	07/01/2016	06/30/2017	Inactive	
+North America	California	Alameda County Library	1724394	hyena	10/01/2016	09/30/2017	Inactive	ACORN TV , IF, Pongalo, TGC
+North America	New Mexico	Albuquerque Bernalillo County Library	7033942	cstrickland	11/01/2016	10/31/2017	Inactive	
+North America	British Columbia	Alert Bay Public Library	7149971	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative-7040759
+North America	Virginia	Alexandria Library	7040823	Doss	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Illinois	Algonquin Area Public Library	7034044	mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	California	Alhambra Civic Center Library		mransdell	06/01/2016	05/31/2017	Inactive	
+North America	Pennsylvania	Aliquippa District Library Center	7061772	lkurucz	09/01/2016	08/31/2017	Inactive	
+North America	Kentucky	Allen County Public Library		mpoynter	09/01/2016	08/31/2017	Inactive	
+North America	Pennsylvania	Allentown Library District	1723897	lkurucz	07/01/2016	06/30/2017	Inactive	
+North America	Texas	Amarillo Public Library		cstrickland	11/01/2016	10/31/2017	Inactive	
+Asia	India	American Embassy School, New Delhi - Elementary School Collection		ballan1	05/16/2016	05/31/2017	Inactive	
+Asia	India	American Embassy School, New Delhi - Middle/High School Collection		ballan1	05/16/2016	05/31/2017	Inactive	
+Other	Nigera	American International School Abuja		WFHINT	06/21/2016	04/30/2017	Inactive	
+Asia	Tokyo	American School in Japan		ballan1	09/01/2016	08/31/2017	Inactive	
+Other	Paraguay	American School of Asuncion		mears	07/16/2016	07/31/2017	Inactive	
+North America	Virginia	Amherst County Public Library	7052448	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Ohio	Amherst Public Library	1721786	dmcdonald1	01/01/2017	12/31/2017	Inactive	
+North America	Texas	Andrews County Library	7098395	cstrickland	03/01/2016	02/28/2017	Inactive	Value Collection
+Europe, UK	Scotland	Angus Alive			04/16/2015	04/30/2018	Inactive	
+North America	Maryland	Anne Arundel County Public Library	1718843	Doss	01/01/2017	12/31/2017	Inactive	
+North America	Minnesota	Anoka County Library	1729630	mears	02/01/2017	01/31/2018	Inactive	MELSA
+North America	Illinois	Antioch Public Library District		mhaddadnull	08/01/2016	07/31/2017	Inactive	
+North America	Colorado	Anythink Libraries	7051275	hyena	01/01/2017	12/31/2017	Inactive	ACORN TV only
+North America	Virginia	Appomattox Regional Library	7052379	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Colorado	Arapahoe Library District	7034241	hyena	01/01/2017	12/31/2017	Inactive	
+North America	California	Arcadia Public Library		mransdell	05/01/2016	04/30/2017	Inactive	
+North America	Arizona	Arizona State Library		mransdell	10/01/2016	09/30/2017	Inactive	Arizona State Library
+North America	Illinois	Arlington Heights Library		mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	Virginia	Arlington Public Library		Doss	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Texas	Arlington Public Library	1718527	cstrickland	02/01/2017	01/31/2018	Inactive	
+Australia	New South Wales	Armidale			04/01/2015	03/31/2020	Active	
+North America	Military	Army MWR Library	7027777	Doss	02/01/2017	01/31/2018	Inactive	DOD-MWR Air Force/7208672
+North America	Louisiana	Ascension Parish Library	1721114	cstrickland	01/01/2017	12/31/2017	Inactive	
+New Zealand	New Zealand	Ashburton Public Library			09/21/2015	09/30/2017	Inactive	
+Australia	New South Wales	Ashfield, Kogarah, Marrickville			07/01/2015	08/31/2017	Inactive	
+North America	Ohio	Athens County Public Libraries		dmcdonald1	02/21/2013	02/28/2017	Inactive	Acorn Only
+North America	Georgia	Athens Regional Library System	7108546	bgilbert	05/01/2016	04/30/2017	Inactive	GADD
+North America	New Jersey	Atlantic County Library System	7067308	lkurucz	01/01/2017	12/31/2017	Inactive	
+North America	Alabama	Auburn Public Library		bgilbert	10/01/2016	09/30/2017	Inactive	
+New Zealand	Auckland	Auckland Libraries	100005055		04/01/2015	03/31/2018	Inactive	
+North America	Virginia	Augusta County Library	7052443	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Illinois	Aurora Public Library		mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	Colorado	Aurora Public Library	1722685	hyena	02/01/2017	01/31/2018	Inactive	
+North America	Texas	Austin Public Library	1717443	cstrickland	03/01/2013	02/28/2017	Inactive	
+North America	Indiana	Avon-Washington Township Public Library	1717500	dmcdonald1	04/01/2016	03/31/2017	Inactive	
+Europe, Europe without UK	Karlsruhe	Badische Landesbibliothek		ballan1	01/01/2017	12/31/2017	Inactive	
+North America	Georgia	Bainbridge High School	7064297	bgilbert	09/01/2016	08/31/2017	Inactive	
+North America	New York	Baldwin Public Library		swilliams1	12/15/2016	12/31/2017	Inactive	Nassau
+North America	Maryland	Baltimore County Public Library	1742563	Doss	12/01/2016	11/30/2017	Inactive	
+North America	California	Banning Library District		mransdell	10/01/2016	09/30/2017	Inactive	Inland Library System
+Europe, UK	England	Barnet Libraries			06/16/2015	06/30/2017	Inactive	
+Europe, UK	England	Barnsley Libraries	BAR131		04/01/2016	03/31/2018	Inactive	
+North America	Ontario	Barrie Public Library	7052755	rseifert	07/01/2016	06/30/2017	Inactive	
+North America	Illinois	Barrington Area Library	7039840	mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	Indiana	Bartholomew County Public Library		dmcdonald1	02/01/2017	01/31/2018	Inactive	
+Australia	New South Wales	Bathurst Library	W_BAT001		06/15/2016	07/31/2018	Inactive	
+Australia	New South Wales	Bayside Library - NSW	10000479		11/01/2014	06/30/2020	Active	
+Australia	Victoria	Bayside Library Service	10000266		08/09/2013	08/31/2019	Active	
+North America	British Columbia	BC Libraries Cooperative	7040607	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	California	Beaumont Library District		mransdell	10/01/2016	09/30/2017	Inactive	Inland Library System
+North America	Louisiana	Beauregard Parish Library		cstrickland	01/01/2017	12/31/2017	Inactive	Value Collection
+North America	Wisconsin	Beaver Dam Community Library		mhaddadnull	02/01/2017	01/31/2018	Inactive	Monarch Library System
+Europe, UK	England	Bedford and Central Bedfordshire Libraries			04/01/2015	03/31/2018	Inactive	
+North America	Massachusetts	Bedford Free Public Library		ngilbert	11/01/2016	10/31/2017	Inactive	
+North America	Illinois	Bedford Park Public Library		mhaddadnull	03/01/2016	02/28/2017	Inactive	
+North America	Virginia	Bedford Public Library	7052418	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Washington	Bellingham Public Library & Whatcom County Library System		Messersmith	01/01/2017	12/31/2017	Inactive	
+North America	New York	Bellmore Memorial Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	Ohio	Belmont County District Library	7051845	dmcdonald1	02/01/2017	01/31/2018	Inactive	
+North America	Massachusetts	Belmont Public Library		jlevy	04/01/2016	03/31/2017	Inactive	
+North America	Arkansas	Bentonville Public Library	7051613	swilks	05/01/2016	04/30/2017	Inactive	
+North America	New Jersey	Bergen County Cooperative Library System	7081850	lkurucz	01/01/2017	12/31/2017	Inactive	
+North America	South Carolina	Berkeley County Library	7103306	swilliams1	08/01/2016	07/31/2017	Inactive	
+North America	New Jersey	Berkeley Heights Public Library	1722025	lkurucz	10/01/2016	09/30/2017	Inactive	
+North America	California	Berkeley Public Library	7026466	mransdell	09/01/2016	08/31/2017	Inactive	
+North America	Pennsylvania	Berks County Public Libraries	7075821	lkurucz	10/01/2016	09/30/2017	Inactive	
+North America	Pennsylvania	Bethlehem Area Public Library	1723907	lkurucz	12/01/2016	11/30/2017	Inactive	
+North America	Iowa	Bettendorf Public Library Information Center	7035578	PaulGillespie	02/01/2017	01/31/2018	Inactive	
+North America	California	Beverly Hills Public Library		mransdell	04/01/2016	03/31/2017	Inactive	
+North America	Massachusetts	Beverly Public Library		jlevy	07/01/2016	06/30/2017	Inactive	Value - Non-Overdrive overlapping
+Europe, UK	England	Bexley Library Service			06/17/2015	06/30/2017	Inactive	
+North America	Texas	Bibliotech	7075354	cstrickland	10/01/2016	09/30/2017	Inactive	
+North America	Manitoba	Bibliotheque Allard Regional Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	Quebec	Bibliotheque Bernard-Patenaude		rseifert	10/15/2016	10/31/2017	Inactive	
+North America	Quebec	Bibliotheque de Blainville		rseifert	03/15/2016	03/31/2017	Inactive	
+North America	Quebec	Bibliotheque de Brossard		rseifert	10/01/2016	09/30/2017	Inactive	
+North America	Quebec	Bibliotheque de Candiac		rseifert	09/15/2016	09/30/2017	Inactive	
+North America	Quebec	Bibliotheque de Montmagny		rseifert	03/16/2016	03/31/2018	Inactive	
+North America	Quebec	Bibliotheque de Vaudreuil-Dorion		rseifert	12/15/2016	12/31/2017	Inactive	
+North America	Quebec	Bibliotheque et Archives Nationales du Quebec	1741895	rseifert	11/01/2016	10/31/2017	Inactive	
+North America	Quebec	Bibliotheque H.J. Hemens Rosemere		rseifert	10/15/2016	10/31/2017	Inactive	
+North America	Manitoba	Bibliotheque Montcalm Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	Quebec	Bibliotheque Municipale de Sainte-Julie		rseifert	01/29/2017	01/31/2018	Inactive	
+North America	Quebec	Bibliotheque Municipale Francoise-Bedard		rseifert	03/15/2016	03/31/2017	Inactive	
+North America	Quebec	Bibliotheque P-Rodolphe - Baril		rseifert	04/16/2016	04/30/2017	Inactive	
+North America	Manitoba	Bibliotheque Pere Champagne		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	Quebec	Bibliotheque Publique de Dollard-des-Ormeaux		rseifert	02/01/2017	01/31/2018	Inactive	
+North America	Manitoba	Bibliotheque Saint Claude Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	Manitoba	Bibliotheque Somerset Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	Quebec	Bibliotheques de Laval	7097768	rseifert	05/01/2016	04/30/2017	Inactive	
+North America	Quebec	Bibliotheques de Trois-Rivieres		rseifert	01/16/2017	01/31/2018	Inactive	
+North America	Quebec	Bibliotheques Victoriaville		rseifert	06/01/2016	05/31/2017	Inactive	
+North America	Quebec	Bibliotheques Ville de Levis		rseifert	03/15/2016	03/31/2017	Inactive	
+Australia	New South Wales	Big Sky Libraries			06/17/2015	07/31/2018	Inactive	
+North America	Montana	Billings Public Library		cpitcher	07/15/2016	07/31/2017	Inactive	
+North America	Ohio	Birchard Public Library		dmcdonald1	02/01/2017	01/31/2018	Inactive	
+North America	California	Black Gold Library Cooperative		hyena	11/01/2016	10/31/2017	Inactive	
+Australia	New South Wales	Blacktown City Libraries			09/17/2014	09/30/2019	Active	
+North America	Virginia	Blackwater Regional Library	7052414	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Illinois	Bloomingdale Public Library	7052769	mhaddadnull	07/01/2016	06/30/2017	Inactive	
+North America	Illinois	Bloomington Public Library		mhaddadnull	10/01/2016	09/30/2017	Inactive	
+Australia	New South Wales	Blue Mountains Library	BLU001		10/13/2016	12/31/2019	Active	
+North America	Virginia	Blue Ridge Regional Library	7052424	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Florida	Boca Raton Public Library		bgilbert	02/15/2013	02/28/2017	Inactive	
+North America	Idaho	Boise Public Library		cpitcher	10/01/2016	09/30/2017	Inactive	
+North America	Manitoba	Boissevain-Morton Library & Archives		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	Kentucky	Boone County Public Library		dmcdonald1	09/01/2016	08/31/2017	Inactive	
+North America	Missouri	Boonslick Regional Library		swilks	07/01/2016	06/30/2017	Inactive	
+North America	Manitoba	Border Regional Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+Australia	Victoria	Boroondara Library Service	BOR003		09/04/2016	11/30/2019	Active	
+North America	Massachusetts	Boston Public Library System	7052898	jlevy	07/01/2016	06/30/2017	Inactive	
+North America	Virginia	Botetourt County Library	7052420	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Nevada	Boulder City Public Library	7040090	mransdell	12/01/2016	11/30/2017	Inactive	
+Europe, UK	England	Bournemouth			04/01/2016	03/31/2019	Inactive	
+North America	British Columbia	Bowen Island Public Library	7040640	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Kentucky	Boyd County Public Library	1729743	dmcdonald1	04/01/2016	03/31/2017	Inactive	
+Europe, UK	England	Bracknell Forest Borough Libraries	10000020		07/24/2013	07/31/2018	Inactive	
+North America	Illinois	Bradley Public Library District		mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	Ontario	Brampton Public Library		rseifert	01/01/2017	12/31/2017	Inactive	
+North America	Ontario	Brantford Public Library	7104496	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	Manitoba	Bren Del Win Centennial Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	Massachusetts	Brewster Ladies' Library		jlevy	02/01/2017	01/31/2018	Inactive	
+North America	Connecticut	Bridgeport Public Library	7052544	jlevy	10/01/2016	09/30/2017	Inactive	
+North America	West Virginia	Bridgeport Public Library	7052016	dmcdonald1	07/01/2016	06/30/2017	Inactive	WV Deli-7120407
+Europe, UK	England	Brighton and Hove Libraries			11/24/2016	11/30/2018	Inactive	
+Australia	Victoria	Brimbank Libraries			07/01/2015	06/30/2020	Active	
+Australia	Queensland	Brisbane City Council Library Service	10000432		10/01/2014	09/30/2019	Active	
+Australia	Queensland	Brisbane Grammar School			10/18/2014	10/31/2018	Inactive	
+Europe, UK	England	Bristol Libraries			03/01/2015	02/12/2018	Inactive	
+North America	Connecticut	Bristol Public Library		jlevy	07/01/2016	06/30/2017	Inactive	
+North America	Virginia	Bristol Public Library	7052539	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+Asia	India	British Council Libraries			02/01/2015	03/31/2018	Inactive	
+Asia	Pakistan	British Council Pakistan			03/01/2016	03/31/2018	Inactive	
+Asia	Indonesia	British School Jakarta		ballan1	08/15/2016	08/31/2017	Inactive	
+Europe, UK	England	Bromley Libraries			06/17/2015	06/30/2018	Inactive	
+North America	Wisconsin	Brookfield Public Library	1720521	mhaddadnull	01/01/2017	12/31/2017	Inactive	
+North America	Illinois	Brookfield Public Library		mhaddadnull	04/01/2016	03/31/2017	Inactive	
+North America	Maryland	Brooks Test Library			09/01/2015	08/31/2017	Inactive	
+North America	Florida	Broward County Library System		Doss	01/01/2017	12/31/2017	Inactive	
+North America	Wisconsin	Brown County Library	7031914	mhaddadnull	01/01/2017	12/31/2017	Inactive	
+North America	Indiana	Brownsburg Public Library	7052471	dmcdonald1	03/01/2016	02/28/2017	Inactive	
+North America	Texas	Brownsville Public Library System		cstrickland	02/01/2017	01/31/2018	Inactive	
+North America	New York	Bryant Library		swilliams1	12/15/2016	12/31/2017	Inactive	Nassau
+Europe, UK	England	Buckinghamshire Libraries	10000024		12/01/2014	11/30/2018	Inactive	
+North America	Pennsylvania	Bucks County Free Library	7044955	Doss	10/01/2016	09/30/2017	Inactive	
+North America	California	Buena Park Library		mransdell	10/01/2016	09/30/2017	Inactive	Santiago Group
+North America	North Carolina	Buncombe County Public Libraries	7026513	swilliams1	01/01/2017	12/31/2017	Inactive	
+Australia	Queensland	Bundaberg Regional Libraries			12/01/2014	11/30/2019	Active	
+North America	Ontario	Burlington Public Library	7077803	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	British Columbia	Burnaby Public Library	7040651	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Texas	Burnet County		cstrickland	10/01/2016	09/30/2017	Inactive	Acorn, Indieflix
+North America	British Columbia	Burns Lake Public Library	7149969	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative-7040759
+North America	Pennsylvania	Butler County Federated Library System	7026550	lkurucz	12/01/2016	11/30/2017	Inactive	
+North America	North Carolina	Cabarrus County Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	
+Australia	Queensland	Cairns Libraries			07/18/2014	07/31/2019	Active	
+North America	California	Calabasas Public Library	1731318	mransdell	02/01/2017	01/31/2018	Inactive	
+North America	Louisiana	Calcasieu Parish Public Library		cstrickland	12/01/2016	11/30/2017	Inactive	
+North America	Ontario	Caledon Public Library	7103313	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	Alberta	Calgary Public Library	7080637	Messersmith	11/01/2016	10/31/2017	Inactive	Alberta Municipal Affairs 7104420
+New Zealand	New Zealand	Callaghan Innovation			03/18/2016	03/31/2018	Inactive	
+North America	California	Camarillo Public Library	1746164	mransdell	03/01/2016	02/28/2017	Inactive	
+Europe, UK	England	Cambridgeshire County Libraries	10000029		01/01/2015	12/31/2018	Inactive	
+Australia	New South Wales	Camden Council Library Service	10000030		10/01/2014	09/30/2019	Active	
+North America	New Jersey	Camden County Library	7077797	lkurucz	02/01/2017	01/31/2018	Inactive	
+North America	Missouri	Camden County Library District	7050415	swilks	04/01/2016	03/31/2017	Inactive	
+North America	Louisiana	Cameron Parish Library		cstrickland	01/01/2017	12/31/2017	Inactive	
+Australia	Victoria	Campaspe Regional Library	10000280		07/01/2015	06/30/2020	Active	
+North America	Virginia	Campbell County Public Library		swilliams1	05/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Kentucky	Campbell County Public Library	7052053	dmcdonald1	02/28/2013	02/28/2017	Inactive	
+Australia	New South Wales	Campbelltown City Library Service			04/15/2016	04/30/2020	Active	
+North America	Ontario	Canada 50 Shared Magazine Collection Ontario			05/01/2016	04/30/2017	Inactive	
+North America	Ontario	Canada Pension Plan Investment Board		rseifert	02/01/2017	01/31/2018	Inactive	
+Asia	China	Canadian International School of Beijing		ballan1	08/16/2016	08/31/2017	Inactive	
+Australia	New South Wales	Canterbury Bankstown Library			11/01/2014	07/31/2017	Inactive	
+North America	Texas	Canyon Area Library		cstrickland	04/01/2016	03/31/2017	Inactive	Value Collection
+North America	Missouri	Cape Girardeau Public Library		swilks	07/01/2016	06/30/2017	Inactive	
+North America	New Jersey	Cape May County Library		lkurucz	07/01/2016	06/30/2017	Inactive	
+North America	Michigan	Capital Area District Libraries		hyena	07/01/2016	06/30/2017	Inactive	
+North America	British Columbia	Cariboo Regional District Library	7149957	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative-7040759
+North America	New Mexico	Carlsbad Public Library	1737146	cstrickland	03/01/2016	02/28/2017	Inactive	Value Collection
+North America	Indiana	Carmel Clay Public Library		dmcdonald1	02/01/2017	01/31/2018	Inactive	
+North America	Pennsylvania	Carnegie Library of Pittsburgh	1726020	lkurucz	12/01/2016	11/30/2017	Inactive	
+North America	Iowa	Carnegie-Stout PL & James Kennedy PL	7051806	PaulGillespie	04/01/2016	03/31/2017	Inactive	
+North America	Illinois	Carol Stream Public Library	1722632	mhaddadnull	03/01/2016	02/28/2017	Inactive	
+North America	Maryland	Carroll County Library		swilliams1	10/01/2016	09/30/2017	Inactive	
+North America	Texas	Carrollton Public Library		cstrickland	04/01/2016	03/31/2017	Inactive	
+North America	Minnesota	Carver County Library	1726983	PaulGillespie	02/01/2017	01/31/2018	Inactive	MELSA
+Australia	Victoria	Casey-Cardinia Library Corporation			07/01/2015	06/30/2020	Active	
+North America	British Columbia	Castlegar & District Public Library	7040650	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+Australia	Victoria	Caulfield Grammar School			11/17/2014	11/30/2019	Active	
+North America	Maryland	Cecil County Public Library	1733782	swilliams1	07/01/2016	06/30/2017	Inactive	
+North America	Iowa	Cedar Falls Public Library and Waverly Public Library		PaulGillespie	07/01/2016	06/30/2017	Inactive	
+Australia	New South Wales	Central Coast Library Service			10/01/2014	09/30/2019	Active	
+Australia	Victoria	Central Highlands Libraries			08/20/2013	08/31/2019	Active	
+North America	Iowa	Central Iowa MagNet Zinio Consortium	7052793	PaulGillespie	10/01/2016	09/30/2017	Inactive	
+North America	Nebraska	Central Nebraska Consortium	7052525	cpitcher	02/01/2017	01/31/2018	Inactive	
+Australia	New South Wales	Central Northern Regional Library	10000288		11/01/2014	10/31/2019	Active	
+North America	Virginia	Central Rappahannock Regional Library	1726742	Doss	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+Australia	New South Wales	Central West Libraries	10000289		04/01/2015	07/31/2018	Inactive	
+Australia	New South Wales	Cessnock Library			07/18/2014	08/31/2017	Inactive	
+North America	Texas	Chambers County Library System		cstrickland	01/01/2017	12/31/2017	Inactive	
+North America	Ohio	Champaign County Public Library		dmcdonald1	02/01/2017	01/31/2018	Inactive	
+North America	Illinois	Champaign Public Library		mhaddadnull	12/01/2016	11/30/2017	Inactive	
+North America	Arizona	Chandler Public Library		mransdell	01/01/2017	12/31/2017	Inactive	
+North America	South Carolina	Chapin Memorial Library	1721788	swilliams1	04/01/2016	03/31/2017	Inactive	
+North America	South Carolina	Charleston County Public Library	7026578	swilliams1	05/01/2016	04/30/2017	Inactive	SVOD - Acorn, Indieflix
+North America	Indiana	Charlestown Clark Public Library	1722670	dmcdonald1	04/01/2016	03/31/2017	Inactive	
+North America	Florida	Charlotte County Library		bgilbert	08/01/2016	07/31/2017	Inactive	
+North America	North Carolina	Charlotte Mecklenburg Library		swilliams1	08/01/2016	07/31/2017	Inactive	
+North America	North Carolina	Chatham County Library	7026545	swilliams1	08/01/2016	07/31/2017	Inactive	
+North America	Ontario	Chatham-Kent Public Library	7092869	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	Georgia	Chattahoochee Valley Libraries	7040480	Doss	10/01/2016	09/30/2017	Inactive	
+North America	Tennessee	Chattanooga Public Library	1718837	bgilbert	10/01/2016	09/30/2017	Inactive	
+North America	New York	Chautauqua-Cattaraugus Library System		rseifert	08/01/2016	07/31/2017	Inactive	
+North America	Massachusetts	Chelmsford Public Library		jlevy	08/01/2016	07/31/2017	Inactive	SVOD - All
+North America	New Jersey	Cherry Hill Public Library	7082480	lkurucz	12/01/2016	11/30/2017	Inactive	
+North America	Virginia	Chesapeake Public Library	7052258	Doss	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Connecticut	Cheshire Public Library	7060053	jlevy	05/01/2016	04/30/2017	Inactive	
+North America	Georgia	Chestatee Regional Library		bgilbert	10/01/2016	09/30/2017	Inactive	GADD
+North America	Virginia	Chesterfield County Public Library	7052080	Doss	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	British Columbia	Chetwynd Public Library	7040649	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Illinois	Chicago Public Library	7076433	Doss	11/01/2016	10/31/2017	Inactive	
+North America	Massachusetts	Chicopee Public Library	7059766	jlevy	03/01/2016	02/28/2017	Inactive	
+North America	Alberta	Chinook Arch Regional Library System	7080641	Messersmith	11/01/2016	10/31/2017	Inactive	
+New Zealand	Christchurch	Christchurch City Libraries			12/01/2014	11/30/2018	Inactive	
+North America	Manitoba	Churchill Public Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+Europe, UK	England	City of London			12/17/2015	12/31/2018	Inactive	
+Australia	Northern Territory	City of Palmerston Library			03/01/2015	04/30/2017	Inactive	
+Australia	Victoria	City of Port Phillip	10000376		02/01/2015	01/31/2020	Active	
+Australia	New South Wales	City of Ryde			10/01/2014	09/30/2019	Active	
+Australia	New South Wales	City of Sydney Library			09/17/2014	09/30/2019	Active	
+Australia	New South Wales	Clarence Regional Library	10000291		01/01/2015	12/31/2019	Active	
+North America	Illinois	Clarendon Hills Public Library		mhaddadnull	01/01/2017	12/31/2017	Inactive	
+North America	Ontario	Clarington Public Library	7052599	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	Ohio	Clark County Public Library		dmcdonald1	07/01/2016	06/30/2017	Inactive	
+North America	Kentucky	Clark County Public Library		dmcdonald1	07/01/2013	06/30/2017	Inactive	
+North America	New Jersey	Clark Public Library		lkurucz	02/01/2017	01/31/2018	Inactive	
+North America	West Virginia	Clarksburg Harrison Public Library		dmcdonald1	07/01/2016	06/30/2017	Inactive	WV Deli-7120407
+North America	Georgia	Clayton County Library System		bgilbert	08/01/2016	07/31/2017	Inactive	GADD
+North America	Ohio	Clermont County Public Library		dmcdonald1	04/01/2016	03/31/2017	Inactive	
+North America	Tennessee	Cleveland Bradley County Public Library	7099848	bgilbert	10/01/2016	09/30/2017	Inactive	
+North America	Ohio	Cleveland Heights-University Heights Public Library		dmcdonald1	11/22/2016	11/30/2017	Inactive	
+North America	New York	Clifton Park-Halfmoon Public Library	7099010	jlevy	03/01/2016	02/28/2017	Inactive	
+North America	Georgia	Cobb County Public Library System	1718530	Doss	04/01/2016	03/31/2017	Inactive	
+Australia	New South Wales	Coffs Harbour City Library			05/18/2015	05/31/2020	Active	
+North America	Florida	Collier County Public Library	7081658	bgilbert	11/01/2016	10/31/2017	Inactive	
+North America	Tennessee	Collierville Burch Public Library	7040084	bgilbert	10/01/2016	09/30/2017	Inactive	
+North America	Virginia	Colonial Heights Public Library	7052494	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	California	Colton Public Library		mransdell	10/01/2016	09/30/2017	Inactive	Inland Library System
+North America	Ohio	Columbiana Public Library		dmcdonald1	10/01/2016	09/30/2017	Inactive	
+North America	Ohio	Columbus Academy		dmcdonald1	07/01/2016	06/30/2017	Inactive	
+North America	California	Commerce Public Library		mransdell	01/01/2017	12/31/2017	Inactive	
+North America	Ohio	Community Library		dmcdonald1	04/01/2016	03/31/2017	Inactive	
+North America	Massachusetts	Concord Free Public Library		jlevy	08/01/2016	07/31/2017	Inactive	
+North America	Illinois	Cook Memorial Public Library District		mhaddadnull	11/01/2016	10/31/2017	Inactive	
+North America	British Columbia	Coquitlam Public Library	7040648	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Connecticut	Cora J. Belden Library	7051821	jlevy	01/01/2017	12/31/2017	Inactive	SVOD--Qello and TGCNC only; unlimited.
+Australia	Victoria	Corangamite Regional Library Corporation			04/01/2015	03/31/2020	Active	
+Europe, UK	England	Cornwall Libraries	10000042		05/01/2015	04/30/2018	Inactive	
+North America	California	Corona Public Library		mransdell	10/01/2016	09/30/2017	Inactive	Inland Library System
+North America	Texas	Corpus Christi Public Library		cstrickland	02/21/2013	02/28/2017	Inactive	
+North America	Oregon	Corvallis-Benton County Library		Messersmith	11/01/2016	10/31/2017	Inactive	
+Europe, UK	England	Coventry Libraries and Information Service	10000044		12/01/2012	11/30/2018	Inactive	
+North America	Texas	Cozby Library and Community Commons	1731987	cstrickland	12/01/2016	11/30/2017	Inactive	
+North America	British Columbia	Cranbrook Public Library	7040655	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	New York	Crandall Public Library		rseifert	07/01/2016	06/30/2017	Inactive	
+North America	Indiana	Crawfordsville District Public Library		dmcdonald1	10/01/2016	09/30/2017	Inactive	
+North America	British Columbia	Creston Public Library		Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Illinois	Crestwood Public Library		mhaddadnull	03/01/2016	02/28/2017	Inactive	
+North America	Illinois	Crete Public Library	7084219	mhaddadnull	01/01/2017	12/31/2017	Inactive	
+Europe, UK	England	Croydon, Ealing, Harrow & Hounslow CCS Libraries	CCS001		12/17/2015	03/11/2018	Inactive	
+North America	Alabama	Cullman County Public Library		bgilbert	02/15/2016	02/28/2017	Inactive	
+North America	Virginia	Culpeper County Library	7052387	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+Europe, UK	Scotland	Culture Perth and Kinross	10000168		11/01/2014	10/31/2018	Inactive	
+Europe, UK	Scotland	CultureNL Libraries			10/26/2015	10/31/2017	Inactive	
+North America	North Carolina	Cumberland County Public Library	7026560	swilliams1	03/01/2016	02/28/2017	Inactive	
+Europe, UK	England	Cumbria Libraries	10000046		10/01/2014	09/30/2017	Inactive	
+North America	North Carolina	Currituck County Public Library	7050032	swilliams1	07/01/2016	06/30/2017	Inactive	
+North America	Ohio	Cuyahoga Falls Library		dmcdonald1	02/01/2017	01/31/2018	Inactive	
+North America	Minnesota	Dakota County Library	1719129	mears	02/01/2017	01/31/2018	Inactive	MELSA
+North America	Texas	Dallas Public Library		cstrickland	12/01/2016	05/31/2017	Inactive	
+North America	Missouri	Daniel Boone Regional Library	7075788	swilks	10/01/2016	09/30/2017	Inactive	
+Europe, Europe without UK	Kobenhavn	Danskernes Digitale Bibliotek - Magazines, eAudio, and eBooks		pedromoura	01/01/2017	12/31/2017	Inactive	
+North America	Virginia	Danville Public Library	7075794	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+Australia	Victoria	Darebin Libraries			02/01/2015	07/31/2019	Active	
+North America	Connecticut	Darien Library	1732644	jlevy	04/01/2016	03/31/2017	Inactive	SVOD - A, Q, IF; No Pongalo
+Europe, UK	England	Darlington			03/18/2016	03/31/2018	Inactive	
+North America	Massachusetts	Dartmouth Public Libraries		jlevy	10/01/2016	09/30/2017	Inactive	
+North America	Iowa	Davenport Public Library	7036496	PaulGillespie	02/01/2017	01/31/2018	Inactive	
+North America	North Carolina	Davidson County Library	1744953	swilliams1	10/01/2016	09/30/2017	Inactive	
+North America	Kentucky	Daviess County Public Library	1723917	dmcdonald1	04/09/2013	03/31/2017	Inactive	
+North America	Utah	Davis County Library System		cpitcher	11/01/2016	10/31/2017	Inactive	
+North America	Maryland	Dawn's Library			03/01/2016	02/28/2018	Inactive	
+North America	Ohio	Dayton Metro Library		Messersmith	02/01/2017	01/31/2018	Inactive	
+North America	District of Columbia	DC Public Library	1731018	Doss	04/01/2016	03/31/2017	Inactive	
+Asia	Philippines	De La Salle-College of Saint Benilde		ballan1	04/16/2016	04/30/2017	Inactive	
+North America	Texas	Deer Park Public Library		cstrickland	07/01/2016	06/30/2017	Inactive	
+North America	Illinois	Deerfield Public Library		mhaddadnull	01/01/2017	12/31/2017	Inactive	
+North America	Ohio	Defiance Public Library	7083912	dmcdonald1	01/01/2017	07/31/2017	Inactive	
+North America	Georgia	DeKalb County Public Library		bgilbert	10/01/2016	09/30/2017	Inactive	
+North America	Ohio	Delaware County District Library	7074908	dmcdonald1	09/01/2016	08/31/2017	Inactive	
+North America	Pennsylvania	Delaware County Libraries		lkurucz	01/01/2017	12/31/2017	Inactive	
+North America	Colorado	Delta County Libraries	1718532	hyena	10/01/2016	09/30/2017	Inactive	
+North America	Texas	Denton Public Library	7076489	cstrickland	11/01/2016	10/31/2017	Inactive	
+North America	Colorado	Denver Public Library System		hyena	02/01/2017	01/31/2018	Inactive	
+Europe, UK	England	Derby City Library			06/01/2015	06/30/2018	Inactive	
+North America	Kansas	Derby Public Library		swilks	02/01/2017	01/31/2018	Inactive	
+Europe, UK	England	Derbyshire County Council			09/25/2014	09/30/2018	Inactive	
+North America	Iowa	Des Moines Public Library	1717450	PaulGillespie	10/01/2016	09/30/2017	Inactive	
+North America	Illinois	Des Plaines Public Library		mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	Oregon	Deschutes Public Library	7054063	Messersmith	07/01/2016	06/30/2017	Inactive	
+Europe, UK	England	Devon Libraries	DEV111		09/16/2015	09/30/2018	Inactive	
+North America	Maryland	Digital Content Associates School Trial		ballan1	09/01/2016	08/31/2017	Inactive	
+North America	Iowa	Digital Johnson County		PaulGillespie	10/01/2016	09/30/2017	Inactive	
+North America	Maryland	Digital Products Support			02/01/2017	03/01/2017	Inactive	
+Australia	South Australia	Directorate of Library and Information Service			06/01/2015	05/31/2020	Active	
+North America	Florida	Disney Parks, Experiences and Products		bgilbert	10/01/2016	09/30/2017	Inactive	
+North America	Florida	Disney Parks, Experiences and Products - Exec		bgilbert	10/01/2016	09/30/2017	Inactive	
+North America	Illinois	Dolton Public Library	7052091	mhaddadnull	05/01/2016	04/30/2017	Inactive	
+North America	South Carolina	Dorchester County Library	7026583	swilliams1	10/01/2016	09/30/2017	Inactive	
+Europe, UK	England	Dorset Library Service			06/08/2015	11/30/2018	Inactive	
+North America	Alabama	Dothan Houston County Library System		bgilbert	10/01/2016	09/30/2017	Inactive	
+North America	Georgia	Dougherty County Public Library	7040834	bgilbert	10/01/2016	09/30/2017	Inactive	GADD
+North America	Colorado	Douglas County Libraries		hyena	10/01/2016	09/30/2017	Inactive	
+Europe, UK	England	Douglas Henry Bloom Noble Library			08/18/2016	08/31/2017	Inactive	
+North America	Vermont	Dover Free Library	7027138	jlevy	03/01/2016	02/28/2017	Inactive	Value; SVOD--Indieflix, Acorn, Qello, Pongalo, Great Courses; unlimited;
+North America	Illinois	Downers Grove Public Library		mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	California	Downey City Library		mransdell	11/16/2016	11/30/2017	Inactive	
+Asia	Dubai	Dubai American Academy		ballan1	10/01/2016	09/30/2017	Inactive	
+Europe, UK	England	Dudley	10000058		03/01/2015	02/28/2018	Inactive	
+Europe, UK	Scotland	Dumfries and Galloway Council			07/01/2015	06/30/2017	Inactive	
+Europe, UK	Scotland	Dundee			03/01/2015	02/28/2018	Inactive	
+New Zealand	Dunedin	Dunedin Public Libraries			11/20/2014	11/30/2017	Inactive	
+Europe, UK	England	Durham County Council			03/01/2015	02/28/2018	Inactive	
+North America	North Carolina	Durham County Library	7026573	swilliams1	04/01/2016	03/31/2017	Inactive	
+North America	Louisiana	East Baton Rouge Parish Library	7052863	cstrickland	10/01/2016	09/30/2017	Inactive	
+North America	Minnesota	East Central Regional Library System	7077467	cpitcher	11/01/2016	10/31/2017	Inactive	
+Europe, UK	Scotland	East Dunbartonshire Libraries			12/01/2014	11/30/2017	Inactive	
+Australia	Victoria	East Gippsland Shire Library			01/18/2015	01/31/2020	Active	
+North America	Michigan	East Lansing Public Library	7062196	dmcdonald1	08/01/2016	06/30/2017	Inactive	
+Europe, UK	Scotland	East Lothian Libraries	10000066		06/17/2013	04/30/2018	Inactive	
+North America	New York	East Meadow Public Library		swilliams1	12/15/2016	12/31/2017	Inactive	Nassau
+Europe, UK	England	East Riding of Yorkshire Council			12/01/2014	11/30/2018	Inactive	
+North America	New York	East Rockaway Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+Europe, UK	England	East Sussex	EAS195		11/17/2015	03/31/2018	Inactive	
+Australia	Victoria	Eastern Regional Libraries			10/01/2014	09/30/2019	Active	
+North America	Maryland	Eastern Shore Libraries	1737907	swilliams1	01/01/2017	06/30/2017	Inactive	
+North America	Virginia	Eastern Shore Public Library	7082466	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Pennsylvania	Easton Area Public Library	1723900	lkurucz	02/01/2017	01/31/2018	Inactive	
+North America	Connecticut	Easton Public Library	1726317	jlevy	12/01/2016	11/30/2017	Inactive	Value
+Europe, UK	Scotland	Edinburgh Libraries	10000071		12/01/2014	11/30/2017	Inactive	
+North America	Alberta	Edmonton Public Library	1724246	Messersmith	11/01/2016	10/31/2017	Inactive	Alberta Municipal Affairs 7104420
+North America	Texas	El Paso Public Library	7055498	cstrickland	07/01/2016	06/30/2017	Inactive	
+North America	Illinois	Ela Area Public Library		mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	Quebec	Eleanor London Cote Saint-Luc Public Library	7104519	rseifert	04/01/2016	03/31/2017	Inactive	
+North America	Ontario	Elgin County Library	7052603	rseifert	07/01/2016	06/30/2017	Inactive	
+North America	Illinois	Elk Grove Village Public Library	7034046	mhaddadnull	11/01/2016	10/31/2017	Inactive	
+North America	British Columbia	Elkford Public LIbrary	7040646	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Indiana	Elkhart Public Library and Goshen Public Library Consortium		dmcdonald1	01/01/2017	12/31/2017	Inactive	
+North America	Illinois	Ella Johnson Memorial Public Library District	7052549	mhaddadnull	08/01/2016	07/31/2017	Inactive	
+North America	Illinois	Elmhurst Public Library	7035032	mhaddadnull	11/01/2016	10/31/2017	Inactive	
+North America	New York	Elmont Public Library		swilliams1	12/15/2016	12/31/2017	Inactive	Nassau
+North America	Illinois	Elmwood Park Public Library		mhaddadnull	11/01/2016	10/31/2017	Inactive	
+North America	New York	Emma S. Clark Memorial Library	7117218	swilliams1	07/01/2016	06/30/2017	Inactive	
+Asia	Turkey	Enka School		WFHINT	02/16/2016	02/28/2017	Inactive	
+North America	Maryland	Enoch Pratt Free Library	7075120	Doss	11/01/2016	10/31/2017	Inactive	
+North America	Alabama	Envion Test Library			01/01/2015	12/31/2020	Active	
+North America	Pennsylvania	Ephrata Public Library		lkurucz	11/01/2012	12/31/2017	Inactive	
+Europe, UK	England	Essex County Council Libraries	10000073		05/01/2015	04/30/2018	Inactive	
+North America	Ontario	Essex County Library		rseifert	10/01/2016	09/30/2017	Inactive	
+North America	Oregon	Eugene Public Library	7040855	Messersmith	01/01/2017	12/31/2017	Inactive	
+North America	Indiana	Evansville Vanderburgh Public Library	1719000	dmcdonald1	11/01/2016	10/31/2017	Inactive	
+North America	Ontario	Export Development Canada		rseifert	12/01/2016	11/30/2017	Inactive	
+North America	Alaska	Fairbanks North Star Borough Public Library	7052646	Messersmith	07/01/2016	06/30/2017	Inactive	
+North America	Virginia	Fairfax County Public Library	7109365	Doss	12/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+Australia	New South Wales	Fairfield City Council			06/01/2015	06/30/2020	Active	
+North America	Connecticut	Fairfield Public Library	7060011	jlevy	05/01/2016	04/30/2017	Inactive	
+North America	Alabama	Fairhope Public Library	1723918	bgilbert	12/01/2016	11/30/2017	Inactive	
+North America	West Virginia	Fairmont State University		dmcdonald1	07/01/2016	06/30/2017	Inactive	WV Deli-7120407
+Europe, UK	Scotland	Falkirk Libraries			12/01/2014	11/30/2018	Inactive	
+North America	Massachusetts	Fall River Public Library		jlevy	06/01/2016	05/31/2017	Inactive	
+North America	New York	Farmingdale Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	Virginia	Fauquier County Public Library	1718536	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	West Virginia	Fayette County Public Library		dmcdonald1	07/01/2016	06/30/2017	Inactive	WV Deli-7120407
+North America	Arkansas	Fayetteville Public Library	1718537	swilks	05/01/2016	04/30/2017	Inactive	
+North America	Virginia	Federal Reserve Bank System	7084231	Doss	01/01/2017	12/31/2017	Inactive	
+North America	British Columbia	Fernie Public Library	7040645	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+Europe, UK	Scotland	Fife Cultural Trust			04/01/2015	03/31/2018	Inactive	
+North America	New York	Finger Lakes Library System		rseifert	07/01/2016	06/30/2017	Inactive	
+North America	New York	Finkelstein Memorial Library		rseifert	11/01/2016	10/31/2017	Inactive	Premium Mags; SVOD--Acorn, IF, Qello, Pongalo, Great Courses
+North America	Colorado	Flatirons Library Consortium		hyena	10/01/2016	09/30/2017	Inactive	
+North America	South Carolina	Florence Darling Technical College		swilliams1	07/01/2016	06/30/2017	Inactive	
+North America	Texas	Flower Mound Public Library	1720532	cstrickland	01/01/2017	12/31/2017	Inactive	
+North America	Kentucky	Floyd County Public Library		dmcdonald1	12/01/2016	11/30/2017	Inactive	Value Collection
+North America	Virginia	Fluvanna County Public Library	7053039	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Illinois	Forest Park Public Library		mhaddadnull	12/01/2016	11/30/2017	Inactive	
+North America	Georgia	Forsyth County Public Library		bgilbert	07/15/2016	07/31/2017	Inactive	
+North America	North Carolina	Forsyth County Public Library	7026603	swilliams1	11/01/2016	10/31/2017	Inactive	
+North America	Ontario	Fort Erie Public Library	7092891	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	British Columbia	Fort Nelson Public Library	7040644	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	British Columbia	Fort St. James Public Library	7040786	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	British Columbia	Fort St. John Public Library	7040643	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Washington	Fort Vancouver Regional Library	1743538	Messersmith	01/01/2017	12/31/2017	Inactive	
+North America	Illinois	Fountaindale Public Library	7036164	mhaddadnull	02/01/2017	01/31/2018	Inactive	
+North America	Illinois	Fox Lake Public Library	7081675	mhaddadnull	11/01/2016	10/31/2017	Inactive	
+North America	Massachusetts	Framingham Public Library		ngilbert	09/01/2016	08/31/2017	Inactive	
+North America	Pennsylvania	Frank Sarris Public Library	7061799	lkurucz	01/01/2017	12/31/2017	Inactive	
+North America	Illinois	Frankfort Public Library District	1727433	mhaddadnull	01/01/2017	12/31/2017	Inactive	
+North America	Virginia	Franklin County Public Library		swilliams1	05/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Illinois	Franklin Park Public Library District	7053034	mhaddadnull	07/01/2016	06/30/2017	Inactive	
+North America	Massachusetts	Franklin Public Library		jlevy	01/01/2017	12/31/2017	Inactive	
+North America	New York	Franklin Square Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	New Jersey	Franklin Twp Public Library		lkurucz	07/01/2016	06/30/2017	Inactive	
+Australia	Victoria	Frankston City Libraries			03/01/2015	02/29/2020	Active	
+Australia	Queensland	Fraser Coast Libraries	10000302		07/10/2013	07/31/2019	Active	
+North America	British Columbia	Fraser Lake Public Library	7040629	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	British Columbia	Fraser Valley Regional Library	7040641	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Maryland	Frederick County Public Libraries	7027726	swilliams1	05/01/2016	04/30/2017	Inactive	
+North America	Pennsylvania	Free Library of Philadelphia	7083898	Doss	12/01/2016	11/30/2017	Inactive	
+North America	New York	Freeport Memorial Library		swilliams1	12/15/2016	12/31/2017	Inactive	Nassau
+North America	Illinois	Fremont Public Library	7039951	mhaddadnull	06/01/2016	05/31/2017	Inactive	
+North America	California	Fresno County Public Library	7083465	mransdell	03/01/2016	02/28/2017	Inactive	
+North America	Texas	Friendswood Public Library	7081672	cstrickland	12/01/2016	11/30/2017	Inactive	
+North America	Texas	Frisco Public Library	1716310	cstrickland	01/01/2017	12/31/2017	Inactive	
+North America	California	Fullerton Public Library	7075131	mransdell	10/01/2016	09/30/2017	Inactive	Santiago
+North America	Georgia	Fulton County Library System		Doss	04/15/2016	04/30/2017	Inactive	
+North America	Indiana	Fulton County Public Library		dmcdonald1	01/01/2017	12/31/2017	Inactive	
+North America	Illinois	Gail Borden Public Library		mhaddadnull	04/01/2016	03/31/2017	Inactive	
+North America	New York	Garden City Public Library		swilliams1	12/15/2016	12/31/2017	Inactive	Nassau
+North America	North Carolina	Gaston County Public Library	7035378	swilliams1	04/01/2016	03/31/2017	Inactive	
+North America	Manitoba	Gaynor Family Regional Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	Ohio	Geauga County Public Library		dmcdonald1	02/25/2013	02/28/2017	Inactive	
+Australia	Victoria	Geelong Regional Library Corporation			10/01/2014	09/30/2019	Active	
+North America	Michigan	Genesee District Library	7083378	hyena	01/01/2017	12/31/2017	Inactive	
+North America	Illinois	Geneva Public Library District		mhaddadnull	06/01/2016	05/31/2017	Inactive	
+North America	British Columbia	Gibsons & District Public Library	7149967	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative-7040759
+Australia	Queensland	Gladstone Regional Library	10000456		07/19/2013	07/31/2019	Active	
+Europe, UK	Scotland	Glasgow Life			09/01/2013	08/31/2018	Inactive	
+North America	Massachusetts	Gleason Public Library	7052934	jlevy	02/01/2017	01/31/2018	Inactive	
+Australia	Victoria	Glen Eira			06/01/2015	05/31/2020	Active	
+North America	Illinois	Glen Ellyn Public Library	7097674	mhaddadnull	02/01/2017	01/31/2018	Inactive	
+North America	Illinois	Glencoe Public Library	7034048	mhaddadnull	03/01/2016	02/28/2017	Inactive	
+North America	Arizona	Glendale Public Library	7093287	hyena	07/01/2016	06/30/2017	Inactive	
+North America	Illinois	Glenside Public Library	7059218	mhaddadnull	07/01/2016	06/30/2017	Inactive	
+Australia	South Australia	Glenunga International High School			07/15/2013	08/31/2017	Inactive	
+North America	Illinois	Glenview Public Library		mhaddadnull	04/16/2013	04/30/2017	Inactive	
+North America	West Virginia	Glenville State College		dmcdonald1	07/01/2016	06/30/2017	Inactive	WV Deli-7120407
+North America	Manitoba	Glenwood and Souris Regional Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	New Jersey	Gloucester County Library	1720519	lkurucz	02/01/2017	01/31/2018	Inactive	
+North America	Virginia	Gloucester Public Library	1736000	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+Europe, UK	England	Gloucestershire County Library			06/17/2015	06/30/2017	Inactive	
+Australia	Queensland	Gold Coast City Libraries			04/01/2015	03/31/2020	Active	
+North America	New York	Gold Coast Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau - SVOD(all + TGC)
+Australia	Victoria	Goldfields Library Corporation	10000306		12/01/2014	11/30/2019	Active	
+North America	Kentucky	Goodnight Memorial Public Library		dmcdonald1	01/01/2017	12/31/2017	Inactive	
+Australia	Victoria	Goulburn Valley Libraries			12/18/2014	12/31/2019	Active	
+North America	Connecticut	Granby Public Library		jlevy	11/01/2016	10/31/2017	Inactive	Value Collection
+North America	Michigan	Grand Ledge Area District Library	7104499	dmcdonald1	04/01/2016	03/31/2017	Inactive	
+North America	Michigan	Grand Rapids Public Library		hyena	02/01/2017	01/31/2018	Inactive	
+North America	British Columbia	Granisle Public Library	7040652	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Ohio	Granville Public Library		dmcdonald1	03/01/2016	02/28/2017	Inactive	
+North America	Illinois	Grayslake Public Library	7057143	mhaddadnull	09/01/2016	08/31/2017	Inactive	
+North America	Maryland	Great Clips Trial			09/01/2016	08/31/2017	Inactive	
+North America	New York	Great Neck Library		swilliams1	01/01/2016	12/31/2017	Inactive	
+North America	Georgia	Greater Clarks Hill Regional Library System		bgilbert	07/01/2016	06/30/2017	Inactive	GADD SVOD - A, IF, Q-unl
+Australia	Victoria	Greater Dandenong Libraries	10000311		10/01/2014	06/30/2020	Active	
+Europe, UK	England	Greater Manchester Libraries			06/16/2016	06/30/2018	Inactive	
+North America	Ontario	Greater Sudbury Public Library	7052611	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	British Columbia	Greater Victoria Public Library	7133004	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Illinois	Green Hills Public Library		mhaddadnull	01/01/2017	12/31/2017	Inactive	
+North America	Pennsylvania	Greene County Library System		lkurucz	04/01/2016	03/31/2017	Inactive	
+North America	Ohio	Greene County Public Library	7033188	dmcdonald1	01/01/2017	12/31/2017	Inactive	Central Library Consortium, Acorn Only
+North America	South Carolina	Greenville County Library System	1725182	swilliams1	04/01/2016	03/31/2017	Inactive	
+North America	Ohio	Greenville Public Library	7109710	dmcdonald1	06/01/2016	05/31/2017	Inactive	
+North America	Rhode Island	Greenville Public Library	7039571	ngilbert	12/01/2016	11/30/2017	Inactive	
+North America	Connecticut	Greenwich Library	1729406	jlevy	02/01/2017	01/31/2018	Inactive	SVOD--Acorn, Qello, IF, TGCNC; 2006 annual max
+North America	British Columbia	Greenwood Public Library	7040639	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Ontario	Guelph Public Library		rseifert	01/01/2017	12/31/2017	Inactive	
+UK	Guernsey	Guernsey Libraries			04/20/2015	04/30/2018	Inactive	
+North America	Georgia	Gwinnett County Public Library		Doss	01/01/2017	12/31/2017	Inactive	
+Australia	Queensland	Gympie Regional Libraries			07/01/2015	06/30/2020	Active	
+North America	Ontario	Haldimand County Public Library		rseifert	01/01/2017	12/31/2017	Inactive	
+North America	Nova Scotia	Halifax Public Libraries		rseifert	02/01/2017	01/31/2018	Inactive	
+North America	Georgia	Hall County Library System		bgilbert	08/15/2016	08/31/2017	Inactive	
+North America	Indiana	Hamilton East Public Library	7057134	dmcdonald1	05/01/2016	04/30/2017	Inactive	
+New Zealand	Hamilton	Hamilton Libraries			12/01/2014	11/30/2018	Inactive	
+North America	Ontario	Hamilton Public Library		Messersmith	11/01/2016	10/31/2017	Inactive	
+Europe, UK	England	Hammersmith & Fulham, Kensington & Chelsea, Westminster	TRI002		11/17/2016	02/28/2018	Inactive	
+North America	Indiana	Hammond Public Library	7037806	dmcdonald1	10/01/2016	09/30/2017	Inactive	
+Europe, UK	England	Hampshire Libraries and Information Service			04/01/2015	03/31/2018	Inactive	
+North America	Virginia	Hampton Public Library	7052374	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Indiana	Hancock County Public Library	7052962	dmcdonald1	10/01/2016	09/30/2017	Inactive	
+North America	Virginia	Handley Regional Library	7052919	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Maryland	Harford County Public Library	1737736	Doss	11/01/2016	10/31/2017	Inactive	
+North America	Texas	Harker Heights Public Library		cstrickland	02/01/2017	01/31/2018	Inactive	Value Collection
+North America	Connecticut	Hartford Public Library	7026484	jlevy	01/01/2017	12/31/2017	Inactive	SVOD--Acorn, QC, IF, Pongalo, Great Courses, Method Test Prep, Learn it Live; 1,000 Annual max, 20 weekly max, 4 per patron per month
+North America	Illinois	Harvard Diggins Public Library	7034394	mhaddadnull	09/01/2016	08/31/2017	Inactive	
+North America	Massachusetts	Harvard Public Library		jlevy	07/01/2016	06/30/2017	Inactive	
+North America	Massachusetts	Haverhill Public Library		jlevy	11/01/2016	10/31/2017	Inactive	
+Australia	New South Wales	Hawkesbury Library Service			02/15/2015	02/29/2020	Active	
+North America	Pennsylvania	Hazleton Area Public Library and Osterhout Free Library		lkurucz	01/01/2017	12/31/2017	Inactive	
+North America	Virginia	HCSB Public Library System	7052496	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Florida	Heartland Library Cooperative	7035824	bgilbert	11/01/2016	10/31/2017	Inactive	
+North America	Illinois	Helen Plum Library		mhaddadnull	02/01/2017	01/31/2018	Inactive	
+Europe, Europe without UK	Finland	Helmet-kirjasto		ballan1	01/01/2017	12/31/2017	Inactive	
+North America	California	Hemet Public Library		mransdell	10/01/2016	09/30/2017	Inactive	Inland Library System - 7122395
+North America	North Carolina	Henderson County Public Library		swilliams1	11/01/2016	10/31/2017	Inactive	
+North America	Nevada	Henderson Libraries		hyena	04/01/2013	03/31/2017	Inactive	
+North America	Minnesota	Hennepin County Library	1726981	mears	02/01/2017	01/31/2018	Inactive	MELSA
+North America	Virginia	Henrico County Public Library	1717446	Doss	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Georgia	Henry County Public Library	7047915	bgilbert	06/01/2016	05/31/2017	Inactive	GADD
+North America	New York	Henry Waldinger Memorial Library	7040591	swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	Virginia	Heritage Public Library	7067330	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Michigan	Herrick District Library	1717451	dmcdonald1	11/01/2016	10/31/2017	Inactive	
+Europe, UK	England	Hertfordshire Libraries	10000514		03/01/2015	11/30/2018	Inactive	
+North America	New York	Hewlett-Woodmere Public Library	7040596	swilliams1	01/01/2017	12/31/2017	Inactive	Nassau - All
+North America	New York	Hicksville Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	Texas	Hidalgo County Library System	7033202	cstrickland	04/01/2016	03/31/2017	Inactive	
+Australia	Victoria	High Country Library Network			05/18/2015	05/31/2020	Active	
+Europe, UK	Scotland	High Life Highland Libraries	10000095		09/01/2015	03/31/2018	Inactive	
+North America	Colorado	High Plains Library District	7040849	hyena	03/01/2016	02/28/2017	Inactive	
+North America	Illinois	Highland Park Library	7034049	mhaddadnull	12/01/2016	11/30/2017	Inactive	
+Europe, UK	England	Hillingdon Libraries - Adults	HIL338		08/18/2015	08/31/2017	Inactive	
+North America	Florida	Hillsborough County Public Library Cooperative	1719310	Doss	11/01/2016	10/31/2017	Inactive	
+Australia	Victoria	Hobsons Bay Libraries			07/10/2013	07/31/2019	Active	
+North America	Illinois	Hodgkins Public Library		mhaddadnull	03/01/2016	02/28/2017	Inactive	
+North America	Alabama	Homewood Public Library	7052527	bgilbert	12/01/2016	11/30/2017	Inactive	
+North America	Alabama	Hoover Public Library	7064185	bgilbert	09/01/2016	08/31/2017	Inactive	
+Australia	New South Wales	Hornsby Library and Information Services			04/01/2015	03/31/2020	Active	
+North America	South Carolina	Horry Georgetown Technical College	7099106	swilliams1	07/01/2016	06/30/2017	Inactive	
+North America	British Columbia	Houston Public Library	7040638	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Maryland	Howard County Library System	7109333	Doss	06/01/2016	05/31/2017	Inactive	
+North America	Ohio	Hudson Library & Historical Society	7051258	dmcdonald1	02/01/2017	01/31/2018	Inactive	Acorn, Qello
+North America	Massachusetts	Hudson Public Library	7040175	jlevy	04/01/2016	03/31/2017	Inactive	
+North America	British Columbia	Hudson's Hope Public Library	7050030	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+Europe, UK	England	Hull	KIN110		08/11/2016	08/31/2018	Inactive	
+Australia	Victoria	Hume Libraries			07/01/2015	07/31/2019	Active	
+North America	New Jersey	Hunterdon County Library		lkurucz	06/01/2016	05/31/2017	Inactive	
+North America	California	Huntington Beach Public Library		hyena	10/01/2016	09/30/2017	Inactive	Santiago
+North America	New York	Huntington Public Library	1719011	swilliams1	10/01/2016	09/30/2017	Inactive	
+North America	Illinois	Huntley Library		mhaddadnull	12/01/2016	11/30/2017	Inactive	
+North America	Ontario	Huron County Library		rseifert	01/01/2017	12/31/2017	Inactive	
+Australia	New South Wales	Hurstville City Library Museum & Gallery	10000320		07/01/2015	07/31/2017	Inactive	
+New Zealand	Amberley	Hurunui District Libraries			07/16/2015	07/31/2018	Inactive	
+New Zealand	Wellington	Hutt City Libraries			03/18/2015	03/31/2018	Inactive	
+Europe, Europe without UK	Spain	I.E.S. Bembezar		ballan1	10/16/2016	10/31/2017	Inactive	
+North America	Ohio	Ida Rupp Public Library		dmcdonald1	01/01/2017	12/31/2017	Inactive	
+North America	Idaho	Idaho Digital Libraries		cpitcher	11/01/2016	10/31/2017	Inactive	
+North America	Ontario	Idea Exchange	7052559	rseifert	01/01/2017	12/31/2017	Inactive	
+Europe, UK	England	IGNORE Westminster, Kensington and Chelsea	TRI002		11/17/2016	11/30/2017	Inactive	
+North America	Illinois	Illinois Heartland - Shared Schools		mhaddadnull	10/15/2016	06/30/2017	Inactive	
+North America	Illinois	Illinois Heartland Library System	7061662	mhaddadnull	07/01/2016	06/30/2017	Inactive	
+North America	Illinois	Indian Prairie Public Library		mhaddadnull	01/01/2017	12/31/2017	Inactive	
+North America	Illinois	Indian Trails Public Library	7052019	mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	Indiana	Indianapolis Public Library		Messersmith	01/01/2017	12/31/2017	Inactive	
+North America	Indiana	Indianapolis Public Library Children		Messersmith	01/01/2017	12/31/2017	Inactive	
+North America	Indiana	Indianapolis Public Library Teen		Messersmith	01/01/2017	12/31/2017	Inactive	
+North America	Wisconsin	InfoSoup		mhaddadnull	01/01/2017	12/31/2017	Inactive	
+North America	California	Inland Library System		hyena	10/01/2016	09/30/2017	Inactive	Inland Library Sytem
+North America	Indiana	Intercontinental Subscription Service Trial			09/01/2016	08/31/2017	Inactive	
+Asia	China	International School of Beijing		ballan1	10/25/2016	09/30/2017	Inactive	
+Europe, UK	Scotland	Inverclyde Libraries HQ			04/01/2015	03/31/2017	Inactive	
+North America	British Columbia	Invermere Public Library	7149963	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative-7040759
+North America	California	Inyo County Free Library		mransdell	10/01/2016	09/30/2017	Inactive	Inland Library System
+North America	Iowa	Iowa Digital Magazines	1716300	PaulGillespie	01/01/2017	12/31/2017	Inactive	
+Australia	Queensland	Ipswich Libraries			10/01/2014	09/30/2019	Active	
+North America	North Carolina	Iredell County Public Library		swilliams1	11/01/2016	10/31/2017	Inactive	
+North America	Alabama	Irondale Public Library		bgilbert	10/01/2016	09/30/2017	Inactive	
+Australia	Queensland	Isaac Library			04/19/2016	04/30/2020	Active	
+Europe, UK	England	Isle of Wight			12/01/2014	11/30/2018	Inactive	
+Europe, UK	England	Islington Borough Libraries			12/18/2014	12/31/2018	Inactive	
+Europe, Europe without UK	Finland	Ita-Uusimaa Libraries		ballan1	04/16/2016	04/30/2017	Inactive	
+Australia	Victoria	Ivanhoe Grammar School			07/01/2015	07/31/2019	Active	
+North America	Virginia	J Robert Jamerson Memorial Library	7082858	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Massachusetts	J.V. Fletcher Library		jlevy	01/01/2017	12/31/2017	Inactive	
+North America	Michigan	Jackson District Library		hyena	01/01/2017	12/31/2017	Inactive	
+North America	Mississippi	Jackson George Regional Library		swilks	02/01/2017	01/31/2018	Inactive	
+North America	Mississippi	Jackson Hinds Public Library		mpoynter	04/01/2016	03/31/2017	Inactive	
+North America	Tennessee	Jackson Madison County Library		bgilbert	11/01/2016	10/31/2017	Inactive	
+North America	Florida	Jacksonville Public Library		Doss	06/01/2016	05/31/2017	Inactive	
+North America	Virginia	James L. Hamner Public Library		swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Colorado	Jefferson County Public Library	1734119	hyena	01/01/2017	12/31/2017	Inactive	
+North America	Louisiana	Jefferson Parish Library	7051616	cstrickland	04/01/2016	03/31/2017	Inactive	
+North America	Virginia	Jefferson-Madison Regional Library	7052322	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Indiana	Jeffersonville Township Public Library		dmcdonald1	09/01/2016	08/31/2017	Inactive	
+North America	New Jersey	Jersey City Public Library		lkurucz	01/01/2017	12/31/2017	Inactive	
+UK	Jersey	Jersey Public Libraries	10000101		08/08/2013	08/31/2017	Inactive	
+North America	Kentucky	Jessamine County Public Library	1726018	dmcdonald1	10/01/2016	09/30/2017	Inactive	
+North America	Kentucky	John L. Street Public Library		dmcdonald1	09/01/2016	08/31/2017	Inactive	
+North America	Illinois	Johnsburg Public Library	1743378	mhaddadnull	08/01/2016	07/31/2017	Inactive	
+North America	Kansas	Johnson County and Olathe Public Library		swilks	04/01/2016	03/31/2017	Inactive	
+North America	Indiana	Johnson County Public Library	1718541	Messersmith	03/16/2016	03/31/2017	Inactive	
+North America	Kentucky	Johnson County Public Library		dmcdonald1	11/01/2016	10/31/2017	Inactive	
+North America	Illinois	Joliet Public Library	7098295	mhaddadnull	02/01/2017	01/31/2018	Inactive	
+North America	Massachusetts	Jonathan Bourne Public Library		jlevy	01/01/2017	12/31/2017	Inactive	SVOD -A, Q, IF, Great Courses, MTP -unlim
+North America	Massachusetts	Joseph Plumb Memorial Library	7052434	jlevy	05/01/2016	04/30/2017	Inactive	
+North America	Illinois	Justice Public Library District		mhaddadnull	09/01/2016	08/31/2017	Inactive	
+North America	Michigan	Kalamazoo Public Library		dmcdonald1	04/01/2016	03/31/2017	Inactive	
+North America	West Virginia	Kanawha County Public Library		dmcdonald1	07/01/2016	06/30/2017	Inactive	WV Deli-7120407
+North America	Illinois	Kankakee Public Library		mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	British Columbia	Kaslo & District Public Library	7040656	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+Asia	Thuwal	KAUST Community Library		ballan1	01/01/2017	12/31/2017	Inactive	
+North America	Wisconsin	Kenosha County Library System	7076908	mhaddadnull	12/01/2016	11/30/2017	Inactive	
+Europe, UK	England	Kensington & Chelsea Libraries			02/15/2015	03/31/2017	Inactive	
+North America	Michigan	Kent District Library		hyena	01/01/2017	12/31/2017	Inactive	
+North America	Ohio	Kent Free Library	7081662	dmcdonald1	11/01/2016	10/31/2017	Inactive	
+North America	Connecticut	Kent Memorial Library	7052671	jlevy	07/01/2016	06/30/2017	Inactive	Value
+North America	Kentucky	Kenton County Public Library	7033182	dmcdonald1	10/01/2016	09/30/2017	Inactive	
+North America	Texas	Killeen City Library System	7067334	cstrickland	09/01/2016	08/31/2017	Inactive	
+North America	British Columbia	Kimberley Public Library	7040636	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Washington	King County Library System	1719130	Messersmith	01/01/2017	12/31/2017	Inactive	
+North America	Ontario	Kingston Frontenac Public Library	7099825	rseifert	01/01/2017	12/31/2017	Inactive	
+Australia	Victoria	Kingston Library Service			12/01/2014	11/30/2019	Active	
+North America	Ontario	Kitchener Public Library	7062053	Messersmith	01/01/2017	12/31/2017	Inactive	
+North America	British Columbia	Kitimat Public Library	7040654	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Washington	Kitsap Regional Library	7062289	Messersmith	01/01/2017	12/31/2017	Inactive	
+Asia	KUALA LUMPUR	KL Art & Design Library		WFHINT	05/26/2016	04/30/2017	Inactive	
+North America	Tennessee	Knox County Public Library		bgilbert	10/01/2016	09/30/2017	Inactive	
+North America	Indiana	Kokomo Howard County Public Library		dmcdonald1	03/01/2016	02/28/2017	Inactive	
+Australia	New South Wales	Ku-ring-gai Council			07/12/2013	07/31/2019	Active	
+North America	California	LA County Library (Los Angeles)	7028854	hyena	07/01/2016	06/30/2017	Inactive	
+North America	Illinois	La Grange Public Library		mhaddadnull	11/01/2016	10/31/2017	Inactive	SVOD - A, Q
+North America	Indiana	La Porte County Public Library		dmcdonald1	11/01/2016	10/31/2017	Inactive	
+North America	Manitoba	Lac Du Bonnet Regional Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	Louisiana	Lafayette Public Library		cstrickland	05/02/2016	04/30/2017	Inactive	
+Europe, Europe without UK	Finland	Lahti City Library		ballan1	01/01/2017	12/31/2017	Inactive	
+North America	Illinois	Lake Bluff Library		mhaddadnull	04/01/2016	03/31/2017	Inactive	
+North America	Florida	Lake County Library System	7108988	bgilbert	05/01/2016	04/30/2017	Inactive	
+North America	Indiana	Lake County Public Library		dmcdonald1	03/01/2016	02/28/2017	Inactive	
+North America	Illinois	Lake Forest Library		mhaddadnull	12/01/2016	11/30/2017	Inactive	
+Australia	New South Wales	Lake Macquarie			03/01/2015	02/29/2020	Active	
+North America	Oregon	Lake Oswego Public Library	7062192	Messersmith	08/01/2016	07/31/2017	Inactive	
+North America	Illinois	Lake Villa Public Library	7055566	mhaddadnull	07/01/2016	06/30/2017	Inactive	
+North America	Michigan	Lakeland Cooperative		hyena	01/01/2017	12/31/2017	Inactive	
+North America	Florida	Lakeland Public Library		bgilbert	02/01/2017	01/31/2018	Inactive	
+North America	Wisconsin	Lakeshores Library System		mhaddadnull	01/01/2017	12/31/2017	Inactive	
+North America	Ontario	Lambton County Library	7055903	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	Virginia	Lancaster Community Library	7052498	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842 (SVOD - Acorn Only)
+North America	Ohio	Lane Libraries	7108614	dmcdonald1	10/01/2016	09/30/2017	Inactive	
+North America	Illinois	Lansing Public Library		mhaddadnull	03/01/2016	02/28/2017	Inactive	
+North America	New York	Larchmont Public Library		jlevy	06/01/2016	05/31/2017	Inactive	
+North America	Texas	Laredo Public Library	7026606	cstrickland	10/01/2016	09/30/2017	Inactive	
+North America	Nevada	Las Vegas Clark County Library District		hyena	04/01/2016	03/31/2017	Inactive	Do not auto-add new SVOD services
+Australia	Victoria	Latrobe City Libraries			12/18/2014	12/31/2019	Active	
+North America	Ohio	Lebanon Public Library	7040458	dmcdonald1	11/01/2016	10/31/2017	Inactive	
+North America	Florida	Lee County Library System	7040712	bgilbert	09/01/2016	08/31/2017	Inactive	
+North America	Missouri	Lee's Summit School District		swilks	09/01/2016	08/31/2017	Inactive	
+Europe, UK	England	Leeds			11/17/2015	11/30/2018	Inactive	
+Europe, UK	England	Leicester City Council			06/01/2015	05/31/2017	Inactive	
+Europe, UK	England	Leicestershire Library Services			05/01/2015	04/30/2019	Inactive	
+Australia	New South Wales	Leichhardt Library			12/01/2014	08/31/2017	Inactive	
+North America	Illinois	Lemont Public Library	7036603	mhaddadnull	12/01/2016	11/30/2017	Inactive	RBdigital Magazine Value Collection - Shared
+North America	Massachusetts	Leominster Public Library	1732051	jlevy	06/01/2016	05/31/2017	Inactive	
+North America	Florida	LeRoy Collins Leon County Public Library		bgilbert	11/01/2016	10/31/2017	Inactive	PLAN 7191397
+North America	New York	Levittown Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	South Carolina	Lexington County Public Library		swilliams1	03/01/2016	02/28/2017	Inactive	
+Europe, UK	Dublin 8	LGMA			01/01/2016	12/31/2018	Inactive	
+Australia	Australian Capital Territory	Libraries ACT			12/01/2014	11/30/2019	Active	
+Europe, UK	Northern Ireland	Libraries NI			04/01/2015	03/31/2018	Inactive	
+North America	New Jersey	Libraries of Middlesex Automation Consortium	7052047	lkurucz	07/01/2016	06/30/2017	Inactive	
+North America	Connecticut	Libraries Online, Inc.	7075801	jlevy	07/01/2016	06/30/2017	Inactive	
+Australia	Tasmania	Libraries Tasmania			11/18/2014	11/30/2019	Active	
+Australia	Northern Territory	LibrariesNT			05/01/2015	04/30/2020	Active	
+Europe, UK	England	Library Of Birmingham	10000013		05/01/2015	04/30/2019	Inactive	
+North America	Mississippi	Library of Hattiesburg, Petal, and Forrest		swilks	09/01/2016	08/31/2017	Inactive	
+North America	Ontario	Library of Parliament	7055900	rseifert	07/01/2016	06/30/2017	Inactive	
+North America	Virginia	Library of Virginia	7051841	Doss	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Ohio	Licking County Library	7040845	dmcdonald1	10/01/2016	09/30/2017	Inactive	
+North America	British Columbia	Lillooet Public Library	7040635	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	North Carolina	Lincoln County Public Library	7040569	swilliams1	05/01/2016	04/30/2017	Inactive	
+North America	Illinois	Lincoln Library		mhaddadnull	01/01/2017	12/31/2017	Inactive	
+Europe, UK	England	Lincolnshire Libraries	10000127		07/05/2013	07/31/2018	Inactive	
+North America	Illinois	Lisle Library District		mhaddadnull	07/01/2016	06/30/2017	Inactive	
+North America	Missouri	Little Dixie Regional Library	1734756	swilks	07/01/2016	06/30/2017	Inactive	
+North America	Texas	Little Elm Public Library	7040117	cstrickland	10/01/2016	09/30/2017	Inactive	
+Europe, UK	Scotland	Live Borders	10000191		04/01/2015	02/28/2018	Inactive	
+North America	Georgia	Live Oak Public Libraries		bgilbert	10/01/2016	09/30/2017	Inactive	GADD
+North America	California	Livermore Public Library		mransdell	07/01/2016	06/30/2017	Inactive	livermore pleasonton san leandro
+Australia	New South Wales	Liverpool City Council			10/01/2014	06/30/2020	Active	
+North America	New York	Liverpool Public Library	7075765	rseifert	10/01/2016	09/30/2017	Inactive	
+North America	Missouri	Livingston County Library	7040838	swilks	07/01/2016	06/30/2017	Inactive	
+North America	Louisiana	Livingston Parish Library	1718839	cstrickland	10/01/2016	09/30/2017	Inactive	
+Australia	Queensland	Livingstone Shire Council			05/18/2016	05/31/2020	Active	
+Australia	Queensland	Lockyer Valley, Scenic Rim, Somerset			10/01/2015	09/30/2019	Active	
+North America	New York	Locust Valley Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+Australia	Queensland	Logan City Council Libraries			06/01/2015	05/31/2020	Active	
+Europe, UK	England	London Borough of Lambeth			12/01/2014	11/30/2018	Inactive	
+Europe, UK	England	London Libraries Consortium			03/31/2015	03/31/2018	Inactive	
+North America	Ontario	London Public Library	7052707	Messersmith	07/01/2016	06/30/2017	Inactive	
+North America	Virginia	Lonesome Pine Regional Library	7052307	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	New York	Long Beach Public Library		swilliams1	12/15/2016	12/31/2017	Inactive	Nassau
+North America	California	Long Beach Public Library	7075776	hyena	10/01/2016	09/30/2017	Inactive	
+North America	Texas	Longview Public Library		cstrickland	10/01/2016	09/30/2017	Inactive	
+North America	Ohio	Lorain Public Library System		dmcdonald1	02/01/2017	01/31/2018	Inactive	
+North America	New Mexico	Los Alamos County Library System	1726926	cstrickland	11/01/2016	10/31/2017	Inactive	
+North America	California	Los Angeles Public Library	1741116	hyena	08/01/2016	07/31/2017	Inactive	
+North America	Virginia	Loudoun County Public Library	1728929	Doss	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Manitoba	Louise Public Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	Kentucky	Louisville Free Public Library	1717434	dmcdonald1	08/01/2016	07/31/2017	Inactive	
+North America	Ohio	Louisville Public Library	7053053	dmcdonald1	02/01/2015	01/31/2018	Inactive	
+North America	Texas	Lubbock Public Library		cstrickland	03/01/2013	02/28/2017	Inactive	
+Europe, Europe without UK	Finland	Lukki Libraries		ballan1	01/16/2017	01/31/2018	Inactive	
+North America	Virginia	Lunenburg County Public library		swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+Europe, UK	England	Lycee International de Londres Winston Churchill			03/18/2016	03/31/2017	Inactive	
+North America	New York	Lynbrook Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	Virginia	Lynchburg Public Library	7052439	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	New Jersey	M.A.I.N., Inc		lkurucz	01/01/2017	12/31/2017	Inactive	
+North America	Quebec	Ma BIBLIO à MOI		rseifert	06/01/2016	05/31/2017	Inactive	
+Australia	Queensland	Mackay Regional Council Libraries			12/01/2014	11/30/2019	Active	
+North America	British Columbia	Mackenzie Public Library	7040634	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+Australia	New South Wales	MacKillop College			08/26/2016	08/31/2019	Active	
+Australia	New South Wales	Macquarie Regional			06/01/2015	06/30/2020	Active	
+North America	Kentucky	Madison County Public Library	7104897	dmcdonald1	07/01/2016	06/30/2017	Inactive	
+North America	Mississippi	Madison County Public Library		swilks	12/01/2016	11/30/2017	Inactive	
+Australia	New South Wales	Maitland City Library			08/01/2015	09/30/2017	Inactive	
+North America	Texas	Mammen Family Public Library	7040365	cstrickland	05/01/2016	04/30/2017	Inactive	
+North America	New York	Manhasset Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	Pennsylvania	Manheim Township Public Library	7084082	lkurucz	01/01/2017	12/31/2017	Inactive	
+North America	Manitoba	Manitoba Rural Library Consortia		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	Wisconsin	Manitowoc-Calumet Library System		mhaddadnull	01/01/2017	12/31/2017	Inactive	Monarch Library System
+North America	Massachusetts	Mansfield Public Library	7052752	ngilbert	01/01/2017	12/31/2017	Inactive	
+North America	Ohio	Mansfield-Richland County Public Library	7074901	dmcdonald1	09/01/2016	08/31/2017	Inactive	
+Australia	Queensland	Mareeba Shire Council Library	W_MAR005		06/15/2016	06/30/2018	Inactive	
+Australia	Victoria	Maribyrnong Library Service			07/01/2015	06/30/2020	Active	
+North America	Arizona	Maricopa County Library District	7040156	hyena	02/01/2017	01/31/2018	Inactive	
+North America	Alberta	Marigold Library System	7080639	Messersmith	11/01/2016	10/31/2017	Inactive	Alberta Municipal Affairs 7104420
+North America	California	MARINet	7026474	mransdell	10/01/2016	09/30/2017	Inactive	MARINET
+North America	West Virginia	Marion County Public Library	7055512	dmcdonald1	07/01/2016	06/30/2017	Inactive	WV Deli-7120407
+North America	Florida	Marion County Public Library System	7039943	bgilbert	01/01/2017	12/31/2017	Inactive	
+North America	Ohio	Marion Public Library		dmcdonald1	02/18/2015	02/28/2017	Inactive	Acorn Only
+North America	Ontario	Markham Public Library		Messersmith	07/01/2016	06/30/2017	Inactive	
+North America	Colorado	Marmot Library Network		hyena	02/01/2017	01/31/2018	Inactive	
+Australia	New South Wales	Marrickville Library			07/04/2016	06/04/2017	Inactive	
+North America	Kentucky	Marshall County Public Library	1718841	dmcdonald1	03/21/2013	03/31/2017	Inactive	
+North America	Kentucky	Martin County Public Library		dmcdonald1	04/01/2016	03/31/2017	Inactive	Value Collection
+North America	West Virginia	Martinsburg Berkeley County Public Library	7036380	dmcdonald1	01/01/2013	12/31/2017	Inactive	
+North America	West Virginia	Mary H. Weir Public Library	7062198	dmcdonald1	07/01/2016	06/30/2017	Inactive	WV Deli-7120407
+North America	Virginia	Mary R. Styles Public Library	7041357	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Kentucky	Mary Wood Weldon Library		mpoynter	07/01/2016	06/30/2017	Inactive	
+North America	Virginia	Massanutten Regional Library	7052454	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	New York	Massapequa Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+New Zealand	New Zealand	Masterton District Library			11/20/2015	11/30/2017	Inactive	
+North America	New York	Mastics-Moriches-Shirley Community Library		swilliams1	10/01/2016	09/30/2017	Inactive	
+North America	Virginia	Mathews Memorial Library		swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Mexico	Mazatlan Municipio		mears	05/16/2016	05/31/2017	Inactive	
+North America	British Columbia	McBride & District Public Library	7040633	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Illinois	McHenry Public Library District	1723902	mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	Texas	McKinney Public Library		cstrickland	11/01/2016	10/31/2017	Inactive	
+North America	California	Mechanics' Institute Library	7063393	hyena	09/01/2016	08/31/2017	Inactive	
+North America	Ohio	Medina County District Library		dmcdonald1	02/01/2017	01/31/2018	Inactive	
+North America	Virginia	Meherrin Regional Library System		swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+Australia	Victoria	Melbourne Library Service	10000348		03/01/2015	02/29/2020	Active	
+Australia	Victoria	Melton Library and Information Service			10/01/2014	09/30/2019	Active	
+North America	Tennessee	Memphis Public Libraries	7062205	bgilbert	03/01/2016	02/28/2017	Inactive	
+North America	Ohio	Mentor Public Library		dmcdonald1	01/01/2017	12/31/2017	Inactive	
+Australia	Victoria	Mercer School Of Interior Design			09/17/2014	09/30/2019	Active	
+North America	New York	Merrick Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	Arizona	Mesa Public Library	1740256	hyena	07/01/2016	06/30/2017	Inactive	
+North America	Texas	Mesquite Public Library System	1728938	cstrickland	09/01/2016	08/31/2017	Inactive	
+Australia	Victoria	Methodist Ladies' College			07/15/2015	07/31/2017	Inactive	
+North America	Iowa	Metro Library Network		PaulGillespie	10/01/2016	09/30/2017	Inactive	
+North America	Oklahoma	Metropolitan Library System		Doss	06/01/2016	05/31/2017	Inactive	
+North America	Florida	Miami-Dade Public Library System	7067344	Doss	09/01/2016	08/31/2017	Inactive	
+North America	Washington	Microsoft Corporation		Messersmith	10/01/2016	09/30/2017	Inactive	
+North America	New York	Mid Hudson Library System		rseifert	01/01/2017	12/31/2017	Inactive	
+Australia	New South Wales	Mid North Coast Cooperative	10000324		07/11/2013	07/31/2019	Active	
+North America	New York	Mid York Library System	7108224	rseifert	05/01/2016	04/30/2017	Inactive	
+North America	Washington	Mid-Columbia Libraries		Messersmith	01/01/2017	12/31/2017	Inactive	
+North America	Missouri	Mid-Continent Public Library	1728944	swilks	07/01/2016	06/30/2017	Inactive	
+North America	Iowa	Mid-Iowa Magazine	1726326	swilks	07/01/2016	06/30/2017	Inactive	
+North America	Michigan	Mid-Michigan Library League	7052247	hyena	10/01/2016	09/30/2017	Inactive	
+Australia	New South Wales	Mid-Western Regional Council LIbrary			06/17/2015	07/31/2018	Inactive	
+Australia	New South Wales	Midcoast Libraries			06/17/2014	07/31/2019	Active	
+North America	New York	Middle Country Public Library	7079712	swilliams1	11/01/2016	10/31/2017	Inactive	SVOD - All Services
+North America	Indiana	Middlebury Community Public Library	1723914	dmcdonald1	03/01/2016	02/28/2017	Inactive	Acorn Only
+North America	Ontario	Middlesex County Library		rseifert	09/01/2016	08/31/2017	Inactive	
+North America	Virginia	Middlesex County Public Library	7075778	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Wisconsin	Middleton Public Library		mhaddadnull	01/01/2017	12/31/2017	Inactive	
+Europe, UK	Scotland	Midlothian Council Library Service	10000142		03/12/2014	03/31/2018	Inactive	
+North America	Ohio	MidPointe Library System	7039568	dmcdonald1	01/01/2017	12/31/2017	Inactive	
+North America	British Columbia	Midway Public Library	7040631	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+Australia	Victoria	Mildura Rural City Council Library Service	10000350		04/01/2015	04/30/2019	Inactive	
+North America	Wisconsin	Milwaukee County Federated Library System	7052237	mhaddadnull	05/01/2016	04/30/2017	Inactive	
+North America	New York	Mineola Memorial Library	7092888	swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	California	Mission Viejo Public Library		mransdell	10/01/2016	09/30/2017	Inactive	Santiago
+North America	Ontario	Mississauga Library System	7032002	Messersmith	07/01/2016	06/30/2017	Inactive	
+Australia	Victoria	Mitchell Shire Library Service	10000352		04/01/2015	03/31/2020	Active	
+North America	Alabama	Mobile Public Library		bgilbert	09/01/2016	08/31/2017	Inactive	
+North America	New York	Mohawk Valley Library System		jlevy	11/01/2016	10/31/2017	Inactive	
+North America	Illinois	Mokena Community Public Library District		mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	Illinois	Moline Public Library	1743387	mhaddadnull	06/01/2016	05/31/2017	Inactive	
+North America	Wisconsin	Monarch Library System		mhaddadnull	12/15/2016	12/31/2017	Inactive	
+Australia	Victoria	Monash Public Library Service	10000354		12/01/2014	11/30/2019	Active	
+North America	New Jersey	Monmouth County Library		lkurucz	01/01/2017	12/31/2017	Inactive	
+North America	Pennsylvania	Monroe County Libraries		lkurucz	08/01/2016	07/31/2017	Inactive	
+North America	Michigan	Monroe County Library System		dmcdonald1	09/01/2016	08/31/2017	Inactive	
+North America	Indiana	Monroe County Public Library		dmcdonald1	04/01/2016	03/31/2017	Inactive	
+North America	California	Monterey County Free Libraries	1726939	mransdell	06/01/2016	05/31/2017	Inactive	
+North America	Alabama	Montgomery City-County Public Library		bgilbert	01/01/2017	12/31/2017	Inactive	
+North America	Pennsylvania	Montgomery County Library District	7062057	lkurucz	09/01/2016	08/31/2017	Inactive	
+North America	Maryland	Montgomery County Public Library	1721793	Doss	12/01/2016	11/30/2017	Inactive	
+North America	Virginia	Montgomery Floyd Regional Library	7052273	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+Australia	Victoria	Moonee Valley Libraries	10000355		10/01/2014	09/30/2019	Active	
+North America	North Carolina	Mooresville Public Library		swilliams1	09/01/2016	08/31/2017	Inactive	
+Australia	Victoria	Moreland City Libraries			02/01/2015	01/31/2020	Active	
+North America	California	Moreno Valley Public Library		mransdell	10/01/2016	09/30/2017	Inactive	Inland Library System
+Australia	Queensland	Moreton Bay Regional Council			02/01/2015	09/30/2019	Active	
+North America	West Virginia	Morgantown Public Library		dmcdonald1	07/01/2016	06/30/2017	Inactive	WV Deli-7120407
+North America	Ohio	Morley Library	1731766	dmcdonald1	05/01/2016	04/30/2017	Inactive	
+Australia	Victoria	Mornington Peninsula Library Service			09/01/2014	08/31/2019	Active	
+North America	New York	Mount Pleasant Public Library	7050470	rseifert	02/01/2017	01/31/2018	Inactive	SVOD - Acorn: Weekly max 100; No Qello/Indieflix/Pongalo
+North America	Illinois	Mount Prospect Library		mhaddadnull	05/01/2016	04/30/2017	Inactive	
+Other	Military	Multinational Force and Observers	7033656	Doss	04/01/2016	03/31/2017	Inactive	
+North America	Oregon	Multnomah County Library		Messersmith	01/01/2017	12/31/2017	Inactive	
+North America	Missouri	Municipal Library Consortium of St. Louis County	7057573	swilks	07/01/2016	06/30/2017	Inactive	
+North America	California	Murrieta Public Library		mransdell	10/01/2016	09/30/2017	Inactive	Inland Library System
+North America	Ohio	Muskingum County Library System		dmcdonald1	03/01/2015	02/28/2017	Inactive	
+North America	British Columbia	Nakusp Public Library	7040630	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+Australia	New South Wales	Nambucca Shire Libraries			05/01/2015	04/30/2020	Active	
+North America	Illinois	Naperville Public Library	7083317	Doss	01/01/2017	12/31/2017	Inactive	
+North America	Florida	NASA KSC Library		bgilbert	10/01/2016	09/30/2017	Inactive	
+North America	Tennessee	Nashville Public Library	1720526	Doss	01/01/2017	12/31/2017	Inactive	
+North America	District of Columbia	National Geographic Library		Doss	10/01/2016	09/30/2017	Inactive	
+Asia	Singapore	National Library Board of Singapore		ballan1	03/01/2016	02/28/2017	Inactive	
+North America	Military	Navy Library Program	7026662	Doss	03/01/2015	02/28/2017	Inactive	DOD-MWR Air Force/7208672
+North America	Massachusetts	Needham Free Public Library		jlevy	06/01/2016	05/31/2017	Inactive	
+New Zealand	Nelson	Nelson Public Libraries			06/15/2015	06/30/2017	Inactive	
+North America	British Columbia	Nelson Public Library	7048480	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	North Carolina	Neuse Regional Library System	7026710	swilliams1	05/01/2016	04/30/2017	Inactive	
+North America	Nevada	Nevada Library Cooperative		mransdell	10/01/2016	09/30/2017	Inactive	
+North America	Connecticut	New Canaan Library	1719007	jlevy	10/01/2016	09/30/2017	Inactive	
+North America	New York	New City & West Nyack Libraries	7083282	jlevy	12/01/2016	11/30/2017	Inactive	
+North America	North Carolina	New Hanover County Public Library	7026711	swilliams1	04/01/2016	03/31/2017	Inactive	
+North America	Connecticut	New Haven Free Public Library		jlevy	10/01/2016	09/30/2017	Inactive	
+North America	Illinois	New Lenox Public Library	7075926	mhaddadnull	04/01/2016	03/31/2017	Inactive	
+North America	California	New School of Architecture and Design		mransdell	08/15/2016	08/31/2017	Inactive	
+North America	British Columbia	New Westminster Public Library	7040662	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	New York	New York Society Library		Doss	02/01/2017	01/31/2018	Inactive	
+Europe, UK	England	Newcastle City Council			06/17/2015	06/30/2017	Inactive	
+Australia	New South Wales	Newcastle Region Library			12/01/2014	11/30/2019	Active	
+North America	California	Newport Beach Public Library	7026475	hyena	02/01/2017	01/31/2018	Inactive	
+North America	Virginia	Newport News Public Library	1739715	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Rhode Island	Newport Public Library	7031838	ngilbert	07/01/2016	06/30/2017	Inactive	
+North America	Georgia	Newton County Library		bgilbert	07/01/2016	06/30/2017	Inactive	GADD
+North America	Ontario	Niagara Falls Public Library	7076904	rseifert	07/01/2016	06/30/2017	Inactive	
+North America	New York	Nioga Library System	7076910	rseifert	11/01/2016	10/31/2017	Inactive	
+Australia	Queensland	Noosa Library service			05/01/2015	04/30/2020	Active	
+Europe, UK	England	Norfolk County Library & Information Service			04/17/2015	04/30/2018	Inactive	
+North America	Ontario	Norfolk County Public Library	7097646	rseifert	01/01/2017	12/31/2017	Inactive	SVOD -- Acorn TV
+North America	Massachusetts	Norfolk Public Library	7052533	jlevy	10/01/2016	09/30/2017	Inactive	
+North America	Virginia	Norfolk Public Library	7052283	Doss	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842 ACORN TV ONLY
+North America	Illinois	Normal Public Library	1725194	mhaddadnull	03/01/2016	02/28/2017	Inactive	
+Europe, UK	Scotland	North Ayrshire Libraries			11/01/2014	10/31/2018	Inactive	
+North America	New York	North Bellmore Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	Washington	North Central Regional Library	1744021	Messersmith	07/01/2016	06/30/2017	Inactive	
+North America	North Dakota	North Dakota State College of Science	7099110	cpitcher	06/16/2016	06/30/2017	Inactive	
+North America	North Dakota	North Dakota State Library	7052798	cpitcher	07/01/2016	06/30/2017	Inactive	
+Europe, UK	England	North East Lincolnshire Council			11/01/2014	10/31/2018	Inactive	
+North America	Missouri	North Kansas City Public Library	7076318	swilks	10/01/2016	09/30/2017	Inactive	Value Collection
+Europe, UK	England	North Lincolnshire			06/01/2015	05/31/2018	Inactive	
+North America	New York	North Merrick Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	Manitoba	North Norfolk MacGregor Regional Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+Australia	Queensland	North Queensland Network	TAB001		08/18/2015	06/30/2020	Active	
+North America	Illinois	North Riverside Public Library		mhaddadnull	08/01/2016	07/31/2017	Inactive	
+Europe, UK	England	North Somerset Library			04/17/2014	02/12/2018	Inactive	
+North America	Illinois	North Suburban Library District	7057147	mhaddadnull	07/01/2016	06/30/2017	Inactive	
+North America	Texas	North Texas Libraries on the Go		cstrickland	10/01/2016	09/30/2017	Inactive	
+Europe, UK	England	North Tyneside Libraries	10000161		11/01/2014	10/31/2018	Inactive	
+North America	British Columbia	North Vancouver City Library	7040608	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	British Columbia	North Vancouver District Public Library	7040642	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+Australia	New South Wales	North Western Library			04/01/2015	03/31/2017	Inactive	
+Europe, UK	England	North Yorkshire County Libraries	10000160		04/01/2015	03/31/2018	Inactive	
+Europe, UK	England	Northamptonshire Library and Information Service	10000155		11/01/2014	10/31/2018	Inactive	
+North America	Massachusetts	Northborough Free Library		ngilbert	08/01/2016	07/31/2017	Inactive	
+North America	Illinois	Northbrook Public Library		mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	Pennsylvania	Northeast Library District	7061630	lkurucz	08/01/2016	07/31/2017	Inactive	
+North America	Mississippi	Northeast Regional Library		mpoynter	07/01/2016	06/30/2017	Inactive	
+Australia	New South Wales	Northern Beaches Libraries			12/01/2014	07/31/2019	Active	
+North America	Alberta	Northern Lights Library System	7080635	Messersmith	11/01/2016	10/31/2017	Inactive	
+North America	New York	Northern Onondaga Public Library		rseifert	10/01/2016	09/30/2017	Inactive	
+North America	Illinois	Northlake Public Library		mhaddadnull	02/01/2017	01/31/2018	Inactive	
+New Zealand	New Zealand	Northland Libraries Zinio eMagazines			09/23/2015	09/30/2018	Inactive	
+North America	California	NorthNet Library System		hyena	07/01/2016	06/30/2017	Inactive	
+Europe, UK	England	Northumberland Libraries	NOR202		09/15/2015	09/30/2018	Inactive	
+North America	Virginia	Northumberland Public Library	7060037	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Connecticut	Norwalk Public Library	1726934	jlevy	12/01/2016	11/30/2017	Inactive	
+Europe, UK	England	Nottingham City Council			08/18/2016	08/31/2017	Inactive	
+Europe, UK	England	Nottinghamshire County Council	10000162		04/01/2015	03/31/2018	Inactive	
+North America	Nova Scotia	Nova Scotia Public Libraries		rseifert	11/01/2016	10/31/2017	Inactive	
+Europe, Europe without UK	Finland	Nurmijarven ja Hyvinkaan kirjastot		ballan1	01/01/2017	12/31/2017	Inactive	
+North America	New York	Nyack and Valley Cottage Libraries		jlevy	02/01/2017	01/31/2018	Inactive	
+North America	Illinois	Oak Brook Public Library	1725186	mhaddadnull	12/01/2016	11/30/2017	Inactive	
+North America	Wisconsin	Oak Creek High School		mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	Illinois	Oak Lawn Public Library	7099611	mhaddadnull	04/01/2016	03/31/2017	Inactive	
+North America	Illinois	Oak Park Public Library	7063214	mhaddadnull	01/01/2017	12/31/2017	Inactive	
+North America	California	Oakland Public Library	1741892	hyena	09/01/2016	08/31/2017	Inactive	
+North America	Ontario	Oakville Public Library	7081677	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	California	OC Public Libraries		hyena	02/01/2017	01/31/2018	Inactive	
+North America	New Jersey	Ocean City Free Public Library	7050296	lkurucz	06/01/2016	05/31/2017	Inactive	
+North America	New Jersey	Ocean County Library		Doss	11/01/2016	10/31/2017	Inactive	
+North America	New York	Oceanside Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	Ohio	Ohio BWC Library		dmcdonald1	05/01/2016	04/30/2017	Inactive	
+North America	West Virginia	Ohio County Public Library		dmcdonald1	07/01/2016	06/30/2017	Inactive	WV Deli-7120407 - Acorn, Qello, Indieflix
+North America	British Columbia	Okanagan Regional Library	7040672	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Oklahoma	Oklahoma Digital Magazine Library		swilks	06/01/2016	05/31/2017	Inactive	
+North America	Massachusetts	Old Colony Library Network		jlevy	02/01/2017	01/31/2018	Inactive	
+North America	Nebraska	Omaha Public Library		PaulGillespie	03/01/2016	02/28/2017	Inactive	
+North America	North Carolina	Onslow County Public Library	7026716	swilliams1	08/01/2016	07/31/2017	Inactive	
+North America	California	Ontario City Library		mransdell	10/01/2016	09/30/2017	Inactive	Inland Library System
+Europe, Europe without UK	Belgium	Openbare Bibliotheek Gent - Bibliotheek De Krook		ballan1	01/01/2017	12/31/2017	Inactive	
+North America	Florida	Orange County Library System	1720517	Doss	10/01/2016	09/30/2017	Inactive	No MTP
+North America	Virginia	Orange County Public Library	7052382	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	California	Orange Public Library		mransdell	10/01/2016	09/30/2017	Inactive	Santiago
+North America	Ontario	Orillia Public Library	7057179	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	Illinois	Orland Park Public Library	7109351	mhaddadnull	04/01/2016	03/31/2017	Inactive	
+North America	Illinois	Oswego Public Library District	1744160	mhaddadnull	02/01/2017	01/31/2018	Inactive	
+North America	Ontario	Ottawa Public Library	7052598	Messersmith	07/01/2016	06/30/2017	Inactive	
+North America	Wisconsin	Outagamie Waupaca Library System - OwlsNet		mhaddadnull	12/15/2016	12/31/2017	Inactive	
+North America	Minnesota	Owatonna Public Library	1725715	PaulGillespie	03/01/2016	02/28/2017	Inactive	
+North America	Ontario	Owen Sound & North Grey Union Public Library		rseifert	01/01/2017	12/31/2017	Inactive	
+North America	Ontario	Oxford County Library	1726322	rseifert	10/01/2016	09/30/2017	Inactive	
+North America	New York	Oyster Bay-East Norwich Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	Illinois	Palatine Public Library District		mhaddadnull	01/01/2017	12/31/2017	Inactive	
+North America	Saskatchewan	Palliser Regional Library and Moose Jaw Public Library		Messersmith	01/01/2017	12/31/2017	Inactive	
+North America	Florida	Palm Beach County Library System		Doss	08/15/2016	08/31/2017	Inactive	
+North America	California	Palm Springs Public Library		mransdell	10/04/2016	09/30/2017	Inactive	Inland Library System
+New Zealand	Palmerston	Palmerston North City Library			06/15/2015	06/30/2018	Inactive	
+North America	California	Palo Alto City Library	1742329	mransdell	06/01/2016	05/31/2017	Inactive	
+North America	Illinois	Palos Heights Public Library		mhaddadnull	01/01/2017	12/31/2017	Inactive	
+North America	New Jersey	PALS Plus Library Consortium	7108617	lkurucz	01/27/2017	01/31/2018	Inactive	
+North America	Virginia	Pamunkey Regional Library		swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+Australia	Victoria	Parade College			02/24/2015	02/29/2020	Active	
+North America	Kentucky	Paris-Bourbon County Public Library	1727442	mpoynter	07/01/2016	06/30/2017	Inactive	
+North America	Illinois	Park Ridge Public Library		mhaddadnull	02/01/2017	01/31/2018	Inactive	
+North America	West Virginia	Parkersburg and Wood County Public Library		dmcdonald1	11/01/2016	10/31/2017	Inactive	
+Australia	New South Wales	Parkes Shire Library			05/29/2014	06/30/2020	Active	
+North America	Alberta	Parkland Regional Library	1737238	Messersmith	11/01/2016	10/31/2017	Inactive	Alberta Municipal Affairs 7104420
+North America	Saskatchewan	Parkland Regional Library	7057564	Messersmith	07/01/2016	06/30/2017	Inactive	
+Australia	Australian Capital Territory	Parliamentary Library			03/18/2016	03/31/2020	Active	
+Australia	New South Wales	Parramatta City Library			08/16/2015	08/31/2019	Active	
+North America	Texas	Pasadena Public Library		cstrickland	04/01/2016	03/31/2017	Inactive	
+North America	California	Pasadena Public Library		hyena	09/01/2016	08/31/2017	Inactive	
+North America	New York	Patchogue-Medford Library	1728458	swilliams1	03/01/2016	02/28/2017	Inactive	
+North America	Kentucky	Paul Sawyier Public Library		dmcdonald1	03/01/2016	02/28/2017	Inactive	
+North America	Massachusetts	Peabody Institute Library		jlevy	06/01/2016	05/31/2017	Inactive	
+North America	Massachusetts	Peabody Institute Library of Danvers		jlevy	07/01/2016	06/30/2017	Inactive	
+North America	Alberta	Peace Library System	7081642	Messersmith	11/01/2016	10/31/2017	Inactive	Alberta Municipal Affairs 7104420
+North America	Georgia	Peachtree City Public Library		bgilbert	11/01/2016	10/31/2017	Inactive	
+North America	New York	Pearl River Public Library	7079716	jlevy	11/01/2016	10/31/2017	Inactive	
+North America	British Columbia	Pemberton & District Public Library	7040670	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+Australia	New South Wales	Penrith City Library			02/01/2015	01/31/2020	Active	
+North America	British Columbia	Penticton Public Library		Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Ohio	Perry County District Library	7061774	dmcdonald1	07/01/2016	06/30/2017	Inactive	Acorn & IF
+North America	Ontario	Peterborough Public Library	7047441	rseifert	07/01/2016	06/30/2017	Inactive	
+North America	Virginia	Petersburg Public Library System	7052490	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Texas	Pflugerville Public Library		cstrickland	01/01/2017	12/31/2017	Inactive	
+North America	New Jersey	Phillipsburg Free Public Library	7081841	lkurucz	01/01/2017	12/31/2017	Inactive	
+North America	Arizona	Phoenix Public Library	1739721	hyena	01/01/2017	12/31/2017	Inactive	
+North America	Washington	Pierce County Library	1726932	Messersmith	02/01/2017	01/31/2018	Inactive	
+North America	Kentucky	Pike County Public Library District	1730271	dmcdonald1	10/01/2016	09/30/2017	Inactive	
+North America	Colorado	Pikes Peak Library District	1717466	hyena	10/01/2016	09/30/2017	Inactive	
+North America	Arizona	Pima County Public Library	1724245	hyena	06/01/2016	05/31/2017	Inactive	
+North America	Manitoba	Pinawa Public Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	New York	Pioneer Library System		rseifert	08/15/2016	08/31/2017	Inactive	
+North America	New York	Pittsford Community Library	7109707	rseifert	05/01/2016	04/30/2017	Inactive	
+North America	Virginia	Pittsylvania County Public Library	7052450	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+Australia	New South Wales	Pittwater Council Mona Vale Library Service			12/01/2014	11/30/2017	Inactive	
+North America	California	Placentia Public Library		mransdell	10/01/2016	09/30/2017	Inactive	Santiago
+North America	New York	Plainedge Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	Illinois	Plainfield Public Library	7052089	mhaddadnull	12/01/2016	06/30/2017	Inactive	
+North America	Indiana	Plainfield-Guilford Township Public Library		dmcdonald1	10/01/2016	09/30/2017	Inactive	
+North America	New York	Plainview-Old Bethpage Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	Florida	PLAN Digital Group		bgilbert	11/01/2016	10/31/2017	Inactive	PLAN 7191397
+North America	Texas	Plano Public Library	7026611	cstrickland	02/01/2017	01/31/2018	Inactive	
+North America	California	Pleasanton Public Library		mransdell	07/01/2016	06/30/2017	Inactive	livermore pleasanton san leandro
+Europe, UK	England	Plymouth Library Service			04/01/2015	03/31/2018	Inactive	
+North America	Quebec	Pointe-Claire Public Library		rseifert	11/01/2016	10/31/2017	Inactive	
+North America	Illinois	Poplar Creek Public Library		mhaddadnull	07/01/2016	06/30/2017	Inactive	
+North America	Virginia	Poquoson Public Library	7052921	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+New Zealand	Wellington	Porirua City Libraries			08/17/2014	08/31/2017	Inactive	
+North America	British Columbia	Port Moody Public Library	7040669	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	New York	Port Washington Public Library		swilliams1	12/15/2016	12/31/2017	Inactive	Nassau
+North America	Michigan	Portage District Library		dmcdonald1	12/01/2016	11/30/2017	Inactive	
+North America	Manitoba	Portage la Prairie Regional Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	Indiana	Porter County Public Library		dmcdonald1	06/01/2016	05/31/2017	Inactive	
+Europe, UK	England	Portsmouth Library Service	10000172		11/01/2014	10/31/2017	Inactive	
+North America	New Hampshire	Portsmouth Public Library		jlevy	08/01/2016	07/31/2017	Inactive	
+North America	Virginia	Portsmouth Public Library	7052094	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842 SVOD - Acorn and TGC
+North America	British Columbia	Pouce Coupe Public Library	7040668	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Colorado	Poudre River Public Library District	1725637	hyena	01/01/2017	12/31/2017	Inactive	
+North America	British Columbia	Powell River Public Library		Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Virginia	Powhatan County Public Library	7052452	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Florida	PPLC		bgilbert	11/01/2016	10/31/2017	Inactive	
+North America	Illinois	Prairie Trails Library District	7077454	mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	Ohio	Preble County District Library	7057150	dmcdonald1	03/18/2013	03/31/2017	Inactive	
+North America	British Columbia	Prince George Public Library	7049901	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Maryland	Prince George's County Memorial Library System	1738982	Doss	10/01/2016	09/30/2017	Inactive	
+North America	British Columbia	Prince Rupert Public Library	7040667	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Virginia	Prince William Public Library	7052504	Doss	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	New Jersey	Princeton Public Library	7026517	lkurucz	02/01/2017	01/31/2018	Inactive	
+North America	Ohio	Public Library of Mt. Vernon & Knox County	1737027	dmcdonald1	04/07/2015	03/31/2017	Inactive	
+North America	Virginia	Pulaski County Library System	7077501	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Indiana	Pulaski County Public Library		dmcdonald1	03/01/2016	02/28/2017	Inactive	
+North America	Ohio	Putnam County District Library		dmcdonald1	08/01/2016	07/31/2017	Inactive	
+Asia	Qatar	Qatar National Library	7043963	ballan1	10/01/2016	12/31/2017	Inactive	
+North America	New York	Queens Public Library	7052077	Doss	06/01/2016	05/31/2017	Inactive	
+North America	Arizona	R H Johnson Library	7062121	mransdell	09/01/2016	08/31/2017	Inactive	
+North America	Virginia	Radford Public Library	7052423	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	British Columbia	Radium Hot Springs Public Library	7040666	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Minnesota	Ramsey County Library	1726982	mears	02/01/2017	01/31/2018	Inactive	MELSA
+North America	California	Rancho Cucamonga Public Library		mransdell	10/01/2016	09/30/2017	Inactive	Inland Library System
+North America	California	Rancho Mirage Public Library	7064190	mransdell	10/01/2016	09/30/2017	Inactive	Inland Library System
+North America	North Carolina	Randolph Public Library	7026728	swilliams1	09/01/2016	08/31/2017	Inactive	
+Australia	New South Wales	Randwick Library			02/01/2015	01/31/2020	Active	
+New Zealand	Rangitikei	Rangitikei District Libraries			06/15/2015	06/30/2017	Inactive	
+North America	South Dakota	Rapid City Public Libraries		cpitcher	01/01/2017	12/31/2017	Inactive	
+North America	Louisiana	Rapides Parish Library		cstrickland	07/01/2016	06/30/2017	Inactive	
+North America	Virginia	Rappahannock County Library	7054042	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Maryland	RBdigital Account Manager Demo Library			01/01/2016	12/31/2019	Active	
+North America	Maryland	RBdigital Children's Trial			09/01/2016	08/31/2017	Inactive	
+North America	Maryland	RBdigital Global Catalog		ballan1	01/01/2015	12/31/2018	Inactive	
+North America	Maryland	RBdigital Magazine Value Collection		bgraysales	01/01/2017	12/31/2017	Inactive	
+North America	Maryland	RBdigital Trial Customer Library	7038616		01/01/2017	12/31/2017	Inactive	
+North America	Maryland	RBdigital Zinio for Libraries Article Trial			06/01/2016	05/31/2017	Inactive	
+Europe, UK	England	Read Liverpool			12/01/2014	11/30/2017	Inactive	
+North America	Massachusetts	Reading Public Library		jlevy	10/01/2016	09/30/2017	Inactive	
+North America	Alberta	Red Deer Public Library	1743338	Messersmith	11/01/2016	10/31/2017	Inactive	Alberta Municipal Affairs 7104420
+Australia	Queensland	Redland Libraries	10000380		12/01/2014	11/30/2019	Active	
+North America	California	Redondo Beach Public Library		mransdell	08/01/2016	07/31/2017	Inactive	
+North America	California	Redwood City-Menlo Park-San Bruno	7057551	mransdell	08/01/2016	07/31/2017	Inactive	
+North America	Rhode Island	Redwood Library		ngilbert	09/15/2016	09/30/2017	Inactive	
+North America	Saskatchewan	Regina Public Library		Messersmith	05/01/2016	04/30/2017	Inactive	
+North America	Ontario	Region of Waterloo Library	7084133	rseifert	01/01/2017	12/31/2017	Inactive	
+Europe, UK	Scotland	Renfrewshire Libraries Headquarters			01/01/2015	12/31/2019	Active	
+North America	Quebec	Reseau BIBLIO Capitale-Nationale et Chaudiere-Appalaches		rseifert	10/15/2016	10/31/2017	Inactive	
+North America	Quebec	Reseau Biblio de l'Estrie		rseifert	05/15/2016	05/31/2017	Inactive	
+North America	Quebec	Reseau Biblio de l'Outaouais		rseifert	10/01/2016	09/30/2017	Inactive	
+North America	Quebec	Reseau BIBLIO de la Gaspesie-lles-de-la-Madeleine		rseifert	02/01/2017	01/31/2018	Inactive	
+North America	Quebec	Reseau BIBLIO de la Monteregie		rseifert	06/01/2016	05/31/2017	Inactive	
+North America	Quebec	Reseau Biblio du Centre-du-Quebec, de Lanaudiere et de la Mauricie		rseifert	08/01/2016	07/31/2017	Inactive	
+North America	Quebec	Reseau BIBLIO du Saguenay-Lac-Saint-Jean		rseifert	08/15/2016	08/31/2017	Inactive	
+North America	Quebec	Reseau des bibliotheques de Repentigny		rseifert	04/15/2016	04/30/2017	Inactive	
+North America	Massachusetts	Reuben Hoar Library	7061718	jlevy	08/01/2016	07/31/2017	Inactive	SVOD -- Acorn, Qello, Pongalo, Great Courses, Learn it Live, MTP;
+North America	Texas	Richardson Public Library		cstrickland	11/01/2016	10/31/2017	Inactive	
+North America	South Carolina	Richland Library		swilliams1	10/01/2016	09/30/2017	Inactive	
+North America	Washington	Richland Public Library	1744037	Messersmith	01/01/2017	12/31/2017	Inactive	
+North America	Virginia	Richmond County Public Library	7081869	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Georgia	Richmond County Technical Career Magnet High School		WTCox	01/16/2017	01/31/2018	Inactive	
+North America	Ontario	Richmond Hill Public Library		rseifert	07/01/2016	06/30/2017	Inactive	
+North America	British Columbia	Richmond Public Library	7040665	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Virginia	Richmond Public Library	7052376	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+Australia	New South Wales	Richmond Tweed Regional Library			07/01/2015	07/31/2019	Active	
+Europe, UK	England	Richmond Upon Thames			08/24/2016	08/31/2017	Inactive	
+Australia	New South Wales	Richmond Upper Clarence Regional Library			12/18/2014	12/31/2019	Active	
+North America	Connecticut	Ridgefield Library		jlevy	07/01/2016	06/30/2017	Inactive	Value - Non-Overdrive overlapping
+North America	New Mexico	Rio Rancho Public Library		cstrickland	07/01/2016	06/30/2017	Inactive	
+North America	Minnesota	River Roads Libraries Digital Services	7098611	PaulGillespie	03/01/2016	02/28/2017	Inactive	
+North America	Illinois	Riverdale Public Library	7052772	mhaddadnull	06/01/2016	05/31/2017	Inactive	
+North America	California	Riverside County Library System		hyena	10/01/2016	09/30/2017	Inactive	Inland Library System
+North America	California	Riverside Public Library		hyena	10/01/2016	09/30/2017	Inactive	Inland Library System
+North America	Missouri	Riverside Regional Library	7109350	swilks	05/01/2016	04/30/2017	Inactive	
+North America	Virginia	Roanoke City Public Library	7052380	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Virginia	Roanoke County Public Library	7063208	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Minnesota	Rochester Public Library		PaulGillespie	04/01/2016	03/31/2017	Inactive	
+North America	Virginia	Rockbridge Regional Library	7076485	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Illinois	Rockford Public Library	7057132	mhaddadnull	10/01/2016	09/30/2017	Inactive	
+Australia	Queensland	Rockhampton Regional Libraries			06/01/2015	05/31/2020	Active	
+North America	New York	Rockville Centre Public Library		swilliams1	12/15/2016	12/31/2017	Inactive	Nassau - SVOD (acorn only)
+North America	Ohio	Rodman Public Library		dmcdonald1	03/01/2016	02/28/2017	Inactive	
+Other	South Africa	Roedean School		ballan1	08/01/2016	07/31/2017	Inactive	
+North America	Arkansas	Rogers Public Library	1721089	swilks	05/01/2016	04/30/2017	Inactive	
+North America	Missouri	Rolling Hills Consolidated Library	7051610	swilks	05/01/2016	04/30/2017	Inactive	Acorn, Qello
+North America	Illinois	Rolling Meadows Library		mhaddadnull	02/01/2017	01/31/2018	Inactive	
+North America	New York	Roosevelt Public Library		swilliams1	12/15/2016	12/31/2017	Inactive	Nassau
+North America	British Columbia	Rossland Public Library	7040664	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	New Mexico	Roswell Public Library		cstrickland	08/01/2016	07/31/2017	Inactive	
+Europe, UK	England	Rotherham MBC	10000187		11/01/2014	10/31/2018	Inactive	
+New Zealand	Rotorua	Rotorua Library	L_ROT001		12/01/2015	11/30/2017	Inactive	
+North America	Texas	Round Rock Public Library	7109571	cstrickland	01/01/2017	12/31/2017	Inactive	
+North America	Texas	Rowlett Public Library		cstrickland	03/01/2016	02/28/2017	Inactive	
+North America	Virginia	Russell County Public Library	7052363	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+Europe, Europe without UK	Finland	Rutakko Libraries		ballan1	02/01/2017	01/31/2018	Inactive	
+North America	California	Sacramento Public Library		hyena	10/01/2016	09/30/2017	Inactive	
+North America	Virginia	Salem Public Library	7052632	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Arkansas	Saline County Library	1736997	swilks	05/01/2016	04/30/2017	Inactive	
+North America	British Columbia	Salmo Valley Public Library	7040787	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Utah	Salt Lake City Public Library	1731680	hyena	10/01/2016	09/30/2017	Inactive	
+North America	British Columbia	Salt Spring Island Public Library		Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Virginia	Samuels Public Library	1726017	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	California	San Bernardino County Library		mransdell	10/01/2016	09/30/2017	Inactive	Inland Library System
+North America	California	San Bernardino Public Library		mransdell	10/01/2016	09/30/2017	Inactive	Inland Library System
+North America	California	San Francisco Public Library		hyena	11/01/2016	10/31/2017	Inactive	
+North America	California	San Jose Public Library	7032576	hyena	08/01/2016	07/31/2017	Inactive	
+North America	California	San Leandro Community Library		mransdell	07/01/2016	06/30/2017	Inactive	livermore pleasanton san leandro
+North America	California	San Mateo County Library		hyena	07/01/2016	06/30/2018	Inactive	Peninsula Library System
+North America	North Carolina	Sandhill Regional Library System		swilliams1	07/01/2016	06/30/2017	Inactive	
+North America	Florida	Sanibel Public Library		bgilbert	11/01/2016	10/31/2017	Inactive	
+North America	California	Santa Ana Public Library		mransdell	07/01/2016	06/30/2017	Inactive	
+North America	California	Santa Clara City Library	7076906	mransdell	07/01/2016	06/30/2017	Inactive	
+North America	California	Santa Clara County Library	1736650	hyena	07/01/2016	06/30/2017	Inactive	Acorn TV only
+North America	California	Santa Cruz Public Libraries	1728218	hyena	07/01/2016	06/30/2017	Inactive	
+North America	California	Santa Fe Springs City		mransdell	04/01/2016	03/31/2017	Inactive	Value Collection
+North America	California	Santa Monica Public Library		mransdell	12/01/2016	06/30/2017	Inactive	
+North America	Georgia	Sara Hightower Regional Library System		bgilbert	07/01/2016	06/30/2017	Inactive	GADD
+North America	New York	Saratoga Springs Public Library		jlevy	10/01/2016	09/30/2017	Inactive	
+North America	Saskatchewan	Saskatoon Public Library	7057559	Messersmith	07/01/2016	06/30/2017	Inactive	
+Europe, Europe without UK	Finland	Satakirjastot		ballan1	01/01/2017	12/31/2017	Inactive	
+North America	Ontario	Sault Ste. Marie Public Library		rseifert	07/01/2016	06/30/2017	Inactive	
+North America	Massachusetts	Sawyer Free Library		jlevy	07/01/2016	06/30/2017	Inactive	
+North America	New York	Scarsdale Public Library	7052351	rseifert	09/01/2016	08/31/2017	Inactive	SVOD--A, Q; unlimited; No IF, P, Br
+North America	Missouri	Scenic Regional Library		swilks	01/01/2017	12/31/2017	Inactive	
+North America	Illinois	Schaumburg Township District Library	7034052	mhaddadnull	03/01/2016	02/28/2017	Inactive	
+North America	Texas	Schertz Public Library	7133005	cstrickland	01/01/2017	12/31/2017	Inactive	
+North America	Minnesota	Scott County Library	1728410	PaulGillespie	02/01/2017	01/31/2018	Inactive	MELSA
+North America	Kentucky	Scott County Public Library		mpoynter	12/01/2016	11/30/2017	Inactive	
+North America	Arizona	Scottsdale Public Library	7039832	hyena	05/01/2016	04/30/2017	Inactive	
+North America	New York	Sea Cliff Public Library		swilliams1	12/15/2016	12/31/2017	Inactive	Nassau
+North America	New York	Seaford Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau
+North America	Washington	Seattle Public Library		Messersmith	04/01/2016	03/31/2017	Inactive	
+North America	British Columbia	Sechelt Public Library	7040653	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Florida	SEFLIN		bgilbert	02/01/2017	01/31/2018	Inactive	
+New Zealand	New Zealand	Selwyn District Libraries			08/18/2014	08/31/2017	Inactive	
+North America	Florida	Seminole County Public Library		bgilbert	01/01/2017	12/31/2017	Inactive	
+Asia	Bukit Jalil	Serambi Ilmu Rakyat		WFHINT	06/01/2016	05/31/2017	Inactive	
+North America	California	Serra Library Cooperative System		hyena	08/01/2016	07/31/2017	Inactive	Serra Library Cooperative System
+North America	Texas	Shadow Creek High School		WTCox	06/16/2016	06/30/2017	Inactive	
+Europe, UK	England	Sheffield Libraries			03/18/2015	03/31/2018	Inactive	
+North America	Ohio	Shelby County Libraries		dmcdonald1	10/01/2016	09/30/2017	Inactive	
+North America	Kentucky	Shelby County Public Library	7099032	dmcdonald1	03/26/2013	03/31/2017	Inactive	Value
+North America	New York	Shelter Rock Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau - SVOD (Acorn and qC)
+North America	Virginia	Shenandoah County Library	1725193	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	North Carolina	Sheppard Memorial Library	7026675	swilliams1	04/01/2016	03/31/2017	Inactive	
+Europe, UK	Scotland	Shetland Library			11/01/2014	10/31/2018	Inactive	
+Australia	New South Wales	Shorelink Library Network			07/22/2013	06/30/2019	Inactive	
+North America	Alberta	Shortgrass Library System	7081644	Messersmith	11/01/2016	10/31/2017	Inactive	Alberta Municipal Affairs 7104420
+North America	Massachusetts	Shrewsbury Public Library	1745401	jlevy	10/01/2016	09/30/2017	Inactive	
+Europe, UK	England	Shropshire Libraries			03/01/2015	02/28/2018	Inactive	
+North America	Connecticut	Simsbury Public Library	7059764	jlevy	07/01/2016	06/30/2017	Inactive	
+Asia	Singapore	Singapore American School		ballan1	07/01/2016	06/30/2017	Inactive	
+North America	South Dakota	Siouxland Libraries	7092860	cpitcher	01/01/2017	12/31/2017	Inactive	
+North America	Maryland	Skipjack Library	1274727		07/01/2012	02/28/2020	Active	
+North America	Illinois	Skokie Public Library	7038325	mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	British Columbia	Smithers Public Library	7040785	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Georgia	Smyrna Public Library	7081635	bgilbert	09/01/2016	08/31/2017	Inactive	GADD
+North America	Virginia	Smyth-Bland Regional Library	7052554	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Washington	Sno-Isle Libraries		Messersmith	01/01/2017	12/31/2017	Inactive	
+North America	Quebec	Societe Radio-Canada		rseifert	04/01/2016	03/31/2017	Inactive	
+Europe, UK	England	Solihull Libraries, Arts and Information			03/01/2015	02/28/2018	Inactive	
+North America	Massachusetts	Somerset Public Library	7077786	jlevy	03/01/2016	02/28/2017	Inactive	Value
+Australia	South Australia	South Australian Public Library Network			07/16/2015	07/31/2019	Active	
+Europe, UK	Scotland	South Ayrshire Libraries			11/01/2014	10/31/2017	Inactive	
+North America	West Virginia	South Charleston Public Library		dmcdonald1	07/01/2016	06/30/2017	Inactive	WV Deli-7120407 - SVOD - Acorn, Indieflix
+North America	South Dakota	South Dakota Digital Group		cpitcher	01/01/2017	12/31/2017	Inactive	
+Australia	New South Wales	South East Zone	KIA_001		08/15/2016	07/31/2019	Active	
+Europe, UK	England	South Gloucestershire Council			01/01/2015	12/31/2017	Inactive	
+Europe, UK	Scotland	South Lanarkshire Leisure & Culture Limited			04/01/2015	03/31/2019	Inactive	
+North America	New Jersey	South Plainfield Public Library	7051682	lkurucz	04/01/2016	03/31/2017	Inactive	Libraries of Middlesex Automation Consortium
+Europe, UK	England	South Tyneside Libraries			07/01/2015	06/30/2018	Inactive	
+Australia	New South Wales	South-West Zone Digital Library			12/01/2014	11/30/2019	Active	
+Europe, UK	England	Southampton Libraries	10000202		11/01/2014	10/31/2018	Inactive	
+North America	Iowa	Southeast Iowa Digital Consortium	7052760	PaulGillespie	01/01/2017	12/31/2017	Inactive	
+North America	California	Southern California Institute of Architecture		mransdell	08/01/2016	07/31/2017	Inactive	
+Australia	Queensland	Southern Downs Regional Council			06/01/2015	05/31/2020	Active	
+North America	British Columbia	Southern Gulf Islands Community Libraries	7149961	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative-7040759
+North America	Maryland	Southern Maryland Regional Library Association	1730276	swilliams1	09/01/2016	08/31/2017	Inactive	
+North America	Minnesota	Southern Minnesota Digital Consortium		PaulGillespie	10/01/2016	09/30/2017	Inactive	
+Australia	New South Wales	Southern Sydney eMagazines			02/01/2015	07/31/2019	Active	
+North America	New York	Southern Tier Library System/Chemung County Library District		rseifert	07/01/2016	06/30/2017	Inactive	
+North America	Virginia	Southside Regional Library		swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+Europe, UK	England	Southwark Libraries			08/01/2015	07/31/2017	Inactive	
+North America	Wisconsin	Southwest Wisconsin Library System		mhaddadnull	01/01/2017	12/31/2017	Inactive	
+North America	South Carolina	Spartanburg County Library		swilliams1	07/01/2016	06/30/2017	Inactive	
+North America	South Carolina	Spartanburg High School		swilliams1	12/01/2016	11/30/2017	Inactive	
+North America	British Columbia	Sparwood Public Library	7040663	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	California	SPLASH (Solano Partner Libraries & St. Helena)	1742072	hyena	08/01/2016	07/31/2017	Inactive	
+North America	Washington	Spokane County Library District	1744049	Messersmith	01/01/2017	12/31/2017	Inactive	
+North America	Washington	Spokane Public Library	1744049	Messersmith	04/01/2016	03/31/2017	Inactive	
+North America	Missouri	Springfield-Greene County Library		swilks	09/01/2016	08/31/2017	Inactive	
+North America	British Columbia	Squamish Public Library	7040674	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+Europe, UK	England	St Helens			04/01/2016	09/30/2017	Inactive	
+Australia	New South Wales	St Joseph's Regional College	STJ004		09/17/2015	09/30/2019	Active	
+Australia	New South Wales	St Luke's Grammar School			11/17/2015	03/31/2020	Active	
+North America	Alberta	St. Albert Public Library	1738670	Messersmith	11/01/2016	10/31/2017	Inactive	
+North America	Louisiana	St. Bernard Parish Public Library	7067305	cstrickland	04/01/2014	03/31/2024	Active	
+North America	Ontario	St. Catharines Public Library	7053016	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	Missouri	St. Charles City-County Library	7040092	swilks	07/01/2016	06/30/2017	Inactive	
+North America	Illinois	St. Charles Public Library	7055556	mhaddadnull	12/01/2016	11/30/2017	Inactive	
+North America	Florida	St. Johns County Public Library		bgilbert	10/01/2016	09/30/2017	Inactive	
+North America	Missouri	St. Joseph Public Library	7040357	swilks	07/01/2016	06/30/2017	Inactive	
+North America	Missouri	St. Louis County Library	7043855	swilks	05/01/2016	04/30/2017	Inactive	
+North America	Missouri	St. Louis Public Library	7057570	swilks	08/01/2016	07/31/2017	Inactive	
+North America	Minnesota	St. Paul Public Library	1728945	mears	02/01/2017	01/31/2018	Inactive	MELSA
+North America	Louisiana	St. Tammany Parish Library		cstrickland	02/01/2017	01/31/2018	Inactive	
+Europe, Europe without UK	Bremen	Stadtbibliothek Bremen		ballan1	01/01/2017	12/31/2017	Inactive	
+Europe, UK	England	Staffordshire County Libraries			04/01/2015	03/31/2018	Inactive	
+North America	California	Stanislaus County Library		mransdell	04/01/2016	03/31/2017	Inactive	
+North America	Ohio	Stark County District Library		dmcdonald1	01/01/2013	12/31/2017	Inactive	
+North America	Indiana	Starke County Library	7064187	dmcdonald1	03/01/2016	02/28/2017	Inactive	
+Australia	Queensland	State Library of Queensland Regional Libraries	10000392		11/01/2014	07/31/2019	Active	
+North America	Hawaii	State of Hawaii Library System	7040802	mransdell	10/01/2016	09/30/2017	Inactive	
+North America	Virginia	Staunton Public Library	7052411	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Texas	Sterling Municipal Library	1741275	cstrickland	04/23/2013	04/30/2017	Inactive	
+North America	British Columbia	Stewart Public Library	7149959	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative-7040759
+Europe, UK	Scotland	Stirling	10000210		03/01/2015	02/28/2018	Inactive	
+Europe, UK	England	Stoke-on-Trent City Libraries	10000213		05/01/2015	04/30/2018	Inactive	
+Australia	Victoria	Stonnington Library and Information Service			12/01/2014	04/30/2020	Active	
+North America	Ontario	Stratford Public Library	7055524	rseifert	07/01/2016	06/30/2017	Inactive	
+North America	Alberta	Strathcona County Library	7080643	Messersmith	11/01/2016	10/31/2017	Inactive	Alberta Municipal Affairs 7104420
+North America	Michigan	Suburban Library Cooperative		hyena	12/01/2016	11/30/2017	Inactive	
+North America	New York	Suffern Free Library	7081666	rseifert	01/01/2017	12/31/2017	Inactive	Value
+Europe, UK	England	Suffolk County Libraries			07/17/2015	07/31/2018	Inactive	
+North America	Virginia	Suffolk Public Library	7041185	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	New Jersey	Summit Free Public Library	1723916	lkurucz	09/01/2016	08/31/2017	Inactive	
+North America	Florida	Sumter County Library System		bgilbert	10/01/2016	09/30/2017	Inactive	
+North America	South Carolina	Sumter County Public Library		swilliams1	06/01/2016	05/31/2017	Inactive	
+Europe, UK	England	Sunderland	SUN114		11/17/2016	11/30/2017	Inactive	
+North America	California	Sunnyvale Public Library	7026491	mransdell	01/01/2017	12/31/2017	Inactive	
+Australia	Queensland	Sunshine Coast Council	10000400		04/01/2015	03/31/2020	Active	
+North America	Michigan	Superiorland Library Cooperative	7051679	dmcdonald1	12/01/2016	11/30/2017	Inactive	
+Europe, UK	England	Surrey Libraries	10000216		06/01/2015	03/31/2018	Inactive	
+North America	British Columbia	Surrey Libraries	7049313	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	New Jersey	Sussex County Library	7052021	lkurucz	05/01/2016	04/30/2017	Inactive	
+Europe, Europe without UK	Spain	Sustec Trial		ballan1	09/01/2016	08/31/2017	Inactive	
+Australia	New South Wales	Sutherland Shire Council Libraries			07/01/2015	06/30/2020	Active	
+Europe, UK	England	Sutton Libraries			11/01/2014	03/31/2017	Inactive	
+North America	Massachusetts	Swampscott Public Library		jlevy	05/15/2016	05/31/2017	Inactive	SVOD - Acorn, Great Courses, Learn It Live, Method, Qello
+Europe, UK	England	Swindon			05/18/2015	05/31/2017	Inactive	
+Europe, Europe without UK	Switzerland	Swiss Education Group		WFHINT	03/16/2016	03/31/2017	Inactive	
+Australia	New South Wales	Sydney Mechanics' School of Arts eMagazines			08/18/2014	08/31/2019	Active	
+North America	New York	Syosset Public Library		swilliams1	01/01/2017	12/31/2017	Inactive	Nassau - SVOD
+North America	Washington	Tacoma Public Library		Messersmith	01/01/2017	12/31/2017	Inactive	
+North America	Louisiana	Tangipahoa Parish Public Library	1738839	cstrickland	04/01/2016	03/31/2017	Inactive	
+North America	Massachusetts	Taunton Public Library		ngilbert	05/15/2016	05/31/2017	Inactive	
+North America	Texas	Taylor Public Library	7099487	cstrickland	03/01/2016	02/28/2017	Inactive	
+North America	British Columbia	Taylor Public Library	7040661	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+Australia	New South Wales	Taylors College Sydney			04/20/2016	04/30/2020	Active	
+North America	Virginia	Tazewell County Public Library	7063447	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+Europe, UK	England	Telford & Wrekin			07/01/2015	06/30/2018	Inactive	
+North America	Arizona	Tempe Public Library	1724062	hyena	11/01/2016	10/31/2017	Inactive	
+Asia	Turkey	Terakki Vakfi Ozel Sisli Terakki Lisesi		ballan1	10/16/2016	10/31/2017	Inactive	
+North America	British Columbia	Terrace Public Library	7040660	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+Europe, Europe without UK	France	The American Library in Paris		ballan1	12/01/2016	11/30/2017	Inactive	
+North America	Connecticut	The Brookfield Library	7057191	jlevy	07/01/2016	06/30/2017	Inactive	
+North America	Maryland	The Dachshund Test Library			01/01/2017	12/31/2017	Inactive	Long Dog Libraries
+North America	Connecticut	The Ferguson Library	7063403	jlevy	09/01/2016	08/31/2017	Inactive	
+North America	Pennsylvania	The Hill School		lkurucz	03/01/2016	02/28/2017	Inactive	
+Australia	New South Wales	The Hills Shire Council			07/01/2015	07/31/2019	Active	
+North America	Tennessee	The John P. Holt Brentwood Library	7044032	bgilbert	07/01/2016	06/30/2017	Inactive	
+North America	Massachusetts	The Jones Library	7061730	jlevy	08/01/2016	07/31/2017	Inactive	
+North America	Michigan	The Library Network	7051802	hyena	05/01/2016	04/30/2017	Inactive	
+New Zealand	Auckland	The Library Supply Company	100005052		03/06/2013	03/31/2020	Active	
+North America	Georgia	The Marshes of Glynn Libraries	7060033	bgilbert	09/01/2016	08/31/2017	Inactive	GADD
+North America	Manitoba	The Pas Regional Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	Ohio	The Public Library of Cincinnati and Hamilton County	1728970	Messersmith	02/01/2017	01/31/2018	Inactive	
+North America	Massachusetts	The Sherborn Library	1725641	jlevy	05/01/2016	04/30/2017	Inactive	
+North America	Massachusetts	The Storrs Library	7096683	jlevy	03/01/2016	02/28/2017	Inactive	Value
+North America	New York	The Yale Club of New York City		Doss	03/15/2016	03/31/2017	Inactive	
+North America	New Mexico	Thomas Branigan Memorial Library	1723926	cstrickland	09/01/2016	08/31/2017	Inactive	
+North America	Manitoba	Thompson Public Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	British Columbia	Thompson-Nicola Regional Library		Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	California	Thousand Oaks Library	1741276	mransdell	07/01/2016	06/30/2017	Inactive	
+North America	Illinois	Three Rivers Public Library		mhaddadnull	02/01/2017	01/31/2018	Inactive	
+North America	Ontario	Thunder Bay		rseifert	01/01/2017	12/31/2017	Inactive	
+Europe, UK	England	Thurrock Libraries			04/01/2015	03/31/2018	Inactive	
+North America	Ohio	Tiffin Seneca Public Library		dmcdonald1	05/01/2016	04/30/2017	Inactive	
+North America	Oregon	Tillamook County Library		Messersmith	07/01/2016	06/30/2017	Inactive	
+North America	Washington	Timberland Regional Library	7061638	Messersmith	05/01/2016	04/30/2017	Inactive	
+North America	Illinois	Tinley Park Public Library		mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	Indiana	Tippecanoe County Public Library		dmcdonald1	01/01/2017	12/31/2017	Inactive	
+North America	Ohio	Toledo-Lucas County Public Library		dmcdonald1	03/01/2016	02/28/2017	Inactive	
+Australia	Queensland	Toowoomba Regional Library Service			07/01/2015	06/30/2020	Active	
+North America	Massachusetts	Topsfield Town Library	7052630	ngilbert	04/01/2016	03/31/2017	Inactive	
+North America	Ontario	Toronto Public Library	1726933	Messersmith	03/01/2016	02/28/2017	Inactive	
+Australia	Queensland	Townsville City Council - CityLibraries			08/01/2015	07/31/2019	Active	
+North America	British Columbia	Trail & District Public Library		Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Michigan	Traverse Area District Library	1723913	dmcdonald1	04/01/2016	03/31/2017	Inactive	
+North America	Pennsylvania	Tri College Consortium		lkurucz	08/01/2016	07/31/2017	Inactive	
+North America	North Carolina	Tri-County Community College Library	7109372	swilliams1	05/01/2016	04/30/2017	Inactive	
+North America	Michigan	Troy Public Library		dmcdonald1	07/01/2016	06/30/2017	Inactive	
+North America	Ohio	Trumbull Career Technical Center		dmcdonald1	07/01/2016	06/30/2017	Inactive	
+North America	Connecticut	Trumbull Library		jlevy	06/15/2016	06/30/2017	Inactive	
+North America	California	Tulare County Library	7063568	mransdell	09/01/2016	08/31/2017	Inactive	
+North America	Oklahoma	Tulsa City County Library System	7052896	Doss	07/01/2016	06/30/2017	Inactive	
+North America	British Columbia	Tumbler Ridge Public Library	7040673	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Alabama	Tuscaloosa Public Library		bgilbert	03/01/2016	02/28/2017	Inactive	
+North America	District of Columbia	U.S. Customs and Border Protection Library		Doss	09/13/2016	09/30/2017	Inactive	
+Europe, Europe without UK	FINLAND	UK Parliament			08/18/2016	08/31/2017	Inactive	
+North America	Georgia	Union County Schools		bgilbert	09/01/2016	08/31/2017	Inactive	
+North America	New York	Uniondale Public Library		swilliams1	12/15/2016	12/31/2017	Inactive	Nassau
+Asia	Hanoi	United Nations International School Hanoi		ballan1	10/01/2016	09/30/2017	Inactive	
+North America	Mexico	Universidad Autonoma de Baja California		mears	11/16/2016	11/30/2017	Inactive	
+Other	Peru	Universidad Peruana de Ciencias Aplicadas		mears	03/15/2016	03/31/2017	Inactive	
+North America	Texas	University Park Public Library	7039873	cstrickland	01/01/2017	12/31/2017	Inactive	
+North America	California	Upland Public Library		mransdell	10/01/2016	09/30/2017	Inactive	Inland Library System
+Australia	New South Wales	Upper Hunter Library Network			01/18/2016	01/31/2018	Inactive	
+New Zealand	New Zealand	Upper Hutt City Library			09/15/2015	09/30/2018	Inactive	
+North America	Illinois	Urbana Free Public Library		mhaddadnull	01/01/2017	12/31/2017	Inactive	
+North America	Iowa	Urbandale Public Library	7052068	PaulGillespie	12/01/2012	09/30/2019	Active	
+North America	Military	USMC Library Program		Doss	11/01/2016	10/31/2017	Inactive	DOD-MWR Air Force/7208672
+North America	Utah	Utah Public Library Group		cpitcher	05/01/2016	04/30/2017	Inactive	
+North America	British Columbia	Valemount Public Library	7149955	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative-7040759
+North America	British Columbia	Vancouver Island Regional Library	7040659	Messersmith	01/01/2017	12/31/2017	Inactive	SVOD AcornTV only- $2.78 (7% disc) BC Libraries Cooperative 7040759
+North America	British Columbia	Vancouver Public Library	7049312	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	British Columbia	Vanderhoof Public Library		Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Ontario	Vaughan Public Libraries	7081848	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	California	Ventura County Public Library	1742328	hyena	03/01/2016	02/28/2017	Inactive	
+North America	Louisiana	Vermilion Parish Library		cstrickland	05/01/2016	04/30/2017	Inactive	
+North America	Louisiana	Vernon Parish Public Library		cstrickland	02/01/2017	01/31/2018	Inactive	
+North America	Manitoba	Victoria Municipal Library		Messersmith	01/01/2017	06/30/2017	Inactive	Manitoba Rural Library Consortia
+North America	California	Victorville City Library	7052683	mransdell	10/01/2016	09/30/2017	Inactive	Inland Library System
+North America	Indiana	Vigo County Public Library		dmcdonald1	11/01/2016	10/31/2017	Inactive	
+North America	Quebec	Ville de Gatineau		rseifert	04/15/2016	04/30/2017	Inactive	
+North America	Quebec	Ville de Saint-Lambert		rseifert	01/16/2017	01/31/2018	Inactive	
+North America	Virginia	Virginia Beach Public Library	7052538	Doss	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	District of Columbia	Voice of America		swilliams1	08/01/2016	07/31/2017	Inactive	
+North America	Florida	Volusia County Public Library		bgilbert	02/01/2017	01/31/2018	Inactive	
+Europe, UK	England	W F Howes Customer Services			03/13/2015	03/31/2025	Active	
+Europe, UK	England	W. F. Howes Internal Test Site			01/01/2012	01/01/2020	Active	
+Europe, UK	England	W. F. Howes Trial	100005050		04/08/2013	02/01/2021	Active	
+New Zealand	Canterbury	Waimakariri Libraries			10/23/2015	10/31/2019	Active	
+North America	Ontario	Wainfleet Public Library		rseifert	07/01/2016	06/30/2017	Inactive	
+Europe, UK	England	Wakefield Metropolitan District Libraries	10000230		06/01/2015	05/31/2018	Inactive	
+Europe, UK	Wales	Wales			11/01/2014	10/31/2019	Active	
+North America	Washington	Walla Walla County Rural Library District		Messersmith	04/01/2016	03/31/2017	Inactive	
+North America	Florida	Walton County Public Library System		bgilbert	11/01/2016	10/31/2017	Inactive	PLAN 7191397
+North America	New York	Wantagh Public Library		swilliams1	12/15/2016	12/31/2017	Inactive	Nassau
+North America	New Jersey	Warren County Library	1719584	lkurucz	08/01/2016	07/31/2017	Inactive	
+North America	Kentucky	Warren County Public Library	7109748	dmcdonald1	01/01/2017	12/31/2017	Inactive	
+North America	Mississippi	Warren County Vicksburg Public Library		swilks	10/01/2016	09/30/2017	Inactive	
+North America	Illinois	Warren Newport Public Library		mhaddadnull	03/01/2016	02/28/2017	Inactive	
+North America	Illinois	Warrenville Public Library	1728111	mhaddadnull	03/01/2016	02/28/2017	Inactive	
+North America	Indiana	Warsaw Community Public Library		dmcdonald1	11/15/2016	11/30/2017	Inactive	Acorn, Qello, Indieflix
+North America	Rhode Island	Warwick Public Library		ngilbert	04/01/2016	03/31/2017	Inactive	
+Europe, UK	England	Warwickshire Library & information Service Headquarters			04/01/2015	03/31/2018	Inactive	
+North America	Minnesota	Washington County Library		mears	02/01/2017	01/31/2018	Inactive	MELSA
+North America	Virginia	Washington County Public Library	7052492	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Ohio	Washington County Public Library	7084491	dmcdonald1	01/01/2017	12/31/2017	Inactive	
+North America	Ohio	Washington-Centerville Public Library	1721086	dmcdonald1	01/01/2017	12/31/2017	Inactive	Central Library Consortium - Acorn Only
+North America	Nevada	Washoe County Library System		mransdell	03/15/2016	03/31/2017	Inactive	
+Australia	Western Australia	Water Corporation			03/01/2015	02/29/2020	Active	
+North America	Ontario	Waterloo Public Library	7104957	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	Massachusetts	Watertown Free Public Library		jlevy	10/01/2016	09/30/2017	Inactive	
+North America	Illinois	Wauconda Area Library		mhaddadnull	03/01/2016	02/28/2017	Inactive	
+Australia	New South Wales	Wavesound Trial Site			04/08/2013	01/01/2018	Inactive	
+North America	North Carolina	Wayne County Public Library		swilliams1	02/01/2017	01/31/2018	Inactive	SVOD - All Services and TGC
+North America	Virginia	Waynesboro Public Library	7052446	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Missouri	Webb City High School		swilks	09/01/2016	08/31/2017	Inactive	
+North America	Utah	Weber County Library		cpitcher	07/01/2016	06/30/2017	Inactive	
+North America	Ontario	Welland Public Library	7052749	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	Connecticut	Welles Turner Memorial Library	1720520	jlevy	01/01/2017	12/31/2017	Inactive	SVOD--Acorn, Qello, Pongalo; TGCNC, Method Test Prep, IF, Learn It Live; Unlimited;
+New Zealand	Wellington	Wellington City Libraries			03/01/2015	02/28/2018	Inactive	
+Australia	Victoria	Wellington Shire Library			11/01/2014	10/31/2019	Active	
+Europe, UK	England	West Berkshire Library			12/01/2014	11/30/2018	Inactive	
+North America	Michigan	West Bloomfield Public Library	1723904	dmcdonald1	04/01/2016	03/31/2017	Inactive	
+North America	Illinois	West Chicago Public Library		mhaddadnull	02/01/2017	01/31/2018	Inactive	
+Europe, UK	Scotland	West Dunbartonshire Libraries			06/01/2015	05/31/2020	Active	
+North America	Florida	West Florida Public Library		bgilbert	11/01/2016	10/31/2017	Inactive	PLAN 7191397
+Australia	Victoria	West Gippsland Libraries	10000416		09/01/2014	08/31/2019	Active	
+North America	Connecticut	West Hartford Public Library	7051673	jlevy	10/01/2016	09/30/2017	Inactive	
+North America	New York	West Hempstead Public Library		swilliams1	12/15/2016	12/31/2017	Inactive	Nassau
+Europe, UK	Scotland	West Lothian Council	10000240		05/01/2015	04/30/2018	Inactive	
+Europe, UK	England	West Sussex County Libraries	10000242		05/01/2015	04/30/2018	Inactive	
+North America	British Columbia	West Vancouver Memorial Library	7040658	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	West Virginia	West Virginia Library Commission	1718560	dmcdonald1	01/01/2017	12/31/2017	Inactive	
+North America	Texas	Westbank Community Library		cstrickland	01/01/2017	12/31/2017	Inactive	
+North America	New York	Westbury Memorial Public Library		swilliams1	12/15/2016	12/31/2017	Inactive	Nassau
+North America	Indiana	Westchester Public library	1721794	dmcdonald1	01/01/2017	12/31/2017	Inactive	
+Australia	Western Australia	Western Australia Public Libraries Digital Media Collection			08/18/2014	08/31/2019	Active	
+Australia	Queensland	Western Downs Libraries			04/01/2015	06/30/2020	Active	
+North America	Maryland	Western Maryland Regional Library	7051280	swilliams1	05/01/2016	06/30/2017	Inactive	
+North America	Oklahoma	Western Plains Library System		swilks	08/01/2016	07/31/2017	Inactive	
+North America	Ohio	Westerville Public Library		dmcdonald1	01/01/2017	12/31/2017	Inactive	
+North America	New Jersey	Westfield Memorial Library	7052066	lkurucz	06/01/2016	05/31/2017	Inactive	
+North America	Ohio	Westlake Porter Public Library	1728941	dmcdonald1	01/01/2017	12/31/2017	Inactive	Acorn, Qello
+North America	Alabama	Westlawn Middle School		WTCox	09/16/2016	09/30/2017	Inactive	
+Europe, UK	England	Westminster	10000238		03/01/2015	03/31/2017	Inactive	
+North America	Illinois	Westmont Public Library	1716305	mhaddadnull	02/01/2017	01/31/2018	Inactive	
+North America	Quebec	Westmount Public Library		rseifert	11/15/2016	11/30/2017	Inactive	
+North America	Massachusetts	Weston Public Library		jlevy	10/01/2016	09/30/2017	Inactive	
+North America	Connecticut	Wethersfield Library	7052542	jlevy	04/01/2016	03/31/2017	Inactive	
+North America	Saskatchewan	Wheatland Regional Library	7057561	Messersmith	07/01/2016	06/30/2017	Inactive	
+North America	Illinois	Wheaton Public Library	7063411	mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	Massachusetts	Wheeler Memorial Library		ngilbert	07/01/2016	06/30/2017	Inactive	
+North America	British Columbia	Whistler Public Library	7040657	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative 7040759
+North America	Ontario	Whitby Public Library	7083283	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	Tennessee	White County High School		WTCox	01/31/2017	01/31/2018	Inactive	
+Australia	Victoria	Whitehorse Manningham libraries	10000417		08/01/2015	07/31/2019	Active	
+Australia	Queensland	Whitsunday Regional Council			07/18/2014	07/31/2020	Active	
+North America	Michigan	Willard Public Library		hyena	01/01/2017	12/31/2017	Inactive	
+North America	Virginia	Williamsburg Regional Library	7026637	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Tennessee	Williamson County Public Library		bgilbert	11/01/2016	10/31/2017	Inactive	
+North America	Illinois	Wilmette Public Library District	7034053	mhaddadnull	02/01/2017	01/31/2018	Inactive	
+North America	Massachusetts	Wilmington Memorial Library		jlevy	10/01/2016	09/30/2017	Inactive	
+North America	Connecticut	Wilton Library	7077783	jlevy	04/01/2016	03/31/2017	Inactive	SVOD--Acorn; Annual max: 670, no weekly max till further notice; No IF, P
+Europe, UK	England	Wimbledon High School	WIM001		11/18/2016	11/30/2018	Inactive	
+Australia	Victoria	Wimmera Regional Library Corporation	10000418		07/01/2015	07/31/2019	Active	
+North America	Massachusetts	Winchester Public Library		ngilbert	10/01/2016	09/30/2017	Inactive	
+North America	Connecticut	Windsor Locks Public Library	7109360	jlevy	05/01/2016	04/30/2017	Inactive	SVOD - A, IF, Q, Broadway, TGCNC; Unlimited; No others.
+North America	Ontario	Windsor Public Library	7098666	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	Illinois	Winfield Public Library	1728110	mhaddadnull	06/01/2016	05/31/2017	Inactive	
+North America	Illinois	Winnebago Public Library	7055558	mhaddadnull	07/01/2016	06/30/2017	Inactive	
+North America	Illinois	Winnetka Northfield Library District	7035577	mhaddadnull	04/01/2016	03/31/2017	Inactive	
+North America	Manitoba	Winnipeg Public Library	7083298	Messersmith	01/01/2017	12/31/2017	Inactive	
+North America	Minnesota	Winona Public Library		PaulGillespie	04/01/2016	03/31/2017	Inactive	
+North America	Florida	Winter Haven Public Library		bgilbert	08/01/2016	07/31/2017	Inactive	
+Europe, UK	England	Wokingham Libraries	10000250		01/10/2014	01/31/2018	Inactive	
+North America	Alberta	Wood Buffalo Regional Library	7081646	Messersmith	11/01/2016	10/31/2017	Inactive	
+North America	Illinois	Woodridge Public Library		mhaddadnull	01/01/2017	12/31/2017	Inactive	
+North America	Ontario	Woodstock Public Library		rseifert	07/01/2016	06/30/2017	Inactive	
+Australia	New South Wales	Woollahra Library and Information Service			07/02/2013	07/31/2019	Active	
+Europe, UK	England	worcestershire			03/01/2015	02/28/2019	Inactive	
+Australia	Victoria	Wyndham City Libraries			07/01/2015	06/30/2020	Active	
+North America	Wyoming	Wyoming State Library	1743407	hyena	04/01/2013	03/31/2017	Inactive	
+North America	Virginia	Wythe-Grayson Regional Library	7052500	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+Australia	Victoria	Yarra Libraries	10000504		11/01/2014	10/31/2019	Active	
+Australia	Victoria	Yarra Plenty Regional Library			10/01/2014	09/30/2019	Active	
+North America	Alberta	Yellowhead Regional Library	7040862	Messersmith	11/01/2016	10/31/2017	Inactive	Alberta Municipal Affairs
+Europe, Europe without UK	Helsinki	Yle Arkisto		ballan1	02/01/2017	01/31/2018	Inactive	
+Europe, UK	England	York			11/17/2015	05/31/2018	Inactive	
+North America	Virginia	York County Public Library	1722634	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	South Carolina	York County Public Library	1717481	swilliams1	07/01/2016	06/30/2017	Inactive	
+North America	Ontario	York-Simcoe Library Consortium	7100339	rseifert	01/01/2017	12/31/2017	Inactive	
+North America	Illinois	Zion-Benton Public Library	7062068	mhaddadnull	12/01/2016	11/30/2017	Inactive	
+North America	Ohio	Z__CLCOH__INACTIVE		Messersmith	01/01/2017	12/31/2017	Inactive	Central Library Consortium

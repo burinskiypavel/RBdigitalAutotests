@@ -1,0 +1,60 @@
+For Period: from 01/01/2017 to 01/22/2017
+Official Name	Name	Account ID	Codes in use	Codes in date range	RemainingCodes
+InfoSoup	appletonwi	7173924	400	18	1913
+Arapahoe Library District	arapahoeco	7194159	276	64	9658
+Boulder City Public Library	bouldercitynv	7179021	11	1	3975
+Brownsville Public Library System	brownsvilletx	7182955	91	2	1906
+Buchanan County Public Library	buchananva	7191720	38	6	2359
+Butler County Federated Library System	butlercountypa	7191537	37	8	9527
+Carson City Public Library	carsoncitynv	7177906	20	2	1981
+Cumberland County Library	cumberlandcountynj	7193682	22	1	2972
+Des Plaines Public Library	desplainesil	7157787	184	14	1811
+Dorchester County Library	dorchestersc	7191722	97	6	9449
+Duncan Public Library	duncanok	7189566	16	1	1982
+East Baton Rouge Parish Library	eastbatonrougela	7191535	719	60	13376
+East Hampton Public Library	easthamptonct	7183625	19	1	1978
+East Lake Library	eastlakefl	7173927	26	1	1972
+Fitzgerald-Ben Hill County Library	fitzbhillcoga	7191529	8	1	2988
+Fort Saskatchewan Public Library	fortsaskatchewanab	7184482	55	4	2443
+Fountaindale Public Library	fountaindaleil	7192941	181	12	7789
+Gloucester Public Library	gloucesterva	7187244	39	1	2788
+Hammond Public Library	hammondin	7182741	33	1	756
+Hollis Social Library	hollisnh	7189674	17	2	1983
+Jefferson Davis Parish Library	jeffersondavisla	7193678	13	4	2385
+Justice Public Library District	justiceil	7183689	28	6	2967
+Kent District Library	kentmi	7160174	607	22	6362
+Kimberley Public Library	kimberleybc	7194202	4	2	1126
+Kitimat Public Library	kitimatbc	7194202	12	5	1185
+Bibliotheques de Laval	lavalqc	7182957	170	7	1828
+La Vista Public Library	lavistane	7192988	20	6	2678
+LeRoy Collins Leon County Public Library	leroycollinsflplan	7191516	279	2	4713
+Livingston Parish Library	livingstonparishla	7173780	96	4	1580
+Mabel C. Fry Public Library	mabelcfryok	7189567	31	3	1967
+Martinsburg Berkeley County Public Library	martinsburgberkeleywv	7180682	133	18	4186
+McHenry Public Library District	mchenryil	7173926	92	6	2406
+McKinney Public Library	mckinneytx	7190366	240	14	1760
+Multinational Force and Observers	mfo	7178979	80	3	4349
+Millburn Free Public Library	millburnnj	7193169	20	8	10213
+Morgantown Public Library	morgantownwv	7190192	64	4	1934
+Okaloosa County Public Library Cooperative	okaloosacoflplan	7191526	73	4	4913
+Panhandle Library Cooperative	panhandlefl	7191522	62	14	4929
+Pemberton & District Public Library	pembertonbc	7194202	10	2	837
+Pennsylvania College of Technology	pennsylvaniacollegeoftechnology	7191539	199	54	3849
+Prince George's County Memorial Library System	princegeorgemd	7153536	707	18	1292
+RBdigital Trial Customer Library	rbdigitaltrial		729	16	262
+Rio Grande Public Library	riograndetx	7193414	6	2	2390
+Parke County Public Library	rockvillein	7194712	49	1	2948
+Silvis Public Library	silvisil	7191700	19	2	2673
+Somerset Public Library	somersetma	7193415	15	2	2382
+South St. Landry Community Library	southstlandryla	7190556	19	8	1980
+Speer Memorial Library	speermemorialtx	7184469	43	4	1956
+Sumter County Library System	sumterfl	7191386	175	6	1825
+Taylor Public Library	taylorbc	7194202	3	4	297
+Three Rivers Regional Library System	threeriversga	7183738	47	4	1952
+Tulsa City County Library System	tulsacitycountyok	7184727	511	18	1665
+Tyler Public Library	tylertx	7182286	44	2	1920
+Vancouver Island Regional Library	vancouverislandbc	7194202	571	22	9381
+Vermilion Parish Library	vermilionparishla	7189465	16	1	1981
+Vermillion Public Library	vermillionsd	7193526	33	14	2667
+Welles Turner Memorial Library	wellesturnerct	7156321	67	3	932
+Total	7576	521	188276

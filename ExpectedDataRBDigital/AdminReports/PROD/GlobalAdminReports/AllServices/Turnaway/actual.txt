@@ -1,0 +1,8 @@
+For Period: from 01/01/2017 to 01/01/2017
+The patron cap data included in the report is as of the time when the report is run. No history of prior caps is retained.
+Service	License Type	Library Nickname	Library Name	System Name	Account #	State	Country	Barcode	Email	Library	Licenses #	Description	Monthly Patron Cap	Overall Cap	Group Cap	Patron Cap	Service Cap	Turnaway Reason	Total Turnaways
+Total	0
+
+
+Summary of Turnaways
+Reason	Total

@@ -1,0 +1,20 @@
+Screen Name	Email	Library	AccountId	Country	State	System Name
+Giulio Blasi	blasi@horizons.it	Media Library Online	7050092	IT	Emilia-Romagna	
+Stelly Cattell	scattell@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+Cooper Cobb	dcobb@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+BradGrayTrialSite	bgray@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+Becky Bramall	becky.bramall@wfhowes.co.uk	RBdigital Trial Customer Library		US	Maryland	
+Jim Schmidt	jschmidt@recordedbooks.com	Skipjack Library	test	US	Maryland	
+Scott Williams	swilliams@recordedbooks.com	Skipjack Library	test	US	Maryland	
+skipjackadmin1	skipjackadmin1@gmail.com	Skipjack Library	test	US	Maryland	
+jen Admin test	jennie01@gmail.com	Skipjack Library	test	US	Maryland	
+Brad Gray	bradleypgray@recordedbooks.com	Skipjack Library	test	US	Maryland	
+sunnysales	sunnysales@gmail.com	Skipjack Library	test	US	Maryland	
+Brooks Bushnell	bbushnell@recordedbooks.com	Skipjack Library	test	US	Maryland	
+Brad Gray	bgray@recordedbooks.com	RBdigital Account Manager Demo Library	7033036	US	Maryland	
+Kevin Karrick	kevin@artistworks.com	RBdigital Account Manager Demo Library	7033036	US	Maryland	
+John Shea	jshea@rbmediaglobal.com	RBdigital Account Manager Demo Library	7033036	US	Maryland	
+Donna Vollmer	dvollmer@recordedbooks.com	RBdigital Account Manager Demo Library	7033036	US	Maryland	
+Craig	callen@recordedbooks.com	RBdigital Account Manager Demo Library	7033036	US	Maryland	
+Brad Gray	bgray@recordedbooks.com	RBdigital Global Catalog	7158224	US	Maryland	
+Demo Admin	demoadmin@rb.com	RBdigital Global Catalog	7158224	US	Maryland	

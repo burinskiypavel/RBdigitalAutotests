@@ -1,0 +1,20 @@
+For Period: from 07/01/2019 to 07/01/2019
+Region: UK
+Library ID	Account #	Library Name	State / Province	Country	Active Patrons	Checkouts / Views / Downloads / Sessions	Service
+hertfordshirelibraries	HER178	Hertfordshire Libraries	England	GB	85	189	magazines
+wfhowes	TEST	W. F. Howes Trial	England	GB	3	4	magazines
+buckinghamshire	BUC005	Buckinghamshire Libraries	England	GB	39	71	magazines
+highlandlibraryservice	HIG094	High Life Highland Libraries	Scotland	GB	77	87	magazines
+northayrshirelibraries	NOR002	North Ayrshire Libraries	Scotland	GB	52	59	magazines
+southwarklibraries	SOU359	Southwark Libraries	England	GB	6	6	magazines
+nottinghamshire	NOT240	Nottinghamshire County Council	England	GB	35	58	magazines
+rotherhammbc	ROT197	Rotherham MBC	England	GB	3	3	magazines
+isleofwight	WIG001	Isle of Wight	England	GB	2	3	magazines
+leicester	LEI457	Leicester City Council	England	GB	14	14	magazines
+portsmouth	POR208	Portsmouth Library Service	England	GB	52	57	magazines
+renfrewshire	REN101	Renfrewshire Libraries Headquarters	Scotland	GB	6	6	magazines
+eastlothian	EAS165	East Lothian Libraries	Scotland	GB	9	10	magazines
+westberkshire	WES216	West Berkshire Library	England	GB	26	45	magazines
+perthkinrossuk	PER201	Culture Perth and Kinross	Scotland	GB	9	17	magazines
+edunbartonshireuk	EAS164	East Dunbartonshire Libraries	Scotland	GB	21	36	magazines
+falkirklibraries	FAL120	Falkirk Libraries	Scotland	GB	64	73	magazines

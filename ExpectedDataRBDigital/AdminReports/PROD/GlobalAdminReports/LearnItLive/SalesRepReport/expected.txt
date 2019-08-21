@@ -1,0 +1,114 @@
+Screen Name	Email	Library	AccountId	Country	State	Start Date	End Date	System Name
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	01/01/2019	12/31/2019	
+Brad Doss	bdoss@recordedbooks.com	Montgomery County Public Library	7220466	US	Maryland	04/01/2019	11/30/2019	
+Brad Doss	bdoss@recordedbooks.com	Enoch Pratt Free Library	7220410	US	Maryland	03/06/2019	10/31/2019	
+Brad Doss	bdoss@recordedbooks.com	Chesapeake Public Library	7220839	US	Virginia	05/01/2019	10/31/2019	Library of Virginia/Lyrasis-7051842
+Brad Gray	bgray@recordedbooks.com	RBdigital Higher Education Trial		US	Maryland	03/01/2019	02/28/2020	
+Brad Gray	bgray@recordedbooks.com	Georgia Power Company - Trial	trial	US	Georgia	02/01/2019	01/31/2020	
+Brian Gilbert	bgilbert@recordedbooks.com	Greater Clarks Hill Regional Library System	7214592	US	Georgia	03/01/2019	02/29/2020	GADD SVOD - A, IF, Q-unl
+Brian Gilbert	bgilbert@recordedbooks.com	Mandel Public Library	7220612	US	Florida	04/01/2019	01/31/2020	
+Clayton Strickland	cstrickland@recordedbooks.com	Kilgore Public Library	7218232	US	Texas	06/01/2019	05/31/2020	
+Clayton Strickland	cstrickland@recordedbooks.com	St. Bernard Parish Public Library	7219688	US	Louisiana	06/01/2019	05/31/2020	
+Clayton Strickland	cstrickland@recordedbooks.com	Mammen Family Public Library	7220872	US	Texas	04/22/2019	04/30/2020	
+Clayton Strickland	cstrickland@recordedbooks.com	Wimberley Village Library	7212776	US	Texas	02/01/2019	01/31/2020	Value Collection
+Clayton Strickland	cstrickland@recordedbooks.com	Farmers Branch Public Library	7220616	US	Texas	01/28/2019	12/31/2019	
+Clayton Strickland	cstrickland@recordedbooks.com	Rio Grande Public Library	7220489	US	Texas	01/28/2019	11/30/2019	Value Collection
+Clayton Strickland	cstrickland@recordedbooks.com	Little Elm Public Library	7220395	US	Texas	01/28/2019	10/31/2019	
+Clayton Strickland	cstrickland@recordedbooks.com	Tyler Public Library	7220457	US	Texas	01/28/2019	10/31/2019	Value Collection
+Clayton Strickland	cstrickland@recordedbooks.com	Gatesville Public Library	7220211	US	Texas	01/28/2019	08/31/2019	Value Collection
+Clayton Strickland	cstrickland@recordedbooks.com	Deer Park Public Library	7220126	US	Texas	01/28/2019	07/31/2019	
+Clayton Strickland	cstrickland@recordedbooks.com	Laredo Public Library	7220082	US	Texas	01/28/2019	07/31/2019	
+Clayton Strickland	cstrickland@recordedbooks.com	Kilgore Public Library	7218232	US	Texas	01/28/2019	05/31/2019	
+Clayton Strickland	cstrickland@recordedbooks.com	St. Bernard Parish Public Library	7219688	US	Louisiana	01/28/2019	05/31/2019	
+Clayton Strickland	cstrickland@recordedbooks.com	Wimberley Village Library	7212776	US	Texas	01/28/2019	01/31/2019	Value Collection
+Debbie McDonald	dmcdonald@recordedbooks.com	Pike County Public Library District	7221056	US	Kentucky	07/01/2019	06/30/2020	
+Debbie McDonald	dmcdonald@recordedbooks.com	Hammond Public Library	7220043	US	Indiana	07/01/2019	06/30/2020	
+Debbie McDonald	dmcdonald@recordedbooks.com	Perry County District Library	7214909	US	Ohio	04/01/2019	03/31/2020	Acorn & IF
+Debbie McDonald	dmcdonald@recordedbooks.com	Way Public Library	7214033	US	Ohio	03/04/2019	02/29/2020	Acorn Only
+Debbie McDonald	dmcdonald@recordedbooks.com	Ohio County Public Library	7214498	US	West Virginia	03/01/2019	02/29/2020	WV Deli-7120407 - Acorn, Qello, Indieflix
+Debbie McDonald	dmcdonald@recordedbooks.com	Bad Axe Area District Library	7220304	US	Michigan	06/06/2019	09/30/2019	
+Debbie McDonald	dmcdonald@recordedbooks.com	Jasper-Dubois County Contractual Public Library	7220102	US	Indiana	05/31/2019	07/31/2019	
+Debbie McDonald	dmcdonald@recordedbooks.com	Hammond Public Library	7220043	US	Indiana	04/25/2019	06/30/2019	
+Joe Levy	jlevy@recordedbooks.com	Bigelow Free Public Library	7221034	US	Massachusetts	06/27/2019	06/30/2020	SVOD - Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello; Cap is 1 per week per patron
+Joe Levy	jlevy@recordedbooks.com	Beekley Library	7220014	US	Connecticut	07/01/2019	06/30/2020	SVOD--TGCNC, Acorn, Qello, IF, MTP, Learn It Live
+Joe Levy	jlevy@recordedbooks.com	Orono Public Library	7221046	US	Maine	06/28/2019	06/30/2020	SVOD - Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello; 1 token per patron per week
+Joe Levy	jlevy@recordedbooks.com	Hartford Public Library	7220032	US	Connecticut	07/01/2019	06/30/2020	SVOD--Acorn, QC, IF, Pongalo, Great Courses, Method Test Prep, Learn it Live; 1,000 Annual max, 20 weekly max, 4 per patron per month
+Joe Levy	jlevy@recordedbooks.com	Goshen Public Library	7220965	US	Connecticut	06/27/2019	06/30/2020	SVOD--Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello; cap of 2 per patron per week
+Joe Levy	jlevy@recordedbooks.com	Richards Memorial Library	7217000	US	Massachusetts	05/31/2019	05/31/2020	SVOD - A, IF, Q, TGC, Pongalo, MTP, Learn it Live
+Joe Levy	jlevy@recordedbooks.com	North Haven Memorial Library	7220863	US	Connecticut	05/01/2019	04/30/2020	SVOD -- Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello
+Joe Levy	jlevy@recordedbooks.com	Baker Free Library	7220795	US	New Hampshire	04/01/2019	03/31/2020	SVOD - Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello
+Joe Levy	jlevy@recordedbooks.com	Burnham Library	7215194	US	Connecticut	03/27/2019	03/31/2020	SVOD - A, IF, Q, MTP, Learn It Live, Great Courses
+Joe Levy	jlevy@recordedbooks.com	Swampscott Public Library	7220746	US	Massachusetts	03/01/2019	02/29/2020	SVOD - Acorn, Great Courses, Learn It Live, Method, Qello
+Joe Levy	jlevy@recordedbooks.com	Wilbraham Public Library	7220748	US	Massachusetts	03/01/2019	02/29/2020	SVOD - Acorn, Great Courses, Learn It Live, Qello
+Joe Levy	jlevy@recordedbooks.com	Welles Turner Memorial Library	7213850	US	Connecticut	02/20/2019	02/28/2020	SVOD--Acorn, Qello, Pongalo; TGCNC, Method Test Prep, IF, Learn It Live; Unlimited;
+Joe Levy	jlevy@recordedbooks.com	Reuben Hoar Library	7220714	US	Massachusetts	02/01/2019	01/31/2020	SVOD -- Acorn, Qello, Pongalo, Great Courses, Learn it Live, MTP;
+Joe Levy	jlevy@recordedbooks.com	Monson Free Library	7220556	US	Massachusetts	01/28/2019	11/30/2019	Value; All SVOD except Pongalo
+Joe Levy	jlevy@recordedbooks.com	Hall Memorial Library	7220068	US	Connecticut	04/15/2019	07/31/2019	Value; SVOD—Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello
+Joe Levy	jlevy@recordedbooks.com	Beekley Library	7220014	US	Connecticut	02/14/2019	06/30/2019	SVOD--TGCNC, Acorn, Qello, IF, MTP, Learn It Live
+Joe Levy	jlevy@recordedbooks.com	Deep River Public Library	7220039	US	Connecticut	02/19/2019	06/30/2019	SVOD--Acorn, Qello, TGCNC, IF, MTP, Learn It Live; 25 per week for library, 1 per week per patron
+Joe Levy	jlevy@recordedbooks.com	Hartford Public Library	7220032	US	Connecticut	02/05/2019	06/30/2019	SVOD--Acorn, QC, IF, Pongalo, Great Courses, Method Test Prep, Learn it Live; 1,000 Annual max, 20 weekly max, 4 per patron per month
+Lisa Kurucz	lkurucz@recordedbooks.com	Madison Public Library	7220949	US	New Jersey	05/30/2019	05/31/2020	M.A.I.N., Inc
+Lisa Kurucz	lkurucz@recordedbooks.com	Helen Kate Furness Free Library	7215542	US	Pennsylvania	05/02/2019	04/30/2020	Delaware County Libraries
+Lisa Kurucz	lkurucz@recordedbooks.com	New Milford Public Library	7220660	US	New Jersey	02/01/2019	01/31/2020	Bergen County Cooperative Library System
+Lisa Kurucz	lkurucz@recordedbooks.com	Chester Library	7220671	US	New Jersey	02/01/2019	01/31/2020	
+Lisa Kurucz	lkurucz@recordedbooks.com	Indian Valley Public Library	7220502	US	Pennsylvania	02/05/2019	11/30/2019	Montgomery County Library District, PA
+Lisa Kurucz	lkurucz@recordedbooks.com	Helen Kate Furness Free Library	7215542	US	Pennsylvania	04/09/2019	05/01/2019	Delaware County Libraries
+Mark Ransdell	mransdell@recordedbooks.com	Santa Ana Public Library	7220051	US	California	08/01/2019	07/31/2020	
+Mark Ransdell	mransdell@recordedbooks.com	South San Francisco Public Library	7219970	US	California	07/01/2019	06/30/2020	Peninsula Library System
+Mark Ransdell	mransdell@recordedbooks.com	Palo Alto City Library	7219975	US	California	07/01/2019	06/30/2020	
+Mark Ransdell	mransdell@recordedbooks.com	Smoky Valley Library District	7221003	US	Nevada	07/01/2019	06/30/2020	
+Mark Ransdell	mransdell@recordedbooks.com	Santa Fe Springs City	7219783	US	California	06/01/2019	05/31/2020	Value Collection
+Mark Ransdell	mransdell@recordedbooks.com	Palm Springs Public Library	7220902	US	California	05/01/2019	04/30/2020	Inland Library System
+Mark Ransdell	mransdell@recordedbooks.com	Kings County Library	7220523	US	California	01/28/2019	11/30/2019	
+Mark Ransdell	mransdell@recordedbooks.com	San Bernardino County Library	7220440	US	California	01/29/2019	10/31/2019	Inland Library System
+Mark Ransdell	mransdell@recordedbooks.com	Beverly Hills Public Library	7220366	US	California	01/28/2019	09/30/2019	
+Mark Ransdell	mransdell@recordedbooks.com	Calabasas Public Library	7220120	US	California	01/28/2019	08/31/2019	
+Mark Ransdell	mransdell@recordedbooks.com	Pacific Grove Public Library	7220099	US	California	01/29/2019	07/31/2019	
+Mark Ransdell	mransdell@recordedbooks.com	Santa Ana Public Library	7220051	US	California	01/29/2019	07/31/2019	
+Mark Ransdell	mransdell@recordedbooks.com	South San Francisco Public Library	7219970	US	California	01/29/2019	06/30/2019	Peninsula Library System
+Mark Ransdell	mransdell@recordedbooks.com	Palo Alto City Library	7219975	US	California	01/29/2019	06/30/2019	
+Mark Ransdell	mransdell@recordedbooks.com	Santa Fe Springs City	7219783	US	California	01/29/2019	05/31/2019	Value Collection
+Meghan Haddad-Null	mhaddadnull@recordedbooks.com	Fountaindale Public Library	7221001	US	Illinois	07/01/2019	06/30/2020	
+Meghan Haddad-Null	mhaddadnull@recordedbooks.com	Matteson Area Public Library District	7221004	US	Illinois	07/01/2019	06/30/2020	
+Meghan Haddad-Null	mhaddadnull@recordedbooks.com	Mississippi Valley Public Library District	7220022	US	Illinois	06/27/2019	06/30/2020	Illinois Heartland Library System
+Meghan Haddad-Null	mhaddadnull@recordedbooks.com	Horicon Public Library	7220994	US	Wisconsin	07/01/2019	06/30/2020	Monarch Library System
+Meghan Haddad-Null	mhaddadnull@recordedbooks.com	East Moline Public Library	7220947	US	Illinois	06/01/2019	05/31/2020	VALUE
+Meghan Haddad-Null	mhaddadnull@recordedbooks.com	Beaver Dam Community Library	7219697	US	Wisconsin	06/01/2019	05/31/2020	Monarch Library System
+Meghan Haddad-Null	mhaddadnull@recordedbooks.com	Elk Grove Village Public Library	7220840	US	Illinois	04/10/2019	04/09/2020	
+Meghan Haddad-Null	mhaddadnull@recordedbooks.com	Bedford Park Public Library	7220726	US	Illinois	03/01/2019	02/29/2020	
+Meghan Haddad-Null	mhaddadnull@recordedbooks.com	Bridgeview Public Library	7220548	US	Illinois	01/28/2019	01/31/2020	
+Meghan Haddad-Null	mhaddadnull@recordedbooks.com	Peotone Public Library District	7220529	US	Illinois	05/01/2019	11/30/2019	Rbdigital Magazine Value Collection - SHARED
+Meghan Haddad-Null	mhaddadnull@recordedbooks.com	Beaver Dam Community Library	7219697	US	Wisconsin	04/15/2019	05/31/2019	Monarch Library System
+Roger Seifert	rseifert@recordedbooks.com	Chemung County Library District	7219790	US	New York	07/01/2019	06/30/2020	SVOD--All services; 502 max annual, 11 max weekly; Automatically add services
+Roger Seifert	rseifert@recordedbooks.com	Ulster County Library Association	7220871	US	New York	05/01/2019	04/30/2020	Mid Hudson for eMagazine
+Roger Seifert	rseifert@recordedbooks.com	East Fishkill Community Library	7220766	US	New York	04/01/2019	03/31/2020	
+Roger Seifert	rseifert@recordedbooks.com	King Township Public Library	7220763	CA	Ontario	04/01/2019	03/31/2020	
+Roger Seifert	rseifert@recordedbooks.com	Gravenhurst Public Library	7220546	CA	Ontario	01/28/2019	12/31/2019	Value; SVOD - All services; Add automatically; 340 max annual tokens
+Roger Seifert	rseifert@recordedbooks.com	Chemung County Library District	7219790	US	New York	01/28/2019	06/30/2019	SVOD--All services; 502 max annual, 11 max weekly; Automatically add services
+Scott Williams	swilliams@recordedbooks.com	Plainedge Public Library	7221030	US	New York	07/01/2019	06/30/2020	Nassau
+Scott Williams	swilliams@recordedbooks.com	George H. & Laura E. Brown Library	7220008	US	North Carolina	07/01/2019	06/30/2020	SVOD - All + TGC
+Scott Williams	swilliams@recordedbooks.com	Gold Coast Public Library	7220000	US	New York	07/01/2019	06/30/2020	Nassau - SVOD(all + TGC)
+Scott Williams	swilliams@recordedbooks.com	Mauney Memorial Library	7221032	US	North Carolina	07/01/2019	06/30/2020	
+Scott Williams	swilliams@recordedbooks.com	East Meadow Public Library	7221033	US	New York	07/01/2019	06/30/2020	Nassau
+Scott Williams	swilliams@recordedbooks.com	Wayne County Public Library	7219974	US	North Carolina	07/01/2019	06/30/2020	SVOD - All Services and TGC
+Scott Williams	swilliams@recordedbooks.com	Mary R. Styles Public Library	7220868	US	Virginia	05/31/2019	05/31/2020	Library of Virginia/Lyrasis-7051842
+Scott Williams	swilliams@recordedbooks.com	Middle Country Public Library	7219694	US	New York	06/01/2019	05/31/2020	SVOD - All Services
+Scott Williams	swilliams@recordedbooks.com	Fauquier County Public Library	7220837	US	Virginia	06/01/2019	05/31/2020	Library of Virginia/Lyrasis-7051842
+Scott Williams	swilliams@recordedbooks.com	Iredell County Public Library	7220864	US	North Carolina	04/22/2019	04/30/2020	
+Scott Williams	swilliams@recordedbooks.com	York County Public Library	7220775	US	South Carolina	04/01/2019	03/31/2020	
+Scott Williams	swilliams@recordedbooks.com	Buchanan County Public Library	7220802	US	Virginia	04/01/2019	03/31/2020	LVA
+Scott Williams	swilliams@recordedbooks.com	Transylvania County Library	7220663	US	North Carolina	02/01/2019	01/31/2020	
+Scott Williams	swilliams@recordedbooks.com	Gold Coast Public Library	7220000	US	New York	02/05/2019	06/30/2019	Nassau - SVOD(all + TGC)
+Scott Williams	swilliams@recordedbooks.com	George H. & Laura E. Brown Library	7220008	US	North Carolina	02/05/2019	06/30/2019	SVOD - All + TGC
+Scott Williams	swilliams@recordedbooks.com	Wayne County Public Library	7219974	US	North Carolina	02/05/2019	06/30/2019	SVOD - All Services and TGC
+Scott Williams	swilliams@recordedbooks.com	Hewlett-Woodmere Public Library	7219992	US	New York	02/05/2019	06/30/2019	Nassau - All
+Scott Williams	swilliams@recordedbooks.com	Middle Country Public Library	7219694	US	New York	02/01/2019	05/30/2019	SVOD - All Services
+Steve Wilks	swilks@recordedbooks.com	Perry Public Library	7220978	US	Iowa	07/01/2019	06/30/2020	
+Steve Wilks	swilks@recordedbooks.com	Woodward Public Library	7219989	US	Oklahoma	07/01/2019	06/30/2020	Oklahoma Digital
+Steve Wilks	swilks@recordedbooks.com	St. Joseph Public Library	7219982	US	Missouri	06/12/2019	06/30/2020	
+Steve Wilks	swilks@recordedbooks.com	Will Rogers Library	7214712	US	Oklahoma	06/06/2019	06/30/2020	Acorn Only
+Steve Wilks	swilks@recordedbooks.com	Piedmont Public Library	7218372	US	Oklahoma	06/01/2019	05/31/2020	
+Steve Wilks	swilks@recordedbooks.com	Rolling Hills Consolidated Library	7212775	US	Missouri	02/01/2019	01/31/2020	Acorn, Qello
+Steve Wilks	swilks@recordedbooks.com	Woodward Public Library	7219989	US	Oklahoma	02/26/2019	06/30/2019	Oklahoma Digital
+Steve Wilks	swilks@recordedbooks.com	Livingston County Library	7220773	US	Missouri	04/01/2019	04/03/2019	
+Total	112

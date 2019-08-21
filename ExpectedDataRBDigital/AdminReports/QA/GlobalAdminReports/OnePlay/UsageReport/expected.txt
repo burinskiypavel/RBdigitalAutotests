@@ -1,0 +1,278 @@
+For Period: from 01/01/2017 to 01/22/2017
+Barcode	Email	Library	Game Title	PEGI Rating	Publisher	Pin Code Activation Date	Pin Code	Downloads
+	dmcdonald@recordedbooks.com		Spider Mania Solitaire (PC)	PEGI 12	Anuman Interactive	03/11/2016	98-6829f	67
+	raysanti1120@gmail.com		Airport Simulator (PC)	PEGI 7	Libredia	01/10/2017	170-90cf5	21
+	jyoung2@pct.edu		Prison Tycoon 4 (PC)	PEGI 16	Licensed 4U	12/06/2016	170-ba088	18
+	dmistretta@ebrpl.com		Hidden Mysteries Titanic (PC)	PEGI 7	Licensed 4U	11/17/2016	160-45f2c	9
+	daniel.burniston@vermillionpubliclibrary.org		Blackguards (includes Untold Legends) (PC)	PEGI 12	Daedelic	12/07/2016	96-19480	8
+	dmetd4fl@aol.com		Hoyle Official Card Games (PC)	PEGI 12	Encore	01/20/2017	168-8c52e	8
+	raysanti1120@gmail.com		IHF Handball Challenge 2012 (PC)	PEGI 3	Libredia	01/10/2017	170-90cf5	8
+	dmistretta@ebrpl.com		Mortimer Beckett and the Crimson Thief (PC)	PEGI 3	GameHouse	11/17/2016	160-45f2c	7
+	dmetd4fl@aol.com		Alicia Griffith – LakesideMurder (PC)	PEGI 3	Libredia	01/20/2017	168-8c52e	6
+	dmistretta@ebrpl.com		Hidden Memories of a Bright Summer (PC)	PEGI 3	Anuman Interactive	11/17/2016	160-45f2c	6
+	dprobst@pct.edu		Monster Jam Battlegrounds (PC)	PEGI 7	Encore	12/21/2016	170-f7b09	6
+	dmistretta@ebrpl.com		Sharpe Investigations Death on the Seine (PC)	PEGI 3	Libredia	11/17/2016	160-45f2c	6
+	kmusky@gmail.com		The Vanishing of Ethan Carter (PC)	PEGI 18	To Be Announced	06/09/2016	131-37876	5
+	arw21@pct.edu		Lego Marvel Super Heroes (PC)	PEGI 7	Warner Bros. Interactive	01/13/2017	170-dff1f	4
+	raysanti1120@gmail.com		Airport Simulator 2013 (PC)	PEGI 3	Plug In Digital	01/10/2017	170-90cf5	3
+	matyja.anna@gmail.com		Incredible Dracula The Last Call Collectors Edition (PC)	PEGI 3	Alawar	07/17/2016	128-90f12	3
+	djkeele@milwaukee.gov		LEGO Batman The Videogame (PC)	PEGI 7	Warner Bros. Interactive	01/09/2017	96-92f81	3
+	dprobst@pct.edu		Remington Super Slam Hunting Alaska (PC)	PEGI 12	Mastiff	12/21/2016	170-f7b09	3
+	curseofdarkmagician@yahoo.com		Agatha Christie The ABC Murders (PC)	PEGI 12	Anuman Interactive	01/06/2017	96-206b9	2
+	matyja.anna@gmail.com		Beholder (PC)	PEGI 18	Alawar	07/17/2016	128-90f12	2
+	jessbike@gmail.com		Delicious Emilys Childhood Memories (PC)	PEGI 3	GameHouse	07/03/2016	131-a2120	2
+	djkeele@milwaukee.gov		Delicious Emilys Christmas Carol (PC)	PEGI 3	GameHouse	01/09/2017	96-92f81	2
+	ddigianantonio@rodmanlibrary.com		Hidden Mysteries Civil War (PC)	PEGI 7	Licensed 4U	12/21/2016	96-4e66c	2
+	matyja.anna@gmail.com		Hidden Mysteries Salem Witch Trials (PC)	PEGI 7	Licensed 4U	07/17/2016	128-90f12	2
+	mweldon@dcl.lib.sc.us		Hoyle Casino Games 2012 (PC)	PEGI 12	Encore	11/18/2016	168-226f5	2
+	dprobst@pct.edu		Hunting Unlimited 2010 (PC)	PEGI 16	Licensed 4U	12/21/2016	170-f7b09	2
+	bgilbert@recordedbooks.com		LEGO Harry Potter Years 1-4 (PC)	PEGI 7	Warner Bros. Interactive	03/13/2016	96-eeb98	2
+	matyja.anna@gmail.com		Rooms The Unsolvable Puzzle (PC)	PEGI 3	Immanitas Entertainment	07/17/2016	128-90f12	2
+	arw21@pct.edu		WRC 4 (PC)	PEGI 7	Plug In Digital	01/13/2017	170-dff1f	2
+	kdibble0529@gmail.com		Bombshell (PC)	PEGI 12	3D Realms	12/07/2016	170-c8ca5	1
+	ddigianantonio@rodmanlibrary.com		Darksiders Warmastered Edition (PC)	PEGI 18	THQ Nordic	12/21/2016	96-4e66c	1
+	swilliams@recordedbooks.com		Flatout 2 (PC)	PEGI 12	Strategy First	03/13/2016	98-a3bb9	1
+	dprobst@pct.edu		Syberia 2 (PC)	PEGI 3	Anuman Interactive	12/21/2016	170-f7b09	1
+01008870	blanchardangel127@rocketmail.com		Hotel Giant (PC)	PEGI 12	Libredia	01/02/2017	156-0825e	15
+01008870	blanchardangel127@rocketmail.com		JoJos Fashion Show 3 (PC)	PEGI 7	iWin	01/02/2017	156-0825e	3
+02415000169274	pamk@preblelibrary.org		Hoyle Puzzle and Board Games 2012 (PC)	PEGI 12	Encore	08/03/2016	143-70018	23
+1FA3O00015898+	hardknockskennel@gmail.com		Garfield Kart (PC)	PEGI 7	Anuman Interactive	01/07/2017	163-fa03c	2
+20018000099760	d.raneri@att.net		Mystery Cookbook (PC)	PEGI 3	Alawar	01/21/2017	168-9b35d	7
+20018001885431	brinana367@gmail.com		Delicious Emilys True Love (PC)	PEGI 3	GameHouse	01/21/2017	168-28001	4
+20401506687348	sadwaard@gmail.com		Sharpe Investigations Death on the Seine (PC)	PEGI 3	Libredia	12/29/2016	172-23184	8
+20419005424039	hbruner47@gmail.com		Hidden Mysteries Buckingham Palace (PC)	PEGI 7	Licensed 4U	01/17/2017	157-45ccc	19
+20419005424039	hbruner47@gmail.com		Christmas Adventure Candy Storm (PC)	PEGI 3	Immanitas Entertainment	01/17/2017	157-45ccc	8
+20419006084832	joycebaxley@yahoo.com		The Princess Case A Royal Scoop (PC)	PEGI 12	Anuman Interactive	12/04/2016	157-0f38b	1
+20533000312377	tjambon1@gmail.com		Delicious Emilys Childhood Memories (PC)	PEGI 3	GameHouse	07/08/2016	135-908fb	9
+20533000312377	tjambon1@gmail.com		Shopmania (PC)	PEGI 7	iWin	07/08/2016	135-908fb	6
+20533000435293	knightspider2005@aol.com		3D Wild Animals Sniper Hunter	PEGI 3	Immanitas Entertainment	12/19/2016	135-02446	1
+20533000435293	knightspider2005@aol.com		Colony Tower	PEGI 3	Knight Mobile	12/19/2016	135-02446	1
+20533000435293	knightspider2005@aol.com		Just Poker	PEGI 7	Knight Mobile	12/19/2016	135-02446	1
+20533000435293	knightspider2005@aol.com		Tropical Stormfront	PEGI 12	Immanitas Entertainment	12/19/2016	135-02446	1
+21006001393356	ntjusnewmn@yahoo.com		Delicious Emilys Honeymoon Cruise	PEGI 3	GameHouse	12/28/2016	137-bd39b	1
+21006001393356	ntjusnewmn@yahoo.com		Fabulous Angelas Sweet Revenge	PEGI 12	GameHouse	12/28/2016	137-bd39b	1
+21221002032834	detailplans@gmail.com		Nora Roberts Vision in White (PC)	PEGI 7	iWin	07/25/2016	131-27531	9
+21221002032834	detailplans@gmail.com		Hidden Memories of a Bright Summer (PC)	PEGI 3	Anuman Interactive	07/25/2016	131-27531	3
+21221002032834	detailplans@gmail.com		Hoyle Official Card Games (PC)	PEGI 12	Encore	07/25/2016	131-27531	1
+21221002032834	detailplans@gmail.com		Jewel Quest (PC)	PEGI 7	iWin	07/25/2016	131-27531	1
+21221004284664	tkrukoff@ualberta.ca		Hoyle Official Card Games (PC)	PEGI 12	Encore	07/09/2016	131-e7328	29
+21221004284664	tkrukoff@ualberta.ca		Hidden Mysteries Buckingham Palace (PC)	PEGI 7	Licensed 4U	07/09/2016	131-e7328	6
+21221004284664	tkrukoff@ualberta.ca		Paradise Quest (PC)	PEGI 7	iWin	07/09/2016	131-e7328	3
+21221004284664	tkrukoff@ualberta.ca		Curse The Eye of Isis (PC)	PEGI 16	Anuman Interactive	07/09/2016	131-e7328	2
+21221011048151	g.kirk@mailservice.ms		Hoyle Puzzle and Board Games 2012 (PC)	PEGI 12	Encore	07/07/2016	131-dda41	14
+21221011048151	g.kirk@mailservice.ms		Beholder (PC)	PEGI 18	Alawar	07/07/2016	131-dda41	6
+21221011048151	g.kirk@mailservice.ms		Deponia Doomsday (PC)	PEGI 12	Daedelic	07/07/2016	131-dda41	6
+21221011048151	g.kirk@mailservice.ms		Curse The Eye of Isis (PC)	PEGI 16	Anuman Interactive	07/07/2016	131-dda41	4
+21221011048151	g.kirk@mailservice.ms		Kaptain Brawe A Brawe New World (PC)	PEGI 7	Libredia	07/07/2016	131-dda41	3
+21221011048151	g.kirk@mailservice.ms		Battlesheep (PC)	PEGI 12	Libredia	07/07/2016	131-dda41	2
+21221011048151	g.kirk@mailservice.ms		Fossil Echo (PC)	PEGI 12	Plug In Digital	07/07/2016	131-dda41	2
+21221011048151	g.kirk@mailservice.ms		Elements of Destruction (PC)	PEGI 16	Licensed 4U	07/07/2016	131-dda41	1
+21221011048151	g.kirk@mailservice.ms		XIII Century Death or Glory (PC)	PEGI 16	IMG Publishing	07/07/2016	131-dda41	1
+21221014471327	doggonehome@outlook.com		Hunting Unlimited 2010 (PC)	PEGI 16	Licensed 4U	08/17/2016	131-57a2c	1
+21221018849981	corrinnerobinson@hotmail.com		Borderzone (PC)	PEGI 16	IMG Publishing	07/10/2016	131-04d2f	2
+21221019228920	dbgood@telus.net		Mini Metro (PC)	PEGI 7	Plug In Digital	07/09/2016	131-3f48d	3
+21221019228920	dbgood@telus.net		Kill the bad guy (PC)	PEGI 3	Plug In Digital	07/09/2016	131-3f48d	2
+21221019228920	dbgood@telus.net		Doorkickers (PC)	PEGI 12	KillHouse Games	07/09/2016	131-3f48d	1
+21221019229258	matlock819@gmail.com		Hoyle Puzzle and Board Games 2012 (PC)	PEGI 12	Encore	07/30/2016	131-c08cd	70
+21221019229258	matlock819@gmail.com		Dark Asylum Mystery Adventure (PC)	PEGI 7	Alawar	07/30/2016	131-c08cd	8
+21221019229258	matlock819@gmail.com		Alex Hunter Lord of the Mind Platinum Edition (PC)	PEGI 7	Alawar	07/30/2016	131-c08cd	7
+21221019229258	matlock819@gmail.com		Dark Angels Masquerade of Shadows (PC)	PEGI Pending	Alawar	07/30/2016	131-c08cd	4
+21221020376304	teyema5@hotmail.com		Christmas Adventure Candy Storm (PC)	PEGI 3	Immanitas Entertainment	07/07/2016	131-764f7	2
+21221020376304	teyema5@hotmail.com		Farm Frenzy 2 (PC)	PEGI 3	Alawar	07/07/2016	131-764f7	2
+21221020376304	teyema5@hotmail.com		Jewel Quest (PC)	PEGI 7	iWin	07/07/2016	131-764f7	2
+21221020376304	teyema5@hotmail.com		Dream Day First Home (PC)	PEGI 12	iWin	07/07/2016	131-764f7	1
+21221020516560	andreiyvr@gmail.com		Tropical Stormfront	PEGI 12	Immanitas Entertainment	08/03/2016	131-404b2	1
+21221021916025	ivanbm72@gmail.com		Beyond Space (PC)	PEGI 7	To Be Announced	12/13/2016	131-86a12	2
+21221021916025	ivanbm72@gmail.com		F.E.A.R. 2 Reborn (PC)	PEGI 18	Warner Bros. Interactive	12/13/2016	131-86a12	2
+21221022006891	annrich@telus.net		The Dreamatorium of Dr. Magnus (PC)	PEGI 7	Immanitas Entertainment	11/14/2016	131-3cc80	10
+21221022006891	annrich@telus.net		Alicia Griffith – LakesideMurder (PC)	PEGI 3	Libredia	11/14/2016	131-3cc80	6
+21221022006891	annrich@telus.net		Dream Day Wedding Viva Las Vegas (PC)	PEGI 12	iWin	11/14/2016	131-3cc80	5
+21221022006891	annrich@telus.net		Inbetween Land (PC)	PEGI 3	Immanitas Entertainment	11/14/2016	131-3cc80	4
+21221022006891	annrich@telus.net		Laura Jones and the Secret Legacy of Nikola Tesla (PC)	PEGI 7	Licensed 4U	11/14/2016	131-3cc80	3
+21221022006891	annrich@telus.net		Dream Day First Home (PC)	PEGI 12	iWin	11/14/2016	131-3cc80	2
+21221022006891	annrich@telus.net		Holly A Christmas Story (PC)	PEGI 3	Alawar	11/14/2016	131-3cc80	1
+21221022097593	syedmehmoodahmad21@outlook.com		WRC 4 (PC)	PEGI 7	Plug In Digital	11/20/2016	131-8a373	9
+21221022097593	syedmehmoodahmad21@outlook.com		Lego Marvel Super Heroes (PC)	PEGI 7	Warner Bros. Interactive	11/20/2016	131-8a373	7
+21221022312240	meherandthecat@mail.com		Borderzone (PC)	PEGI 16	IMG Publishing	12/11/2016	131-84706	3
+21221023742031	c.ramiro2050@gmail.com		The Fall Trilogy Chapter 1 Separation (PC)	PEGI 12	Anuman Interactive	11/19/2016	131-2a195	8
+21221023742031	c.ramiro2050@gmail.com		Syberia 2 (PC)	PEGI 3	Anuman Interactive	11/19/2016	131-2a195	6
+21221023742031	c.ramiro2050@gmail.com		The Fall Trilogy Chapter 2 Reconstruction (PC)	PEGI 12	Anuman Interactive	11/19/2016	131-2a195	3
+21221023844936	adamalyward@live.com		Art of Murder Hunt for the Puppeteer (PC)	PEGI 16	City Interactive	07/25/2016	131-0e171	5
+21221023844936	adamalyward@live.com		Art of Murder Cards of Destiny (PC)	PEGI 16	City Interactive	07/25/2016	131-0e171	2
+21221023844936	adamalyward@live.com		Legend of Grimrock 2 (PC)	PEGI 12	To Be Announced	07/25/2016	131-0e171	2
+21221023844936	adamalyward@live.com		The Decay Mare (PC)	PEGI 12	Daedelic	07/25/2016	131-0e171	2
+21221023844936	adamalyward@live.com		The Book of Unwritten Tales (PC)	PEGI 3	THQ Nordic	07/25/2016	131-0e171	1
+21221024131291	brentmandel@yahoo.com		Dream Pinball 3D (PC)	PEGI 3	TopWare Interactive	07/09/2016	131-569fa	4
+21221024131291	brentmandel@yahoo.com		Raiden IV Overkill (PC)	PEGI 7	Plug In Digital	07/09/2016	131-569fa	2
+21221024264183	aspire4606@gmail.com		S.T.A.L.K.E.R Call of Pripyat (PC)	PEGI 16	bitComposer	06/30/2016	131-37e65	1
+21221024498674	jeff.m.d.h84@gmail.com		Curse The Eye of Isis (PC)	PEGI 16	Anuman Interactive	08/09/2016	131-95197	2
+21221024498674	jeff.m.d.h84@gmail.com		The Sanctuary	PEGI 12	Knight Mobile	08/09/2016	131-95197	1
+21221024501949	jeashworth@live.ca		IGT Slots 100 Pandas (PC)	PEGI 12	Encore	11/28/2016	131-6c995	2
+21221024565852	oj_la@hotmail.com		Set Sail – Caribbean (PC)	PEGI 3	iWin	07/08/2016	131-7e997	2
+21221024650555	mikepepin1281@hotmail.com		Trapped Dead (PC)	PEGI 18	Iceberg Interactive	08/22/2016	131-b9b67	10
+21221024650555	mikepepin1281@hotmail.com		F.E.A.R. 2 Reborn (PC)	PEGI 18	Warner Bros. Interactive	08/22/2016	131-b9b67	5
+21221024650555	mikepepin1281@hotmail.com		Hatred (PC)	PEGI 18	Destructive Creations	08/22/2016	131-b9b67	2
+21221024936715	brwnbearattck@gmail.com		SanctuaryRPG Black Edition (PC)	PEGI 12	Plug In Digital	11/04/2016	131-7c13a	12
+21221025144012	doucetpierreluc@gmail.com		S.T.A.L.K.E.R Call of Pripyat (PC)	PEGI 16	bitComposer	10/02/2016	131-69fa8	7
+21221025144012	doucetpierreluc@gmail.com		WRC 4 (PC)	PEGI 7	Plug In Digital	10/02/2016	131-69fa8	5
+21221025246064	arialhospitality@gmail.com		Wood Man Deluxe	PEGI 3	Knight Mobile	11/12/2016	131-4692e	1
+21260006704741	andreacfontenot@gmail.com		Farm Frenzy (PC)	PEGI 3	Alawar	01/11/2017	162-4bb03	3
+21268011169172	deirdreharley@yahoo.com		Virtual Families (PC)	PEGI 7	Licensed 4U	06/01/2016	116-b8daf	15
+21268011169172	deirdreharley@yahoo.com		TextTwist 2 (PC)	PEGI 7	GameHouse	06/01/2016	116-b8daf	5
+21268014684037	commando719@hotmail.com		Dream Pinball 3D (PC)	PEGI 3	TopWare Interactive	07/09/2016	116-dfe39	7
+21268014684037	commando719@hotmail.com		Naval Warfare (PC)	PEGI 12	Immanitas Entertainment	07/09/2016	116-dfe39	1
+21268022949976	sharon1mc@aol.com		Delicious Emilys Message in a Bottle Collectors Edition (PC)	PEGI 3	GameHouse	06/05/2016	116-f9271	120
+21268024571372	nickyp@rocketmail.com		Typoman Revised (PC)	PEGI 7	Brainseed Factory	01/09/2017	116-adb75	5
+21268025936558	bowiehandyman@ymail.com		Bombshell (PC)	PEGI 12	3D Realms	08/29/2016	116-b5641	4
+21268026585206	azsartaj@gmail.com		Legend of Grimrock 2 (PC)	PEGI 12	To Be Announced	07/13/2016	116-0e862	4
+21268026585206	azsartaj@gmail.com		Forced Showdown (PC)	PEGI 12	Beta Dwarf	07/13/2016	116-0e862	3
+21268026585206	azsartaj@gmail.com		Kholat (PC)	PEGI 16	IMGN.PRO	07/13/2016	116-0e862	2
+21268026585206	azsartaj@gmail.com		Evoland 2 (PC)	PEGI 7	Plug In Digital	07/13/2016	116-0e862	1
+21268026585206	azsartaj@gmail.com		Paranautical Activity (PC)	PEGI 7	Digerati	07/13/2016	116-0e862	1
+21268026585206	azsartaj@gmail.com		Pid (PC)	PEGI 7	Plug In Digital	07/13/2016	116-0e862	1
+21297010313853	dkl506@yahoo.com		Delicious Emilys Childhood Memories (PC)	PEGI 3	GameHouse	09/03/2016	120-4565b	56
+21297010313853	dkl506@yahoo.com		Alex Hunter Lord of the Mind Platinum Edition (PC)	PEGI 7	Alawar	09/03/2016	120-4565b	29
+21297010313853	dkl506@yahoo.com		Delicious Emilys Holiday Season (PC)	PEGI 3	GameHouse	09/03/2016	120-4565b	22
+21297010313853	dkl506@yahoo.com		The Secret Of Hildegards (PC)	PEGI 7	Libredia	09/03/2016	120-4565b	20
+21297010313853	dkl506@yahoo.com		Blue Tear (PC)	PEGI 12	Immanitas Entertainment	09/03/2016	120-4565b	12
+21297010313853	dkl506@yahoo.com		Delicious Emilys Taste of Fame (PC)	PEGI 3	GameHouse	09/03/2016	120-4565b	10
+21297010313853	dkl506@yahoo.com		Jewel Quest 4 Heritage (PC)	PEGI 3	iWin	09/03/2016	120-4565b	1
+21298002863905	randall.redburn@att.net		Commandos 3 Destination Berlin (PC)	PEGI 7	Digital Game Factory	01/10/2017	120-97eff	13
+21298002863905	randall.redburn@att.net		Brigade E5 New Jagged Union (PC)	PEGI 12	IMG Publishing	01/10/2017	120-97eff	4
+21298004326042	g_hoekema1071@comcast.net		Alicia Griffith – LakesideMurder (PC)	PEGI 3	Libredia	10/23/2016	120-a327d	4
+21298004326042	g_hoekema1071@comcast.net		Jack The Ripper Extended Edition (PC)	PEGI 12	Anuman Interactive	10/23/2016	120-a327d	3
+21298004326042	g_hoekema1071@comcast.net		The Lost Kingdom Prophecy (PC)	PEGI 3	Immanitas Entertainment	10/23/2016	120-a327d	3
+21298007423036	com_man@msn.com		Mini Metro (PC)	PEGI 7	Plug In Digital	05/12/2016	120-f1da6	5
+21389006354825	kzaves@gmail.com		Snark Busters Welcome to the Club (PC)	PEGI 7	Alawar	06/02/2016	121-ad9be	7
+21389006354825	kzaves@gmail.com		Snark Busters 2 All Revved Up (PC)	PEGI 7	Alawar	06/02/2016	121-ad9be	6
+21389006354825	kzaves@gmail.com		The Gift (PC)	PEGI Pending	Alawar	06/02/2016	121-ad9be	5
+21389006354825	kzaves@gmail.com		One Upon Light (PC)	PEGI 12	MergeGames	06/02/2016	121-ad9be	4
+21389006354825	kzaves@gmail.com		Snark Busters 3 High Society (PC)	PEGI 7	Alawar	06/02/2016	121-ad9be	4
+21389006354825	kzaves@gmail.com		Golden Trails The New Western Rush (PC)	PEGI 7	Awem	06/02/2016	121-ad9be	3
+21389006354825	kzaves@gmail.com		GRAVEN The Purple Moon Prophecy (PC)	PEGI 12	Libredia	06/02/2016	121-ad9be	3
+21389006354825	kzaves@gmail.com		Hektor (PC)	PEGI 16	Meridian4	06/02/2016	121-ad9be	3
+21389006354825	kzaves@gmail.com		Jewel Quest Mysteries Curse of the Emerald Tear (PC)	PEGI 3	iWin	06/02/2016	121-ad9be	3
+21389006354825	kzaves@gmail.com		Jewel Quest Seven Seas Collectors Edition (PC)	PEGI 3	iWin	06/02/2016	121-ad9be	3
+21389006354825	kzaves@gmail.com		Beholder (PC)	PEGI 18	Alawar	06/02/2016	121-ad9be	2
+21389006354825	kzaves@gmail.com		Burly Men At Sea (PC)	PEGI 12	Plug In Digital	06/02/2016	121-ad9be	2
+21389006354825	kzaves@gmail.com		James Patterson Womens Murder Club Death in Scarlet (PC)	PEGI 7	iWin	06/02/2016	121-ad9be	2
+21389006354825	kzaves@gmail.com		Sudoku Ball Detective (PC)	PEGI 3	Libredia	06/02/2016	121-ad9be	2
+21389006354825	kzaves@gmail.com		The Pahelika Collection Pahelika Secret Legends (PC)	PEGI 3	Lace Mamba Global	06/02/2016	121-ad9be	2
+21389007645486	dloll@new.rr.com		Spider Mania Solitaire (PC)	PEGI 12	Anuman Interactive	09/15/2016	121-91280	2
+21393004214783	angelinamtz@msn.com		Beholder (PC)	PEGI 18	Alawar	01/20/2017	181-4f90b	4
+21393007275104	cody.robinson27@gmail.com		Dojo Madness	PEGI 3	N3V Games	01/10/2017	181-67f67	2
+21393007297587	admobadmo@hotmail.com		Lifeless Planet (PC)	PEGI 12	KISS Label	01/07/2017	181-76857	7
+21393007297587	admobadmo@hotmail.com		IL-2 Sturmovik 1946 (PC)	PEGI 12	1C Publishing	01/07/2017	181-76857	3
+21393008071486	gtrplyrib93@gmail.com		Aragami (PC)	PEGI 16	MergeGames	01/10/2017	181-28e18	4
+21393008071486	gtrplyrib93@gmail.com		Fossil Echo (PC)	PEGI 12	Plug In Digital	01/10/2017	181-28e18	3
+21393008071486	gtrplyrib93@gmail.com		Safety Driving – The Motorbike Simulation (PC)	PEGI 18	UIEG	01/10/2017	181-28e18	2
+21393008071486	gtrplyrib93@gmail.com		Typoman Revised (PC)	PEGI 7	Brainseed Factory	01/10/2017	181-28e18	2
+21393008618187	mandmnor@yahoo.com		Passage 4	PEGI 3	Libredia	12/28/2016	181-07dd1	24
+21659009236595	san-d@cox.net		Delicious Emilys Message in a Bottle Collectors Edition (PC)	PEGI 3	GameHouse	01/02/2017	160-e111e	28
+21659009236595	san-d@cox.net		Delicious Emilys Christmas Carol (PC)	PEGI 3	GameHouse	01/02/2017	160-e111e	5
+21659009236595	san-d@cox.net		Mortimer Beckett and the Time Paradox (PC)	PEGI 3	GameHouse	01/02/2017	160-e111e	5
+21659009236595	san-d@cox.net		Hearts Medicine Time to Heal (PC)	PEGI 3	GameHouse	01/02/2017	160-e111e	3
+21659009236595	san-d@cox.net		Nora Roberts Vision in White (PC)	PEGI 7	iWin	01/02/2017	160-e111e	3
+21659009704857	patbyrne1@hotmail.com		GRAVEN The Purple Moon Prophecy (PC)	PEGI 12	Libredia	01/05/2017	160-b9457	13
+21659009704857	patbyrne1@hotmail.com		The Book of Desires (PC)	PEGI 12	1C Publishing	01/05/2017	160-b9457	4
+21659009704857	patbyrne1@hotmail.com		Curse The Eye of Isis (PC)	PEGI 16	Anuman Interactive	01/05/2017	160-b9457	2
+21659010048609	cooks4032@gmail.com		Jewel Quest III (PC)	PEGI 7	iWin	01/21/2017	160-a06b0	4
+21659013217243	ldicapo@ebrpl.com		Letters from Nowhere 2 (PC)	PEGI 7	Awem	11/21/2016	160-e9daf	3
+21659013217243	ldicapo@ebrpl.com		Ultimate Word Search 2 (PC)	PEGI 3	Licensed 4U	11/21/2016	160-e9daf	3
+21659013217243	ldicapo@ebrpl.com		Hidden Files Echoes Of JFK (PC)	PEGI 3	Anuman Interactive	11/21/2016	160-e9daf	2
+21659013217243	ldicapo@ebrpl.com		Strike Solitaire (PC)	PEGI Pending	Immanitas Entertainment	11/21/2016	160-e9daf	2
+21659014749863	adeniyiidunnu@gmail.com		Lego Marvel Super Heroes (PC)	PEGI 7	Warner Bros. Interactive	12/22/2016	160-5ee18	39
+21659014836462	Esposmp@gmail.com		Hidden Mysteries Buckingham Palace (PC)	PEGI 7	Licensed 4U	01/18/2017	160-c5660	9
+21659014836462	Esposmp@gmail.com		American Pickers The Road Less Traveled (PC)	PEGI 7	GameMill	01/18/2017	160-c5660	5
+22026000618560	regina.townsend05@gmail.com		Delicious Emilys Home Sweet Home (PC)	PEGI 3	GameHouse	12/26/2016	122-1101f	10
+22026000618560	regina.townsend05@gmail.com		Hearts Medicine Time to Heal (PC)	PEGI 3	GameHouse	12/26/2016	122-1101f	7
+22026000618560	regina.townsend05@gmail.com		Delicious Emilys Message in a Bottle Collectors Edition (PC)	PEGI 3	GameHouse	12/26/2016	122-1101f	6
+22026000618560	regina.townsend05@gmail.com		Delicious Emilys Hopes and Fears (PC)	PEGI 3	GameHouse	12/26/2016	122-1101f	5
+22026000618560	regina.townsend05@gmail.com		Fabulous Angelas Fashion Fever (PC)	PEGI 3	GameHouse	12/26/2016	122-1101f	4
+22026000618560	regina.townsend05@gmail.com		Fabulous Angelas Sweet Revenge (PC)	PEGI 3	GameHouse	12/26/2016	122-1101f	4
+22026000618560	regina.townsend05@gmail.com		Delicious Emilys New Beginning (PC)	PEGI 3	GameHouse	12/26/2016	122-1101f	2
+22026000618560	regina.townsend05@gmail.com		Delicious Emilys Taste of Fame (PC)	PEGI 3	GameHouse	12/26/2016	122-1101f	2
+22345001945438	we3dudleys@gmail.com		Adams Venture 3 Revelations (PC)	PEGI 7	Iceberg Interactive	08/06/2016	144-b0210	7
+22345001945438	we3dudleys@gmail.com		Christmas Adventure Candy Storm (PC)	PEGI 3	Immanitas Entertainment	08/06/2016	144-b0210	4
+22345001945438	we3dudleys@gmail.com		Sharpe Investigations Death on the Seine (PC)	PEGI 3	Libredia	08/06/2016	144-b0210	4
+22345001945438	we3dudleys@gmail.com		Blue Tear (PC)	PEGI 12	Immanitas Entertainment	08/06/2016	144-b0210	2
+22345007243978	Sharon.d.reimer@gmail.com		LEGO Harry Potter Years 1-4 (PC)	PEGI 7	Warner Bros. Interactive	11/22/2016	144-c8ca9	12
+22345007243978	Sharon.d.reimer@gmail.com		Delicious Emilys Message in a Bottle Collectors Edition (PC)	PEGI 3	GameHouse	11/22/2016	144-c8ca9	4
+22345007243978	Sharon.d.reimer@gmail.com		Goosebumps The Game (PC)	PEGI 7	Encore	11/22/2016	144-c8ca9	1
+22345007243978	Sharon.d.reimer@gmail.com		Hospital Manager (PC)	PEGI 3	Anuman Interactive	11/22/2016	144-c8ca9	1
+22345007601860	noahadampalmer@gmail.com		Lego Marvel Super Heroes (PC)	PEGI 7	Warner Bros. Interactive	08/21/2016	144-0b004	62
+22345011942144	mrtimnus82@gmail.com		Beholder (PC)	PEGI 18	Alawar	08/13/2016	144-34edc	13
+22345011942144	mrtimnus82@gmail.com		Starpoint Gemini 2 (PC)	PEGI 12	Iceberg Interactive	08/13/2016	144-34edc	4
+22345011942144	mrtimnus82@gmail.com		Ascension To The Throne (PC)	PEGI 18	IMG Publishing	08/13/2016	144-34edc	3
+22345011942144	mrtimnus82@gmail.com		Zombie Crises	PEGI 7	Knight Mobile	08/13/2016	144-34edc	1
+22345012421064	kaf1972@msn.com		Chicken Invaders 4 (PC)	PEGI 3	Point Publishing	12/31/2016	144-c22ee	2
+22345015253217	jeffreystevens101@gmail.com		World War I (PC)	PEGI 12	1C Publishing	01/06/2017	144-d33d0	2
+22512028628343	micka512@cox.net		Stray Souls Stolen Memories Collectors Edition (PC)	PEGI 3	Alawar	12/28/2016	107-c6f5d	5
+22512033910710	kocianj00@gmail.com		Aragami (PC)	PEGI 16	MergeGames	07/11/2016	107-e5f00	6
+22512033910710	kocianj00@gmail.com		Typoman Revised (PC)	PEGI 7	Brainseed Factory	07/11/2016	107-e5f00	3
+22512033910801	hwojtowicz@gmail.com		Farm 2 (PC)	PEGI 12	Libredia	12/06/2016	107-87e11	2
+22512033910801	hwojtowicz@gmail.com		Frogs vs Storks (PC)	PEGI 3	Libredia	12/06/2016	107-87e11	1
+22740635836393	vss2930@cox.net		Hoyle Official Card Games (PC)	PEGI 12	Encore	01/20/2017	118-f2917	59
+22740635836393	vss2930@cox.net		Spider Mania Solitaire (PC)	PEGI 12	Anuman Interactive	01/20/2017	118-f2917	38
+22740635836393	vss2930@cox.net		TextTwist 2 (PC)	PEGI 7	GameHouse	01/20/2017	118-f2917	37
+22740636007473	mmcoon14@gmail.com		Stray Souls Dollhouse Story	PEGI 7	Alawar	01/07/2017	118-1da99	2
+22740636007473	mmcoon14@gmail.com		Lost in the Jungle	PEGI 3	Knight Mobile	01/07/2017	118-1da99	1
+22740636007473	mmcoon14@gmail.com		The Sanctuary	PEGI 12	Knight Mobile	01/07/2017	118-1da99	1
+22740700087757	bn8736@gmail.com		Hidden Memories of a Bright Summer (PC)	PEGI 3	Anuman Interactive	12/31/2016	118-a36dc	5
+22740700087757	bn8736@gmail.com		Hidden Mysteries Buckingham Palace (PC)	PEGI 7	Licensed 4U	12/31/2016	118-a36dc	2
+22740700087757	bn8736@gmail.com		Hidden Mysteries Civil War (PC)	PEGI 7	Licensed 4U	12/31/2016	118-a36dc	2
+22784000236441	efoley1158@aol.com		Criminal Minds (PC)	PEGI 16	Plug In Digital	01/03/2017	139-6694e	2
+22784000282338	bigdbowler@sbcglobal.net		Hoyle Puzzle and Board Games 2012 (PC)	PEGI 12	Encore	07/02/2016	139-da599	14
+22899000158914	topathfinder@hotmail.com		All in One Mahjong	PEGI 7	Knight Mobile	01/18/2017	176-ba2b6	1
+22899000158914	topathfinder@hotmail.com		Pin And Spin	PEGI 3	Inlogic	01/18/2017	176-ba2b6	1
+22899000294727	gabry_ll@yahoo.com		Bubble Combos	PEGI 3	Knight Mobile	01/05/2017	176-ee16a	1
+22899000294727	gabry_ll@yahoo.com		Mahjong Mania	PEGI 7	Immanitas Entertainment	01/05/2017	176-ee16a	1
+22899000294727	gabry_ll@yahoo.com		Squibble The word game	PEGI 3	Broken Crown Games	01/05/2017	176-ee16a	1
+22998000503523	jpgoyea@yahoo.com		Raiden III (PC)	PEGI 7	Plug In Digital	09/09/2016	147-5363c	4
+22998000503523	jpgoyea@yahoo.com		Valhalla Hills Two Horned Helmet Edition (PC)	PEGI 12	Daedelic	09/09/2016	147-5363c	4
+22998000503523	jpgoyea@yahoo.com		Beyond Space (PC)	PEGI 7	To Be Announced	09/09/2016	147-5363c	3
+22998000503523	jpgoyea@yahoo.com		Superstars V8 Racing (PC)	PEGI 3	Strategy First	09/09/2016	147-5363c	2
+23067000703811	jen@millburnlibrary.org		Dream Day Wedding Viva Las Vegas (PC)	PEGI 12	iWin	01/05/2017	179-374a2	9
+23067000703811	jen@millburnlibrary.org		LEGO Harry Potter Years 5-7 (PC)	PEGI 7	Warner Bros. Interactive	01/05/2017	179-374a2	2
+23067000703811	jen@millburnlibrary.org		Buff Knight	PEGI 3	Mega 8 Games	01/05/2017	179-374a2	1
+23447000545604	dsonnier@state.lib.la.us		Farm Frenzy Pizza Party (PC)	PEGI 3	Alawar	01/04/2017	178-e6d95	3
+23447000545604	dsonnier@state.lib.la.us		Big City Adventure San Francisco (PC)	PEGI 7	Licensed 4U	01/04/2017	178-e6d95	2
+23447000545604	dsonnier@state.lib.la.us		Garfield Kart (PC)	PEGI 7	Anuman Interactive	01/04/2017	178-e6d95	1
+23499000251576	mattbaker74@gmail.com		Hatred (PC)	PEGI 18	Destructive Creations	12/31/2016	169-2f988	3
+23499000251576	mattbaker74@gmail.com		Doorkickers (PC)	PEGI 12	KillHouse Games	12/31/2016	169-2f988	2
+23499000251576	mattbaker74@gmail.com		Lego Batman 2 DC Superheroes (PC)	PEGI 7	Warner Bros. Interactive	12/31/2016	169-2f988	1
+23877000248264	bevie07@gmail.com		Monument Builders Empire State Building (PC)	PEGI 12	Anuman Interactive	07/29/2016	141-a41d8	5
+23877000248264	bevie07@gmail.com		Weather Lord Royal Holidays (PC)	PEGI 7	Alawar	07/29/2016	141-a41d8	3
+23877000248264	bevie07@gmail.com		Bloop (PC)	PEGI 3	KISS Label	07/29/2016	141-a41d8	2
+23877000248264	bevie07@gmail.com		Hidden Mysteries Vampire Secrets (PC)	PEGI 7	Licensed 4U	07/29/2016	141-a41d8	2
+23877000248264	bevie07@gmail.com		Skyhill (PC)	PEGI 12	Daedelic	07/29/2016	141-a41d8	1
+24350000018466	myronees@aol.com		3D Pool (PC)	PEGI 12	Libredia	01/04/2017	177-1f154	2
+25137000016726	staff@kimberleylibrary.net		Satellite Rush (PC)	PEGI 12	Plug In Digital	01/11/2017	186-bb474	2
+25156000002718	hpb2008@shaw.ca		Jewel Quest (PC)	PEGI 7	iWin	01/11/2017	183-a8389	20
+25156000002718	hpb2008@shaw.ca		Spider Mania Solitaire (PC)	PEGI 12	Anuman Interactive	01/11/2017	183-a8389	7
+25156000002718	hpb2008@shaw.ca		Egypt Kids (PC)	PEGI 3	Anuman Interactive	01/11/2017	183-a8389	4
+25156000002718	hpb2008@shaw.ca		Garfield Kart (PC)	PEGI 7	Anuman Interactive	01/11/2017	183-a8389	1
+25156000005364	pobetla@gmail.com		The 3 Little Pigs (PC)	PEGI 3	Anuman Interactive	01/21/2017	183-375cf	2
+27011000108957	sharihunt45@gmail.com		Aragami (PC)	PEGI 16	MergeGames	01/11/2017	161-9051e	5
+27475000018526	zeal_of_enoch@msn.com		Delicious Emilys Childhood Memories (PC)	PEGI 3	GameHouse	07/06/2016	140-5aebe	3
+29882001954740	tamarabiggio@gmail.com		Delicious Emilys Honeymoon Cruise	PEGI 3	GameHouse	10/24/2016	155-7f81c	1
+29882001954740	tamarabiggio@gmail.com		Delicious Emilys New Beginning	PEGI 3	GameHouse	10/24/2016	155-7f81c	1
+30995	chickey@cityofyukonok.gov		Jewel Quest (PC)	PEGI 7	iWin	09/30/2016	151-a60cd	8
+30995	chickey@cityofyukonok.gov		Egypt Kids (PC)	PEGI 3	Anuman Interactive	09/30/2016	151-a60cd	2
+32100000778068	orionsmommyanddaddy@gmail.com		Prison Tycoon 5 Alcatraz (PC)	PEGI 12	Licensed 4U	01/14/2017	138-70336	9
+32100000778068	orionsmommyanddaddy@gmail.com		Virtual Families (PC)	PEGI 7	Licensed 4U	01/14/2017	138-70336	9
+32100000778068	orionsmommyanddaddy@gmail.com		Prison Tycoon 4 (PC)	PEGI 16	Licensed 4U	01/14/2017	138-70336	7
+32100000778068	orionsmommyanddaddy@gmail.com		Fate Of The Pharaoh (PC)	PEGI 12	Libredia	01/14/2017	138-70336	4
+32100000778068	orionsmommyanddaddy@gmail.com		The Guild 2 Renaissance (PC)	PEGI 12	THQ Nordic	01/14/2017	138-70336	3
+32100000778068	orionsmommyanddaddy@gmail.com		Egypt 3 The Egyptian Prophecy (PC)	PEGI 3	Anuman Interactive	01/14/2017	138-70336	1
+41129002188983	a.karaveo@yahoo.com		Slide Soccer	PEGI 3	Knight Mobile	10/05/2016	133-03e0b	1
+61520000327844	ryanantonykalis@gmail.com		Annas Quest (PC)	PEGI 7	Daedelic	12/29/2016	154-fc41e	2
+61520000327844	ryanantonykalis@gmail.com		Dead Synchronicity Tomorrow Comes Today (PC)	PEGI 12	Daedelic	12/29/2016	154-fc41e	2
+61520000327844	ryanantonykalis@gmail.com		Deponia Doomsday (PC)	PEGI 12	Daedelic	12/29/2016	154-fc41e	2
+hyena	mhaley@recordedbooks.com		WRC 4 (PC)	PEGI 7	Plug In Digital	07/26/2016	98-dd572	2
+P 44521	sdeeds15@gmail.com		LEGO Harry Potter Years 5-7 (PC)	PEGI 7	Warner Bros. Interactive	10/25/2016	151-4a641	2
+p0649	jhurst@cityoflavista.org		Jewel Warriors	PEGI 3	Immanitas Entertainment	12/01/2016	173-36988	1
+P11426	theokie4@wans.net		Sharpe Investigations Death on the Seine (PC)	PEGI 3	Libredia	01/17/2017	151-8a072	22
+P11426	theokie4@wans.net		Grimind (PC)	PEGI 12	Licensed 4U	01/17/2017	151-8a072	12
+p36005	logle@cityofyukonok.gov		Hidden Mysteries Salem Witch Trials (PC)	PEGI 7	Licensed 4U	01/17/2017	151-dffd4	4
+Total	1792

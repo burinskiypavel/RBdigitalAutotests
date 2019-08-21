@@ -1,0 +1,4 @@
+Service	License Type	Barcode	Email	Library	Licenses #	Description	Monthly Patron Cap	Overall Cap	Group Cap	Patron Cap	Service Cap	Turnaway Reason	Total Turnaways
+acorntv	7-day		svod_test1@email.com		44	another test	0	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day		svod_test2@email.com		44	another test	0	99999	1000	1000	10000	Service or Patron Cap	1
+Total	2

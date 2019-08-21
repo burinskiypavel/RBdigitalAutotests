@@ -1,0 +1,12 @@
+For Period: from 07/01/2019 to 07/01/2019
+Region: UK
+Official Library Name	Nickname	AccountId	Billing Number	State	Country	Service Name	Model	Subscription Start Date	Subscription End Date	Grace Period Start Date	Grace Period End Date	Sales Rep	System Name	Notes
+Bexley Library Service	bexley	BEX088		England	GB	magazines	unlimited	07/01/2019	06/30/2020					
+Bromley Libraries	bromley	BRO147		England	GB	magazines	unlimited	07/01/2019	06/30/2020					
+Derby City Library	derby	DER021		England	GB	magazines	unlimited	07/01/2019	03/31/2020					
+Dumfries and Galloway Council	dumfriesandgalloway	DUM159		Scotland	GB	magazines	unlimited	07/01/2019	06/30/2020					
+Gloucestershire County Library	gloucestershire	GLO171		England	GB	magazines	unlimited	07/01/2019	06/30/2020					
+South Tyneside Libraries	southtyneside	SOU439		England	GB	magazines	unlimited	07/01/2019	06/30/2020					
+Telford & Wrekin	telford	TEL375		England	GB	magazines	unlimited	07/01/2019	06/30/2020					
+Vivacity Culture & Leisure - Peterborough	peterborough			England	GB	magazines	unlimited	07/01/2019	06/30/2020					
+Total	8	

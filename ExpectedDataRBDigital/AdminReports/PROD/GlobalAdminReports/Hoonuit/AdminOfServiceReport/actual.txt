@@ -1,0 +1,20 @@
+Screen Name	Email	Library	AccountId	Country	State	System Name
+Claire Wood	Claire.Wood@latrobe.vic.gov.au	Latrobe City Libraries	W_LAT001	AU	Victoria	
+Julie McCulloch	julie.mcculloch@latrobe.vic.gov.au	Latrobe City Libraries	W_LAT001	AU	Victoria	
+Deb Skinner	Debbie.Skinner@latrobe.vic.gov.au	Latrobe City Libraries	W_LAT001	AU	Victoria	
+Rudie Noble	nobler@cantonpl.org	Canton Public Library	7220955	US	Michigan	
+Alyssa Yavorenko	yavorenkoa@cantonpl.org	Canton Public Library	7220955	US	Michigan	
+Louise Alcorn	louise.alcorn@wdm.iowa.gov	West Des Moines Public Library	7220036	US	Iowa	
+Sarah Hayes	sarah.hayes@wfhowes.co.uk	W. F. Howes Trial	TESTCS	GB	England	
+Joanna Palmer	joanna.palmer@gloucestershire.gov.uk	W. F. Howes Trial	TESTCS	GB	England	
+Kate Aston	kate.aston-williams@gloucestershire.gov.uk	W. F. Howes Trial	TESTCS	GB	England	
+Sarah Evans	sarah.evans@gloucestershire.gov.uk	W. F. Howes Trial	TESTCS	GB	England	
+peter kobilarov	petar.kobilarov@missing-link.de	W. F. Howes Trial	TESTCS	GB	England	
+pedro moura	pedro.moura@wfhowes.co.uk	W. F. Howes Trial	TESTCS	GB	England	
+qatest1	qatest@gmail.com	W. F. Howes Trial	TESTCS	GB	England	
+becky stabik	becky.stabik@wfhowes.co.uk	W. F. Howes Trial	TESTCS	GB	England	
+Fran Moroney	franmoroney@gladstonerc.qld.gov.au	Gladstone Regional Library		AU	Queensland	
+Gay Sirriss	gays@gladstone.qld.gov.au	Gladstone Regional Library		AU	Queensland	
+Mandy Hayward	mandy.hayward@coventry.gov.uk	Coventry Libraries and Information Service		GB	England	
+David Lloyd	dave.lloyd@coventry.gov.uk	Coventry Libraries and Information Service		GB	England	
+libraries247	libraries247@coventry.gov.uk	Coventry Libraries and Information Service		GB	England	

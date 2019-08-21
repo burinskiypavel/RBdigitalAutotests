@@ -1,0 +1,618 @@
+Screen Name	Email	Library	AccountId	Country	State	System Name
+Dawn Cobb	dcobb@recordedbooks.com	The Dachshund Test Library		US	Maryland	Long Dog Libraries
+Dawn C	minimee64@comcast.net	The Dachshund Test Library		US	Maryland	Long Dog Libraries
+Brad Gray	bgray@recordedbooks.com	The Dachshund Test Library		US	Maryland	Long Dog Libraries
+Sookie Cobb	dc31gifts@comcast.net	The Dachshund Test Library		US	Maryland	Long Dog Libraries
+Brooks Bushnell	bbushnell@recordedbooks.com	The Dachshund Test Library		US	Maryland	Long Dog Libraries
+Dawn Shonkwiler	dcobb@recordedbooks.com	The Dachshund Test Library		US	Maryland	Long Dog Libraries
+Dawn Shonkwiler	dcobb@recordedbooks.com	Dawn's Library		US	Maryland	
+Dawn Cobb	dcobb@recordedbooks.com	Dawn's Library		US	Maryland	
+William Ferro	wferro@hwpl.org	Hewlett-Woodmere Public Library	7219992	US	New York	Nassau - All
+James Hartmann	jhartmann@hwpl.org	Hewlett-Woodmere Public Library	7219992	US	New York	Nassau - All
+Barbara Carlson	bcarlson@hwpl.org	Hewlett-Woodmere Public Library	7219992	US	New York	Nassau - All
+Kimberly Davenport	kdavenport@washingtonnc.gov	George H. & Laura E. Brown Library	7220008	US	North Carolina	SVOD - All + TGC
+Lynn Nguyen	lnguyen@santa-ana.org	Santa Ana Public Library	7220051	US	California	
+Terri Ibarra	tibarra@santa-ana.org	Santa Ana Public Library	7220051	US	California	
+Name1	test@gmail.com	RBdigital Internal Library		US	Maryland	
+QA	qatest@gmail.com	RBdigital Internal Library		US	Maryland	
+qatest	qatest@recordedbooks.com	RBdigital Internal Library		US	Maryland	
+Kevin Deamandel	kevin@deamandel.co	RBdigital Internal Library		US	Maryland	
+becky stabik	becky.stabik@wfhowes.co.uk	W F Howes Customer Services	TESTCS	GB	England	
+Pedro Moura	pedro.moura@wfhowes.co.uk	W F Howes Customer Services	TESTCS	GB	England	
+Maria Hitchings	hitchingsm@portsmouthva.gov	Portsmouth Public Library	7220063	US	Virginia	Library of Virginia/Lyrasis-7051842 SVOD - Acorn and TGC
+Gregg Grunow	grunowg@portsmouthva.gov	Portsmouth Public Library	7220063	US	Virginia	Library of Virginia/Lyrasis-7051842 SVOD - Acorn and TGC
+Sue Phillips	phillips@biblio.org	Hall Memorial Library	7220068	US	Connecticut	Value; SVOD—Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello
+Sarah Hayes	sarah.hayes@wfhowes.co.uk	W. F. Howes Trial		GB	England	
+Joanna Palmer	joanna.palmer@gloucestershire.gov.uk	W. F. Howes Trial		GB	England	
+Kate Aston	kate.aston-williams@gloucestershire.gov.uk	W. F. Howes Trial		GB	England	
+Sarah Evans	sarah.evans@gloucestershire.gov.uk	W. F. Howes Trial		GB	England	
+peter kobilarov	petar.kobilarov@missing-link.de	W. F. Howes Trial		GB	England	
+pedro moura	pedro.moura@wfhowes.co.uk	W. F. Howes Trial		GB	England	
+qatest1	qatest@gmail.com	W. F. Howes Trial		GB	England	
+Tom Lawrence	tlawrence@poklib.org	Poughkeepsie Public Library District	7220087	US	New York	Mid-Hudson eMag content; SVOD--Acorn, QC, IF, P, TGCNC, MTP; 5 checkouts per patron per week
+Casey Conlin	cconlin@poklib.org	Poughkeepsie Public Library District	7220087	US	New York	Mid-Hudson eMag content; SVOD--Acorn, QC, IF, P, TGCNC, MTP; 5 checkouts per patron per week
+Yvonne Laube	ylaube@poklib.org	Poughkeepsie Public Library District	7220087	US	New York	Mid-Hudson eMag content; SVOD--Acorn, QC, IF, P, TGCNC, MTP; 5 checkouts per patron per week
+Mike Banick	banick@millburnlibrary.org	Millburn Free Public Library	7214594	US	New Jersey	Bergen County Cooperative Library System
+Susan Pober	susan@millburnlibrary.org	Millburn Free Public Library	7214594	US	New Jersey	Bergen County Cooperative Library System
+Mary Glendening	midirector@delcolibraries.org	Middletown Free Library	7213604	US	Pennsylvania	SVOD - A, IF/Q -unlim, TGC
+Laura Kuchmay	mireference@delcolibraries.org	Middletown Free Library	7213604	US	Pennsylvania	SVOD - A, IF/Q -unlim, TGC
+Barbara Scull	bscull@middletownpubliclib.org	Middletown Free Library	7213604	US	Pennsylvania	SVOD - A, IF/Q -unlim, TGC
+Martha Walters	martha.walters@cityofpaloalto.org	Palo Alto City Library	7219975	US	California	
+Bob Skolmen	bob.skolmen@cityofpaloalto.org	Palo Alto City Library	7219975	US	California	
+Anh Nguyen	anh.nguyen@cityofpaloalto.org	Palo Alto City Library	7219975	US	California	
+Janet Lin	janet.lin@cityofpaloalto.org	Palo Alto City Library	7219975	US	California	
+Diane Lai	diane.lai@cityofpaloalto.org	Palo Alto City Library	7219975	US	California	
+Bob Rekuc	robertr@ranchomiragelibrary.org	Rancho Mirage Public Library	7219983	US	California	Inland Library System
+Denee Phillips	denee@ranchomiragelibrary.org	Rancho Mirage Public Library	7219983	US	California	Inland Library System
+Dennis Sullivan	denniss@ranchomiragelibrary.org	Rancho Mirage Public Library	7219983	US	California	Inland Library System
+Louise Alcorn	louise.alcorn@wdm.iowa.gov	West Des Moines Public Library	7220038	US	Iowa	
+Jan Grandgeorge	jgrandgeorge@eaglegrove.lib.ia.us	Fort Dodge Public Library	7220035	US	Iowa	
+Rita Schmidt	fdplinfo@fortdodge.lib.ia.us	Fort Dodge Public Library	7220035	US	Iowa	
+Erika Earp	fdplinfo@fortdodge.lib.ia.us	Fort Dodge Public Library	7220035	US	Iowa	
+Scott Bauer	sbauer@cityofpacificgrove.org	Pacific Grove Public Library	7220099	US	California	
+Rachel Gaither	rgaither@cityofpacificgrove.org	Pacific Grove Public Library	7220099	US	California	
+Audrey Cray	acray@cityofpacificgrove.org	Pacific Grove Public Library	7220099	US	California	
+Julie Weirick	jweirick@cityofpacificgrove.org	Pacific Grove Public Library	7220099	US	California	
+Jeanne Walsh	jeanne@brooks.lib.vt.us	Brooks Memorial Library	7220100	US	Vermont	SVOD--Acorn, Qello, Pongalo, TGCNC
+Star Latronica	starr@brookslibraryvt.org	Brooks Memorial Library	7220100	US	Vermont	SVOD--Acorn, Qello, Pongalo, TGCNC
+Francie Labriola	mlabriol@akronlibrary.org	Akron Summit County Public Library	7216556	US	Ohio	Acorn, Qello, Indieflix
+Jim Schmidt	jschmidt@recordedbooks.com	Akron Summit County Public Library	7216556	US	Ohio	Acorn, Qello, Indieflix
+Valerie Sherman	vsherman@akronlibrary.org	Akron Summit County Public Library	7216556	US	Ohio	Acorn, Qello, Indieflix
+Brad Gray	bgray@recordedbooks.com	RBdigital Account Manager Demo Library		US	Maryland	
+Kevin Karrick	kevin@artistworks.com	RBdigital Account Manager Demo Library		US	Maryland	
+John Shea	jshea@rbmediaglobal.com	RBdigital Account Manager Demo Library		US	Maryland	
+Donna Vollmer	dvollmer@recordedbooks.com	RBdigital Account Manager Demo Library		US	Maryland	
+Craig	callen@recordedbooks.com	RBdigital Account Manager Demo Library		US	Maryland	
+Stelly Cattell	scattell@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+Cooper Cobb	dcobb@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+BradGrayTrialSite	bgray@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+Becky Bramall	becky.bramall@wfhowes.co.uk	RBdigital Trial Customer Library		US	Maryland	
+June Kruer	jkruer@clarkco.lib.in.us	Charlestown Clark Public Library	7218820	US	Indiana	
+Lori Junkins	ljunkins@clarkco.lib.in.us	Charlestown Clark Public Library	7218820	US	Indiana	
+Jen Selinsky	jselinsky@clarkco.lib.in.us	Charlestown Clark Public Library	7218820	US	Indiana	
+Ellen Llamas	llamas1720@netscape.net	St. Bernard Parish Public Library	7219688	US	Louisiana	
+Dwight Duensing	webmaster@mysbpl.org	St. Bernard Parish Public Library	7219688	US	Louisiana	
+Susan Heffker	sheffker@yahoo.com	St. Bernard Parish Public Library	7219688	US	Louisiana	
+Tiffany Brue	interlibloan@yahoo.com	Pointe Coupee Parish Library	7220021	US	Louisiana	Value Collection
+Melissa Hymel	admin.c1pc@pelican.state.lib.la.us	Pointe Coupee Parish Library	7220021	US	Louisiana	Value Collection
+Rita Douthitt	rdouthitt@jdcpl.lib.in.us	Jasper-Dubois County Contractual Public Library	7220102	US	Indiana	
+Christine Golden	cgolden@jdcpl.lib.in.us	Jasper-Dubois County Contractual Public Library	7220102	US	Indiana	
+Jordan Schuetter	jschuetter@jdcpl.us	Jasper-Dubois County Contractual Public Library	7220102	US	Indiana	
+Beth Herzog Schmidt	bherzog@jdcpl.us	Jasper-Dubois County Contractual Public Library	7220102	US	Indiana	
+Sevier County Public Library	rtippitt@sevierlibrary.org	Sevier County Public Library	7220066	US	Tennessee	
+Maria G. Soliz	msoliz@ci.laredo.tx.us	Laredo Public Library	7220082	US	Texas	
+Eva Hernandez	ehernande2@ci.laredo.tx.us	Laredo Public Library	7220082	US	Texas	
+Anita Carroll	acarroll@granvillelibrary.org	Granville Public Library	7220071	US	Ohio	
+Kristin Cunningham	library@okmcity.net	Okmulgee Public Library	7220059	US	Oklahoma	
+Gerry Vogel	gvogel@avonlake.lib.oh.us	Avon Lake Public Library	7220006	US	Ohio	
+Mindy Holmes	mindy.holmes@masonpl.org	Mason Public Library	7219183	US	Ohio	
+Beth Morgan	bethm@plano.gov	Plano Public Library	7219995	US	Texas	
+Tammy	tammyko@plano.gov	Plano Public Library	7219995	US	Texas	
+Janet Cox	janetc@plano.gov	Plano Public Library	7219995	US	Texas	
+Eva Gonzalez	evag@plano.gov	Plano Public Library	7219995	US	Texas	
+Mary McGavick	mcgavick.mary@gmail.com	Public Library of Mt. Vernon & Knox County	7220002	US	Ohio	
+Jessica Horlacher	plmvkcohio@gmail.com	Public Library of Mt. Vernon & Knox County	7220002	US	Ohio	
+Cassandra Peters	cthompson@knox.net	Public Library of Mt. Vernon & Knox County	7220002	US	Ohio	
+Linda Trevino	ltrevino@grapevinetexas.gov	Grapevine Public Library NTLOG	7220003	US	Texas	
+David Coulter	dcoulter@grapevinetexas.gov	Grapevine Public Library NTLOG	7220003	US	Texas	
+Janis Roberson	janisr1@airmail.net	Grapevine Public Library NTLOG	7220003	US	Texas	
+Chad Hetterley	chetterley@grapevinetexas.gov	Grapevine Public Library NTLOG	7220003	US	Texas	
+Dana Owen	dowen@warsawlibrary.org	Warsaw Community Public Library	7216557	US	Indiana	Acorn, Qello, Indieflix
+Joni Brookins	jbrookins@warsawlibrary.org	Warsaw Community Public Library	7216557	US	Indiana	Acorn, Qello, Indieflix
+Maribeth	mfisher@scotlib.org	Scotch Plains Public Library	7220074	US	New Jersey	SVOD - All services Q- U
+Michelle Willis	mwillis@scotlib.org	Scotch Plains Public Library	7220074	US	New Jersey	SVOD - All services Q- U
+Lisa Thornton	lthornton@scotlib.org	Scotch Plains Public Library	7220074	US	New Jersey	SVOD - All services Q- U
+Abbie Harris	abbieh@madisonlibrary.org	Madison County Public Library	7220113	US	Kentucky	
+John Payne	jpayne@madisonlibrary.org	Madison County Public Library	7220113	US	Kentucky	
+Rebecca Pool	rpool@deerparktx.org	Deer Park Public Library	7220126	US	Texas	
+Grace Heffernan	gheffernan@deerparktx.org	Deer Park Public Library	7220126	US	Texas	
+Shelly Govea	sgovea@deerparktx.org	Deer Park Public Library	7220126	US	Texas	
+Brad Gray	bgray@recordedbooks.com	RBdigital Global Catalog	Trial	US	Maryland	
+Nicola Everitt	nicola@digitalcontentassociates.com	RBdigital Global Catalog	Trial	US	Maryland	
+Andrea Ruud	andrea.ruud@tln.lib.ee	RBdigital Global Catalog	Trial	US	Maryland	
+Vickie Turcotte	vturcotte@mvlc.org	Chelmsford Public Library	7220192	US	Massachusetts	SVOD - All
+Brian Herzog	bherzog@mvlc.org	Chelmsford Public Library	7220192	US	Massachusetts	SVOD - All
+Danny Lykansion	dlykansion@chelmsfordlibrary.org	Chelmsford Public Library	7220192	US	Massachusetts	SVOD - All
+Becky Bilby	becky.bilby@siouxcenterlibrary.org	Sioux Center Public Library	7220091	US	Iowa	Iowa Digital
+Dinah Bonesteel	bonested@cobbcat.org	Cobb County Public Library System	7220127	US	Georgia	
+Jonathan McKeown	mckeownj@cobbcat.org	Cobb County Public Library System	7220127	US	Georgia	
+Deborah McLaughlin	mclaughd@cobbcat.org	Cobb County Public Library System	7220127	US	Georgia	
+Shelly Zhang	zhangs@cobbcat.org	Cobb County Public Library System	7220127	US	Georgia	
+Burr Osoinach	osoinacb@cobbcat.org	Cobb County Public Library System	7220127	US	Georgia	
+John Willard	john.willard@cobbcounty.org	Cobb County Public Library System	7220127	US	Georgia	
+Karilyn Steward	ksteward@calabasaslibrary.org	Calabasas Public Library	7220120	US	California	
+Tracy Allen	tallen@rcls.org	Finkelstein Memorial Library	7220224	US	New York	Premium Mags; SVOD--Acorn, IF, Qello, Pongalo, Great Courses
+Judy Joseph	jjoseph@rcls.org	Finkelstein Memorial Library	7220224	US	New York	Premium Mags; SVOD--Acorn, IF, Qello, Pongalo, Great Courses
+Zeke Kilbride	zkilbride@gmail.com	Finkelstein Memorial Library	7220224	US	New York	Premium Mags; SVOD--Acorn, IF, Qello, Pongalo, Great Courses
+Betty Codd	betty.codd@dublincity.ie	Dublin City Public Libraries		IE	Ireland	
+Deirdre Thornton	deirdre.thornton@dublincity.ie	Dublin City Public Libraries		IE	Ireland	
+Chuck Collins	ccollins@heightslibrary.org	Cleveland Heights-University Heights Public Library	7220209	US	Ohio	
+Shelley Morris	smorris@heightslibrary.org	Cleveland Heights-University Heights Public Library	7220209	US	Ohio	
+Kim DeNero-Ackroyd	kackroyd@heightslibrary.org	Cleveland Heights-University Heights Public Library	7220209	US	Ohio	
+Dan Compton	dcompton@summitcounty.org	Summit County Library System	7220244	US	Utah	Mirrored eMags from UPLG; SVOD--Great Courses; Acorn
+Joe Frazier	jfrazier@summitcounty.org	Summit County Library System	7220244	US	Utah	Mirrored eMags from UPLG; SVOD--Great Courses; Acorn
+Brenda Mahoney-Ayres	bmahoneyayres@westongov.com	Weston County Library	7220246	US	Wyoming	SVOD--Great Courses
+Val Fisher	vfisher@biblio.org	New Milford Library	7220247	US	Connecticut	Value; SVOD--Great Courses
+Peggy Ganong	pganong@biblio.org	New Milford Library	7220247	US	Connecticut	Value; SVOD--Great Courses
+Faye Nichols	faye.nichols@ci.gatesville.tx.us	Gatesville Public Library	7220211	US	Texas	Value Collection
+Angela Clements	er@cdpl.lib.in.us	Crawfordsville District Public Library	7220248	US	Indiana	
+William Helling	web@cdpl.lib.in.us	Crawfordsville District Public Library	7220248	US	Indiana	
+Angela White	di@cdpl.lib.in.us	Crawfordsville District Public Library	7220248	US	Indiana	
+Larry Hathaway	dir@cdpl.lib.in.us	Crawfordsville District Public Library	7220248	US	Indiana	
+Jodie Wilson	dir2@cdpl.lib.in.us	Crawfordsville District Public Library	7220248	US	Indiana	
+Katie Creecy	creecyk@brentwood-tn.org	The John P. Holt Brentwood Library	7220252	US	Tennessee	
+Andrew Tadman	atadman@ebrpl.com	East Baton Rouge Parish Library	7220260	US	Louisiana	
+Mechelle Whitney	mwhitney@ebrpl.com	East Baton Rouge Parish Library	7220260	US	Louisiana	
+Adam St. Pierre	astpierre@ebrpl.com	East Baton Rouge Parish Library	7220260	US	Louisiana	
+Eric	EricCahanin@ebrpl.com	East Baton Rouge Parish Library	7220260	US	Louisiana	
+Nita Day	nday@ebrpl.com	East Baton Rouge Parish Library	7220260	US	Louisiana	
+Ashley Michel	amichel@ebrpl.com	East Baton Rouge Parish Library	7220260	US	Louisiana	
+Jenna Jaureguy	jjaureguy@ebrpl.com	East Baton Rouge Parish Library	7220260	US	Louisiana	
+Sheri Holland	holland.sheri@ocls.info	Orange County Library System	7220240	US	Florida	No MTP
+Cassie Shivers	shivers.cassandra@ocls.info	Orange County Library System	7220240	US	Florida	No MTP
+Digital Help Desk	digitalhelpdesk@ocls.info	Orange County Library System	7220240	US	Florida	No MTP
+Jo Ann Sampson	sampson.joann@ocls.info	Orange County Library System	7220240	US	Florida	No MTP
+Christina Adelman	adelman.christina@ocls.info	Orange County Library System	7220240	US	Florida	No MTP
+Vanessa Neblett	neblett.vanessa@ocls.info	Orange County Library System	7220240	US	Florida	No MTP
+David Noe	noe.david@ocls.info	Orange County Library System	7220240	US	Florida	No MTP
+isobel blackley	isobel.blackley@surreycc.gov.uk	Surrey Libraries	trial	GB	England	
+Helen Leech	helen.leech@surreycc.gov.uk	Surrey Libraries	trial	GB	England	
+Barbara Scott	barbara.scott@surreycc.gov.uk	Surrey Libraries	trial	GB	England	
+Anne White	awhite@surreycc.gov.uk	Surrey Libraries	trial	GB	England	
+Lorraine Marshall	loraine.marshall@surreycc.gov.uk	Surrey Libraries	trial	GB	England	
+James Road	james.road@surreycc.gov.uk	Surrey Libraries	trial	GB	England	
+Liam Crossley	liam.crossley@surreycc.gov.uk	Surrey Libraries	trial	GB	England	
+Garry Shield	gary.shield@surrycc.gov.uk	Surrey Libraries	trial	GB	England	
+Adrian Houlihan	adrian.houlihan@surreycc.gov.uk	Surrey Libraries	trial	GB	England	
+Joakima Lawless	joakima.lawless@surreycc.gov.uk	Surrey Libraries	trial	GB	England	
+Holli Jayko	hjayko@town.adams.ma.us	Adams Free Library	7220287	US	Massachusetts	SVOD - Acorn, IndieFlix, Great Courses; MTP
+Amy Phillips	Amy.Phillips@cityofloveland.org	Loveland Public Library	7220317	US	Colorado	Flatirons Library Consorita 7122985
+Dana Polk	dpolk@shelbycounty-al.org	Chelsea Public Library	7220061	US	Alabama	
+Katie Guerin	kguerin@shelbycounty-al.org	North Shelby Public Library	7220060	US	Alabama	
+Kim Roberts	kroberts@shelbycounty-al.org	North Shelby Public Library	7220060	US	Alabama	
+Jocelyn Tavares	jtavares@sailsinc.org	Dighton Public Library	7220298	US	Massachusetts	
+Laura Cole	lcole@bexar.org	Bibliotech	7220286	US	Texas	
+Elizabeth McArthur	elizabeth.mcArthur@bexar.org	Bibliotech	7220286	US	Texas	
+Romeo Rosales	romeo.rosales@bexar.org	Bibliotech	7220286	US	Texas	
+Mimi Herrington	mherrington@badaxelibrary.org	Bad Axe Area District Library	7220304	US	Michigan	
+Cindy Pettinger	cpettinger@badaxelibrary.org	Bad Axe Area District Library	7220304	US	Michigan	
+Karen Buth	kbuth@beverlyhills.org	Beverly Hills Public Library	7220366	US	California	
+Maksim Ksenjak	mksenjak@beverlyhills.org	Beverly Hills Public Library	7220366	US	California	
+Andrew Despres	adespres@downeyca.org	Downey City Library	7220365	US	California	
+Kate Byroade	kbyroade@colchesterct.gov	Cragin Memorial Library	7220322	US	Connecticut	SVOD - Acorn; Great Courses
+Mary Richardson	library@colchesterct.gov	Cragin Memorial Library	7220322	US	Connecticut	SVOD - Acorn; Great Courses
+Natalie Haskins	nhaskins@prattlibrary.org	Enoch Pratt Free Library	7220410	US	Maryland	
+Lara Spahr	lspahr@prattlibrary.org	Enoch Pratt Free Library	7220410	US	Maryland	
+Kathleen D'Angelo	kdangelo@prattlibrary.org	Enoch Pratt Free Library	7220410	US	Maryland	
+James McGlothlin	jmcgloth@prattlibrary.org	Enoch Pratt Free Library	7220410	US	Maryland	
+Sarah Kuperman	skuper@prattlibrary.org	Enoch Pratt Free Library	7220410	US	Maryland	
+Jordan	support@orangeboyinc.com	Enoch Pratt Free Library	7220410	US	Maryland	
+Digital Technology	digitaltechnology@hpl.ca	Hamilton Public Library	7220425	CA	Ontario	
+Bruce Konick	bkonick@hpl.ca	Hamilton Public Library	7220425	CA	Ontario	
+Lisa Weaver	lweaver@hpl.ca	Hamilton Public Library	7220425	CA	Ontario	
+Kaye Prince	kaprince@hpl.ca	Hamilton Public Library	7220425	CA	Ontario	
+Tim Paluch	tjpaluch@dmpl.org	Des Moines Public Library	7220090	US	Iowa	
+Marci	mabehm@dmpl.org	Des Moines Public Library	7220090	US	Iowa	
+Carrie	ckanderson@dmpl.org	Des Moines Public Library	7220090	US	Iowa	
+Kathy	kjleonard@dmpl.org	Des Moines Public Library	7220090	US	Iowa	
+Jen	jntormey@dmpl.org	Des Moines Public Library	7220090	US	Iowa	
+DMPL Support	libwebmaster@dmpl.org	Des Moines Public Library	7220090	US	Iowa	
+Savannah	libwebmaster@dmpl.org	Des Moines Public Library	7220090	US	Iowa	
+Tina Mabuce	tmmabuce@dmpl.org	Des Moines Public Library	7220090	US	Iowa	
+Shelly Shropshire	morristownhamblenlibrary@yahoo.com	Morristown Hamblen County Public Library	7220434	US	Tennessee	Value Collection
+Pam Metts	pam@jlslibrary.org	John L. Street Public Library	7220436	US	Kentucky	
+Steven Raughley	Steven.Raughley@lib.sbcounty.gov	San Bernardino County Library	7220440	US	California	Inland Library System
+Andrew Mills	andrew.mills@lib.sbcounty.gov	San Bernardino County Library	7220440	US	California	Inland Library System
+Kathleen Elwell	elwell@ramsey.bccls.org	Ramsey Free Public Library	7220455	US	New Jersey	Bergen County Cooperative Library System
+Matt Latham	latham@ramsey.bccls.org	Ramsey Free Public Library	7220455	US	New Jersey	Bergen County Cooperative Library System
+MaryPat Larrabee	mpl227@yahoo.com	St. Albans Free Library	7220456	US	Vermont	SVOD - Acorn, Great Courses, IF
+Michael Gannon	michael.gannon@pgcmls.info	Prince George's County Memorial Library System	7220034	US	Maryland	
+Monica McAbee	Monica.McAbee@pgcmls.info	Prince George's County Memorial Library System	7220034	US	Maryland	
+Digital Services	josie.fiore@pgcmls.info	Prince George's County Memorial Library System	7220034	US	Maryland	
+Lynn Stonesifer	lynn.stonesifer@pgcmls.info	Prince George's County Memorial Library System	7220034	US	Maryland	
+Brad Gray RBdigital	bgray@recordedbooks.com	Prince George's County Memorial Library System	7220034	US	Maryland	
+Robin Jacobsen	Robin.Jacobsen@pgcmls.info	Prince George's County Memorial Library System	7220034	US	Maryland	
+PGCMLS Administrator	admin@pgcmls.info	Prince George's County Memorial Library System	7220034	US	Maryland	
+Orangeboy	orangeboy@pgcmls.info	Prince George's County Memorial Library System	7220034	US	Maryland	
+Colin Khem	colin.khem@pgcmls.info	Prince George's County Memorial Library System	7220034	US	Maryland	
+Adam Wall	Adam.wall@pgcmls.info	Prince George's County Memorial Library System	7220034	US	Maryland	
+June Courtney	june.courtney@pgcmls.info	Prince George's County Memorial Library System	7220034	US	Maryland	
+Blane Halliday	blane.halliday@pgcmls.info	Prince George's County Memorial Library System	7220034	US	Maryland	
+Laurie McKee	lmckee@littleelm.org	Little Elm Public Library	7220395	US	Texas	
+Lynette Roberson	lroberson@littleelm.org	Little Elm Public Library	7220395	US	Texas	
+Alelya Stone	astone@tylertexas.com	Tyler Public Library	7220457	US	Texas	Value Collection
+Lara Tabri	ltabri@tylertexas.com	Tyler Public Library	7220457	US	Texas	Value Collection
+Chriss Chaney	cchaney@tylertexas.com	Tyler Public Library	7220457	US	Texas	Value Collection
+Ashley Taylor	ataylor@tylertexas.com	Tyler Public Library	7220457	US	Texas	Value Collection
+Brenda Robertson	Brenda.robertson@untdallas.edu	University of North Texas at Dallas - UNT	7220431	US	Texas	
+Robert Taylor	Robert.taylor@untdallas.edu	University of North Texas at Dallas - UNT	7220431	US	Texas	
+Jodie Knight	jknight@library.gg	Guernsey Libraries		GG	Guernsey	
+Helen Paul	hpaul@library.gg	Guernsey Libraries		GG	Guernsey	
+Tracey	twoosley@library.gg	Guernsey Libraries		GG	Guernsey	
+Amy Williams	amy@rutlandfree.org	Rutland Free Library	7220487	US	Vermont	SVOD -- Acorn and Great Courses; unlimited
+Randal Smathers	randal@rutlandfree.org	Rutland Free Library	7220487	US	Vermont	SVOD -- Acorn and Great Courses; unlimited
+Janet Clapp	janet@rutlandfree.org	Rutland Free Library	7220487	US	Vermont	SVOD -- Acorn and Great Courses; unlimited
+Mary Porter	mporter@ivpl.org	Indian Valley Public Library	7220502	US	Pennsylvania	Montgomery County Library District, PA
+Melanie Ford	mford@ivpl.org	Indian Valley Public Library	7220502	US	Pennsylvania	Montgomery County Library District, PA
+Barbara Kerr	bkerr@minlib.net	Medford Public Library	7220504	US	Massachusetts	
+Mike Crockett	mcrockett@minlib.net	Medford Public Library	7220504	US	Massachusetts	
+Kelly Jefferson	kej@mountlaurellibrary.org	Mount Laurel Library	7220516	US	New Jersey	
+Becky Boydston	becky@mountlaurellibrary.org	Mount Laurel Library	7220516	US	New Jersey	
+Deb Hoadley	director@sandownlibrary.us	Sandown Public Library	7220511	US	New Hampshire	
+Sue Kehoe	skehoe@sandownlibrary.us	Sandown Public Library	7220511	US	New Hampshire	
+Sherman Lee	sherman.lee@kingscountylibrary.org	Kings County Library	7220523	US	California	
+Tamara Evans	tamara.evans@kingscountylibrary.org	Kings County Library	7220523	US	California	
+Norma Fultz	nfultz@cityofrgc.com	Rio Grande Public Library	7220489	US	Texas	Value Collection
+Carol Coffey	ccoffey@cals.org	Central Arkansas Library System	7220497	US	Arkansas	
+Leslie Blanchard	lblanchard@cals.org	Central Arkansas Library System	7220497	US	Arkansas	
+Julia Reinhart	julia.reinhart@gravenhurst.ca	Gravenhurst Public Library	7220546	CA	Ontario	Value; SVOD - All services; Add automatically; 340 max annual tokens
+Megan Davidson	megan.davidson@gravenhurst.ca	Gravenhurst Public Library	7220546	CA	Ontario	Value; SVOD - All services; Add automatically; 340 max annual tokens
+Laura Lambert	laura.lambert@gravenhurst.ca	Gravenhurst Public Library	7220546	CA	Ontario	Value; SVOD - All services; Add automatically; 340 max annual tokens
+Mary Aylmer	maylmer@chillipld.org	Chillicothe Public Library District	7220524	US	Illinois	
+Katie Krol	kkrol@cwmars.org	Monson Free Library	7220556	US	Massachusetts	Value; All SVOD except Pongalo
+Lori Dethloff	ldethloff@cwmars.org	Monson Free Library	7220556	US	Massachusetts	Value; All SVOD except Pongalo
+Hope Bodwell	hbodwell@cwmars.org	Monson Free Library	7220556	US	Massachusetts	Value; All SVOD except Pongalo
+Dani Scott	dscott@cwmars.org	Monson Free Library	7220556	US	Massachusetts	Value; All SVOD except Pongalo
+Holly Richards Sorensen	hsorensen@dppl.org	Des Plaines Public Library	7220560	US	Illinois	
+Cathy Friedman	cfriedman@dppl.org	Des Plaines Public Library	7220560	US	Illinois	
+IT Department	ITdepartment@dppl.org	Des Plaines Public Library	7220560	US	Illinois	
+Christina Tropea	ctropea@dppl.org	Des Plaines Public Library	7220560	US	Illinois	
+Jo Bonell	jbonell@dppl.org	Des Plaines Public Library	7220560	US	Illinois	
+Amanda Rose	arose@burnetcountylibrary.org	Burnet County	7212251	US	Texas	Acorn, Indieflix
+Florence Reeves	freeves@burnetcountylibrary.org	Burnet County	7212251	US	Texas	Acorn, Indieflix
+Ann Brock	abrock@burnetcountylibrary.org	Burnet County	7212251	US	Texas	Acorn, Indieflix
+Patti Weiss	wpcl6@ptd.net	Western Pocono Community Library	7220581	US	Pennsylvania	
+Carol Kern	wpcl@ptd.net	Western Pocono Community Library	7220581	US	Pennsylvania	
+Linda Collins	lcollins@clamsnet.org	Falmouth Public Library	7220586	US	Massachusetts	
+Jennifer Woodward	jwoodward@falmouthpubliclibrary.org	Falmouth Public Library	7220586	US	Massachusetts	
+Noreen Bormet	nabormet@peotonelibrary.org	Peotone Public Library District	7220529	US	Illinois	Rbdigital Magazine Value Collection - SHARED
+John Sexton	jsexton@greenburghlibrary.org	Greenburgh Public Library	7220589	US	New York	SVOD -- Acorn, Qello, Pongalo, Great Courses, MTP
+Christa O'Sullivan	cosullivan@greenburghlibrary.org	Greenburgh Public Library	7220589	US	New York	SVOD -- Acorn, Qello, Pongalo, Great Courses, MTP
+Andrea Castrogiovanni	andrea.castrogiovanni@montgomerycountymd.gov	Montgomery County Public Library	7220466	US	Maryland	
+Lib Virtual Services	lib.virtualservices@montgomerycountymd.gov	Montgomery County Public Library	7220466	US	Maryland	
+Kelly Cooper	Kelly.cooper@montgomerycountymd.gov	Montgomery County Public Library	7220466	US	Maryland	
+Amy Blow	amy.blow@poquoson-va.gov	Poquoson Public Library	7220596	US	Virginia	Library of Virginia/Lyrasis-7051842
+Jessica Hartley	jessica.hartley@poquoson-va.gov	Poquoson Public Library	7220596	US	Virginia	Library of Virginia/Lyrasis-7051842
+Sarah Uchic	uchic@wrightlibrary.org	Wright Memorial Library	7220579	US	Ohio	
+Brian Potts	potts@wrightlibrary.org	Wright Memorial Library	7220579	US	Ohio	
+Robyn Case	case@wrightlibrary.org	Wright Memorial Library	7220579	US	Ohio	
+Robert Nyboer	bob.nyboer@ci.longmont.co.us	Longmont Public Library	7220557	US	Colorado	Flatirons Library Consorita 7122985
+Teresa Myers	teresa.myers@longmontcolorado.gov	Longmont Public Library	7220557	US	Colorado	Flatirons Library Consorita 7122985
+Pennie Howard-Burris	Pennie.howard-burris@longmontcolorado.gov	Longmont Public Library	7220557	US	Colorado	Flatirons Library Consorita 7122985
+Joseph Rodio	jrodio@cwmars.org	South Hadley Public Library	7220617	US	Massachusetts	
+Desiree Smelcer	dsmelcer@cwmars.org	South Hadley Public Library	7220617	US	Massachusetts	
+Edward Sims	esims@stjohn.lib.la.us	St. John the Baptist Parish Library	7220272	US	Louisiana	
+Cynthia DuBois	cdubois@stjohn.lib.la.us	St. John the Baptist Parish Library	7220272	US	Louisiana	
+Jose Ocasio	JOcasio@stjohn.lib.la.us	St. John the Baptist Parish Library	7220272	US	Louisiana	
+Natalia Ivenskaya	natalia.ivenskaya@farmersbranchtx.gov	Farmers Branch Public Library	7220616	US	Texas	
+Rebekah Regalado	rebekah.regalado@farmersbranchtx.gov	Farmers Branch Public Library	7220616	US	Texas	
+Burton Public Library	webware@cpl.org	Burton Public Library	7220600	US	Ohio	
+Katie Ringenbach	katie.ringenbach@burton.lib.oh.us	Burton Public Library	7220600	US	Ohio	
+Becky Wiegman	becky.wiegman@burton.lib.oh.us	Burton Public Library	7220600	US	Ohio	
+Carolyn Manning	director@wimberleylibrary.org	Wimberley Village Library	7212776	US	Texas	Value Collection
+Edie Martimucci	ediem@wlsmail.org	North Castle Public Library	7212781	US	New York	SVOD - Acorn, Qello, Great Courses, Pongalo, IF - unlimited;
+Virginia Garcia	vgarcia@wlsmail.org	North Castle Public Library	7212781	US	New York	SVOD - Acorn, Qello, Great Courses, Pongalo, IF - unlimited;
+Stephanie Mandella	smandella@wlsmail.org	North Castle Public Library	7212781	US	New York	SVOD - Acorn, Qello, Great Courses, Pongalo, IF - unlimited;
+Terrie McColl	mccoll@newmilford.bccls.org	New Milford Public Library	7220660	US	New Jersey	Bergen County Cooperative Library System
+Tina Maura	tmaura@mycitylibrary.org	Mandel Public Library	7220612	US	Florida	
+Emily Sniegowski	ESniegowski@WPBCityLibrary.org	Mandel Public Library	7220612	US	Florida	
+Lisa Sheffield	lisa.sheffield@transylvaniacounty.org	Transylvania County Library	7220663	US	North Carolina	
+Sean Bilby	Sean.Bilby@norfolk.gov	Norfolk Public Library	7212552	US	Virginia	Library of Virginia/Lyrasis-7051842 ACORN TV ONLY
+Cathy Thomann	cathy.thomann@norfolk.gov	Norfolk Public Library	7212552	US	Virginia	Library of Virginia/Lyrasis-7051842 ACORN TV ONLY
+Elizabeth Woodward	Elizabeth.woodard@norfolk.gov	Norfolk Public Library	7212552	US	Virginia	Library of Virginia/Lyrasis-7051842 ACORN TV ONLY
+Pat Davis	Patrick.davis@norfolk.gov	Norfolk Public Library	7212552	US	Virginia	Library of Virginia/Lyrasis-7051842 ACORN TV ONLY
+Amy Bateman	Amy.Bateman@norfolk.gov	Norfolk Public Library	7212552	US	Virginia	Library of Virginia/Lyrasis-7051842 ACORN TV ONLY
+Lesley Karczewski	lesley.karczewski@chesterlib.org	Chester Library	7220671	US	New Jersey	
+Jim Schmidt	jschmidt@recordedbooks.com	Chester Library	7220671	US	New Jersey	
+Samantha Bigger	infoservices@bclibrary.org	Boulder City Public Library	7220677	US	Nevada	
+Kim Diehm	bcdirector@bclibrary.org	Boulder City Public Library	7220677	US	Nevada	
+Jessica Jones	jessica@bclibrary.org	Boulder City Public Library	7220677	US	Nevada	
+Christine Sebuck	csebuck@bridgeviewlibrary.org	Bridgeview Public Library	7220548	US	Illinois	
+Kathryn Blessman	kblessman@bridgeviewlibrary.org	Bridgeview Public Library	7220548	US	Illinois	
+Kelly Morris	kmorris@rhcl.org	Rolling Hills Consolidated Library	7212775	US	Missouri	Acorn, Qello
+Michelle Mears	mmears@rhcl.org	Rolling Hills Consolidated Library	7212775	US	Missouri	Acorn, Qello
+Martin Canchola	mcanchola@rhcl.org	Rolling Hills Consolidated Library	7212775	US	Missouri	Acorn, Qello
+Virginia Johnson	vjohnson@ocln.org	John Curtis Free Library	7220699	US	Massachusetts	SVOD -- Acorn, Qello, GRC
+Almy Landauer	almy@waterburypubliclibrary.com	Waterbury Public Library	7220704	US	Vermont	Value; SVOD -- Acorn, Qello, Great Courses, MTP, IF, Pongalo
+RBdigital Test	jason.auth@gmail.com	Waterbury Public Library	7220704	US	Vermont	Value; SVOD -- Acorn, Qello, Great Courses, MTP, IF, Pongalo
+Sam Alvarez	salvarez@mvlc.org	Reuben Hoar Library	7220714	US	Massachusetts	SVOD -- Acorn, Qello, Pongalo, Great Courses, Learn it Live, MTP;
+Mindy Atwood	director@abbottlibrary.org	Abbott Library	7220715	US	New Hampshire	SVOD - Great Courses
+Barbara Bailey	barbara.bailey@glastonbury-ct.gov	Welles Turner Memorial Library	7213850	US	Connecticut	SVOD--Acorn, Qello, Pongalo; TGCNC, Method Test Prep, IF, Learn It Live; Unlimited;
+Donna Martel	dmartel@cwmars.org	Westborough Public Library	7213932	US	Massachusetts	SVOD - Acorn, Qello, IF, Great Courses, Pongalo
+Chris Muller	cmuller@cwmars.org	Westborough Public Library	7213932	US	Massachusetts	SVOD - Acorn, Qello, IF, Great Courses, Pongalo
+Anne Wachs	awachs@wcpl.lib.oh.us	Washington-Centerville Public Library	7214411	US	Ohio	Central Library Consortium - Acorn Only
+Amy Kastigar	ocplweb@weirton.lib.wv.us	Ohio County Public Library	7214498	US	West Virginia	WV Deli-7120407 - Acorn, Qello, Indieflix
+Dottie Thomas	thomasd@weirton.lib.wv.us	Ohio County Public Library	7214498	US	West Virginia	WV Deli-7120407 - Acorn, Qello, Indieflix
+Marylyn Stanko	Marylyn.Stanko@hudson.lib.oh.us	Hudson Library & Historical Society	7214591	US	Ohio	Acorn, Qello
+Susan Callaghan	susan.callaghan@hudson.lib.oh.us	Hudson Library & Historical Society	7214591	US	Ohio	Acorn, Qello
+Accounts and Stats	indie.flix@hudson.lib.oh.us	Hudson Library & Historical Society	7214591	US	Ohio	Acorn, Qello
+Tech Control	techreq@hudson.lib.oh.us	Hudson Library & Historical Society	7214591	US	Ohio	Acorn, Qello
+Sandi Lang	s.lang@northcantonlibrary.org	North Canton Public Library	7214036	US	Ohio	Acorn Only
+Carrie Hayes	chayes@northcantonlibrary.org	North Canton Public Library	7214036	US	Ohio	Acorn Only
+Christina Weyrick	cweyrick@northcantonlibrary.org	North Canton Public Library	7214036	US	Ohio	Acorn Only
+Steve Duvall	sduvall@northcantonlibrary.org	North Canton Public Library	7214036	US	Ohio	Acorn Only
+Anne Weissfeld	aweissfeld@northcantonlibrary.org	North Canton Public Library	7214036	US	Ohio	Acorn Only
+Susan Conner	conner@noblenet.org	Swampscott Public Library	7220746	US	Massachusetts	SVOD - Acorn, Great Courses, Learn It Live, Method, Qello
+Karen Demers	karendemers@wilbrahamlibrary.org	Wilbraham Public Library	7220748	US	Massachusetts	SVOD - Acorn, Great Courses, Learn It Live, Qello
+Barb Weber	bweber@bplib.net	Bedford Park Public Library	7220726	US	Illinois	
+Robert MacLean	rmaclean@ocln.org	Weymouth Public Libraries	7213674	US	Massachusetts	Mirrored eMags from OCLN; SVOD - Acorn, Great Courses
+Kristy Lockhart	klockhart@ocln.org	Weymouth Public Libraries	7213674	US	Massachusetts	Mirrored eMags from OCLN; SVOD - Acorn, Great Courses
+Janet Pawlowski	jpawlowski@ocln.org	Weymouth Public Libraries	7213674	US	Massachusetts	Mirrored eMags from OCLN; SVOD - Acorn, Great Courses
+Rebecca Meyer	rmeyer@ocln.org	Weymouth Public Libraries	7213674	US	Massachusetts	Mirrored eMags from OCLN; SVOD - Acorn, Great Courses
+Catherine Tucker	brooklyntownlibrary3@yahoo.com	Brooklyn Town Library	7220747	US	Connecticut	Value; SVOD - Acorn, Great Courses, Qello
+Travis McAfee	travis.mcafee@waylibrary.info	Way Public Library	7214033	US	Ohio	Acorn Only
+janel haas	Janel.Haas@waylibrary.info	Way Public Library	7214033	US	Ohio	Acorn Only
+Cyndee Marcoux	cmarcoux@ocln.org	Ventress Memorial Library	7213670	US	Massachusetts	SVOD - Acorn, IF, Qello, Great Courses, MTP
+Chris Woods	cwoods@ocln.org	Ventress Memorial Library	7213670	US	Massachusetts	SVOD - Acorn, IF, Qello, Great Courses, MTP
+Kelsey Socha	ksocha@ocln.org	Ventress Memorial Library	7213670	US	Massachusetts	SVOD - Acorn, IF, Qello, Great Courses, MTP
+Lisa McQueeney	lmcqueeney@ocln.org	Ventress Memorial Library	7213670	US	Massachusetts	SVOD - Acorn, IF, Qello, Great Courses, MTP
+Melissa Marolt	mmarolt@pcdl.org	Perry County District Library	7214909	US	Ohio	Acorn & IF
+Carla Dunn	cdunn@pcdl.org	Perry County District Library	7214909	US	Ohio	Acorn & IF
+Ruth Sullivan	rsullivan@pcdl.org	Perry County District Library	7214909	US	Ohio	Acorn & IF
+Sharon Bentley	s.bentley@kinglibrary.ca	King Township Public Library	7220763	CA	Ontario	
+Mark Cornell	m.cornell@kinglibrary.ca	King Township Public Library	7220763	CA	Ontario	
+Gloria Goverman	goverman@eflibrary.org	East Fishkill Community Library	7220766	US	New York	
+Luanne James	luanne.james@yclibrary.net	York County Public Library	7220775	US	South Carolina	
+Donna Andrews	donna.andrews@yclibrary.net	York County Public Library	7220775	US	South Carolina	
+Troy Beckham	troy.beckham@yclibrary.net	York County Public Library	7220775	US	South Carolina	
+Heidi Dowling	hdowling@bexleylibrary.org	Bexley Public Library	7215631	US	Ohio	Acorn, Qello
+Owen Leonard	oleonard@myacpl.org	Athens County Public Libraries	76201406	US	Ohio	Acorn Only
+Nick Tepe	ntepe@myacpl.org	Athens County Public Libraries	76201406	US	Ohio	Acorn Only
+Heather McElfresh	hmcelfresh@myacpl.org	Athens County Public Libraries	76201406	US	Ohio	Acorn Only
+Lori Fisher	lori@bakerfreelib.org	Baker Free Library	7220795	US	New Hampshire	SVOD - Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello
+Peggy McCarthy	mccarthyml@mansfieldct.org	Mansfield Public Library	7220767	US	Connecticut	SVOD - Acorn, Great Courses, IF
+Kaithlin Epling	eplingkm@mansfieldct.org	Mansfield Public Library	7220767	US	Connecticut	SVOD - Acorn, Great Courses, IF
+Alice Freiler	director@harwintonpl.org	Harwinton Public Library	7220800	US	Connecticut	SVOD - Acorn, Great Courses, MTP, IF
+Sherry Bright	sherry@bcplnet.org	Buchanan County Public Library	7220802	US	Virginia	LVA
+Jerry Hager	jerry@bcplnet.org	Buchanan County Public Library	7220802	US	Virginia	LVA
+Kelly Smith	kelly@bcplnet.org	Buchanan County Public Library	7220802	US	Virginia	LVA
+Jean Kallay	jkallay@burnhamlibrary.org	Burnham Library	7215194	US	Connecticut	SVOD - A, IF, Q, MTP, Learn It Live, Great Courses
+Retta Horn	retta@livingstoncountylibrary.org	Livingston County Library	7220773	US	Missouri	
+Candy Warren	candy@livingstoncountylibrary.org	Livingston County Library	7220773	US	Missouri	
+Monica Holmer	monica@livingstoncountylibrary.org	Livingston County Library	7220773	US	Missouri	
+Amy Dickerson	amy@livingstoncountylibrary.org	Livingston County Library	7220773	US	Missouri	
+JoAnn Spaulding	jspaulding@lenoxlib.org	Lenox Library	7220812	US	Massachusetts	SVOD - Acorn, Great Courses, Qello
+Amy Lafave	alafave@lenoxlib.org	Lenox Library	7220812	US	Massachusetts	SVOD - Acorn, Great Courses, Qello
+Susan Fisher	sfisher@aclibrary.org	Alameda County Library	7214220	US	California	ACORN TV , IF, Pongalo, TGC
+Trevor Calvert	tcalvert@aclibrary.org	Alameda County Library	7214220	US	California	ACORN TV , IF, Pongalo, TGC
+Elisa Collacott	ECollacott@aclibrary.org	Alameda County Library	7214220	US	California	ACORN TV , IF, Pongalo, TGC
+Randall McDevitt-Parks	RMcDevitt@aclibrary.org	Alameda County Library	7214220	US	California	ACORN TV , IF, Pongalo, TGC
+Renee Bu	rbu@aclibrary.org	Alameda County Library	7214220	US	California	ACORN TV , IF, Pongalo, TGC
+Kelly Hom	khom@aclibrary.org	Alameda County Library	7214220	US	California	ACORN TV , IF, Pongalo, TGC
+Stacy Tomaszewski	stomaszewski@aclibrary.org	Alameda County Library	7214220	US	California	ACORN TV , IF, Pongalo, TGC
+Cheryl Abdullah	cabdullah@doverma.org	Dover Town Library	7215632	US	Massachusetts	Value; SVOD - All
+Jim Westen	jwestendtl@gmail.com	Dover Town Library	7215632	US	Massachusetts	Value; SVOD - All
+Logan Macdonald	lmacdonald@anythinklibraries.org	Anythink Libraries	7212406	US	Colorado	ACORN TV only
+Jennifer Hendzlik	jhendzlik@anythinklibraries.org	Anythink Libraries	7212406	US	Colorado	ACORN TV only
+Michael Limer	michael@guernseycountylibrary.org	Guernsey County Public Library	7220809	US	Ohio	
+Lisa Post	Lisa.Post@egvpl.org	Elk Grove Village Public Library	7220840	US	Illinois	
+Richy	rsandberg@egvpl.org	Elk Grove Village Public Library	7220840	US	Illinois	
+Erika Reed	ereed@mcpls.org	Marion County Public Library	7220860	US	West Virginia	WV Deli-7120407
+Larissa Dean	ldean@mcpls.org	Marion County Public Library	7220860	US	West Virginia	WV Deli-7120407
+Eileen Pearce	epearce@libraryconnection.info	Windsor Locks Public Library	7217145	US	Connecticut	SVOD - A, IF, Q, Broadway, TGCNC; Unlimited; No others.
+Kristen MacLeod	kmacleod@libraryconection.info	Windsor Locks Public Library	7217145	US	Connecticut	SVOD - A, IF, Q, Broadway, TGCNC; Unlimited; No others.
+Jennifer Stock	fsdirector@delcolibraries.org	Helen Kate Furness Free Library	7215542	US	Pennsylvania	Delaware County Libraries
+Donna Ferruzzi	dferruzzi@icloud.com	Helen Kate Furness Free Library	7215542	US	Pennsylvania	Delaware County Libraries
+Nancy Haag	nhaag@northhavenlibrary.net	North Haven Memorial Library	7220863	US	Connecticut	SVOD -- Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello
+Pat LaTerza	platerza@northhavenlibrary.net	North Haven Memorial Library	7220863	US	Connecticut	SVOD -- Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello
+Susan Griffiths	sgriffiths@northhavenlibrary.net	North Haven Memorial Library	7220863	US	Connecticut	SVOD -- Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello
+Mardi Durham	mdurham@iredell.lib.nc.us	Iredell County Public Library	7220864	US	North Carolina	
+Gregory Testa	gmtesta@infopeake.org	Chesapeake Public Library	7220839	US	Virginia	Library of Virginia/Lyrasis-7051842
+Melissa Christakos	mchrista@infopeake.org	Chesapeake Public Library	7220839	US	Virginia	Library of Virginia/Lyrasis-7051842
+Amanda Jackson	ajackson@infopeake.org	Chesapeake Public Library	7220839	US	Virginia	Library of Virginia/Lyrasis-7051842
+Jodie Reha	jreha@infopeake.org	Chesapeake Public Library	7220839	US	Virginia	Library of Virginia/Lyrasis-7051842
+Melanie Price	mmprice@infopeake.org	Chesapeake Public Library	7220839	US	Virginia	Library of Virginia/Lyrasis-7051842
+Adam Parcell	aparcell@infopeake.org	Chesapeake Public Library	7220839	US	Virginia	Library of Virginia/Lyrasis-7051842
+Donna Blair	dblair@infopeake.org	Chesapeake Public Library	7220839	US	Virginia	Library of Virginia/Lyrasis-7051842
+Donna Duff	dduff@eastlothian.gov.uk	East Lothian Libraries		GB	Scotland	
+Agnes Guyon	aguyon@eastlothian.gov.uk	East Lothian Libraries		GB	Scotland	
+Kelly Gallacher	kgallacher3@eastlothian.gov.uk	East Lothian Libraries		GB	Scotland	
+Julie Dempsey	jkelsall@highlandlibrary.org	Ulster County Library Association	7220871	US	New York	Mid Hudson for eMagazine
+Susan Herr	susan@mfplibrary.org	Mammen Family Public Library	7220872	US	Texas	
+Cathy Mandelbaum	cathy@bsblibrary.org	Mammen Family Public Library	7220872	US	Texas	
+Kristin Bowman	kristin@bsblibrary.org	Mammen Family Public Library	7220872	US	Texas	
+Roxanna Deane	roxanna@tpml.org	Mammen Family Public Library	7220872	US	Texas	
+Lois Blankenburg	lois@mfpllibrary.org	Mammen Family Public Library	7220872	US	Texas	
+Katie Paul	katie@mfplibrary.org	Mammen Family Public Library	7220872	US	Texas	
+Jamie Poer	jamie@tpml.org	Mammen Family Public Library	7220872	US	Texas	
+Veronica Robinson	veronica.robinson@northlincs.gov.uk	North Lincolnshire		GB	England	
+Jocelyn Durrance	jocelyn.durrance@co.pitkin.co.us	Pitkin County Library	7217464	US	Colorado	Marmot; SVOD - Acorn, Indieflix, Qello, Pongalo, MTP
+Genevieve Smith	genevieve.smith@pitkincounty.com	Pitkin County Library	7217464	US	Colorado	Marmot; SVOD - Acorn, Indieflix, Qello, Pongalo, MTP
+Deb Mitchell	deb@warren.lib.ms.us	Warren County Vicksburg Public Library	7220897	US	Mississippi	
+Katrina Stokes	kstokes@warren.lib.ms.us	Warren County Vicksburg Public Library	7220897	US	Mississippi	
+Patrick Marshall	pmarshall@bournelibrary.org	Jonathan Bourne Public Library	7217466	US	Massachusetts	SVOD -A, Q, IF, Great Courses, MTP -unlim
+John Flores	doverfreelibrary1913@yahoo.com	Dover Free Library	7216875	US	Vermont	Value; SVOD--Indieflix, Acorn, Qello, Pongalo, Great Courses; unlimited;
+Tamara	dflkidlibrary@gmail.com	Dover Free Library	7216875	US	Vermont	Value; SVOD--Indieflix, Acorn, Qello, Pongalo, Great Courses; unlimited;
+Connie Terry	cterry@woodward.lib.ok.us	Woodward Public Library	7219989	US	Oklahoma	Oklahoma Digital
+Julie Warren	julie.warren@palmspringsca.gov	Palm Springs Public Library	7220902	US	California	Inland Library System
+Lisa brock	lisa.brock@palmspringsca.gov	Palm Springs Public Library	7220902	US	California	Inland Library System
+Jeannie Kays	jeannie.kays@palmspringsca.gov	Palm Springs Public Library	7220902	US	California	Inland Library System
+Sue Mevis	smevis@beaverdamlibrary.org	Beaver Dam Community Library	7219697	US	Wisconsin	Monarch Library System
+Andrew Stoter	Andrew.Stoter@brent.gov.uk	London Libraries Consortium		GB	England	
+Mark Bennett	mark.bennett@enfield.gov.uk	London Libraries Consortium		GB	England	
+Steve Clarke	Steve.Clarke@towerhamlets.gov.uk	London Libraries Consortium		GB	England	
+Digital Services Team	Digital.Services@Enfield.gov.uk	London Libraries Consortium		GB	England	
+Nicky Dunne	Nicky.Dunne@havering.gov.uk	London Libraries Consortium		GB	England	
+Denise Bangs	Denise.Bangs@towerhamlets.gov.uk	London Libraries Consortium		GB	England	
+Julie Hall	julie.hall@lewisham.gov.uk	London Libraries Consortium		GB	England	
+Cyprian Marah	Cyprian.Marah@Hackney.gov.uk	London Libraries Consortium		GB	England	
+Andrew Fox	andrew.fox@merton.gov.uk	London Libraries Consortium		GB	England	
+Margaret Leszczynska	margaret.lexzczynska@merton.gov.uk	London Libraries Consortium		GB	England	
+Mark Blair	Mark.Blair@newham.gov.uk	London Libraries Consortium		GB	England	
+Kim Rose	Kim.Rose@havering.gov.uk	London Libraries Consortium		GB	England	
+Muhammad Javad	Muhammad.Javed@walthamforest.gov.uk	London Libraries Consortium		GB	England	
+Shakeel Saleem	shakeel.saleem@brent.gov.uk	London Libraries Consortium		GB	England	
+Jonathan	Jonathan.Woolf@visionrcl.org.uk	London Libraries Consortium		GB	England	
+Asifa Hussain	Asifa.Hussain@visionrcl.org.uk	London Libraries Consortium		GB	England	
+Paula Wade	Paula.Wade@visionrcl.org.uk	London Libraries Consortium		GB	England	
+Alex Webb	alex.webb@kingston.gov.uk	London Libraries Consortium		GB	England	
+Andrew Bond	Andrew.Bond@LutonCulture.com	London Libraries Consortium		GB	England	
+Shelley Kemp	shelley.kemp@sutton.gov.uk	London Libraries Consortium		GB	England	
+Colin Todd	colin.todd@sutton.gov.uk	London Libraries Consortium		GB	England	
+Ann Laskey	ann.laskey@lbbd.gov.uk	London Libraries Consortium		GB	England	
+Vashti Thorne	vashti.thorne@lbbd.gov.uk	London Libraries Consortium		GB	England	
+Moira Cockcroft	moira.cockcroft@sutton.gov.uk	London Libraries Consortium		GB	England	
+Attiq Buckhari	Attiq.Bukhari@newham.gov.uk	London Libraries Consortium		GB	England	
+Lee Stallard	lee.stallard@carillionservices.co.uk	London Libraries Consortium		GB	England	
+Amanda Kearns	Amanda.kearns@carillionservices.co.uk	London Libraries Consortium		GB	England	
+Katrina Blench	Katrina.Blench@lewisham.gov.uk	London Libraries Consortium		GB	England	
+M Manoharan	MManoharan@ealing.gov.uk	London Libraries Consortium		GB	England	
+Moira Cockroft	moira.cockroft@sutton.gov.uk	London Libraries Consortium		GB	England	
+Laura Newsome	laura.newsome@sutton.gov.uk	London Libraries Consortium		GB	England	
+Amish Patel	amish.patel@brent.gov.uk	London Libraries Consortium		GB	England	
+Linda Johnson	linda.johnson@cityofkilgore.com	Kilgore Public Library	7218232	US	Texas	
+Stacey Cole	stacey.cole@cityofkilgore.com	Kilgore Public Library	7218232	US	Texas	
+Joyce Ryan	joyceryan@santafesprings.org	Santa Fe Springs City	7219783	US	California	Value Collection
+Deborah Raia	DeborahRaia@santafesprings.org	Santa Fe Springs City	7219783	US	California	Value Collection
+Seth Stephens	seth.stephens@jeffersonlibrary.net	Jefferson Township Public Library	7215507	US	New Jersey	M.A.I.N., Inc
+Rachel Kelly	rachel.kelly@mainlib.org	Jefferson Township Public Library	7215507	US	New Jersey	M.A.I.N., Inc
+Johnnie PIppin	johnnie.pippin@waynegov.com	Wayne County Public Library	7219974	US	North Carolina	SVOD - All Services and TGC
+Natasha Francois	natasha.francois@waynegov.com	Wayne County Public Library	7219974	US	North Carolina	SVOD - All Services and TGC
+Rosemary Loomis	rosemary.loomis@waynegov.com	Wayne County Public Library	7219974	US	North Carolina	SVOD - All Services and TGC
+Kristina Gabriel	kristina.gabriel@waynegov.com	Wayne County Public Library	7219974	US	North Carolina	SVOD - All Services and TGC
+Maegen Wilson	maegen.wilson@waynegov.com	Wayne County Public Library	7219974	US	North Carolina	SVOD - All Services and TGC
+Carolyn Hill	carolyn.hill@waynegov.com	Wayne County Public Library	7219974	US	North Carolina	SVOD - All Services and TGC
+Fran Burke-Urr	fran.burke-urr@fauquiercounty.gov	Fauquier County Public Library	7220837	US	Virginia	Library of Virginia/Lyrasis-7051842
+Alison Pruntel	Alison.Pruntel@fauquiercounty.gov	Fauquier County Public Library	7220837	US	Virginia	Library of Virginia/Lyrasis-7051842
+Lisa Pavlock	lisa.pavlock@fauquiercounty.gov	Fauquier County Public Library	7220837	US	Virginia	Library of Virginia/Lyrasis-7051842
+Jennifer Schultz Angoli	jennifer.schultz@fauquiercounty.gov	Fauquier County Public Library	7220837	US	Virginia	Library of Virginia/Lyrasis-7051842
+Ece Tufanyazici	ece.tufanyazici@bilgi.edu.tr	Istanbul Bilgi University Trial		TR	Turkey	
+Gorkem Isci	gorkem@sayisalgrafik.com.tr	Istanbul Bilgi University Trial		TR	Turkey	
+Jerome Walczak	jwalczak@agawamlibrary.org	Agawam Public Library	7217089	US	Massachusetts	SVOD - A, Q, TGCNC; Unl.; No IF, P
+Judith M. Clini	jclini@agawamlibrary.org	Agawam Public Library	7217089	US	Massachusetts	SVOD - A, Q, TGCNC; Unl.; No IF, P
+Pat Leveille	pleveille@agawamlibrary.org	Agawam Public Library	7217089	US	Massachusetts	SVOD - A, Q, TGCNC; Unl.; No IF, P
+Nancy Siegel	nsiegel@agawamlibrary.org	Agawam Public Library	7217089	US	Massachusetts	SVOD - A, Q, TGCNC; Unl.; No IF, P
+Dean Baumeister	dbaumeister@mhl.org	Memorial Hall Library	7220928	US	Massachusetts	SVOD -- Acorn, Great Courses, Qello
+Anne Thornton	thornton@noblenet.org	Abbot Public Library	7219263	US	Massachusetts	SVOD - Acorn, IF, Great Courses
+Patti Rogers	rogers@noblenet.org	Abbot Public Library	7219263	US	Massachusetts	SVOD - Acorn, IF, Great Courses
+Taylor Devlin	devlin@noblenet.org	Abbot Public Library	7219263	US	Massachusetts	SVOD - Acorn, IF, Great Courses
+Lydia Gravell	gravell@noblenet.org	Abbot Public Library	7219263	US	Massachusetts	SVOD - Acorn, IF, Great Courses
+Paris Pegg	pegg@mrlinfo.org	Morrisson-Reeves Library	7220935	US	Indiana	Value Collection
+Bill Pardue	bpardue@ahml.info	Arlington Heights Library	7219695	US	Illinois	
+Brad Gray	bgray@recordedbooks.com	Arlington Heights Library	7219695	US	Illinois	
+Marie Szymanek	mszymanek@ahml.info	Arlington Heights Library	7219695	US	Illinois	
+Candy Rossin	crossin@ahml.info	Arlington Heights Library	7219695	US	Illinois	
+Claudia Gutierrez	cgutierrez@fallschurchva.gov	Mary R. Styles Public Library	7220868	US	Virginia	Library of Virginia/Lyrasis-7051842
+Marshall Webster	mwebster@fallschurchva.gov	Mary R. Styles Public Library	7220868	US	Virginia	Library of Virginia/Lyrasis-7051842
+Jenny Carroll	jcarroll@fallschurchva.gov	Mary R. Styles Public Library	7220868	US	Virginia	Library of Virginia/Lyrasis-7051842
+Brittany Austin	austin@plsinfo.org	South San Francisco Public Library	7219970	US	California	Peninsula Library System
+Tracy Koverman	tkoverma@ccpl.lib.oh.us	Clark County Public Library	7220925	US	Ohio	
+Trent Chamberlain	tchamber@ccpl.lib.oh.us	Clark County Public Library	7220925	US	Ohio	
+Matt Naylor	mnaylor@ccpl.lib.oh.us	Clark County Public Library	7220925	US	Ohio	
+Kevin Clark	kclark@ccpl.lib.oh.us	Clark County Public Library	7220925	US	Ohio	
+Julie Douglas	julie.douglas@vpl.ca	Vancouver Public Library	7213288	CA	British Columbia	BC Libraries Cooperative 7040759
+Sara Amon	sara.amon@vpl.ca	Vancouver Public Library	7213288	CA	British Columbia	BC Libraries Cooperative 7040759
+Janet Horne	janet.horne@vpl.ca	Vancouver Public Library	7213288	CA	British Columbia	BC Libraries Cooperative 7040759
+electronic resources	eresources@vpl.ca	Vancouver Public Library	7213288	CA	British Columbia	BC Libraries Cooperative 7040759
+Anna Wilkinson	anna.wilkinson@vpl.ca	Vancouver Public Library	7213288	CA	British Columbia	BC Libraries Cooperative 7040759
+eresources	eresources@vpl.ca	Vancouver Public Library	7213288	CA	British Columbia	BC Libraries Cooperative 7040759
+VPL STATS	vplstats@vpl.ca	Vancouver Public Library	7213288	CA	British Columbia	BC Libraries Cooperative 7040759
+Ken Williams	ken.williams@vpl.ca	Vancouver Public Library	7213288	CA	British Columbia	BC Libraries Cooperative 7040759
+Daniel Nazarko	Daniel.Nazarko@madison.mainlib.org	Madison Public Library	7220949	US	New Jersey	M.A.I.N., Inc
+Susan Smith	susan_smith@tempe.gov	Tempe Public Library	7219179	US	Arizona	
+McKay Wellikson	mckay_wellikson@tempe.gov	Tempe Public Library	7219179	US	Arizona	
+Maggie Holmes	mholmes@sailsinc.org	Richards Memorial Library	7217000	US	Massachusetts	SVOD - A, IF, Q, TGC, Pongalo, MTP, Learn it Live
+Kristin Slater	kslater@sailsinc.org	Richards Memorial Library	7217000	US	Massachusetts	SVOD - A, IF, Q, TGC, Pongalo, MTP, Learn it Live
+Frank Ward	fward@sailsinc.org	Richards Memorial Library	7217000	US	Massachusetts	SVOD - A, IF, Q, TGC, Pongalo, MTP, Learn it Live
+Laura Long	Longl@eastmolinelibrary.org	East Moline Public Library	7220947	US	Illinois	VALUE
+Tori Drews	DrewsV@eastmolinelibrary.org	East Moline Public Library	7220947	US	Illinois	VALUE
+Bonnie Fullerton	bfullerton@sccl.org	Santa Clara County Library	7216866	US	California	Acorn TV only
+Lora Cokolat	lcokolat@sccl.org	Santa Clara County Library	7216866	US	California	Acorn TV only
+Virtual Reference	ask@sccl.org	Santa Clara County Library	7216866	US	California	Acorn TV only
+Michele Huie	MHuie@sccl.org	Santa Clara County Library	7216866	US	California	Acorn TV only
+Heekyung Wilhelmi	hwilhelmi@sccl.org	Santa Clara County Library	7216866	US	California	Acorn TV only
+Allison Lew	alew@sccl.org	Santa Clara County Library	7216866	US	California	Acorn TV only
+Ryan Gessner	gessnerryan@mcplibrary.org	Middle Country Public Library	7219694	US	New York	SVOD - All Services
+Elizabeth Malafi	malafielizabeth@middlecountrypubliclibrary.org	Middle Country Public Library	7219694	US	New York	SVOD - All Services
+Debbie Antolini	antolinidebbie@mcplibrary.org	Middle Country Public Library	7219694	US	New York	SVOD - All Services
+Helen Aveline	hmalinka@berlinpeck.org	Berlin-Peck Memorial Library	7220027	US	Connecticut	Value Collection ----- SVOD: Acorn, QC, IF, TGCNC; 520 annual max
+Carrie Tyszka	ctyszka@berlinpeck.org	Berlin-Peck Memorial Library	7220027	US	Connecticut	Value Collection ----- SVOD: Acorn, QC, IF, TGCNC; 520 annual max
+Valerie Dupree	valerie.dupree@mesaaz.gov	Mesa Public Library	7220019	US	Arizona	
+Brandon Williams	brandon.williams@mesaaz.gov	Mesa Public Library	7220019	US	Arizona	
+Liz Costanzo-Lee	liz.costanzo-lee@mesaaz.gov	Mesa Public Library	7220019	US	Arizona	
+Nicole Lind	Nicole.Lind@mesaaz.gov	Mesa Public Library	7220019	US	Arizona	
+Judy McConarty	jmcconarty@ocln.org	Norwell Public Library	7220214	US	Massachusetts	Old Colony Library Network (SVOD - Acorn, IF, QC, Great Courses)
+Diane Rodriguez	drodriguez@ocln.org	Norwell Public Library	7220214	US	Massachusetts	Old Colony Library Network (SVOD - Acorn, IF, QC, Great Courses)
+Sherry Beach	sbeach@claremorecity.com	Will Rogers Library	7214712	US	Oklahoma	Acorn Only
+Jason Scott	scottj@hammond.lib.in.us	Hammond Public Library	7220043	US	Indiana	
+Carol Williams	willic@hammond.lib.in.us	Hammond Public Library	7220043	US	Indiana	
+Jenny Bean	beanj@hammond.lib.in.us	Hammond Public Library	7220043	US	Indiana	
+Rhonda Turley	info@piedmontlibrary.org	Piedmont Public Library	7218372	US	Oklahoma	
+Jean Sanders	jsanders@grpl.org	Grand Rapids Public Library	7220020	US	Michigan	
+Rebecca Near	rnear@grpl.org	Grand Rapids Public Library	7220020	US	Michigan	
+Mary K. Murphy	mmurphy@perry.lib.ia.us	Perry Public Library	7220978	US	Iowa	
+Margaret Peebles	mpeebles@gailborden.info	Gail Borden Public Library	7220067	US	Illinois	
+Besty Oconnell	boconnell@gailborden.info	Gail Borden Public Library	7220067	US	Illinois	
+Kristina Johnston	kjohnston@gailborden.info	Gail Borden Public Library	7220067	US	Illinois	
+Patty Gathman	pgathman@gailborden.info	Gail Borden Public Library	7220067	US	Illinois	
+Phillip Schneider	pschneider@gailborden.info	Gail Borden Public Library	7220067	US	Illinois	
+Melissa Bernasek	mbernasek@gailborden.info	Gail Borden Public Library	7220067	US	Illinois	
+Joan Hull	jhull@gailborden.info	Gail Borden Public Library	7220067	US	Illinois	
+Jennie Lewis	lewisjm@stls.org	Chemung County Library District	7219790	US	New York	SVOD--All services; 502 max annual, 11 max weekly; Automatically add services
+Ronald Shaw	shawr@stls.org	Chemung County Library District	7219790	US	New York	SVOD--All services; 502 max annual, 11 max weekly; Automatically add services
+Mary Beth Revels	mrevels@sjpl.lib.mo.us	St. Joseph Public Library	7219982	US	Missouri	
+Pat Yannarella	pyannare@bcpl.org	Boone County Public Library	7220024	US	Kentucky	
+Carrie Herrmann	cherrman@bcpl.org	Boone County Public Library	7220024	US	Kentucky	
+Rich Webster	rwebster@bcpl.org	Boone County Public Library	7220024	US	Kentucky	
+Katie Justice	kjustice@bcpl.org	Boone County Public Library	7220024	US	Kentucky	
+Digital Support	digitalsupport@bcpl.org	Boone County Public Library	7220024	US	Kentucky	
+Barry Trott	btrott@wrl.org	Williamsburg Regional Library	7220982	US	Virginia	Library of Virginia/Lyrasis-7051842
+Diane Levin	dlevin@evld.org	Eagle Valley Library District	7220534	US	Colorado	Marmot
+Carrie Mae Wack	carriemae@evld.org	Eagle Valley Library District	7220534	US	Colorado	Marmot
+Alex Harvancik	alex@monarchlibraries.org	Horicon Public Library	7220994	US	Wisconsin	Monarch Library System
+Jill Hames	jmhames@hamnerlibrary.org	James L. Hamner Public Library	7218532	US	Virginia	Library of Virginia/Lyrasis-7051842
+Kathy Schmidt	tsorders@fountaindale.lib.il.us	Fountaindale Public Library	7221001	US	Illinois	
+John Matysek	jmatysek@fountaindale.org	Fountaindale Public Library	7221001	US	Illinois	
+Lynnette Hopwood	lhopwood@fountaindale.org	Fountaindale Public Library	7221001	US	Illinois	
+Information Technology	itdept@fountaindale.org	Fountaindale Public Library	7221001	US	Illinois	
+Christina Theobald	ctheobald@fountaindale.lib.il.us	Fountaindale Public Library	7221001	US	Illinois	
+Julie Adamski	jadamski@helenplum.org	Helen Plum Library	7220983	US	Illinois	
+Kristie Leslie	kleslie@helenplum.org	Helen Plum Library	7220983	US	Illinois	
+Kate Pierson	kpierson@helenplum.org	Helen Plum Library	7220983	US	Illinois	
+Claudia Krauspe	ckrauspe@helenplum.org	Helen Plum Library	7220983	US	Illinois	
+Alex Vancina	avancina@helenplum.org	Helen Plum Library	7220983	US	Illinois	
+Andrea Madziarek	andream@svld.net	Smoky Valley Library District	7221003	US	Nevada	
+Jeanne Bleecker	jeanneb@svld.net	Smoky Valley Library District	7221003	US	Nevada	
+Dave Rubin	davidr@svld.net	Smoky Valley Library District	7221003	US	Nevada	
+Maria Fonseca	mfonseca2@mapld.org	Matteson Area Public Library District	7221004	US	Illinois	
+Martha Alcott	malcott@wlsmail.org	Chappaqua Library	7212778	US	New York	SVOD - A, Q
+Jennifer Sharp	jsharp@hplct.org	Hartford Public Library	7220032	US	Connecticut	SVOD--Acorn, QC, IF, Pongalo, Great Courses, Method Test Prep, Learn it Live; 1,000 Annual max, 20 weekly max, 4 per patron per month
+Ivelisse Ortiz	iortiz@hplct.org	Hartford Public Library	7220032	US	Connecticut	SVOD--Acorn, QC, IF, Pongalo, Great Courses, Method Test Prep, Learn it Live; 1,000 Annual max, 20 weekly max, 4 per patron per month
+William Bailey	wbailey@hplct.org	Hartford Public Library	7220032	US	Connecticut	SVOD--Acorn, QC, IF, Pongalo, Great Courses, Method Test Prep, Learn it Live; 1,000 Annual max, 20 weekly max, 4 per patron per month
+Letticia Cotto	lcotto@hplct.org	Hartford Public Library	7220032	US	Connecticut	SVOD--Acorn, QC, IF, Pongalo, Great Courses, Method Test Prep, Learn it Live; 1,000 Annual max, 20 weekly max, 4 per patron per month
+Marie Jarry	mjarry@hplct.org	Hartford Public Library	7220032	US	Connecticut	SVOD--Acorn, QC, IF, Pongalo, Great Courses, Method Test Prep, Learn it Live; 1,000 Annual max, 20 weekly max, 4 per patron per month
+Linda Fox	lfox@newfairfieldlibrary.org	New Fairfield Library	7220013	US	Connecticut	SVOD--Acorn and TGCNC only. Unlimited.
+Cheryl Hansen	chansen@cwmars.org	Charlton Public Library	7219943	US	Massachusetts	SVOD - Acorn, IF, Great Courses, Qello, MTP
+Michael Dietz	it@plainedgelibrary.org	Plainedge Public Library	7221030	US	New York	Nassau
+Nicole Mollick-Polaski	nmollick@plainedgelibrary.org	Plainedge Public Library	7221030	US	New York	Nassau
+Mike Morea	mmorea@goldcoastlibrary.org	Gold Coast Public Library	7220000	US	New York	Nassau - SVOD(all + TGC)
+Richard Brower	rbrower@goldcoastlibrary.org	Gold Coast Public Library	7220000	US	New York	Nassau - SVOD(all + TGC)
+Terry Bivens	terry.bivens@mauneylibrary.org	Mauney Memorial Library	7221032	US	North Carolina	
+Christina Martin	christina.martin@mauneylibrary.org	Mauney Memorial Library	7221032	US	North Carolina	
+Carol Probeyahn	director@eastmeadow.info	East Meadow Public Library	7221033	US	New York	Nassau
+stephanie dwyer	sdwyer@eastmeadow.info	East Meadow Public Library	7221033	US	New York	Nassau
+Amy Mapel	amapel@cityofnewnan.org	Newnan - Carnegie Library	7221037	US	Georgia	
+Alisa Fogel	afogel@SyossetLibrary.org	Syosset Public Library	7220004	US	New York	Nassau - SVOD
+Ed Goldberg	egoldberg@syossetlibrary.org	Syosset Public Library	7220004	US	New York	Nassau - SVOD
+Victoria Hart	vickyh@mvld.org	Mississippi Valley Public Library District	7220022	US	Illinois	Illinois Heartland Library System
+Jeanna Ryner	jeannar@mvld.org	Mississippi Valley Public Library District	7220022	US	Illinois	Illinois Heartland Library System
+Lynn Barker Steinmayer	director@goshenpublib.org	Goshen Public Library	7220965	US	Connecticut	SVOD--Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello; cap of 2 per patron per week
+Mary Mueller	director@bigelowlibrary.org	Bigelow Free Public Library	7221034	US	Massachusetts	SVOD - Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello; Cap is 1 per week per patron
+Debbie Marini	dmarini@cwmars.org	Bigelow Free Public Library	7221034	US	Massachusetts	SVOD - Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello; Cap is 1 per week per patron
+Sara King	sking@jesspublib.org	Jessamine County Public Library	7220017	US	Kentucky	
+David Powell	dpowell@jesspublib.org	Jessamine County Public Library	7220017	US	Kentucky	
+Mary Abner	mabner@jesspublib.org	Jessamine County Public Library	7220017	US	Kentucky	
+Karin Schneider	staff@beekleylibrary.org	Beekley Library	7220014	US	Connecticut	SVOD--TGCNC, Acorn, Qello, IF, MTP, Learn It Live
+Marianne Weill	mweill@greenwichlibrary.org	Greenwich Library	7219020	US	Connecticut	SVOD--Acorn, Qello, IF, TGCNC; 2006 annual max
+Jayshree Trivedi	jtrivedi@greenwichlibrary.org	Greenwich Library	7219020	US	Connecticut	SVOD--Acorn, Qello, IF, TGCNC; 2006 annual max
+Stephen Schmidt	sschmidt@greenwichlibrary.org	Greenwich Library	7219020	US	Connecticut	SVOD--Acorn, Qello, IF, TGCNC; 2006 annual max
+Judy Sgammato	jsgammato@greenwichlibrary.org	Greenwich Library	7219020	US	Connecticut	SVOD--Acorn, Qello, IF, TGCNC; 2006 annual max
+Kevin McCarthy	kevinm@perrotlibrary.org	Greenwich Library	7219020	US	Connecticut	SVOD--Acorn, Qello, IF, TGCNC; 2006 annual max
+Barbara Glynn	bglynn@greenwichlibrary.org	Greenwich Library	7219020	US	Connecticut	SVOD--Acorn, Qello, IF, TGCNC; 2006 annual max
+Rick Langeloh	rlangeloh@greenwichlibrary.org	Greenwich Library	7219020	US	Connecticut	SVOD--Acorn, Qello, IF, TGCNC; 2006 annual max
+Siobhan Schugmann	sschugmann@greenwichlibrary.org	Greenwich Library	7219020	US	Connecticut	SVOD--Acorn, Qello, IF, TGCNC; 2006 annual max
+Theresa Conley	tconley@lymepl.org	Lyme Public Library	7220046	US	Connecticut	SVOD--Acorn, Qello, IF, TGCNC; unlimited
+Laurie Carpenter	laurie@orono.org	Orono Public Library	7221046	US	Maine	SVOD - Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello; 1 token per patron per week
+Karen Lindquist	klindquist@cwmars.org	Bushnell Sage Library	7220050	US	Massachusetts	SVOD--Acorn, IF, Qello, TGCNC; 600 max per week for library
+Delania Adkins	pcpldao5@pikelibrary.org	Pike County Public Library District	7221056	US	Kentucky	
+Total	616

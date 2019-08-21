@@ -1,0 +1,20 @@
+Screen Name	Email	Library	AccountId	Country	State	Start Date	End Date	System Name
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	08/01/2018	07/31/2019	
+Brad Doss	bdoss@recordedbooks.com	Cobb County Public Library System	7220127	US	Georgia	09/01/2019	08/31/2020	
+Brad Doss	bdoss@recordedbooks.com	Queens Public Library	7221079	US	New York	07/17/2019	07/31/2020	
+Brad Doss	bdoss@recordedbooks.com	Norfolk Public Library	7212552	US	Virginia	02/01/2019	01/31/2020	Library of Virginia/Lyrasis-7051842 ACORN TV ONLY
+Brad Doss	bdoss@recordedbooks.com	Montgomery County Public Library	7220466	US	Maryland	04/01/2019	11/30/2019	
+Brad Doss	bdoss@recordedbooks.com	Enoch Pratt Free Library	7220410	US	Maryland	11/13/2018	10/31/2019	
+Brad Doss	bdoss@recordedbooks.com	Chesapeake Public Library	7220839	US	Virginia	05/01/2019	10/31/2019	Library of Virginia/Lyrasis-7051842
+Brad Doss	bdoss@recordedbooks.com	Cobb County Public Library System	7220127	US	Georgia	11/13/2018	08/31/2019	
+Brad Doss	bdoss@recordedbooks.com	Norfolk Public Library	7212552	US	Virginia	12/11/2018	01/31/2019	Library of Virginia/Lyrasis-7051842 ACORN TV ONLY
+Brad Doss	bdoss@recordedbooks.com	Orange County Library System	7220240	US	Florida	11/13/2018	11/13/2018	No MTP
+Brad Gray	bgray@recordedbooks.com	Georgia Power Company - Trial	trial	US	Georgia	02/01/2019	01/31/2020	
+Brian Gilbert	bgilbert@recordedbooks.com	Smyrna Public Library	7220861	US	Georgia	04/01/2019	03/31/2020	GADD
+Brian Gilbert	bgilbert@recordedbooks.com	Greater Clarks Hill Regional Library System	7214592	US	Georgia	03/01/2019	02/29/2020	GADD SVOD - A, IF, Q-unl
+Brian Gilbert	bgilbert@recordedbooks.com	Chelsea Public Library	7220061	US	Alabama	11/15/2018	09/30/2019	
+Brian Gilbert	bgilbert@recordedbooks.com	Mandel Public Library	7220612	US	Florida	01/01/2019	01/31/2019	
+Chris Pitcher	cpitcher@recordedbooks.com	Rock Springs High School	7220496	US	Wyoming	12/01/2018	11/30/2019	SVOD - Method Test Prep
+Clayton Strickland	cstrickland@recordedbooks.com	Pointe Coupee Parish Library	7220021	US	Louisiana	08/01/2019	07/31/2020	Value Collection
+Clayton Strickland	cstrickland@recordedbooks.com	Northeast Lakeview College		US	Texas	07/01/2019	06/30/2020	
+Clayton Strickland	cstrickland@recordedbooks.com	Kilgore Public Library	7218232	US	Texas	06/01/2019	05/31/2020	

@@ -1,0 +1,9 @@
+Screen Name	Email	Library	AccountId	Country	State	System Name
+Harriet Protos	libfl@mfo.org	Multinational Force and Observers	7220083	EG	Military	
+Rita Moltzan	ritam@aisabuja.com	American International School Abuja		NG	Nigera	
+Paul Ericksen	paule@aisabuja.com	American International School Abuja		NG	Nigera	
+Carolyn Jeziorski	carolyn.jeziorski@aisabuja.com	American International School Abuja		NG	Nigera	
+IT Director	aisa@aisabuja.com	American International School Abuja		NG	Nigera	
+Kate Davis	kate.davis@aisabuja.com	American International School Abuja		NG	Nigera	
+John Hinkle	john.hinkle@aisabuja.com	American International School Abuja		NG	Nigera	
+Total	7

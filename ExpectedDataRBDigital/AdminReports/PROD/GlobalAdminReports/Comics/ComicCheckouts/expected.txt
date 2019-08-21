@@ -1,0 +1,1733 @@
+For Period: from 01/01/2017 to 01/22/2017
+Title	Barcode	Email	Library	RBID	Checkouts	Time Period	Current Issue Default	Status
+Mars Attacks, Vol. 1: Attack From Space				RBC0387513	0	Monthly	25	Active
+Angel: Old Friends				RBC0387451	0	Monthly	25	Active
+Rocketeer Adventures, Vol. 1				RBC0387917	0	Monthly	25	Active
+Angel: Spotlight				RBC0387453	0	Monthly	25	Active
+Parker: The Hunter				RBC0387524	0	Monthly	25	Active
+Parker: The Score				RBC0455711	0	Monthly	25	Active
+Popeye: Classics, Vol. 2				RBC0388030	0	Monthly	25	Active
+Popeye: Classics, Vol. 1				RBC0388153	0	Monthly	25	Active
+Angel: The Curse				RBC0387455	0	Monthly	25	Active
+Samurai Jack, Vol. 4: The Warrior-King				RBC0387746	0	Monthly	25	Active
+Samurai Jack, Vol. 3: Quest For The Broken Blade				RBC0387745	0	Monthly	25	Active
+Samurai Jack, Vol. 2: The Scotsman's Curse				RBC0387744	0	Monthly	25	Active
+Samurai Jack, Vol. 1: The Threads of Time				RBC0387743	0	Monthly	25	Active
+Shadow Show: Stories In Celebration of Ray Bradbury				RBC0387531	0	Monthly	25	Active
+Shockrockets				RBC0387532	0	Monthly	25	Active
+Silent Hill: Dying Inside				RBC0387533	0	Monthly	25	Active
+Spike: After The Fall, Vol.1				RBC0387976	0	Monthly	25	Active
+Star Mage				RBC0387539	0	Monthly	25	Active
+Star Slammers: The Complete Collection by Walter Simonson				RBC0387975	0	Monthly	25	Active
+Star Trek, Vol. 6: After Darkness				RBC0387426	0	Monthly	25	Active
+Star Trek, Vol. 5				RBC0387443	0	Monthly	25	Active
+Star Trek, Vol. 4				RBC0387442	0	Monthly	25	Active
+Star Trek, Vol. 3				RBC0387441	0	Monthly	25	Active
+Star Trek, Vol. 2				RBC0387440	0	Monthly	25	Active
+Star Trek, Vol. 1				RBC0387439	0	Monthly	25	Active
+Star Trek Vol. 9: The Q Gambit				RBC0424302	0	Monthly	25	Active
+Star Trek Vol. 8				RBC0424301	0	Monthly	25	Active
+Star Trek Vol. 7				RBC0424300	0	Monthly	25	Active
+Superstar: As Seen On TV				RBC0387542	0	Monthly	25	Active
+The Crow: Midnight Legends, Vol. 4: Waking Nightmares				RBC0387546	0	Monthly	25	Active
+The Crow: Midnight Legends, Vol. 3: Wild Justice				RBC0387545	0	Monthly	25	Active
+The Crow: Midnight Legends, Vol. 2: Flesh & Blood				RBC0387544	0	Monthly	25	Active
+The Crow: Midnight Legends, Vol. 1: Dead Time				RBC0387543	0	Monthly	25	Active
+The Crow: Memento Mori				RBC0457461	0	Monthly	25	Active
+The Hammer: Kelley Jones' Complete Series				RBC0387548	0	Monthly	25	Active
+The Lovely Horrible Stuff				RBC0387549	0	Monthly	25	Active
+The Maxx: Maxximized, Vol. 2				RBC0387551	0	Monthly	25	Active
+The Maxx: Maxximized, Vol. 1				RBC0387550	0	Monthly	25	Active
+The Rocketeer: Cargo of Doom				RBC0387553	0	Monthly	25	Active
+Danger Girl: Trinity				RBC0387469	0	Monthly	25	Active
+Torpedo, Volume 1				RBC0387557	0	Monthly	25	Active
+Transformers: Animated, Vol. 09				RBC0387574	0	Monthly	25	Active
+Transformers: Animated, Vol. 08				RBC0387573	0	Monthly	25	Active
+Transformers: Animated, Vol. 07				RBC0387572	0	Monthly	25	Active
+Transformers: Animated, Vol. 06				RBC0387571	0	Monthly	25	Active
+Transformers: Animated, Vol. 05				RBC0387570	0	Monthly	25	Active
+Transformers: Animated, Vol. 04				RBC0387569	0	Monthly	25	Active
+Transformers: Animated, Vol. 03				RBC0387568	0	Monthly	25	Active
+Transformers: Animated, Vol. 02				RBC0387567	0	Monthly	25	Active
+Transformers: Animated, Vol. 13				RBC0387566	0	Monthly	25	Active
+Transformers: Animated Vol. 12				RBC0387565	0	Monthly	25	Active
+Transformers: Animated, Vol. 11				RBC0387564	0	Monthly	25	Active
+Transformers: Animated, Vol. 10				RBC0387563	0	Monthly	25	Active
+Transformers: Animated Vol. 01				RBC0387562	0	Monthly	25	Active
+Triple Helix				RBC0387594	0	Monthly	25	Active
+True Blood Vol. 1: Where Were You				RBC0387595	0	Monthly	25	Active
+Upside Down, Book 1: A Vampire Tale				RBC0387598	0	Monthly	25	Active
+Transformers: Spotlight - Bumblebee				RBC0387593	0	Monthly	25	Active
+Transformers: Sector 7				RBC0387592	0	Monthly	25	Active
+Transformers: Robots in Disguise, Vol. 5				RBC0387591	0	Monthly	25	Active
+Transformers: Robots in Disguise, Vol. 4				RBC0387590	0	Monthly	25	Active
+Transformers: Robots in Disguise, Vol. 3				RBC0387589	0	Monthly	25	Active
+Transformers: Robots in Disguise, Vol. 2				RBC0387588	0	Monthly	25	Active
+Transformers: Robots in Disguise, Vol. 1				RBC0387587	0	Monthly	25	Active
+Crysis				RBC0389798	0	Monthly	25	Active
+Spring 2018				RBC0419706	0	Annually	25	Active
+Summer 2018				RBC0419707	0	Annually	25	Active
+Fall 2018				RBC0419708	0	Annually	25	Active
+Winter 2018				RBC0419709	0	Annually	25	Active
+Spring 2019				RBC0432264	0	Annually	25	Active
+Summer 2019				RBC0432265	0	Annually	25	Active
+Transformers: Regeneration One, Vol. 2				RBC0387586	0	Monthly	25	Active
+Transformers: Regeneration One, Vol. 1				RBC0387585	0	Monthly	25	Active
+Transformers: Prime - Beast Hunters, Vol. 2				RBC0387583	0	Monthly	25	Active
+Transformers: Prime - Beast Hunters, Vol. 1				RBC0387582	0	Monthly	25	Active
+Transformers: Prime - Beast Hunters, Welcome to Darkmount				RBC0387584	0	Monthly	25	Active
+Transformers: More Than Meets the Eye, Volume 5				RBC0387580	0	Monthly	25	Active
+Transformers: More Than Meets the Eye, Volume 4				RBC0387579	0	Monthly	25	Active
+Transformers: More Than Meets the Eye, Volume 3				RBC0387578	0	Monthly	25	Active
+Transformers: More Than Meets the Eye, Volume 2				RBC0387577	0	Monthly	25	Active
+Transformers: More Than Meets the Eye Volume 1				RBC0387576	0	Monthly	25	Active
+Transformers: Animated - The Allspark Almanac II				RBC0387561	0	Monthly	25	Active
+Transformers: Animated - The Allspark Almanac I				RBC0387560	0	Monthly	25	Active
+Transformers Volume 7 - Chaos				RBC0387558	0	Monthly	25	Active
+Cold War, Vol 1: The Damocles Contract				RBC0387463	0	Monthly	25	Active
+Kill Shakespeare, Volume 1: A Sea of Troubles				RBC0387512	0	Monthly	25	Active
+Kill Shakespeare Volume Kill Shakespeare, Volume 2: The Blast of War				RBC0387919	0	Monthly	25	Active
+X-MEN: SECOND COMING - Special				RBC0424672	0	Monthly	25	Active
+October 2017				RBC0391595	0	Annually	25	Active
+November 2017				RBC0391596	0	Annually	25	Active
+December 2017				RBC0391597	0	Annually	25	Active
+January 2018				RBC0391598	0	Annually	25	Active
+February 2018				RBC0391599	0	Annually	25	Active
+March 2018				RBC0391600	0	Annually	25	Active
+April 2018				RBC0391601	0	Annually	25	Active
+May 2018				RBC0391602	0	Annually	25	Active
+June 2018				RBC0391603	0	Annually	25	Active
+July 2018				RBC0391604	0	Annually	25	Active
+August 2018				RBC0391605	0	Annually	25	Active
+January 2017				RBC0394527	0	Annually	25	Active
+March 2017				RBC0394528	0	Annually	25	Active
+May 2017				RBC0394529	0	Annually	25	Active
+July 2017				RBC0394530	0	Annually	25	Active
+September 2017				RBC0394531	0	Annually	25	Active
+November 2017				RBC0394532	0	Annually	25	Active
+January 2018				RBC0394533	0	Annually	25	Active
+March 2018				RBC0394534	0	Annually	25	Active
+May 2018				RBC0394535	0	Annually	25	Active
+July 2018				RBC0394536	0	Annually	25	Active
+September 2018				RBC0394537	0	Annually	25	Active
+November 2018				RBC0394538	0	Annually	25	Active
+January - February 2014				RBC0392529	0	Annually	25	Active
+Classic Preview 2014				RBC0392530	0	Annually	25	Active
+March 2014				RBC0392531	0	Annually	25	Active
+April 2014				RBC0392532	0	Annually	25	Active
+May 2014				RBC0392533	0	Annually	25	Active
+June 2014				RBC0392534	0	Annually	25	Active
+July - August 2014				RBC0392535	0	Annually	25	Active
+September - October 2014				RBC0392536	0	Annually	25	Active
+November - December 2014				RBC0392537	0	Annually	25	Active
+January - February 2015				RBC0392538	0	Annually	25	Active
+Classic Preview 2015				RBC0392539	0	Annually	25	Active
+March 2015				RBC0392540	0	Annually	25	Active
+April 2015				RBC0392541	0	Annually	25	Active
+May 2015				RBC0392542	0	Annually	25	Active
+June 2015				RBC0392543	0	Annually	25	Active
+July - August 2015				RBC0392544	0	Annually	25	Active
+September - October 2015				RBC0392545	0	Annually	25	Active
+November - December 2015				RBC0392546	0	Annually	25	Active
+January - February 2016				RBC0392547	0	Annually	25	Active
+Classic Preview 2016				RBC0392548	0	Annually	25	Active
+March 2016				RBC0392549	0	Annually	25	Active
+April 2016				RBC0392550	0	Annually	25	Active
+May 2016				RBC0392551	0	Annually	25	Active
+June 2016				RBC0392552	0	Annually	25	Active
+July - August 2016				RBC0392553	0	Annually	25	Active
+September - October 2016				RBC0392554	0	Annually	25	Active
+November - December 2016				RBC0392555	0	Annually	25	Active
+January - February 2017				RBC0390816	0	Annually	25	Active
+Classic Preview 2017				RBC0390817	0	Annually	25	Active
+March 2017				RBC0390818	0	Annually	25	Active
+April 2017				RBC0390819	0	Annually	25	Active
+May 2017				RBC0390820	0	Annually	25	Active
+June 2017				RBC0390821	0	Annually	25	Active
+July - August 2017				RBC0390822	0	Annually	25	Active
+September - October 2017				RBC0390823	0	Annually	25	Active
+November - December 2017				RBC0390824	0	Annually	25	Active
+January - February 2018				RBC0390825	0	Annually	25	Active
+Classic Preview 2018				RBC0390826	0	Annually	25	Active
+March 2018				RBC0390827	0	Annually	25	Active
+April 2018				RBC0390828	0	Annually	25	Active
+May 2018				RBC0390829	0	Annually	25	Active
+June 2018				RBC0390830	0	Annually	25	Active
+July - August 2018				RBC0390831	0	Annually	25	Active
+September - October 2018				RBC0390832	0	Annually	25	Active
+November - December 2018				RBC0390833	0	Annually	25	Active
+January/February 2019				RBC0430286	0	Annually	25	Active
+Classic Preview 2019				RBC0430287	0	Annually	25	Active
+March 2019				RBC0430288	0	Annually	25	Active
+April 2019				RBC0430289	0	Annually	25	Active
+May 2019				RBC0430290	0	Annually	25	Active
+June 2019				RBC0430291	0	Annually	25	Active
+Winter 2016-2017				RBC0402881	0	Annually	25	Active
+Spring 2017				RBC0402882	0	Annually	25	Active
+Summer 2017				RBC0402883	0	Annually	25	Active
+Autumn 2017				RBC0391206	0	Annually	25	Active
+Spring 2018				RBC0391208	0	Annually	25	Active
+Winter 2017-2018				RBC0391207	0	Annually	25	Active
+Summer 2018				RBC0391209	0	Annually	25	Active
+Autumn 2018				RBC0391210	0	Annually	25	Active
+Winter 2018/2019				RBC0446910	0	Annually	25	Active
+Spring 2019				RBC0447283	0	Annually	25	Active
+Summer 2019				RBC0447284	0	Annually	25	Active
+July/August 2017				RBC0423424	0	Annually	25	Active
+September/October 2017				RBC0423425	0	Annually	25	Active
+November/December 2017				RBC0423426	0	Annually	25	Active
+January/ February 2018				RBC0423427	0	Annually	25	Active
+March/April 2018				RBC0423428	0	Annually	25	Active
+May/June 2018				RBC0423429	0	Annually	25	Active
+July/August 2018				RBC0423430	0	Annually	25	Active
+September/October 2018				RBC0423431	0	Annually	25	Active
+November/December 2018				RBC0423432	0	Annually	25	Active
+January/February 2019				RBC0423433	0	Annually	25	Active
+March/April 2019				RBC0423434	0	Annually	25	Active
+May/June 2019				RBC0423435	0	Annually	25	Active
+Winter 2017				RBC0423566	0	Annually	25	Active
+Spring 2018				RBC0423567	0	Annually	25	Active
+Summer 2018				RBC0423568	0	Annually	25	Active
+Fall 2018				RBC0423569	0	Annually	25	Active
+Winter 2018				RBC0423570	0	Annually	25	Active
+Spring 2019				RBC0423571	0	Annually	25	Active
+Summer 2019				RBC0423572	0	Annually	25	Active
+BLACK WIDOW VOL. 1: S.H.I.E.L.D.S MOST WANTED - Special				RBC0424415	0	Annually	25	Active
+BLACK WIDOW VOL. 2: NO MORE SECRETS - Special				RBC0424416	0	Annually	25	Active
+Transformers 3 Movie Adaptation - Dark of the Moon				RBC0387431	0	Monthly	25	Active
+Star Trek: Next Generation - Ghosts				RBC0387430	0	Monthly	25	Active
+Star Trek: Countdown To Darkness				RBC0387427	0	Monthly	25	Active
+Monster & Madman				RBC0387515	0	Monthly	25	Active
+Spike: The Devil You Know				RBC0387538	0	Monthly	25	Active
+Doomsday.1				RBC0406800	0	Monthly	25	Active
+Back to the Future, Vol. 1: Untold Tales and Alternate Timelines				RBC0406797	0	Monthly	25	Active
+Back To The Future, Vol. 2: Continuum Conundrum				RBC0429707	0	Monthly	25	Active
+Back To The Future: Citizen Brown				RBC0429708	0	Monthly	25	Active
+Back To The Future, Vol. 3: Who Is Marty McFly				RBC0429709	0	Monthly	25	Active
+Back To The Future, Vol. 4: Hard Time				RBC0429710	0	Monthly	25	Active
+Back to the Future: Tales from the Time Train				RBC0457452	0	Monthly	25	Active
+Surfside Girls, Book One: The Secret of Danger Point				RBC0406818	0	Monthly	25	Active
+Less Than Heroes				RBC0387733	0	Monthly	25	Active
+Death By Chocolate: Redux				RBC0387471	0	Monthly	25	Active
+Dead Rising: Road to Fortune				RBC0387470	0	Monthly	25	Active
+Judas: The Last Days				RBC0387506	0	Monthly	25	Active
+Spike: Asylum				RBC0387537	0	Monthly	25	Active
+Silent Hill: Past Life				RBC0387534	0	Monthly	25	Active
+Rocketeer Adventures, Vol. 2				RBC0387529	0	Monthly	25	Active
+Mars Attacks: First Born				RBC0387514	0	Monthly	25	Active
+Judge Dredd: Year One				RBC0387511	0	Monthly	25	Active
+Godzilla: Kingdom of Monsters, Volume 1				RBC0387498	0	Monthly	25	Active
+G.I. Joe: The Cobra Files, Vol. 2				RBC0387490	0	Monthly	25	Active
+G.I. Joe: The Cobra Files, Vol. 1				RBC0387489	0	Monthly	25	Active
+G.I. Joe: Special Missions, Vol. 1				RBC0387488	0	Monthly	25	Active
+G.I. Joe: Snake Eyes: Agent of Cobra				RBC0387487	0	Monthly	25	Active
+G.I. Joe: Retaliation Movie Prequel				RBC0387486	0	Monthly	25	Active
+G.I. Joe: Deep Terror				RBC0387485	0	Monthly	25	Active
+G.I Joe: Cobra Civil War Vol. 1				RBC0424290	0	Monthly	25	Active
+G.I. Joe: Classics Yearbook				RBC0387898	0	Monthly	25	Active
+G.I. Joe: Classics Vol. 3				RBC0424288	0	Monthly	25	Active
+G.I. Joe: Classics Vol. 2				RBC0424287	0	Monthly	25	Active
+G.I. Joe: Classics Vol. 1				RBC0424286	0	Monthly	25	Active
+G.I. Joe: Classics, Vol. 4				RBC0429672	0	Monthly	25	Active
+G.I. Joe: Classics, Vol. 7				RBC0429675	0	Monthly	25	Active
+G.I. Joe: Classics, Vol. 8				RBC0429676	0	Monthly	25	Active
+G.I. Joe, Vol. 2: The Fall of G.I. Joe				RBC0387481	0	Monthly	25	Active
+G.I. Joe, Vol. 1: The Fall of G.I. Joe				RBC0387480	0	Monthly	25	Active
+Chasing the Dead				RBC0406798	0	Monthly	25	Active
+Dinosaurs Attack!				RBC0406799	0	Monthly	25	Active
+Galaxy Quest: The Journey Continues				RBC0406801	0	Monthly	25	Active
+Spike Vs. Dracula: Collected Edition				RBC0406817	0	Monthly	25	Active
+Judge Dredd: Mega-City Two				RBC0406803	0	Monthly	25	Active
+Return of the Dapper Men				RBC0406815	0	Monthly	25	Active
+Home Time: Book One				RBC0406802	0	Monthly	25	Active
+Sh_t My President Says: The Illustrated Tweets of Donald J. Trump				RBC0406816	0	Monthly	25	Active
+Angel: Masks				RBC0387444	0	Monthly	25	Active
+Land of the Dead				RBC0387732	0	Monthly	25	Active
+Judge Dredd, Vol. 4: Thirteen Badges				RBC0387510	0	Monthly	25	Active
+Judge Dredd, Vol. 3				RBC0387509	0	Monthly	25	Active
+Judge Dredd, Vol. 2				RBC0387508	0	Monthly	25	Active
+Judge Dredd, Vol. 1				RBC0387507	0	Monthly	25	Active
+Judge Dredd, Vol. 5				RBC0426994	0	Monthly	25	Active
+Joe Frankenstein				RBC0387505	0	Monthly	25	Active
+Angel: Blood and Trenches				RBC0387447	0	Monthly	25	Active
+Jinnrise, Vol.2				RBC0387504	0	Monthly	25	Active
+Jinnrise, Vol. 1				RBC0387503	0	Monthly	25	Active
+Jack Avarice Is The Courier				RBC0387748	0	Monthly	25	Active
+Angel: Barbary Coast				RBC0387450	0	Monthly	25	Active
+Hey Mister Come Hell or Highwater Pants				RBC0387502	0	Monthly	25	Active
+Heck				RBC0387501	0	Monthly	25	Active
+Angel: A Hole in the World				RBC0387449	0	Monthly	25	Active
+30 Days of Night: Return to Barrow				RBC0387436	0	Monthly	25	Active
+Hawken: A Man Called Hawken				RBC0387500	0	Monthly	25	Active
+Graveslinger				RBC0387499	0	Monthly	25	Active
+30 Days of Night, Vol. 1: The Beginning of the End				RBC0387437	0	Monthly	25	Active
+Godzilla, Vol. 1				RBC0387497	0	Monthly	25	Active
+Ghostbusters, Vol. 9: Mass Hysteria, Pt. 2				RBC0387496	0	Monthly	25	Active
+Ghostbusters, Vol. 8: Mass Hysteria, Pt. 1				RBC0387495	0	Monthly	25	Active
+Ghostbusters, Vol. 7: Happy Horror Days				RBC0387494	0	Monthly	25	Active
+Ghostbusters, Vol. 6: Trains Brains Remains				RBC0387493	0	Monthly	25	Active
+Ghostbusters, Vol. 5: The New Ghostbusters				RBC0387492	0	Monthly	25	Active
+George R.R. Martin's Doorways				RBC0387491	0	Monthly	25	Active
+G.I. Joe: A Real American Hero Vol. 3				RBC0387484	0	Monthly	25	Active
+G.I. Joe: A Real American Hero, Vol. 2				RBC0387483	0	Monthly	25	Active
+G.I. Joe: A Real American Hero, Vol. 1				RBC0387482	0	Monthly	25	Active
+G.I. Joe: A Real American Hero, Vol. 4				RBC0429684	0	Monthly	25	Active
+G.I. Joe: A Real American Hero, Vol. 5				RBC0429685	0	Monthly	25	Active
+G.I. Joe: A Real American Hero, Vol. 6				RBC0429686	0	Monthly	25	Active
+G.I. Joe: A Real American Hero, Vol. 7				RBC0429687	0	Monthly	25	Active
+G.I. Joe: A Real American Hero, Vol. 8				RBC0429688	0	Monthly	25	Active
+G.I. Joe: A Real American Hero, Vol. 9				RBC0429689	0	Monthly	25	Active
+G.I. Joe: A Real American Hero, Vol. 10				RBC0429690	0	Monthly	25	Active
+G.I. Joe: A Real American Hero Vol. 14				RBC0455700	0	Monthly	25	Active
+G.I. Joe: A Real American Hero Vol. 11				RBC0455697	0	Monthly	25	Active
+G.I. Joe: A Real American Hero Vol. 13				RBC0455699	0	Monthly	25	Active
+G.I. Joe: A Real American Hero Vol. 15				RBC0455701	0	Monthly	25	Active
+G.I. Joe: A Real American Hero Vol. 16				RBC0455702	0	Monthly	25	Active
+G.I. Joe: A Real American Hero Vol. 17				RBC0455703	0	Monthly	25	Active
+G.I. Joe: A Real American Hero Vol. 18				RBC0455704	0	Monthly	25	Active
+G.I. Joe: A Real American Hero Vol. 19				RBC0455705	0	Monthly	25	Active
+G.I. Joe: A Real American Hero Vol. 20				RBC0455706	0	Monthly	25	Active
+G.I. Joe: A Real American Hero Vol. 12				RBC0455698	0	Monthly	25	Active
+Fox Bunny Funny				RBC0387479	0	Monthly	25	Active
+Drive				RBC0387472	0	Monthly	25	Active
+Comic Book History of Comics				RBC0387464	0	Monthly	25	Active
+Comic Book History of Comics: Comics For All				RBC0455807	0	Monthly	25	Active
+Borderlands: Origins				RBC0387461	0	Monthly	25	Active
+Belladonna				RBC0387460	0	Monthly	25	Active
+Barack Obama: The Comic Book Biography				RBC0387459	0	Monthly	25	Active
+Angora Napkin, Vol. 2: Harvest of Revenge				RBC0387458	0	Monthly	25	Active
+Angora Napkin, Vol. 1				RBC0387457	0	Monthly	25	Active
+Angel: Immortality For Dummies				RBC0387446	0	Monthly	25	Active
+Angel: The Wolf, The Ram, and The Heart				RBC0387456	0	Monthly	25	Active
+Angel: The Crown Prince Syndrome				RBC0387454	0	Monthly	25	Active
+Army of Two, Vol. 1: Across The Border				RBC0389796	0	Monthly	25	Active
+Black Dynamite				RBC0389797	0	Monthly	25	Active
+Angel: Only Human				RBC0387452	0	Monthly	25	Active
+Night Mary				RBC0387519	0	Monthly	25	Active
+Danger Girl: Revolver				RBC0387468	0	Monthly	25	Active
+Jurassic Park: Dangerous Games				RBC0389842	0	Monthly	25	Active
+Silent Hill: Dead/Alive				RBC0389685	0	Monthly	25	Active
+Silent Hill: Downpour - Anne's Story				RBC0389873	0	Monthly	25	Active
+Silent Hill: Sinner's Reward				RBC0389774	0	Monthly	25	Active
+The High Ways				RBC0389775	0	Monthly	25	Active
+Transformers: Nefarious				RBC0389776	0	Monthly	25	Active
+Transformers: Revenge of the Fallen Movie Adaptation				RBC0389874	0	Monthly	25	Active
+Transformers Movie Sequel: The Reign of Starscream				RBC0389777	0	Monthly	25	Active
+CSI: Serial				RBC0387466	0	Monthly	25	Active
+James Patterson's The Murder of King Tut				RBC0389802	0	Monthly	25	Active
+Angel: Auld Lang Syne				RBC0387448	0	Monthly	25	Active
+30 Days of Night				RBC0387434	0	Monthly	25	Active
+Korgi: Short Tails				RBC0406804	0	Monthly	25	Active
+CSI: Bad Rap				RBC0387465	0	Monthly	25	Active
+Wire Hangers				RBC0387600	0	Monthly	25	Active
+OZ: Secret Island				RBC0406812	0	Monthly	25	Active
+OZ: Ice King				RBC0406811	0	Monthly	25	Active
+OZ: Forgotten Forest				RBC0406810	0	Monthly	25	Active
+OZ: Blue Witch				RBC0406809	0	Monthly	25	Active
+True Blood Vol. 3: The French Quarter				RBC0389778	0	Monthly	25	Active
+Mr. Peabody & Sherman				RBC0387516	0	Monthly	25	Active
+Skylanders: The Kaos Trap				RBC0387536	0	Monthly	25	Active
+Skylanders: Rift Into Overdrive				RBC0387535	0	Monthly	25	Active
+Skylanders: Spyro & Friends				RBC0429679	0	Monthly	25	Active
+Popeye, Vol. 1				RBC0387527	0	Monthly	25	Active
+Popeye, Vol. 3				RBC0406814	0	Monthly	25	Active
+Popeye, Vol. 2				RBC0406813	0	Monthly	25	Active
+Love & Capes, Vol. 2: Going to the Chapel				RBC0388027	0	Monthly	25	Active
+Love & Capes, Vol. 1: Do You Want to Know a Secret?				RBC0387739	0	Monthly	25	Active
+24: Underground				RBC0387433	0	Monthly	25	Active
+110 Percent				RBC0387432	0	Monthly	25	Active
+30 Days of Night: Beyond Barrow				RBC0387435	0	Monthly	25	Active
+Life and Times of Savior 28				RBC0387734	0	Monthly	25	Active
+Lore: Book 1				RBC0387738	0	Monthly	25	Active
+OPUS by Berkeley Breathed: The Complete Digital Sunday Strips from 2003-08				RBC0387522	0	Monthly	25	Active
+Wizard's Tale				RBC0387601	0	Monthly	25	Active
+Magic the Gathering: Vol. 2 - The Spell Thief				RBC0387742	0	Monthly	25	Active
+Dungeons & Dragons: Drizzt - Neverwinter Tales				RBC0387478	0	Monthly	25	Active
+Dungeons & Dragons: Cutter				RBC0387477	0	Monthly	25	Active
+5 Days to Die				RBC0389805	0	Monthly	25	Active
+Transformers vs. G.I. Joe, Vol. 1				RBC0387559	0	Monthly	25	Active
+Transformers vs. G.I. Joe, Vol. 3				RBC0426997	0	Monthly	25	Active
+Transformers vs. G.I. Joe, Vol. 2				RBC0426996	0	Monthly	25	Active
+Kill Shakespeare, Volume 3: The Tide of Blood				RBC0387730	0	Monthly	25	Active
+My Little Pony: Friendship Is Magic, Vol. 2				RBC0387518	0	Monthly	25	Active
+My Little Pony: Friendship Is Magic, Vol. 1				RBC0387517	0	Monthly	25	Active
+My Little Pony: Friendship is Magic Vol. 3				RBC0429691	0	Monthly	25	Active
+My Little Pony: Friendship is Magic, Vol. 5				RBC0429693	0	Monthly	25	Active
+My Little Pony: Friendship Is Magic, Vol. 9				RBC0429695	0	Monthly	25	Active
+My Little Pony: Friendship is Magic, Vol. 4				RBC0429692	0	Monthly	25	Active
+My Little Pony: Friendship is Magic, Vol. 6				RBC0429694	0	Monthly	25	Active
+My Little Pony: Friendship is Magic, Vol. 7				RBC0429696	0	Monthly	25	Active
+My Little Pony: Friendship Is Magic, Vol. 8				RBC0429697	0	Monthly	25	Active
+My Little Pony: Friendship Is Magic, Vol. 10				RBC0429698	0	Monthly	25	Active
+My Little Pony: Friendship is Magic, Vol. 11				RBC0455775	0	Monthly	25	Active
+My Little Pony: Friendship is Magic, Vol. 12				RBC0455776	0	Monthly	25	Active
+My Little Pony: Friendship is Magic, Vol. 13				RBC0455777	0	Monthly	25	Active
+My Little Pony: Friendship is Magic, Vol. 14				RBC0455778	0	Monthly	25	Active
+Orphan Black, Vol. 1				RBC0387523	0	Monthly	25	Active
+Orphan Black: Deviations				RBC0429683	0	Monthly	25	Active
+Magic the Gathering, Vol. 3: Path of Vengeance				RBC0389876	0	Monthly	25	Active
+30 Days of Night: Dark Days				RBC0387438	0	Monthly	25	Active
+Angel: Smile Time - Collected Edition				RBC0389781	0	Monthly	25	Active
+Gate-way, Vol. 1: A New World				RBC0389801	0	Monthly	25	Active
+Minisulk				RBC0389843	0	Monthly	25	Active
+Rot & Ruin: Warrior Smart				RBC0389844	0	Monthly	25	Active
+Phoenix Without Ashes				RBC0387525	0	Monthly	25	Active
+Suicide Forest				RBC0387541	0	Monthly	25	Active
+The Devil's Concubine				RBC0387547	0	Monthly	25	Active
+The Other Dead				RBC0387552	0	Monthly	25	Active
+Alan Robert's Killogy				RBC0389780	0	Monthly	25	Active
+Children of the Grave				RBC0387462	0	Monthly	25	Active
+Dungeons & Dragons Forgotten Realms Classics Vol. 4				RBC0387476	0	Monthly	25	Active
+Dungeons & Dragons Forgotten Realms Classics Vol. 3				RBC0387475	0	Monthly	25	Active
+Dungeons & Dragons Forgotten Realms Classics Vol. 2				RBC0387474	0	Monthly	25	Active
+Dungeons & Dragons Forgotten Realms Classics Vol. 1				RBC0387473	0	Monthly	25	Active
+Night of 1,000 Wolves				RBC0387520	0	Monthly	25	Active
+Vitriol the Hunter				RBC0387599	0	Monthly	25	Active
+X-Files/30 Days of Night, Vol. 1				RBC0387747	0	Monthly	25	Active
+True Blood, Vol. 2: Tainted Love				RBC0387597	0	Monthly	25	Active
+True Blood, Vol. 1: All Together Now				RBC0387596	0	Monthly	25	Active
+Stuff About Sex				RBC0387540	0	Monthly	25	Active
+Okie Dokie Donuts, Book 1				RBC0387521	0	Monthly	25	Active
+Magic the Gathering: Theros				RBC0387741	0	Monthly	25	Active
+Magic: The Gathering, Vol. 1				RBC0388028	0	Monthly	25	Active
+Kill Shakespeare, Vol. 4: The Mask of Night				RBC0387731	0	Monthly	25	Active
+Road Rage				RBC0387528	0	Monthly	25	Active
+Rio				RBC0387977	0	Monthly	25	Active
+James Patterson's Witch & Wizard, Vol. 1: Battle for Shadowland				RBC0389803	0	Monthly	25	Active
+The X-Files: Year Zero				RBC0387556	0	Monthly	25	Active
+Maddy Kettle (Book 1): The Adventure of the Thimblewitch				RBC0387740	0	Monthly	25	Active
+Danger Girl Deluxe				RBC0387467	0	Monthly	25	Active
+J. Scott Campbells Danger Girl: 20th Anniversary!				RBC0455733	0	Monthly	25	Active
+Starstruck				RBC0387973	0	Monthly	25	Active
+American Elf 1999				RBC0423975	0	Monthly	25	Active
+American Elf 2000				RBC0423976	0	Monthly	25	Active
+American Elf 2001				RBC0423977	0	Monthly	25	Active
+American Elf 2002				RBC0423978	0	Monthly	25	Active
+American Elf 2003				RBC0423979	0	Monthly	25	Active
+American Elf 2004				RBC0423980	0	Monthly	25	Active
+American Elf 2005				RBC0423981	0	Monthly	25	Active
+American Elf 2006				RBC0423982	0	Monthly	25	Active
+American Elf 2007				RBC0423983	0	Monthly	25	Active
+American Elf 2008				RBC0423984	0	Monthly	25	Active
+American Elf 2009				RBC0423985	0	Monthly	25	Active
+American Elf 2010				RBC0423986	0	Monthly	25	Active
+American Elf 2011				RBC0423987	0	Monthly	25	Active
+American Elf 2012				RBC0423988	0	Monthly	25	Active
+G.I. Joe: Classics, Vol. 5				RBC0429673	0	Monthly	25	Active
+G.I. Joe: Classics, Vol. 6				RBC0429674	0	Monthly	25	Active
+G.I. Joe: Classics, Vol. 9				RBC0429677	0	Monthly	25	Active
+G.I. Joe: Classics, Vol. 10				RBC0429678	0	Monthly	25	Active
+Joe Hills The Cape:1969				RBC0424296	0	Monthly	25	Active
+Joe Hills The Cape				RBC0424295	0	Monthly	25	Active
+Judge Dredd: Mega-City Zero Vol. 1				RBC0424278	0	Monthly	25	Active
+Judge Dredd: Mega-City Zero, Vol. 2				RBC0426995	0	Monthly	25	Active
+Locke & Key, Vol. 2: Head Games				RBC0387737	0	Monthly	25	Active
+Locke & Key, Vol. 1: Welcome to Lovecraft				RBC0387736	0	Monthly	25	Active
+Locke & Key Vol. 3: Crown of Shadows				RBC0424291	0	Monthly	25	Active
+Locke and Key Vol. 4: Keys to the Kingdom				RBC0428576	0	Monthly	25	Active
+Locke & Key, Vol. 5: Clockworks				RBC0455688	0	Monthly	25	Active
+Star Trek: Khan - Ruling in Hell				RBC0424285	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles Vol. 7: City Fall Part 2				RBC0424273	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles Vol. 6: City Fall Part 1				RBC0424272	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles Vol. 5: Krang War				RBC0424271	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles Vol. 4: Sins Of The Fathers				RBC0424270	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles Vol. 3: Shadows of the Past				RBC0424269	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles Vol. 2: Enemies Old Enemies New				RBC0424268	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles Vol. 1: Change is Constant				RBC0424267	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles, Vol. 8: Northampton				RBC0429700	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles, Vol. 9: Monsters, Misfits, and Madmen				RBC0429701	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles, Vol. 10: New Mutant Order				RBC0429703	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles, Vol. 11: Attack on Technodrome				RBC0429704	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles, Vol. 12: Vengeance, Pt. 1				RBC0429702	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles, Vol. 13: Vengeance, Part 2				RBC0455796	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles, Vol. 14: Order From Chaos				RBC0455797	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles, Vol. 15: Leatherhead				RBC0455798	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles, Vol. 16: Chasing Phantoms				RBC0455799	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles, Vol. 17: Desperate Measures				RBC0455800	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles, Vol. 18: Trial of Krang				RBC0455801	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles, Vol. 19: Invasion of the Triceratons				RBC0455802	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles, Vol. 20: Kingdom of Rats				RBC0457458	0	Monthly	25	Active
+Godzilla: Rulers of Earth Vol. 1				RBC0424276	0	Monthly	25	Active
+Star Trek: Best of Klingons				RBC0424293	0	Monthly	25	Active
+Star Trek: Intelligence Gathering				RBC0424289	0	Monthly	25	Active
+Star Trek: New Frontier				RBC0424282	0	Monthly	25	Active
+Star Trek: Waypoint				RBC0424277	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Casey & April				RBC0424256	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Universe Vol. 2: The New Strangeness				RBC0424241	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Universe Vol. 1				RBC0424240	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles Universe, Vol. 3: Karai's Path				RBC0429705	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Villain Micro-Series Vol. 1				RBC0424239	0	Monthly	25	Active
+Edward Scissorhands Vol. 1: Parts Unknown				RBC0424274	0	Monthly	25	Active
+Cartoon Network: Super Secret Crisis War! Vol. 2				RBC0424262	0	Monthly	25	Active
+Cartoon Network: Super Secret Crisis War! Vol. 1				RBC0424260	0	Monthly	25	Active
+Star Trek Archives Vol. 1: Best of Peter David				RBC0424294	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Adventures Vol. 5				RBC0424266	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Adventures Vol. 4				RBC0424265	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Adventures Vol. 3				RBC0424264	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Adventures Vol. 2				RBC0424263	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Adventures Vol. 1				RBC0424261	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Adventures Vol. 6				RBC0455786	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Adventures Vol. 8				RBC0455788	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Adventures Vol. 14				RBC0455794	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Adventures Vol. 7				RBC0455787	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Adventures Vol. 9				RBC0455789	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Adventures Vol. 10				RBC0455790	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Adventures Vol. 11				RBC0455791	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Adventures Vol. 12				RBC0455792	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Adventures Vol. 13				RBC0455793	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Adventures Vol. 15				RBC0455795	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Classics Vol. 4				RBC0424255	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Classics Vol. 3				RBC0424254	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Classics Vol. 2				RBC0424253	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Classics Vol. 1				RBC0424252	0	Monthly	25	Active
+Amazing Forest				RBC0424259	0	Monthly	25	Active
+Godzilla In Hell				RBC0424275	0	Monthly	25	Active
+Remains				RBC0424292	0	Monthly	25	Active
+Star Trek / Planet of the Apes: The Primate Directive				RBC0424299	0	Monthly	25	Active
+AGE OF ULTRON - Special				RBC0424323	0	Monthly	25	Active
+Star Trek: The Next Generation - Hive				RBC0424281	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: New Animated Adventures Vol. 3				RBC0424250	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: New Animated Adventures Vol. 2				RBC0424249	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: New Animated Adventures Vol. 1				RBC0424248	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Tales Of The TMNT Vol. 3				RBC0424245	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Tales Of The TMNT Vol. 2				RBC0424244	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Tales Of The TMNT Vol. 1				RBC0424243	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Turtles in Time				RBC0424242	0	Monthly	25	Active
+ALL-NEW CAPTAIN AMERICA VOL. 1: HYDRA ASCENDANT - Special				RBC0424324	0	Monthly	25	Active
+ALL-NEW GHOST RIDER VOL. 2: LEGEND - Special				RBC0424327	0	Monthly	25	Active
+ALL-NEW GHOST RIDER VOL. 1: ENGINES OF VENGEANCE - Special				RBC0424326	0	Monthly	25	Active
+ALL-NEW GUARDIANS OF THE GALAXY VOL. 1: COMMUNICATION BREAKDOWN - Special				RBC0424328	0	Monthly	25	Active
+ALL-NEW GUARDIANS OF THE GALAXY VOL. 2: RIDERS IN THE SKY				RBC0455441	0	Monthly	25	Active
+ALL-NEW INHUMANS VOL. 2: SKYSPEARS - Special				RBC0424330	0	Monthly	25	Active
+ALL-NEW INHUMANS VOL. 1: GLOBAL OUTREACH - Special				RBC0424329	0	Monthly	25	Active
+ALL-NEW WOLVERINE VOL. 4: IMMUNE - Special				RBC0424334	0	Monthly	25	Active
+ALL-NEW WOLVERINE VOL. 3: ENEMY OF THE STATE II - Special				RBC0424333	0	Monthly	25	Active
+ALL-NEW WOLVERINE VOL. 2: CIVIL WAR II - Special				RBC0424332	0	Monthly	25	Active
+ALL-NEW WOLVERINE VOL. 1: THE FOUR SISTERS - Special				RBC0424331	0	Monthly	25	Active
+ALL-NEW X-MEN VOL. 7: THE UTOPIANS - Special				RBC0424341	0	Monthly	25	Active
+ALL-NEW X-MEN VOL. 6: THE ULTIMATE ADVENTURE - Special				RBC0424340	0	Monthly	25	Active
+ALL-NEW X-MEN VOL. 5: ONE DOWN - Special				RBC0424339	0	Monthly	25	Active
+ALL-NEW X-MEN VOL. 4: ALL-DIFFERENT - Special				RBC0424338	0	Monthly	25	Active
+ALL-NEW X-MEN VOL. 3: OUT OF THEIR DEPTH - Special				RBC0424337	0	Monthly	25	Active
+ALL-NEW X-MEN VOL. 2: HERE TO STAY - Special				RBC0424336	0	Monthly	25	Active
+ALL-NEW X-MEN VOL. 1: YESTERDAYS X-MEN - Special				RBC0424335	0	Monthly	25	Active
+ALL-NEW X-MEN: INEVITABLE VOL. 4 - IVX - Special				RBC0424345	0	Monthly	25	Active
+ALL-NEW X-MEN: INEVITABLE VOL. 3 - HELL HATH SO MUCH FURY - Special				RBC0424344	0	Monthly	25	Active
+ALL-NEW X-MEN: INEVITABLE VOL. 2 - APOCALYPSE WARS - Special				RBC0424343	0	Monthly	25	Active
+ALL-NEW X-MEN: INEVITABLE VOL. 1 - GHOSTS OF CYCLOPS - Special				RBC0424342	0	Monthly	25	Active
+ALL-NEW, ALL-DIFFERENT AVENGERS VOL. 3: CIVIL WAR II - Special				RBC0424348	0	Monthly	25	Active
+ALL-NEW, ALL-DIFFERENT AVENGERS VOL. 2: FAMILY BUSINESS - Special				RBC0424347	0	Monthly	25	Active
+ALL-NEW, ALL-DIFFERENT AVENGERS VOL. 1: THE MAGNIFICENT SEVEN - Special				RBC0424346	0	Monthly	25	Active
+SPIDER-MAN: VENGEANCE OF VENOM - Special				RBC0424638	0	Monthly	25	Active
+AMAZING SPIDER-MAN MASTERWORKS VOL. 5 - Special				RBC0424353	0	Monthly	25	Active
+AMAZING SPIDER-MAN MASTERWORKS VOL. 4 - Special				RBC0424352	0	Monthly	25	Active
+AMAZING SPIDER-MAN MASTERWORKS VOL. 3 - Special				RBC0424351	0	Monthly	25	Active
+AMAZING SPIDER-MAN MASTERWORKS VOL. 2 - Special				RBC0424350	0	Monthly	25	Active
+AMAZING SPIDER-MAN MASTERWORKS VOL. 1 - Special				RBC0424349	0	Monthly	25	Active
+SPIDER-MAN: SINISTER SIX				RBC0455548	0	Monthly	25	Active
+SPIDER-MAN: ENDS OF THE EARTH - Special				RBC0424634	0	Monthly	25	Active
+SPIDER-MAN: BRAND NEW DAY VOL.3 - Special				RBC0424633	0	Monthly	25	Active
+SPIDER-MAN: BRAND NEW DAY VOL.2 - Special				RBC0424632	0	Monthly	25	Active
+SPIDER-MAN: BRAND NEW DAY VOL.1 - Special				RBC0424631	0	Monthly	25	Active
+AMAZING SPIDER-MAN VOL. 4: GRAVEYARD SHIFT - Special				RBC0424357	0	Annually	25	Active
+AMAZING SPIDER-MAN VOL. 3: SPIDER-VERSE - Special				RBC0424356	0	Annually	25	Active
+AMAZING SPIDER-MAN VOL. 2: SPIDER-VERSE PRELUDE - Special				RBC0424355	0	Annually	25	Active
+AMAZING SPIDER-MAN VOL. 1: THE PARKER LUCK - Special				RBC0424354	0	Annually	25	Active
+AMAZING SPIDER-MAN: WORLDWIDE VOL. 9				RBC0457075	0	Annually	25	Active
+AMAZING SPIDER-MAN: WORLDWIDE VOL. 7				RBC0457073	0	Annually	25	Active
+AMAZING SPIDER-MAN: WORLDWIDE VOL. 8				RBC0457074	0	Annually	25	Active
+AMAZING SPIDER-MAN: WORLDWIDE VOL. 6 - Special				RBC0424365	0	Monthly	25	Active
+AMAZING SPIDER-MAN: WORLDWIDE VOL. 5 - Special				RBC0424364	0	Monthly	25	Active
+AMAZING SPIDER-MAN: WORLDWIDE VOL. 4 - Special				RBC0424363	0	Monthly	25	Active
+AMAZING SPIDER-MAN: WORLDWIDE VOL. 3 - Special				RBC0424362	0	Monthly	25	Active
+AMAZING SPIDER-MAN: WORLDWIDE VOL. 2 - Special				RBC0424361	0	Monthly	25	Active
+AMAZING SPIDER-MAN: WORLDWIDE VOL. 1 - Special				RBC0424360	0	Monthly	25	Active
+AMERICA VOL. 1: THE LIFE AND TIMES OF AMERICA CHAVEZ - Special				RBC0424366	0	Monthly	25	Active
+Star Trek Classics, Volume 3: Encounters with the Unknown				RBC0387423	0	Monthly	25	Active
+Star Trek Classics, Volume 4: Beginnings				RBC0387422	0	Monthly	25	Active
+Star Trek Classics, Volume 5: Who Killed Captain Kirk				RBC0387421	0	Monthly	25	Active
+Star Trek Classics, Volume 1: The Gorn Crisis				RBC0387425	0	Monthly	25	Active
+Star Trek Classics, Volume 2: Enemy Unseen				RBC0387424	0	Monthly	25	Active
+AVENGERS: DISASSEMBLED - Special				RBC0424399	0	Monthly	25	Active
+AVENGERS MASTERWORKS VOL. 5 - Special				RBC0424390	0	Monthly	25	Active
+AVENGERS MASTERWORKS VOL. 4 - Special				RBC0424389	0	Monthly	25	Active
+AVENGERS MASTERWORKS VOL. 3 - Special				RBC0424388	0	Monthly	25	Active
+AVENGERS MASTERWORKS VOL. 2 - Special				RBC0424387	0	Monthly	25	Active
+AVENGERS MASTERWORKS VOL. 1 - Special				RBC0424386	0	Monthly	25	Active
+AVENGERS VOL. 6: INFINITE AVENGERS - Special				RBC0424396	0	Monthly	25	Active
+AVENGERS VOL. 5: ADAPT OR DIE - Special				RBC0424395	0	Monthly	25	Active
+AVENGERS VOL. 4: INFINITY - Special				RBC0424394	0	Monthly	25	Active
+AVENGERS VOL. 3: PRELUDE TO INFINITY - Special				RBC0424393	0	Monthly	25	Active
+AVENGERS VOL. 2: THE LAST WHITE EVENT - Special				RBC0424392	0	Monthly	25	Active
+AVENGERS VOL. 1: AVENGERS WORLD - Special				RBC0424391	0	Monthly	25	Active
+AVENGERS: UNLEASHED VOL. 1 - KANG WAR ONE - Special				RBC0424405	0	Monthly	25	Active
+AVENGERS & X-MEN: AXIS - Special				RBC0424379	0	Monthly	25	Active
+AVENGERS ASSEMBLE BY BRIAN MICHAEL BENDIS - Special				RBC0424380	0	Monthly	25	Active
+AVENGERS: STANDOFF - Special				RBC0424400	0	Monthly	25	Active
+AVENGERS VS. THANOS - Special				RBC0424397	0	Monthly	25	Active
+AVENGERS VS. X-MEN - Special				RBC0424398	0	Monthly	25	Active
+BLACK PANTHER BY CHRISTOPHER PRIEST: THE COMPLETE COLLECTION VOL. 4 - Special				RBC0424410	0	Monthly	25	Active
+BLACK PANTHER BY CHRISTOPHER PRIEST: THE COMPLETE COLLECTION VOL. 3 - Special				RBC0424409	0	Monthly	25	Active
+BLACK PANTHER BY CHRISTOPHER PRIEST: THE COMPLETE COLLECTION VOL. 2 - Special				RBC0424408	0	Monthly	25	Active
+BLACK PANTHER BY CHRISTOPHER PRIEST: THE COMPLETE COLLECTION VOL. 1 - Special				RBC0424407	0	Monthly	25	Active
+BLACK PANTHER: WHO IS THE BLACK PANTHER? - Special				RBC0424414	0	Monthly	25	Active
+BLACK PANTHER: A NATION UNDER OUR FEET BOOK 3 - Special				RBC0424413	0	Annually	25	Active
+BLACK PANTHER: A NATION UNDER OUR FEET BOOK 2 - Special				RBC0424412	0	Annually	25	Active
+BLACK PANTHER: A NATION UNDER OUR FEET BOOK 1 - Special				RBC0424411	0	Annually	25	Active
+BLACK PANTHER BOOK 5: AVENGERS OF THE NEW WORLD PART 2				RBC0457080	0	Annually	25	Active
+BLACK PANTHER BOOK 6: INTERGALACTIC EMPIRE OF WAKANDA PART ONE				RBC0457081	0	Annually	25	Active
+BLACK PANTHER BOOK 4: AVENGERS OF THE NEW WORLD PART 1				RBC0457079	0	Annually	25	Active
+BLACK WIDOW VOL. 2: THE TIGHTLY TANGLED WEB - Special				RBC0424418	0	Monthly	25	Active
+BLACK WIDOW VOL. 1: THE FINELY WOVEN THREAD - Special				RBC0424417	0	Monthly	25	Active
+BLACK WIDOW VOL. 3: LAST DAYS				RBC0455445	0	Monthly	25	Active
+CABLE/DEADPOOL VOL. 7: SEPERATION ANXIETY - Special				RBC0424425	0	Monthly	25	Active
+CABLE/DEADPOOL VOL. 6: PAVED WITH GOOD INTENTIONS - Special				RBC0424424	0	Monthly	25	Active
+CABLE/DEADPOOL VOL. 5: LIVING LEGENDS - Special				RBC0424423	0	Monthly	25	Active
+CABLE/DEADPOOL VOL. 4: BOSSOM BUDDIES - Special				RBC0424422	0	Monthly	25	Active
+CABLE/DEADPOOL VOL. 3: THE HUMAN RACE - Special				RBC0424421	0	Monthly	25	Active
+CABLE/DEADPOOL VOL. 2: THE BURNT OFFERING - Special				RBC0424420	0	Monthly	25	Active
+CABLE/DEADPOOL VOL. 1: IF LOOKS COULD KILL - Special				RBC0424419	0	Monthly	25	Active
+DEADPOOL VS. THE MARVEL UNIVERSE - Special				RBC0424508	0	Monthly	25	Active
+CAPTAIN AMERICA: THE DEATH OF CAPTAIN AMERICA VOL. 3 - THE MAN WHO BOUGHT AMERICA - Special				RBC0424447	0	Monthly	25	Active
+CAPTAIN AMERICA: THE DEATH OF CAPTAIN AMERICA VOL. 2 - THE BURDEN OF DREAMS - Special				RBC0424446	0	Monthly	25	Active
+CAPTAIN AMERICA: THE DEATH OF CAPTAIN AMERICA VOL. 1 - THE DEATH OF THE DREAM - Special				RBC0424445	0	Monthly	25	Active
+CAPTAIN AMERICA: ROAD TO REBORN - Special				RBC0424436	0	Monthly	25	Active
+CAPTAIN AMERICA: WINTER SOLDIER VOL. 2 - Special				RBC0424453	0	Monthly	25	Active
+CAPTAIN AMERICA: WINTER SOLDIER VOL. 1 - Special				RBC0424452	0	Monthly	25	Active
+CAPTAIN AMERICA: TWO AMERICAS - Special				RBC0424450	0	Monthly	25	Active
+CAPTAIN AMERICA: TRIAL OF CAPTAIN AMERICA - Special				RBC0424449	0	Monthly	25	Active
+CAPTAIN AMERICA: THE MAN WITH NO FACE - Special				RBC0424448	0	Monthly	25	Active
+CAPTAIN AMERICA BY ED BRUBAKER VOL. 4 - Special				RBC0424429	0	Monthly	25	Active
+CAPTAIN AMERICA BY ED BRUBAKER VOL. 3 - Special				RBC0424428	0	Monthly	25	Active
+CAPTAIN AMERICA BY ED BRUBAKER VOL. 2 - Special				RBC0424427	0	Monthly	25	Active
+CAPTAIN AMERICA BY ED BRUBAKER VOL. 1 - Special				RBC0424426	0	Monthly	25	Active
+CAPTAIN AMERICA VOL. 5: THE TOMORROW SOLDIER - Special				RBC0424434	0	Monthly	25	Active
+CAPTAIN AMERICA VOL. 4: THE IRON NAIL - Special				RBC0424433	0	Monthly	25	Active
+CAPTAIN AMERICA VOL. 3: LOOSE NUKE - Special				RBC0424432	0	Monthly	25	Active
+CAPTAIN AMERICA VOL. 2: CASTAWAY IN DIMENSION Z BOOK 2 - Special				RBC0424431	0	Monthly	25	Active
+CAPTAIN AMERICA VOL. 1: CASTAWAY IN DIMENSION Z BOOK 1 - Special				RBC0424430	0	Monthly	25	Active
+CAPTAIN AMERICA: REBORN - Special				RBC0424435	0	Monthly	25	Active
+CAPTAIN AMERICA: SAM WILSON VOL. 5 - END OF THE LINE - Special				RBC0424441	0	Monthly	25	Active
+CAPTAIN AMERICA: SAM WILSON VOL. 4 - #TAKEBACKTHESHIELD - Special				RBC0424440	0	Monthly	25	Active
+CAPTAIN AMERICA: SAM WILSON VOL. 3 - CIVIL WAR II - Special				RBC0424439	0	Monthly	25	Active
+CAPTAIN AMERICA: SAM WILSON VOL. 2 - STANDOFF - Special				RBC0424438	0	Monthly	25	Active
+CAPTAIN AMERICA: SAM WILSON VOL. 1 - Special				RBC0424437	0	Monthly	25	Active
+CAPTAIN AMERICA: STEVE ROGERS VOL. 3 - EMPIRE BUILDING - Special				RBC0424444	0	Monthly	25	Active
+CAPTAIN AMERICA: STEVE ROGERS VOL. 2 - THE TRIAL OF MARIA HILL - Special				RBC0424443	0	Monthly	25	Active
+CAPTAIN AMERICA: STEVE ROGERS VOL. 1 - HAIL HYDRA - Special				RBC0424442	0	Monthly	25	Active
+CAPTAIN AMERICA: WHITE - Special				RBC0424451	0	Monthly	25	Active
+CAPTAIN MARVEL VOL. 2: DOWN - Special				RBC0424460	0	Monthly	25	Active
+CAPTAIN MARVEL VOL. 1: IN PURSUIT OF FLIGHT - Special				RBC0424459	0	Monthly	25	Active
+CAPTAIN MARVEL VOL. 3: ALIS VOLAT PROPRIIS - Special				RBC0424458	0	Monthly	25	Active
+CAPTAIN MARVEL VOL. 2: STAY FLY - Special				RBC0424457	0	Monthly	25	Active
+CAPTAIN MARVEL VOL. 1: HIGHER, FURTHER, FASTER, MORE - Special				RBC0424456	0	Monthly	25	Active
+CAPTAIN MARVEL VOL. 2: CIVIL WAR II - Special				RBC0424455	0	Monthly	25	Active
+CAPTAIN MARVEL VOL. 1: RISE OF ALPHA FLIGHT - Special				RBC0424454	0	Monthly	25	Active
+CHAMPIONS VOL. 1: CHANGE THE WORLD - Special				RBC0424461	0	Monthly	25	Active
+CIVIL WAR: THE ROAD TO CIVIL WAR - Special				RBC0424467	0	Monthly	25	Active
+CIVIL WAR: CAPTAIN AMERICA/IRON MAN - Special				RBC0424466	0	Monthly	25	Active
+CIVIL WAR: BLACK PANTHER - Special				RBC0424465	0	Monthly	25	Active
+CIVIL WAR: AMAZING SPIDER-MAN - Special				RBC0424464	0	Monthly	25	Active
+CIVIL WAR - Special				RBC0424462	0	Monthly	25	Active
+CIVIL WAR: CAPTAIN AMERICA				RBC0455449	0	Monthly	25	Active
+CIVIL WAR: IRON MAN				RBC0455450	0	Monthly	25	Active
+CIVIL WAR: WOLVERINE				RBC0455451	0	Monthly	25	Active
+MARVELS THOR: THE DARK WORLD PRELUDE - Special				RBC0424593	0	Monthly	25	Active
+MOON GIRL AND DEVIL DINOSAUR VOL. 2: COSMIC COOTIES - Special				RBC0424595	0	Monthly	25	Active
+MOON GIRL AND DEVIL DINOSAUR VOL. 1: BFF - Special				RBC0424594	0	Monthly	25	Active
+MOON GIRL AND DEVIL DINOSAUR VOL. 3: THE SMARTEST THERE IS				RBC0455511	0	Monthly	25	Active
+MOON GIRL AND DEVIL DINOSAUR VOL. 4: GIRL-MOON				RBC0455512	0	Monthly	25	Active
+MS. MARVEL VOL. 4: LAST DAYS - Special				RBC0424599	0	Monthly	25	Active
+MS. MARVEL VOL. 3: CRUSHED - Special				RBC0424598	0	Monthly	25	Active
+MS. MARVEL VOL. 2: GENERATION WHY - Special				RBC0424597	0	Monthly	25	Active
+MS. MARVEL VOL. 1: NO NORMAL - Special				RBC0424596	0	Monthly	25	Active
+MS. MARVEL VOL. 6: CIVIL WAR II				RBC0455515	0	Monthly	25	Active
+MS. MARVEL VOL. 7: DAMAGE PER SECOND				RBC0455516	0	Monthly	25	Active
+MS. MARVEL VOL. 5: SUPER FAMOUS				RBC0455514	0	Monthly	25	Active
+NEW AVENGERS VOL. 5: CIVIL WAR - Special				RBC0424604	0	Monthly	25	Active
+NEW AVENGERS VOL. 4: THE COLLECTIVE - Special				RBC0424603	0	Monthly	25	Active
+NEW AVENGERS VOL. 3: SECRETS AND LIES - Special				RBC0424602	0	Monthly	25	Active
+NEW AVENGERS VOL. 2: SENTRY - Special				RBC0424601	0	Monthly	25	Active
+NEW AVENGERS VOL. 1: BREAKOUT - Special				RBC0424600	0	Monthly	25	Active
+AVENGERS BY BRIAN MICHAEL BENDIS VOL. 5 - Special				RBC0424385	0	Monthly	25	Active
+AVENGERS BY BRIAN MICHAEL BENDIS VOL. 4 - Special				RBC0424384	0	Monthly	25	Active
+AVENGERS BY BRIAN MICHAEL BENDIS VOL. 3 - Special				RBC0424383	0	Monthly	25	Active
+AVENGERS BY BRIAN MICHAEL BENDIS VOL. 2 - Special				RBC0424382	0	Monthly	25	Active
+AVENGERS BY BRIAN MICHAEL BENDIS VOL. 1 - Special				RBC0424381	0	Monthly	25	Active
+NEW AVENGERS VOL. 4: A PERFECT WORLD - Special				RBC0424608	0	Monthly	25	Active
+NEW AVENGERS VOL. 3: OTHER WORLDS - Special				RBC0424607	0	Monthly	25	Active
+NEW AVENGERS VOL. 2: INFINITY - Special				RBC0424606	0	Monthly	25	Active
+NEW AVENGERS VOL. 1: EVERYTHING DIES - Special				RBC0424605	0	Monthly	25	Active
+NEW MUTANTS CLASSIC VOL. 3 - Special				RBC0424611	0	Monthly	25	Active
+NEW MUTANTS CLASSIC VOL. 2 - Special				RBC0424610	0	Monthly	25	Active
+NEW MUTANTS CLASSIC VOL. 1 - Special				RBC0424609	0	Monthly	25	Active
+NEW MUTANTS VOL. 1: RETURN OF LEGION - Special				RBC0424612	0	Monthly	25	Active
+NEW MUTANTS VOL. 3: FALL OF THE NEW MUTANTS				RBC0455522	0	Monthly	25	Active
+NEW MUTANTS VOL. 4: UNFINISHED BUSINESS				RBC0455523	0	Monthly	25	Active
+NEW MUTANTS VOL. 2: X-NECROSHA				RBC0455521	0	Monthly	25	Active
+WOLVERINE: OLD MAN LOGAN VOL. 3 - THE LAST RONIN - Special				RBC0424661	0	Monthly	25	Active
+WOLVERINE: OLD MAN LOGAN VOL. 2 - BORDERTOWN - Special				RBC0424660	0	Monthly	25	Active
+WOLVERINE: OLD MAN LOGAN VOL. 1 - BERZERKER - Special				RBC0424659	0	Monthly	25	Active
+WOLVERINE: OLD MAN LOGAN - Special				RBC0424658	0	Monthly	25	Active
+JESSICA JONES: THE PULSE - THE COMPLETE COLLECTION - Special				RBC0424581	0	Monthly	25	Active
+THE PUNISHER BY GREG RUCKA VOL. 3 - Special				RBC0424643	0	Monthly	25	Active
+THE PUNISHER BY GREG RUCKA VOL. 2 - Special				RBC0424642	0	Monthly	25	Active
+PUNISHER BY GREG RUCKA VOL. 1 - Special				RBC0424613	0	Monthly	25	Active
+ROCKET RACCOON VOL. 2: STORYTAILER - Special				RBC0424615	0	Monthly	25	Active
+ROCKET RACCOON VOL. 1: A CHASING TALE - Special				RBC0424614	0	Monthly	25	Active
+RUNAWAYS VOL. 7: LIVE FAST - Special				RBC0424622	0	Monthly	25	Active
+RUNAWAYS VOL. 6: PARENTAL GUIDANCE - Special				RBC0424621	0	Monthly	25	Active
+RUNAWAYS VOL. 5: ESCAPE TO NEW YORK - Special				RBC0424620	0	Monthly	25	Active
+RUNAWAYS VOL. 4: TRUE BELIEVERS - Special				RBC0424619	0	Monthly	25	Active
+RUNAWAYS VOL. 3: THE GOOD DIE YOUNG - Special				RBC0424618	0	Monthly	25	Active
+RUNAWAYS VOL. 2: TEENAGE WASTELAND - Special				RBC0424617	0	Monthly	25	Active
+RUNAWAYS VOL. 1: PRIDE AND JOY - Special				RBC0424616	0	Monthly	25	Active
+S.H.I.E.L.D. VOL. 2: THE MAN CALLED D.E.A.T.H. - Special				RBC0424624	0	Monthly	25	Active
+S.H.I.E.L.D. VOL. 1: PERFECT BULLETS - Special				RBC0424623	0	Monthly	25	Active
+ANT-MAN SEASON ONE - Special				RBC0424372	0	Monthly	25	Active
+SECRET INVASION - Special				RBC0424625	0	Monthly	25	Active
+SECRET WAR - Special				RBC0424626	0	Monthly	25	Active
+SECRET WARS - Special				RBC0424627	0	Monthly	25	Active
+SPIDER-MAN: MILES MORALES VOL. 2 - Special				RBC0424636	0	Annually	25	Active
+SPIDER-MAN: MILES MORALES VOL. 1 - Special				RBC0424635	0	Annually	25	Active
+SPIDER-MAN: MILES MORALES VOL. 3				RBC0457086	0	Annually	25	Active
+SPIDER-MAN: MILES MORALES VOL. 4				RBC0457087	0	Annually	25	Active
+SPIDER-MAN: SPIDER-ISLAND - Special				RBC0424637	0	Monthly	25	Active
+SPIDER-MEN - Special				RBC0424639	0	Monthly	25	Active
+THANOS VOL. 1: THANOS RETURNS - Special				RBC0424641	0	Annually	25	Active
+THANOS WINS BY DONNY CATES				RBC0457092	0	Annually	25	Active
+THANOS RISING - Special				RBC0424640	0	Monthly	25	Active
+AMAZING SPIDER-MAN: THE CLONE CONSPIRACY - Special				RBC0424359	0	Monthly	25	Active
+THOR: GOD OF THUNDER VOL. 4 - THE LAST DAYS OF MIDGARD - Special				RBC0424649	0	Monthly	25	Active
+THOR: GOD OF THUNDER VOL. 3 - THE ACCURSED - Special				RBC0424648	0	Monthly	25	Active
+THOR: GOD OF THUNDER VOL. 2 - GODBOMB - Special				RBC0424647	0	Monthly	25	Active
+THOR: GOD OF THUNDER VOL. 1 - THE GOD BUTCHER - Special				RBC0424646	0	Monthly	25	Active
+VENOM BY RICK REMENDER VOL. 1 - Special				RBC0424653	0	Monthly	25	Active
+VENOM VS. CARNAGE - Special				RBC0424654	0	Monthly	25	Active
+VENOM: LETHAL PROTECTOR - Special				RBC0424655	0	Monthly	25	Active
+VISION VOL. 2: LITTLE BETTER THAN A BEAST - Special				RBC0424657	0	Monthly	25	Active
+VISION VOL. 1: LITTLE WORSE THAN A MAN - Special				RBC0424656	0	Monthly	25	Active
+HULK: WORLD WAR HULK - Special				RBC0424556	0	Monthly	25	Active
+X-MEN: MUTANT GENESIS - Special				RBC0424669	0	Monthly	25	Active
+X-MEN BLUE VOL. 2: TOIL AND TROUBLE - Special				RBC0424664	0	Monthly	25	Active
+X-MEN BLUE VOL. 1: STRANGEST - Special				RBC0424663	0	Monthly	25	Active
+X-MEN: LEGACY VOL. 1: PRODIGAL - Special				RBC0424667	0	Monthly	25	Active
+X-MEN: SCHISM - Special				RBC0424671	0	Monthly	25	Active
+ANNIHILATION BOOK TWO - Special				RBC0424369	0	Monthly	25	Active
+ANNIHILATION BOOK THREE - Special				RBC0424368	0	Monthly	25	Active
+ANNIHILATION BOOK ONE - Special				RBC0424367	0	Monthly	25	Active
+ASTONISHING X-MEN VOL. 5: GHOST BOX - Special				RBC0424378	0	Monthly	25	Active
+ASTONISHING X-MEN VOL. 4: UNSTOPPABLE - Special				RBC0424377	0	Monthly	25	Active
+ASTONISHING X-MEN VOL. 3: TORN - Special				RBC0424376	0	Monthly	25	Active
+ASTONISHING X-MEN VOL. 2: DANGEROUS - Special				RBC0424375	0	Monthly	25	Active
+ASTONISHING X-MEN VOL. 1: GIFTED - Special				RBC0424374	0	Monthly	25	Active
+AVENGING SPIDER-MAN: MY FRIENDS CAN BEAT UP YOUR FRIENDS - Special				RBC0424406	0	Monthly	25	Active
+CIVIL WAR II - Special				RBC0424463	0	Monthly	25	Active
+DAREDEVIL: BORN AGAIN - Special				RBC0424490	0	Monthly	25	Active
+DAREDEVIL BY FRANK MILLER & KLAUS JANSON VOL. 3 - Special				RBC0424473	0	Monthly	25	Active
+DAREDEVIL BY FRANK MILLER & KLAUS JANSON VOL. 2 - Special				RBC0424472	0	Monthly	25	Active
+DAREDEVIL BY FRANK MILLER & KLAUS JANSON VOL. 1 - Special				RBC0424471	0	Monthly	25	Active
+DAREDEVIL BY BENDIS AND MALEEV ULTIMATE COLLECTION VOL. 3 - Special				RBC0424470	0	Monthly	25	Active
+DAREDEVIL BY BENDIS AND MALEEV ULTIMATE COLLECTION VOL. 2 - Special				RBC0424469	0	Monthly	25	Active
+DAREDEVIL BY BENDIS AND MALEEV ULTIMATE COLLECTION VOL. 1 - Special				RBC0424468	0	Monthly	25	Active
+DAREDEVIL BY MARK WAID VOL. 7 - Special				RBC0424480	0	Monthly	25	Active
+DAREDEVIL BY MARK WAID VOL. 6 - Special				RBC0424479	0	Monthly	25	Active
+DAREDEVIL BY MARK WAID VOL. 5 - Special				RBC0424478	0	Monthly	25	Active
+DAREDEVIL BY MARK WAID VOL. 4 - Special				RBC0424477	0	Monthly	25	Active
+DAREDEVIL BY MARK WAID VOL. 3 - Special				RBC0424476	0	Monthly	25	Active
+DAREDEVIL BY MARK WAID VOL. 2 - Special				RBC0424475	0	Monthly	25	Active
+DAREDEVIL BY MARK WAID VOL. 1 - Special				RBC0424474	0	Monthly	25	Active
+DAREDEVIL: THE MAN WITHOUT FEAR - Special				RBC0424491	0	Monthly	25	Active
+DEADPOOL: WORLDS GREATEST VOL. 8 - TIL DEATH DO US... - Special				RBC0424517	0	Monthly	25	Active
+DEADPOOL: WORLDS GREATEST VOL. 7 - DEADPOOL DOES SHAKESPEARE - Special				RBC0424516	0	Monthly	25	Active
+DEADPOOL: WORLDS GREATEST VOL. 6 - PATIENCE: ZERO - Special				RBC0424515	0	Monthly	25	Active
+DEADPOOL: WORLDS GREATEST VOL. 5 - CIVIL WAR II - Special				RBC0424514	0	Monthly	25	Active
+DEADPOOL: WORLDS GREATEST VOL. 4 - TEMPORARY INSANITATION - Special				RBC0424513	0	Monthly	25	Active
+DEADPOOL: WORLD’S GREATEST VOL. 3 - DEADPOOL VS. SABRETOOTH - Special				RBC0424512	0	Monthly	25	Active
+DEADPOOL: WORLD’S GREATEST VOL. 2: END OF ERROR - Special				RBC0424511	0	Monthly	25	Active
+DEADPOOL: WORLD’S GREATEST VOL. 1 - MILLIONAIRE WITH A MOUTH - Special				RBC0424510	0	Monthly	25	Active
+DEADPOOL CLASSIC VOL. 5 - Special				RBC0424498	0	Monthly	25	Active
+DEADPOOL CLASSIC VOL. 4 - Special				RBC0424497	0	Monthly	25	Active
+DEADPOOL CLASSIC VOL. 3 - Special				RBC0424496	0	Monthly	25	Active
+DEADPOOL CLASSIC VOL. 2 - Special				RBC0424495	0	Monthly	25	Active
+DEADPOOL CLASSIC VOL. 1 - Special				RBC0424494	0	Monthly	25	Active
+DEADPOOL KILLS DEADPOOL - Special				RBC0424499	0	Monthly	25	Active
+DEADPOOL VS. THANOS - Special				RBC0424507	0	Monthly	25	Active
+DEATH OF WOLVERINE - Special				RBC0424518	0	Monthly	25	Active
+DEATH OF X - Special				RBC0424519	0	Monthly	25	Active
+DOCTOR STRANGE: THE OATH - Special				RBC0424525	0	Monthly	25	Active
+DOCTOR STRANGE/PUNISHER: MAGIC BULLETS - Special				RBC0424524	0	Monthly	25	Active
+DRAX VOL. 1: THE GALAXYS BEST DETECTIVE - Special				RBC0424526	0	Monthly	25	Active
+EARTH X - Special				RBC0424527	0	Monthly	25	Active
+AMAZING SPIDER-MAN: EDGE OF SPIDER-VERSE - Special				RBC0424358	0	Monthly	25	Active
+EDGE OF VENOMVERSE - Special				RBC0424528	0	Monthly	25	Active
+ELEKTRA VOL. 1: BLOODLINES - Special				RBC0424529	0	Monthly	25	Active
+FANTASTIC FOUR MASTERWORKS VOL. 3 - Special				RBC0424538	0	Monthly	25	Active
+FANTASTIC FOUR MASTERWORKS VOL. 2 - Special				RBC0424537	0	Monthly	25	Active
+FANTASTIC FOUR MASTERWORKS VOL. 1 - Special				RBC0424536	0	Monthly	25	Active
+FANTASTIC FOUR BY JONATHAN HICKMAN VOL.6 - Special				RBC0424535	0	Monthly	25	Active
+FANTASTIC FOUR BY JONATHAN HICKMAN VOL. 5 - Special				RBC0424534	0	Monthly	25	Active
+FANTASTIC FOUR BY JONATHAN HICKMAN VOL. 4 - Special				RBC0424533	0	Monthly	25	Active
+FANTASTIC FOUR BY JONATHAN HICKMAN VOL. 3 - Special				RBC0424532	0	Monthly	25	Active
+FANTASTIC FOUR BY JONATHAN HICKMAN VOL. 2 - Special				RBC0424531	0	Monthly	25	Active
+FANTASTIC FOUR BY JONATHAN HICKMAN VOL. 1 - Special				RBC0424530	0	Monthly	25	Active
+GHOST RIDER VOL. 1: HELL BENT AND HEAVEN BOUND - Special				RBC0424539	0	Monthly	25	Active
+GUARDIANS OF THE GALAXY VOL. 4: REALM OF KINGS - Special				RBC0424543	0	Monthly	25	Active
+GUARDIANS OF THE GALAXY VOL. 3: WAR OF KINGS BOOK 2 - Special				RBC0424542	0	Monthly	25	Active
+GUARDIANS OF THE GALAXY VOL. 2: WAR OF KINGS BOOK 1 - Special				RBC0424541	0	Monthly	25	Active
+GUARDIANS OF THE GALAXY VOL. 1: LEGACY - Special				RBC0424540	0	Monthly	25	Active
+GUARDIANS OF THE GALAXY VOL. 4: ORIGINAL SIN - Special				RBC0424547	0	Monthly	25	Active
+GUARDIANS OF THE GALAXY VOL. 3: GUARDIANS DISASSEMBLED - Special				RBC0424546	0	Monthly	25	Active
+GUARDIANS OF THE GALAXY VOL. 2: ANGELA - Special				RBC0424545	0	Monthly	25	Active
+GUARDIANS OF THE GALAXY VOL. 1: COSMIC AVENGERS - Special				RBC0424544	0	Monthly	25	Active
+GUARDIANS OF THE GALAXY VOL. 5: THROUGH THE LOOKING GLASS				RBC0455471	0	Monthly	25	Active
+GUARDIANS OF THE GALAXY: NEW GUARD VOL. 4 - GROUNDED - Special				RBC0424551	0	Monthly	25	Active
+GUARDIANS OF THE GALAXY: NEW GUARD VOL. 3 - CIVIL WAR II - Special				RBC0424550	0	Monthly	25	Active
+GUARDIANS OF THE GALAXY: NEW GUARD VOL. 2 - WANTED - Special				RBC0424549	0	Monthly	25	Active
+GUARDIANS OF THE GALAXY: NEW GUARD VOL. 1 - EMPEROR QUILL - Special				RBC0424548	0	Monthly	25	Active
+HOUSE OF M - Special				RBC0424552	0	Monthly	25	Active
+IMMORTAL IRON FIST VOL. 5: ESCAPE FROM THE EIGHTH CITY - Special				RBC0424561	0	Monthly	25	Active
+IMMORTAL IRON FIST VOL. 4: THE MORTAL IRON FIST - Special				RBC0424560	0	Monthly	25	Active
+IMMORTAL IRON FIST VOL. 3: THE BOOK OF IRON FIST - Special				RBC0424559	0	Monthly	25	Active
+IMMORTAL IRON FIST VOL. 2: THE SEVEN CAPITAL CITIES OF HEAVEN - Special				RBC0424558	0	Monthly	25	Active
+IMMORTAL IRON FIST VOL. 1: THE LAST IRON FIST STORY - Special				RBC0424557	0	Monthly	25	Active
+HULK: PLANET HULK PRELUDE - Special				RBC0424554	0	Monthly	25	Active
+HULK: PLANET HULK - Special				RBC0424553	0	Monthly	25	Active
+HULK: THE END - Special				RBC0424555	0	Monthly	25	Active
+INFINITY - Special				RBC0424562	0	Monthly	25	Active
+INFINITY CRUSADE VOL. 2 - Special				RBC0424564	0	Monthly	25	Active
+INFINITY CRUSADE VOL. 1 - Special				RBC0424563	0	Monthly	25	Active
+INFINITY GAUNTLET AFTERMATH - Special				RBC0424566	0	Monthly	25	Active
+INFINITY GAUNTLET - Special				RBC0424565	0	Monthly	25	Active
+INFINITY WAR AFTERMATH - Special				RBC0424568	0	Monthly	25	Active
+INFINITY WAR - Special				RBC0424567	0	Monthly	25	Active
+INHUMAN VOL. 1: GENESIS - Special				RBC0424569	0	Monthly	25	Active
+INHUMANS BY PAUL JENKINS & JAE LEE - Special				RBC0424570	0	Monthly	25	Active
+INHUMANS VS. X-MEN - Special				RBC0424571	0	Monthly	25	Active
+INVINCIBLE IRON MAN VOL. 3: WORLDS MOST WANTED BOOK 2 - Special				RBC0424574	0	Monthly	25	Active
+INVINCIBLE IRON MAN VOL. 2: WORLDS MOST WANTED BOOK 1 - Special				RBC0424573	0	Monthly	25	Active
+INVINCIBLE IRON MAN VOL. 1: FIVE NIGHTMARES - Special				RBC0424572	0	Monthly	25	Active
+INVINCIBLE IRON MAN VOL. 3: CIVIL WAR II - Special				RBC0424577	0	Monthly	25	Active
+INVINCIBLE IRON MAN VOL. 2: THE WAR MACHINES - Special				RBC0424576	0	Monthly	25	Active
+INVINCIBLE IRON MAN VOL. 1: REBOOT - Special				RBC0424575	0	Monthly	25	Active
+IRON MAN: EXTREMIS - Special				RBC0424578	0	Monthly	25	Active
+JESSICA JONES VOL. 2: THE SECRETS OF MARIA HILL - Special				RBC0424580	0	Monthly	25	Active
+JESSICA JONES VOL. 1: UNCAGED! - Special				RBC0424579	0	Monthly	25	Active
+MARVEL 1602 BY NEIL GAIMAN - Special				RBC0424582	0	Monthly	25	Active
+WOLVERINE: WEAPON X - Special				RBC0424662	0	Monthly	25	Active
+MARVEL ZOMBIES - Special				RBC0424583	0	Monthly	25	Active
+MARVELS ANT-MAN PRELUDE - Special				RBC0424584	0	Monthly	25	Active
+MARVELS CAPTAIN AMERICA: CIVIL WAR PRELUDE - Special				RBC0424585	0	Monthly	25	Active
+MARVELS CAPTAIN AMERICA: THE WINTER SOLDIER PRELUDE - Special				RBC0424586	0	Monthly	25	Active
+MARVELS DOCTOR STRANGE PRELUDE - Special				RBC0424587	0	Monthly	25	Active
+MARVELS IRON MAN 3 PRELUDE - Special				RBC0424590	0	Monthly	25	Active
+MARVELS THE AVENGERS: AGE OF ULTRON PRELUDE - Special				RBC0424591	0	Monthly	25	Active
+MARVELS THOR: RAGNAROK PRELUDE - Special				RBC0424592	0	Monthly	25	Active
+D4VE, Vol. 1				RBC0426092	0	Monthly	25	Active
+Judge Dredd: Anderson, Psi-Division				RBC0426105	0	Monthly	25	Active
+Judge Dredd: The Blessed Earth, Vol. 1				RBC0426106	0	Monthly	25	Active
+Judge Dredd: The Blessed Earth, Vol. 2				RBC0429699	0	Monthly	25	Active
+Ghostbusters Volume 1				RBC0426097	0	Monthly	25	Active
+Ghostbusters Volume 2				RBC0426993	0	Monthly	25	Active
+Ghostbusters 101: Everyone Answers The Call				RBC0426096	0	Monthly	25	Active
+Ghostbusters: Displaced Aggression				RBC0426098	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles/Ghostbusters				RBC0426110	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles/Ghostbusters, Vol. 2				RBC0429706	0	Monthly	25	Active
+Godzilla: Cataclysm				RBC0426101	0	Monthly	25	Active
+Transformers: Autocracy				RBC0426111	0	Monthly	25	Active
+Star Trek: Legion of Super-Heroes				RBC0424284	0	Monthly	25	Active
+Dungeons & Dragons: The Legend of Drizzt, Vol. 1: Homeland				RBC0426095	0	Monthly	25	Active
+Infinite Kung Fu				RBC0426104	0	Monthly	25	Active
+The X-Files: Season 10, Vol. 2				RBC0387555	0	Monthly	25	Active
+The X-Files: Season 10, Vol. 1				RBC0387554	0	Monthly	25	Active
+My Little Pony: The Cutie Map				RBC0442776	0	Annually	25	Active
+My Little Pony: Twilight's Kingdom				RBC0442775	0	Annually	25	Active
+My Little Pony: Princess Twilight Sparkle				RBC0442774	0	Annually	25	Active
+My Little Pony: The Crystal Empire				RBC0442773	0	Annually	25	Active
+My Little Pony: A Canterlot Wedding				RBC0442772	0	Annually	25	Active
+My Little Pony: Pageants & Ponies				RBC0442771	0	Annually	25	Active
+My Little Pony: Animated, Vol. 3: The Return of Harmony				RBC0442770	0	Annually	25	Active
+My Little Pony: When Cutie Calls				RBC0442769	0	Annually	25	Active
+My Little Pony: The Magic Begins				RBC0442768	0	Annually	25	Active
+MARVEL UNIVERSE DEADPOOL & WOLVERINE				RBC0455501	0	Annually	25	Active
+THE UNBEATABLE SQUIRREL GIRL VOL. 1: SQUIRREL POWER				RBC0455560	0	Annually	25	Active
+THE UNBEATABLE SQUIRREL GIRL VOL. 2: SQUIRREL YOU KNOW IT'S TRUE				RBC0455561	0	Annually	25	Active
+THE UNBEATABLE SQUIRREL GIRL VOL. 3: SQUIRREL, YOU REALLY GOT ME NOW				RBC0455562	0	Annually	25	Active
+SILVER SURFER: REBIRTH OF THANOS				RBC0455542	0	Annually	25	Active
+SPIDER-GWEN VOL. 1: GREATER POWER				RBC0455543	0	Annually	25	Active
+SPIDER-GWEN VOL. 2: WEAPON OF CHOICE				RBC0455544	0	Annually	25	Active
+SPIDER-GWEN VOL. 3: LONG-DISTANCE				RBC0455545	0	Annually	25	Active
+SPIDER-GWEN VOL. 4: PREDATORS				RBC0455546	0	Annually	25	Active
+SPIDER-GWEN VOL. 0: MOST WANTED?				RBC0457099	0	Annually	25	Active
+SPIDER-MAN: MAXIMUM CARNAGE				RBC0455547	0	Annually	25	Active
+SPIDER-VERSE				RBC0455549	0	Annually	25	Active
+THANOS VS. HULK				RBC0455551	0	Annually	25	Active
+Coin-Op Comics Anthology: 1997-2017				RBC0455782	0	Monthly	25	Active
+DEADPOOL VS. X-FORCE				RBC0455458	0	Annually	25	Active
+AGENTS OF S.H.I.E.L.D. VOL. 1: THE COULSON PROTOCOLS				RBC0455439	0	Annually	25	Active
+AGENTS OF S.H.I.E.L.D. VOL. 2: UNDER NEW MANAGEMENT				RBC0455440	0	Annually	25	Active
+HULK: GRAY				RBC0455486	0	Annually	25	Active
+CAGE!				RBC0455446	0	Annually	25	Active
+NEW AVENGERS: A.I.M. VOL. 1: EVERYTHING IS NEW				RBC0455517	0	Annually	25	Active
+NEW AVENGERS: A.I.M. VOL. 2: STANDOFF				RBC0455518	0	Annually	25	Active
+NEW AVENGERS: A.I.M. VOL. 3: CIVIL WAR II				RBC0455519	0	Annually	25	Active
+NEXTWAVE VOL. 1: THIS IS WHAT THEY WANT				RBC0455525	0	Annually	25	Active
+NEXTWAVE VOL. 2: I KICK YOUR FACE				RBC0455526	0	Annually	25	Active
+CLOAK AND DAGGER: LOST AND FOUND				RBC0455454	0	Annually	25	Active
+ICEMAN VOL. 1: THAWING OUT				RBC0455487	0	Annually	25	Active
+JESSICA JONES: AVENGER				RBC0455493	0	Annually	25	Active
+LOKI: AGENT OF ASGARD VOL. 1 - TRUST ME				RBC0455494	0	Annually	25	Active
+LOKI: AGENT OF ASGARD VOL. 2 - I CANNOT TELL A LIE				RBC0455495	0	Annually	25	Active
+LOKI: AGENT OF ASGARD VOL. 3 - LAST DAYS				RBC0455496	0	Annually	25	Active
+MARVEL UNIVERSE CAPTAIN AMERICA: CIVIL WAR				RBC0455500	0	Annually	25	Active
+MARVEL UNIVERSE ULTIMATE SPIDER-MAN & THE AVENGERS				RBC0455502	0	Annually	25	Active
+THE ASTONISHING ANT-MAN VOL. 1: EVERYBODY LOVES TEAM-UPS				RBC0455552	0	Annually	25	Active
+THE ASTONISHING ANT-MAN VOL. 2: SMALL-TIME CRIMINAL				RBC0455553	0	Annually	25	Active
+THE ASTONISHING ANT-MAN VOL. 3: THE TRIAL OF ANT-MAN				RBC0455554	0	Annually	25	Active
+MIGHTY THOR VOL. 1: THUNDER IN HER VEINS				RBC0455505	0	Annually	25	Active
+MIGHTY THOR VOL. 2: LORDS OF MIDGARD				RBC0455506	0	Annually	25	Active
+MIGHTY THOR VOL. 3: ASGARD/SHI'AR WAR				RBC0455507	0	Annually	25	Active
+THANOS IMPERATIVE				RBC0455550	0	Annually	25	Active
+OZ: WONDERFUL WIZARD OF OZ				RBC0455534	0	Annually	25	Active
+UNCANNY INHUMANS VOL. 1: TIME CRUSH				RBC0455565	0	Annually	25	Active
+UNCANNY INHUMANS VOL. 2: THE QUIET ROOM				RBC0455566	0	Annually	25	Active
+UNCANNY INHUMANS VOL. 3: CIVIL WAR II				RBC0455567	0	Annually	25	Active
+UNCANNY INHUMANS VOL. 4: IVX				RBC0455568	0	Annually	25	Active
+UNCANNY X-MEN: SUPERIOR VOL. 1 - SURVIVAL OF THE FITTEST				RBC0455572	0	Annually	25	Active
+UNCANNY X-MEN: SUPERIOR VOL. 2 - APOCALYPSE WARS				RBC0455573	0	Annually	25	Active
+UNCANNY X-MEN: SUPERIOR VOL. 3 - WAKING FROM THE DREAM				RBC0455574	0	Annually	25	Active
+UNCANNY X-MEN: SUPERIOR VOL. 4 - IVX				RBC0455575	0	Annually	25	Active
+VENOM VOL. 1: HOMECOMING				RBC0455576	0	Annually	25	Active
+VENOM VOL. 2: LAND BEFORE CRIME				RBC0455577	0	Annually	25	Active
+VENOM: CARNAGE UNLEASHED				RBC0455578	0	Annually	25	Active
+VENOM: DARK ORIGIN				RBC0455579	0	Annually	25	Active
+VENOMVERSE				RBC0455580	0	Annually	25	Active
+WOLVERINE BY CLAREMONT AND MILLER				RBC0455581	0	Annually	25	Active
+WOLVERINE VS. DEADPOOL				RBC0455582	0	Annually	25	Active
+X-MEN GOLD VOL. 1: BACK TO THE BASICS				RBC0455583	0	Annually	25	Active
+X-MEN GOLD VOL. 2: EVIL EMPIRES				RBC0455584	0	Annually	25	Active
+X-MEN: BATTLE OF THE ATOM				RBC0455585	0	Annually	25	Active
+FIGMENT 2: LEGACY OF IMAGINATION				RBC0455468	0	Annually	25	Active
+GENERATIONS				RBC0455469	0	Annually	25	Active
+GUARDIANS OF THE GALAXY & X-MEN: THE BLACK VORTEX				RBC0455470	0	Annually	25	Active
+GWENPOOL, THE UNBELIEVABLE VOL. 1: BELIEVE IT				RBC0455472	0	Annually	25	Active
+GWENPOOL, THE UNBELIEVABLE VOL. 2: HEAD OF M.O.D.O.K.				RBC0455473	0	Annually	25	Active
+HAUNTED MANSION				RBC0455474	0	Annually	25	Active
+HAWKEYE VOL. 2: LITTLE HITS				RBC0455475	0	Annually	25	Active
+HAWKEYE VOL. 1: MY LIFE AS A WEAPON				RBC0455476	0	Annually	25	Active
+HAWKEYE VOL. 3: L.A. WOMAN				RBC0455477	0	Annually	25	Active
+HAWKEYE VOL. 4: RIO BRAVO				RBC0455478	0	Annually	25	Active
+HAWKEYE VOL. 5: ALL-NEW HAWKEYE				RBC0455479	0	Annually	25	Active
+HAWKEYE VOL. 6: HAWKEYES				RBC0455480	0	Annually	25	Active
+HAWKEYE: KATE BISHOP VOL. 1 - ANCHOR POINTS				RBC0455482	0	Annually	25	Active
+HAWKEYE: KATE BISHOP VOL. 2 - MASKS				RBC0455483	0	Annually	25	Active
+HAWKEYE VS. DEADPOOL				RBC0455481	0	Annually	25	Active
+HOWARD THE DUCK VOL. 1: DUCK HUNT				RBC0455484	0	Annually	25	Active
+HULK: FUTURE IMPERFECT				RBC0455485	0	Annually	25	Active
+PRIDE AND PREJUDICE				RBC0455538	0	Annually	25	Active
+OZ: ROAD TO OZ				RBC0455531	0	Annually	25	Active
+SENSE AND SENSIBILITY				RBC0455539	0	Annually	25	Active
+SIEGE				RBC0455540	0	Annually	25	Active
+SILVER SURFER VOL. 1: NEW DAWN				RBC0455541	0	Annually	25	Active
+IRON MAN MASTERWORKS VOL. 1				RBC0455491	0	Annually	25	Active
+IRON MAN MASTERWORKS VOL. 2				RBC0455492	0	Annually	25	Active
+The Little Book of Knowledge: Sharks				RBC0455785	0	Monthly	25	Active
+The Little Book of Knowledge: New Hollywood				RBC0457404	0	Monthly	25	Active
+Transformers: Lost Light, Vol. 1				RBC0455689	0	Monthly	25	Active
+Transformers: Lost Light, Vol. 2				RBC0455690	0	Monthly	25	Active
+Transformers: Lost Light, Vol. 3				RBC0455691	0	Monthly	25	Active
+Transformers: Optimus Prime, Vol. 1				RBC0455692	0	Monthly	25	Active
+Transformers: Optimus Prime, Vol. 2				RBC0455693	0	Monthly	25	Active
+Transformers: Optimus Prime, Vol. 3				RBC0455694	0	Monthly	25	Active
+Transformers: Last Stand of the Wreckers				RBC0455695	0	Monthly	25	Active
+Transformers: The Wreckers Saga				RBC0457405	0	Monthly	25	Active
+Starstruck: Old Proldiers Never Die				RBC0455696	0	Monthly	25	Active
+The Story of My Tits				RBC0455712	0	Monthly	25	Active
+Jem and the Holograms, Vol. 1: Showtime				RBC0455715	0	Monthly	25	Active
+Jem and the Holograms, Vol. 2: Viral				RBC0455716	0	Monthly	25	Active
+Jem and the Holograms, Vol. 3: Dark Jem				RBC0455717	0	Monthly	25	Active
+Jem and the Holograms, Vol. 4: Enter The Stingers				RBC0455718	0	Monthly	25	Active
+Jem and the Holograms, Vol. 5: Truly Outrageous				RBC0455719	0	Monthly	25	Active
+Jem and the Holograms: Dimensions				RBC0455720	0	Monthly	25	Active
+Cat n Bat				RBC0455721	0	Monthly	25	Active
+Strong Female Protagonist: Book One				RBC0455713	0	Monthly	25	Active
+Strong Female Protagonist, Book Two				RBC0455714	0	Monthly	25	Active
+Haunted Horror, Vol. 6: Nightmare of Doom! And Much, Much More				RBC0455722	0	Monthly	25	Active
+G.I. Joe vs. The Six Million Dollar Man				RBC0457408	0	Monthly	25	Active
+Wards Valley				RBC0455724	0	Monthly	25	Active
+Transformers: Till All Are One, Vol. 1				RBC0455725	0	Monthly	25	Active
+Transformers: Till All Are One, Vol. 2				RBC0455726	0	Monthly	25	Active
+Transformers: Till All Are One, Vol. 3				RBC0455727	0	Monthly	25	Active
+Underwhere				RBC0455728	0	Monthly	25	Active
+Violette Around the World, Vol. 1: My Head In the Clouds				RBC0455729	0	Monthly	25	Active
+Prison Ship				RBC0455730	0	Monthly	25	Active
+Goosebumps: Monsters At Midnight				RBC0455731	0	Monthly	25	Active
+Half Past Danger II: Dead To Reichs				RBC0455732	0	Monthly	25	Active
+My Little Pony: Legends of Magic, Vol. 1				RBC0455734	0	Monthly	25	Active
+My Little Pony: Legends of Magic Annual 2018				RBC0455735	0	Monthly	25	Active
+My Little Pony: Legends of Magic, Vol. 2				RBC0455736	0	Monthly	25	Active
+Powerpuff Girls: The Bureau of Bad				RBC0455769	0	Monthly	25	Active
+Samurai Jack: Quantum Jack				RBC0455770	0	Monthly	25	Active
+Scarlett's Strike Force				RBC0455771	0	Monthly	25	Active
+Star Trek: Boldly Go, Vol. 1				RBC0455772	0	Monthly	25	Active
+Star Trek: Boldly Go, Vol. 2				RBC0455773	0	Monthly	25	Active
+Star Trek: Boldly Go, Vol. 3				RBC0455774	0	Monthly	25	Active
+The Infinite Loop, Vol. 1				RBC0455779	0	Monthly	25	Active
+The Infinite Loop, Vol. 2: Nothing But the Truth				RBC0455780	0	Monthly	25	Active
+Four Sisters, Vol. 1: Enid				RBC0455781	0	Monthly	25	Active
+Stretch Armstrong and the Flex Fighters				RBC0455783	0	Monthly	25	Active
+Gumballs				RBC0455784	0	Monthly	25	Active
+Cloud Hotel				RBC0455803	0	Monthly	25	Active
+My Little Pony: The Cutie Re-Mark				RBC0455804	0	Monthly	25	Active
+Ghostbusters: Answer the Call				RBC0455806	0	Monthly	25	Active
+Diablo House				RBC0455808	0	Monthly	25	Active
+Gears of War: The Rise of RAAM				RBC0455809	0	Monthly	25	Active
+Luna the Vampire: Pickled Zits				RBC0455822	0	Monthly	25	Active
+Any Empire				RBC0455823	0	Monthly	25	Active
+ALL-NEW CAPTAIN AMERICA: FEAR HIM - Special				RBC0424325	0	Monthly	25	Active
+ETERNALS BY NEIL GAIMAN				RBC0455461	0	Annually	25	Active
+EXTRAORDINARY X-MEN VOL. 1: X-HAVEN				RBC0455462	0	Annually	25	Active
+EXTRAORDINARY X-MEN VOL. 2: APOCALYPSE WARS				RBC0455463	0	Annually	25	Active
+EXTRAORDINARY X-MEN VOL. 3: KINGDOMS FALL				RBC0455464	0	Annually	25	Active
+EXTRAORDINARY X-MEN VOL. 4: IVX				RBC0455465	0	Annually	25	Active
+FEAR ITSELF				RBC0455466	0	Annually	25	Active
+MONSTERS UNLEASHED				RBC0455510	0	Annually	25	Active
+NEW AVENGERS: ILLUMINATI				RBC0455520	0	Annually	25	Active
+LUKE CAGE: AVENGER				RBC0455497	0	Annually	25	Active
+CAPTAIN AMERICA/BLACK PANTHER: FLAGS OF OUR FATHERS				RBC0455447	0	Annually	25	Active
+CARNAGE: FAMILY FEUD				RBC0455448	0	Annually	25	Active
+ORIGINAL SIN				RBC0455527	0	Annually	25	Active
+ORIGINAL SIN BY AARON & DEODATO				RBC0455528	0	Annually	25	Active
+OZ: OZMA OF OZ				RBC0455530	0	Annually	25	Active
+PATSY WALKER, A.K.A. HELLCAT! VOL. 1: HOOKED ON A FELINE				RBC0455535	0	Annually	25	Active
+POWER MAN AND IRON FIST VOL. 1: THE BOYS ARE BACK IN TOWN				RBC0455536	0	Annually	25	Active
+POWER MAN AND IRON FIST VOL. 2: CIVIL WAR II				RBC0455537	0	Annually	25	Active
+CIVIL WAR: FRONT LINE VOL. 1				RBC0455452	0	Annually	25	Active
+CIVIL WAR: FRONT LINE VOL. 2				RBC0455453	0	Annually	25	Active
+Powerpuff Girls Classics Vol. 2: Power Up				RBC0424280	0	Monthly	25	Active
+Powerpuff Girls Classics Vol. 1: Power Party				RBC0424279	0	Monthly	25	Active
+Parker: The Outfit				RBC0424298	0	Monthly	25	Active
+Star Trek: Mirror Images				RBC0424283	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Black & White Classics Vol. 2				RBC0424258	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Black & White Classics Vol. 1				RBC0424257	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Microseries Vol. 1				RBC0424251	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Secret History of the Foot Clan				RBC0424247	0	Monthly	25	Active
+Godzilla: Half Century War				RBC0426102	0	Monthly	25	Active
+Judge Dredd: The Dark Judges				RBC0426107	0	Monthly	25	Active
+Mars Attacks Judge Dredd				RBC0426108	0	Monthly	25	Active
+Ghostbusters: Real Ghostbusters Omnibus Vol. 1				RBC0426100	0	Monthly	25	Active
+Dead Space: Salvage				RBC0426093	0	Monthly	25	Active
+Dungeons & Dragons Vol. 1 - Shadowplague				RBC0426094	0	Monthly	25	Active
+Godzilla: Rage Across Time				RBC0426103	0	Monthly	25	Active
+DAREDEVIL VS. PUNISHER: MEANS & ENDS				RBC0455457	0	Annually	25	Active
+Brutal Nature				RBC0440663	0	Annually	25	Active
+William Gibson's Archangel				RBC0440686	0	Annually	25	Active
+From Hell				RBC0440666	0	Annually	25	Active
+Micronauts, Vol. 1				RBC0440671	0	Annually	25	Active
+Micronauts, Vol. 2				RBC0440672	0	Annually	25	Active
+Micronauts: Wrath of Karza				RBC0440673	0	Annually	25	Active
+Revolution				RBC0440674	0	Annually	25	Active
+Swallow Me Whole				RBC0440683	0	Annually	25	Active
+The X-Files: JFK Disclosure				RBC0440685	0	Annually	25	Active
+Street Fighter x G.I. Joe, Vol. 1				RBC0440682	0	Annually	25	Active
+March: Book One				RBC0440668	0	Annually	25	Active
+March: Book Three				RBC0440670	0	Annually	25	Active
+March: Book Two				RBC0440669	0	Annually	25	Active
+The Underwater Welder				RBC0440684	0	Annually	25	Active
+Star Trek: TNG: Mirror Broken				RBC0440681	0	Annually	25	Active
+Saucer State				RBC0440680	0	Annually	25	Active
+Saucer Country				RBC0440679	0	Annually	25	Active
+Satellite Falling				RBC0440678	0	Annually	25	Active
+Clue				RBC0440664	0	Annually	25	Active
+Assassinistas				RBC0440662	0	Annually	25	Active
+Vol. 1: Teenage Kicks				RBC0440833	0	Annually	25	Active
+Vol. 2: The Lord of the Dead				RBC0440836	0	Annually	25	Active
+Vol. 1: Last God Standing				RBC0440835	0	Annually	25	Active
+Wynonna Earp: Season Zero				RBC0440837	0	Annually	25	Active
+We Spoke Out: Comic Books and the Holocaust				RBC0440838	0	Annually	25	Active
+Transformers/G.I. JOE: First Strike				RBC0440840	0	Annually	25	Active
+Transformers/G.I. JOE: First Strike - Champions				RBC0440841	0	Annually	25	Active
+Rom Vs. Transformers: Shining Armor				RBC0440842	0	Annually	25	Active
+Jem and the Holograms: Infinite				RBC0442777	0	Annually	25	Active
+Teenage Mutant Ninja Turtles: Dimension X				RBC0442778	0	Annually	25	Active
+Vol. 8				RBC0442765	0	Annually	25	Active
+Vol. 7				RBC0442764	0	Annually	25	Active
+Vol. 6				RBC0442763	0	Annually	25	Active
+Vol. 5				RBC0442762	0	Annually	25	Active
+Vol. 4				RBC0442761	0	Annually	25	Active
+Vol. 3				RBC0442760	0	Annually	25	Active
+Vol. 2				RBC0442759	0	Annually	25	Active
+Vol. 1				RBC0442758	0	Annually	25	Active
+My Little Pony: Pony Tales, Vol. 1				RBC0442766	0	Annually	25	Active
+My Little Pony: Pony Tales, Vol. 2				RBC0442767	0	Annually	25	Active
+AGENTS OF ATLAS				RBC0455438	0	Annually	25	Active
+OZ: DOROTHY & THE WIZARD IN OZ				RBC0455529	0	Annually	25	Active
+OZ: THE EMERALD CITY OF OZ				RBC0455532	0	Annually	25	Active
+EMMA				RBC0455459	0	Annually	25	Active
+ENCHANTED TIKI ROOM				RBC0455460	0	Annually	25	Active
+ANT-MAN: SCOTT LANG				RBC0455442	0	Annually	25	Active
+BLACK BOLT VOL. 1: HARD TIME				RBC0455443	0	Annually	25	Active
+BLACK PANTHER AND THE CREW: WE ARE THE STREETS				RBC0455444	0	Annually	25	Active
+FIGMENT				RBC0455467	0	Annually	25	Active
+MOON KNIGHT VOL. 1: FROM THE DEAD				RBC0455513	0	Annually	25	Active
+NEW MUTANTS/X-FORCE: DEMON BEAR				RBC0455524	0	Annually	25	Active
+IRON MAN: DEMON IN A BOTTLE				RBC0455488	0	Annually	25	Active
+IRON MAN: ARMOR WARS				RBC0455489	0	Annually	25	Active
+IRON MAN & THE ARMOR WARS				RBC0455490	0	Annually	25	Active
+THOR & LOKI: BLOOD BROTHERS				RBC0455564	0	Annually	25	Active
+MARVEL UNIVERSE AVENGERS ASSEMBLE VOL. 1				RBC0455498	0	Annually	25	Active
+MARVEL UNIVERSE AVENGERS ASSEMBLE VOL. 2				RBC0455499	0	Annually	25	Active
+MARVEL UNIVERSE ULTIMATE SPIDER-MAN SPIDER-VERSE				RBC0455503	0	Annually	25	Active
+MARVELS: THE REMASTERED EDITION				RBC0455504	0	Annually	25	Active
+MILES MORALES: ULTIMATE SPIDER-MAN VOL. 1 - REVIVAL				RBC0455508	0	Annually	25	Active
+MILES MORALES: ULTIMATE SPIDER-MAN VOL. 2 - REVELATIONS				RBC0455509	0	Annually	25	Active
+OZ: THE MARVELOUS LAND OF OZ				RBC0455533	0	Annually	25	Active
+THE MIGHTY CAPTAIN MARVEL VOL. 1: ALIEN NATION				RBC0455555	0	Annually	25	Active
+THE MIGHTY CAPTAIN MARVEL VOL. 2: BAND OF SISTERS				RBC0455556	0	Annually	25	Active
+THE MIGHTY CAPTAIN MARVEL VOL. 3: DARK ORIGINS				RBC0457093	0	Annually	25	Active
+THE PUNISHER VOL. 1: ON THE ROAD				RBC0455557	0	Annually	25	Active
+THE PUNISHER VOL. 2: END OF THE LINE				RBC0455558	0	Annually	25	Active
+THE TOTALLY AWESOME HULK VOL. 1: CHO TIME				RBC0455559	0	Annually	25	Active
+Hunter S. Thompsons Fear and Loathing in Las Vegas				RBC0440665	0	Annually	25	Active
+Mystery Society, Vol. 1				RBC0426109	0	Monthly	25	Active
+Ghostbusters: Get Real				RBC0426099	0	Monthly	25	Active
+Kid Lobotomy, Vol. 1				RBC0440667	0	Annually	25	Active
+Femme Magnifique				RBC0440834	0	Annually	25	Active
+Wormwood, Gentleman Corpse: Mr. Wormwood Goes to Washington				RBC0440839	0	Annually	25	Active
+A-FORCE VOL. 0: WARZONES!				RBC0455435	0	Annually	25	Active
+A-FORCE VOL. 1: HYPERTIME				RBC0455436	0	Annually	25	Active
+A-FORCE VOL. 2: RAGE AGAINST THE DYING OF THE LIGHT				RBC0455437	0	Annually	25	Active
+Abe Sapien: Dark and Terrible Volume 1				RBC0456036	0	Annually	25	Active
+Abe Sapien: Dark and Terrible Volume 2				RBC0456037	0	Annually	25	Active
+Abe Sapien: The Drowning and Other Stories				RBC0456038	0	Annually	25	Active
+Dork				RBC0456154	0	Annually	25	Active
+Elfquest: The Final Quest Volume 1				RBC0456159	0	Annually	25	Active
+Elfquest: The Final Quest Volume 2				RBC0456160	0	Annually	25	Active
+Elfquest: The Final Quest Volume 4				RBC0456161	0	Annually	25	Active
+Hard Boiled (Second Edition)				RBC0456177	0	Annually	25	Active
+He-Man and the Masters of the Universe Minicomic Collection Volume 1				RBC0456184	0	Annually	25	Active
+He-Man and the Masters of the Universe Minicomic Collection Volume 2				RBC0456185	0	Annually	25	Active
+He-Man and the Masters of the Universe: A Character Guide and World Compendium Volume 1				RBC0456186	0	Annually	25	Active
+He-Man and the Masters of the Universe: A Character Guide and World Compendium Volume 2				RBC0456187	0	Annually	25	Active
+Hellboy and the B.P.R.D.: 1954				RBC0456237	0	Annually	25	Active
+Hellboy and the B.P.R.D.: 1955				RBC0456427	0	Annually	25	Active
+Hellboy Omnibus Volume 1: Seed of Destruction				RBC0456238	0	Annually	25	Active
+Hellboy Omnibus Volume 2: Strange Places				RBC0456239	0	Annually	25	Active
+Hellboy Omnibus Volume 3: The Wild Hunt				RBC0456240	0	Annually	25	Active
+Hellboy Omnibus Volume 4: Hellboy in Hell				RBC0456241	0	Annually	25	Active
+Hellboy Vol. 9: The Wild Hunt (2nd Edition)				RBC0456244	0	Annually	25	Active
+Hercules: Adventures of the Man-God Archive				RBC0456246	0	Annually	25	Active
+Incognegro: A Graphic Mystery (New Edition)				RBC0456247	0	Annually	25	Active
+Incognegro: Renaissance				RBC0456248	0	Annually	25	Active
+Jenny Finn				RBC0456249	0	Annually	25	Active
+Joe Golem: Occult Detective Volume 2--The Outer Dark				RBC0456250	0	Annually	25	Active
+Koshchei the Deathless				RBC0456251	0	Annually	25	Active
+Lady Killer Vol. 2				RBC0456252	0	Annually	25	Active
+Lobster Johnson Volume 5: The Pirate's Ghost and Metal Monsters of Midtown				RBC0456255	0	Annually	25	Active
+Lobster Johnson Volume 6: A Chain Forged in Life				RBC0456256	0	Annually	25	Active
+Mages of Mystralia				RBC0456257	0	Annually	25	Active
+Matt Wagner's Grendel Tales Omnibus Volume 2				RBC0456260	0	Annually	25	Active
+Michael Chabon's The Escapists				RBC0456261	0	Annually	25	Active
+Michael Chabon's The Escapist: Amazing Adventures				RBC0456262	0	Annually	25	Active
+Michael Chabon's The Escapist: Pulse-Pounding Thrills				RBC0456263	0	Annually	25	Active
+Misfits of Avalon Volume 3: The Future in the Wind				RBC0456266	0	Annually	25	Active
+Mysticons Volume 1				RBC0456272	0	Annually	25	Active
+Neon Genesis Evangelion: The Legend of Piko Piko Middle School Students Volume 2				RBC0456276	0	Annually	25	Active
+Once Upon a Time Machine Volume 2				RBC0456236	0	Annually	25	Active
+Plants vs. Zombies Volume 9: The Greatest Show Unearthed				RBC0456350	0	Annually	25	Active
+Plants vs. Zombies Volume 8: Lawn of Doom				RBC0456351	0	Annually	25	Active
+Plants vs. Zombies Volume 10: Rumble at Lake Gumbo				RBC0456352	0	Annually	25	Active
+Plants vs. Zombies Volume 11: War and Peas				RBC0456353	0	Annually	25	Active
+Plants vs. Zombies Volume 12: Dino-Might				RBC0457145	0	Annually	25	Active
+Predator Versus Judge Dredd Versus Aliens: Splice and Dice				RBC0456354	0	Annually	25	Active
+Rashomon: A Commissioner Heigo Kobayashi Case				RBC0456357	0	Annually	25	Active
+Rasputin: The Voice of the Dragon				RBC0456358	0	Annually	25	Active
+Rebels: These Free and Independent States				RBC0456359	0	Annually	25	Active
+Reefer Madness				RBC0456360	0	Annually	25	Active
+Robotic Existentialism: The Art of Eric Joyner				RBC0456364	0	Annually	25	Active
+Shaolin Cowboy: Who'll Stop the Reign?				RBC0456368	0	Annually	25	Active
+Shaolin Cowboy: Start Trek				RBC0456369	0	Annually	25	Active
+Sherlock Frankenstein Volume 1: From the World of Black Hammer				RBC0456370	0	Annually	25	Active
+The Art of Wolfenstein II: The New Colossus				RBC0456379	0	Annually	25	Active
+The Battles of Bridget Lee Volume 2: The Miracle Child				RBC0456380	0	Annually	25	Active
+The Black Beetle: Kara Bocek				RBC0456390	0	Annually	25	Active
+The Complete Angel Catbird				RBC0456389	0	Annually	25	Active
+The Complete Colder Omnibus				RBC0456391	0	Annually	25	Active
+The Dark North				RBC0456394	0	Annually	25	Active
+The EC Archives: Extra				RBC0456395	0	Annually	25	Active
+The EC Archives: Weird Fantasy Volume 3				RBC0456396	0	Annually	25	Active
+The EC Archives: War Against Crime Volume 1				RBC0456397	0	Annually	25	Active
+The EC Archives: Panic Volume 2				RBC0456398	0	Annually	25	Active
+The EC Archives: The Vault of Horror Volume 1				RBC0456399	0	Annually	25	Active
+The EC Archives: The Haunt of Fear Volume 5				RBC0456400	0	Annually	25	Active
+The End League Library Edition				RBC0456401	0	Annually	25	Active
+The Legend of Zelda: Breath of the Wild-Creating a Champion				RBC0456404	0	Annually	25	Active
+The Occultist Omnibus				RBC0456406	0	Annually	25	Active
+The Once and Future Queen				RBC0456407	0	Annually	25	Active
+The Paybacks Collection				RBC0456408	0	Annually	25	Active
+The Secret Loves of Geeks				RBC0456409	0	Annually	25	Active
+The Strain Volume 6 The Night Eternal				RBC0456412	0	Annually	25	Active
+The Suit				RBC0456410	0	Annually	25	Active
+The Terminator: The Original Comics Series-Tempest and One Shot				RBC0456411	0	Annually	25	Active
+The Visitor: How and Why He Stayed				RBC0456245	0	Annually	25	Active
+The Witcher: Volume 2 Fox Children				RBC0456413	0	Annually	25	Active
+The Witcher Library Edition Volume 1				RBC0456414	0	Annually	25	Active
+Tomb Raider Volume 3: Crusade				RBC0456415	0	Annually	25	Active
+Umbrella Academy Volume 1: Apocalypse Suite				RBC0456418	0	Annually	25	Active
+Umbrella Academy Volume 2: Dallas				RBC0456419	0	Annually	25	Active
+Usagi Yojimbo/Teenage Mutant Ninja Turtles: The Complete Collection				RBC0456420	0	Annually	25	Active
+Vinegar Teeth				RBC0456421	0	Annually	25	Active
+W.B. DuBay's The Rook Archives Volume 3				RBC0456422	0	Annually	25	Active
+Zodiac Starforce Volume 2: Cries of the Fire Prince				RBC0456425	0	Annually	25	Active
+Go Team Venture!: The Art and Making of the Venture Bros				RBC0456171	0	Annually	25	Active
+Moebius Library: Inside Moebius Part 1				RBC0456267	0	Annually	25	Active
+Moebius Library: The Art of Edena				RBC0456268	0	Annually	25	Active
+Moebius Library: Inside Moebius Part 2				RBC0456269	0	Annually	25	Active
+Moebius Library: Inside Moebius Part 3				RBC0456270	0	Annually	25	Active
+The Art of Overwatch				RBC0456375	0	Annually	25	Active
+Mammon				RBC0456258	0	Annually	25	Active
+Super Mario Encyclopedia: The Official Guide to the First 30 Years				RBC0456372	0	Annually	25	Active
+The Art of God of War				RBC0456374	0	Annually	25	Active
+The Art of Ratchet & Clank				RBC0456376	0	Annually	25	Active
+The Art of Sea of Thieves				RBC0456377	0	Annually	25	Active
+The Art of We Happy Few				RBC0456378	0	Annually	25	Active
+The Complete ElfQuest Volume 5				RBC0456392	0	Annually	25	Active
+The Legend of Korra: Turf Wars - Part Two				RBC0456402	0	Annually	25	Active
+The Legend of Zelda Encyclopedia				RBC0456403	0	Annually	25	Active
+World of Warcraft: Chronicle Volume 1				RBC0456423	0	Annually	25	Active
+World of Warcraft Chronicle Volume 3				RBC0456424	0	Annually	25	Active
+Conspiracy of Ravens				RBC0456140	0	Annually	25	Active
+Oh My Goddess! Volume 1				RBC0456188	0	Annually	25	Active
+Oh My Goddess! Volume 2				RBC0456189	0	Annually	25	Active
+Oh My Goddess! Volume 3				RBC0456190	0	Annually	25	Active
+Oh My Goddess! Volume 4				RBC0456191	0	Annually	25	Active
+Oh My Goddess! Volume 5				RBC0456192	0	Annually	25	Active
+Oh My Goddess! Volume 6				RBC0456193	0	Annually	25	Active
+Oh My Goddess! Volume 7				RBC0456194	0	Annually	25	Active
+Oh My Goddess! Volume 8				RBC0456195	0	Annually	25	Active
+Oh My Goddess! Volume 9				RBC0456196	0	Annually	25	Active
+Oh My Goddess! Volume 10				RBC0456197	0	Annually	25	Active
+Oh My Goddess! Volume 11				RBC0456198	0	Annually	25	Active
+Oh My Goddess! Volume 12				RBC0456199	0	Annually	25	Active
+Oh My Goddess! Volume 13				RBC0456200	0	Annually	25	Active
+Oh My Goddess! Volume 14				RBC0456201	0	Annually	25	Active
+Oh My Goddess! Volume 15				RBC0456202	0	Annually	25	Active
+Oh My Goddess! Volume 30				RBC0456203	0	Annually	25	Active
+Oh My Goddess! Volume 31				RBC0456204	0	Annually	25	Active
+Oh My Goddess! Volume 32				RBC0456205	0	Annually	25	Active
+Oh My Goddess! Volume 33				RBC0456206	0	Annually	25	Active
+Oh My Goddess! Volume 35				RBC0456207	0	Annually	25	Active
+Oh My Goddess! Volume 36				RBC0456208	0	Annually	25	Active
+Oh My Goddess! Volume 34				RBC0456209	0	Annually	25	Active
+Oh My Goddess! Volume 37				RBC0456210	0	Annually	25	Active
+Oh My Goddess! Volume 38				RBC0456211	0	Annually	25	Active
+Oh My Goddess! Volume 39				RBC0456212	0	Annually	25	Active
+Oh My Goddess! Volume 40				RBC0456213	0	Annually	25	Active
+Oh My Goddess! Volume 41				RBC0456214	0	Annually	25	Active
+Oh My Goddess! Volume 42				RBC0456215	0	Annually	25	Active
+Oh My Goddess! Volume 43				RBC0456216	0	Annually	25	Active
+Oh My Goddess! Volume 44				RBC0456217	0	Annually	25	Active
+Oh My Goddess! Volume 45				RBC0456218	0	Annually	25	Active
+Oh My Goddess! Volume 28				RBC0456219	0	Annually	25	Active
+Oh My Goddess! Volume 46				RBC0456220	0	Annually	25	Active
+Oh My Goddess! Volume 47				RBC0456221	0	Annually	25	Active
+Oh My Goddess! Volume 29				RBC0456222	0	Annually	25	Active
+Oh My Goddess! Volume 27				RBC0456223	0	Annually	25	Active
+Oh My Goddess! Volume 48				RBC0456224	0	Annually	25	Active
+Oh My Goddess! Volume 16				RBC0456225	0	Annually	25	Active
+Oh My Goddess! Volume 17				RBC0456226	0	Annually	25	Active
+Oh My Goddess! Volume 18				RBC0456227	0	Annually	25	Active
+Oh My Goddess! Volume 19				RBC0456228	0	Annually	25	Active
+Oh My Goddess! Volume 20				RBC0456229	0	Annually	25	Active
+Oh My Goddess! Volume 21				RBC0456230	0	Annually	25	Active
+Oh My Goddess! Volume 22				RBC0456231	0	Annually	25	Active
+Oh My Goddess! Volume 23				RBC0456232	0	Annually	25	Active
+Oh My Goddess! Volume 24				RBC0456233	0	Annually	25	Active
+Oh My Goddess! Volume 25				RBC0456234	0	Annually	25	Active
+Oh My Goddess! Volume 26				RBC0456235	0	Annually	25	Active
+Criminy				RBC0456142	0	Annually	25	Active
+Disney Princess: Jasmine's New Pet (Younger Readers)				RBC0456151	0	Annually	25	Active
+Disney Treasure Island, Starring Mickey Mouse (Graphic Novel)				RBC0456152	0	Annually	25	Active
+Mr. Higgins Comes Home				RBC0456271	0	Annually	25	Active
+Trollhunters: Tales of Arcadia - The Secret History of Trollkind				RBC0456416	0	Annually	25	Active
+Trollhunters: Tales of Arcadia - The Felled				RBC0456417	0	Annually	25	Active
+Rocket Robinson and the Pharaoh's Fortune				RBC0456365	0	Annually	25	Active
+Rocket Robinson and the Secret of the Saint				RBC0456366	0	Annually	25	Active
+Blade of the Immortal Volume 7				RBC0456093	0	Annually	25	Active
+Blade of the Immortal Volume 8				RBC0456094	0	Annually	25	Active
+Blade of the Immortal Volume 9				RBC0456095	0	Annually	25	Active
+Blade of the Immortal Volume 10				RBC0456096	0	Annually	25	Active
+Blade of the Immortal Volume 11				RBC0456097	0	Annually	25	Active
+Blade of the Immortal Volume 12				RBC0456098	0	Annually	25	Active
+Blade of the Immortal Volume 13				RBC0456099	0	Annually	25	Active
+Blade of the Immortal Volume 14: Last Blood				RBC0456100	0	Annually	25	Active
+Blade of the Immortal Volume 15: Trickster				RBC0456101	0	Annually	25	Active
+Blade of the Immortal Volume 24: Massacre				RBC0456102	0	Annually	25	Active
+Blade of the Immortal Volume 25				RBC0456103	0	Annually	25	Active
+Blade of the Immortal Volume 26				RBC0456104	0	Annually	25	Active
+Blade of the Immortal Volume 28				RBC0456105	0	Annually	25	Active
+Blade of the Immortal Volume 27				RBC0456106	0	Annually	25	Active
+Blade of the Immortal Volume 30: Vigilance				RBC0456107	0	Annually	25	Active
+Blade of the Immortal Volume 31: Final Curtain				RBC0456108	0	Annually	25	Active
+Blade of the Immortal Volume 22				RBC0456109	0	Annually	25	Active
+Blade of the Immortal Volume 23				RBC0456110	0	Annually	25	Active
+Blade of the Immortal Volume 16: Shortcut				RBC0456111	0	Annually	25	Active
+Blade of the Immortal Volume 17: On the Perfection of Anatomy				RBC0456112	0	Annually	25	Active
+Blade of the Immortal Volume 18: The Sparrow Net				RBC0456113	0	Annually	25	Active
+Blade of the Immortal Volume 19: Badger Hole				RBC0456114	0	Annually	25	Active
+Blade of the Immortal Volume 20: Demon Lair				RBC0456115	0	Annually	25	Active
+Blade of the Immortal Volume 21: Demon Lair II				RBC0456116	0	Annually	25	Active
+Blade of the Immortal Volume 29: Beyond Good and Evil				RBC0456117	0	Annually	25	Active
+Blood+ Volume 1				RBC0456125	0	Annually	25	Active
+Blood+ Volume 2				RBC0456126	0	Annually	25	Active
+Blood+ Volume 3				RBC0456127	0	Annually	25	Active
+Blood+ Volume 4				RBC0456128	0	Annually	25	Active
+Blood+ Volume 5				RBC0456129	0	Annually	25	Active
+Blood+: Kowloon Nights				RBC0456130	0	Annually	25	Active
+Niourk				RBC0456277	0	Annually	25	Active
+RG Veda Omnibus Volume 1				RBC0456361	0	Annually	25	Active
+RG Veda Omnibus Volume 2				RBC0456362	0	Annually	25	Active
+RG Veda Omnibus Volume 3				RBC0456363	0	Annually	25	Active
+The Crash Bandicoot Files: How Willy the Wombat Sparked Marsupial Mania				RBC0456393	0	Annually	25	Active
+The Art of Battlefield V				RBC0456373	0	Annually	25	Active
+The Muppets, Pt.2				RBC0456744	0	Annually	25	Active
+The Muppets, Pt.1				RBC0456743	0	Annually	25	Active
+The Muppets, Vol.6: On the Road, Pt.2				RBC0456746	0	Annually	25	Active
+The Muppets, Vol.5: On the Road, Pt.1				RBC0456745	0	Annually	25	Active
+The Muppets, Vol.4: Peg Leg Wilson, Pt.2				RBC0456748	0	Annually	25	Active
+The Muppets, Vol.3: Peg Leg Wilson, Pt.1				RBC0456747	0	Annually	25	Active
+The Muppets, Vol.10: Muppet Mash, Pt.2				RBC0457063	0	Annually	25	Active
+The Muppets, Vol.9: Muppet Mash, Pt.1				RBC0457062	0	Annually	25	Active
+Beauty and the Beast - Graphic Novel				RBC0456653	0	Annually	25	Active
+First Ladies				RBC0456639	0	Annually	25	Active
+Finding Dory - Graphic Novel				RBC0456662	0	Annually	25	Active
+Gravity Falls: Weirdmageddon - Graphic Novel				RBC0456667	0	Annually	25	Active
+Inside Out - Graphic Novel				RBC0456671	0	Annually	25	Active
+Lady and the Tramp - Graphic Novel				RBC0456672	0	Annually	25	Active
+Moana - Graphic Novel				RBC0456674	0	Annually	25	Active
+Monsters, Inc. - Graphic Novel				RBC0456675	0	Annually	25	Active
+Monsters University - Graphic Novel				RBC0456676	0	Annually	25	Active
+Mulan - Graphic Novel				RBC0456677	0	Annually	25	Active
+Peter Pan - Graphic Novel				RBC0456678	0	Annually	25	Active
+Planes - Graphic Novel				RBC0456679	0	Annually	25	Active
+Ratatouille Graphic Novel - Graphic Novel				RBC0456680	0	Annually	25	Active
+Star Wars: Original Trilogy - Graphic Novel				RBC0456681	0	Annually	25	Active
+Star Wars: A New Hope Deluxe - Graphic Novel				RBC0456684	0	Annually	25	Active
+Star Wars Sequels: Episode VII The Force Awakens - Graphic Novel				RBC0456683	0	Annually	25	Active
+Star Wars: Prequel Trilogy - Graphic Novel				RBC0456682	0	Annually	25	Active
+Rogue One: A Star Wars Story Graphic Novel				RBC0458849	0	Annually	25	Active
+Star Wars: The Last Jedi Graphic Novel				RBC0458850	0	Annually	25	Active
+Tangled - Graphic Novel				RBC0456685	0	Annually	25	Active
+The Good Dino - Graphic Novel				RBC0456686	0	Annually	25	Active
+The Jungle Book - Graphic Novel				RBC0456694	0	Annually	25	Active
+Toy Story 2 - Graphic Novel				RBC0456696	0	Annually	25	Active
+Toy Story 1 - Graphic Novel				RBC0456695	0	Annually	25	Active
+Toy Story 3 - Graphic Novel				RBC0456697	0	Annually	25	Active
+Up - Graphic Novel				RBC0456698	0	Annually	25	Active
+WALL-E - Graphic Novel				RBC0456699	0	Annually	25	Active
+Zootopia - Graphic Novel				RBC0456701	0	Annually	25	Active
+The Nightmare Before Christmas - Graphic Novel				RBC0456702	0	Annually	25	Active
+Darkwing Duck, Vol.2: Long Story Pt.2				RBC0456705	0	Annually	25	Active
+Darkwing Duck, Vol.1: Long Story Pt.1				RBC0456704	0	Annually	25	Active
+Darkwing Duck, Vol.4: The Duck Knight Returns, Pt.2				RBC0456707	0	Annually	25	Active
+Darkwing Duck, Vol.3: The Duck Knight Returns, Pt.1				RBC0456706	0	Annually	25	Active
+Darkwing Duck, Vol.5: Crisis on Infinite Darkwings				RBC0456708	0	Annually	25	Active
+Darkwing Duck, Vol.2: Crisis on Infinite Darkwings				RBC0458851	0	Annually	25	Active
+Darkwing Duck, Vol.3: F.O.W.L. Disposition				RBC0458852	0	Annually	25	Active
+Darkwing Duck, Vol.1: The Duck Knight Returns				RBC0458853	0	Annually	25	Active
+Darkwing Duck, Vol.4: Campaign Carnage				RBC0458854	0	Annually	25	Active
+Donald Duck and the Niece of the Black Corsair				RBC0456712	0	Annually	25	Active
+Donald Duck and the Impossible Dream				RBC0456711	0	Annually	25	Active
+Donald Duck and the Alternative Lives				RBC0456710	0	Annually	25	Active
+Donald Duck and the St. Valentine's Hitch				RBC0456709	0	Annually	25	Active
+Fairies: Secret of the Wings				RBC0456720	0	Annually	25	Active
+Tinker Bell and the Lost Treasure - Graphic Novel				RBC0456718	0	Annually	25	Active
+Tinker Bell and the Great Fairy Rescue - Graphic Novel				RBC0456717	0	Annually	25	Active
+Tinker Bell and the Legend of the NeverBeast - Graphic Novel				RBC0456719	0	Annually	25	Active
+Tinker Bell and the Pirate Fairy - Graphic Novel				RBC0460585	0	Annually	25	Active
+Arizona Goof and the Halloween Party				RBC0456721	0	Annually	25	Active
+High School Musical, Vol.2: A Very Strange Week				RBC0456723	0	Annually	25	Active
+High School Musical, Vol.1: A Song For East High				RBC0456722	0	Annually	25	Active
+High School Musical, Vol.3:				RBC0456724	0	Annually	25	Active
+High School Musical: A Special Week, Vol.1				RBC0456726	0	Annually	25	Active
+High School Musical: A Special Week, Vol.3				RBC0456728	0	Annually	25	Active
+High School Musical: A Special Week, Vol.2				RBC0456727	0	Annually	25	Active
+Huey, Dewey, Louie in the Library of Mysteries				RBC0456729	0	Annually	25	Active
+Mick de' Mouse's Stories, Vol.1: Mickey Mouse and the Sbilenque's Stone				RBC0456730	0	Annually	25	Active
+Mick de' Mouse's Stories, Vol.2: Mickey Mouse and the Return of the Shadow Men				RBC0456731	0	Annually	25	Active
+Mick de' Mouse's Stories, Vol.3: Mickey Mouse and the Secret of the Seventh Meteor				RBC0456732	0	Annually	25	Active
+Mickey Mouse: The Sword of Ice, Vol.3				RBC0456739	0	Annually	25	Active
+Mickey Mouse: The Sword of Ice, Vol.2				RBC0456738	0	Annually	25	Active
+Mickey Mouse: The Sword of Ice, Vol.1				RBC0456737	0	Annually	25	Active
+Mickey Kid and Goofy Six-Shots, Vol.2				RBC0456734	0	Annually	25	Active
+Mickey Kid and Goofy Six-Shots, Vol.1				RBC0456733	0	Annually	25	Active
+Minnie & Daisy, Vol.3: School Days				RBC0456742	0	Annually	25	Active
+Minnie & Daisy, Vol.2: Girly Girls				RBC0456741	0	Annually	25	Active
+Minnie & Daisy, Vol.1: Fashion Friends				RBC0456740	0	Annually	25	Active
+Pirates of the Caribbean #1: The Guardians of Windward Cove				RBC0456855	0	Annually	25	Active
+Pirates of the Caribbean #2: Smoke on the Water				RBC0456856	0	Annually	25	Active
+Pirates of the Caribbean #3: Banshee's Boon				RBC0456857	0	Annually	25	Active
+Pirates of the Caribbean #4: Mother of Water				RBC0456858	0	Annually	25	Active
+Rockerduck: Summer of Revenge				RBC0456765	0	Annually	25	Active
+Scrooge McDuck, Vol.1: The Ghost's Treasure or Vice Versa				RBC0456766	0	Annually	25	Active
+Scrooge McDuck, Vol.3: The Planetary Wars, Pt.1				RBC0456768	0	Annually	25	Active
+Scrooge McDuck, Vol.2: The Deals on the High Seas				RBC0456767	0	Annually	25	Active
+Scrooge McDuck, Vol.4: The Planetary Wars, Pt.2				RBC0456769	0	Annually	25	Active
+Ultraheroes, #0: Prologue				RBC0456859	0	Annually	25	Active
+Ultraheroes, #3: Fame and Fortune				RBC0456862	0	Annually	25	Active
+Ultraheroes, #2: Brain and Muscles				RBC0456861	0	Annually	25	Active
+Ultraheroes, #6: Good and Evil				RBC0456865	0	Annually	25	Active
+Ultraheroes, #5: Night and Day				RBC0456864	0	Annually	25	Active
+Ultraheroes, #4: Dream and Reality				RBC0456863	0	Annually	25	Active
+Ultraheroes, #7: Past and Future				RBC0456866	0	Annually	25	Active
+Ultraheroes, #1: Gathering				RBC0456860	0	Annually	25	Active
+Ultraheroes, #8: The Final Challenge				RBC0456867	0	Annually	25	Active
+Uncle Scrooge, My Second Million				RBC0456779	0	Annually	25	Active
+Uncle Scrooge, My First Million				RBC0456778	0	Annually	25	Active
+Uncle Scrooge, My Third Million				RBC0456780	0	Annually	25	Active
+Uncle Scrooge, My Fourth Million				RBC0456781	0	Annually	25	Active
+Uncle Scrooge, My Fifth Million				RBC0456782	0	Annually	25	Active
+Wizards of Mickey, Vol.1: The Great Tournament				RBC0456825	0	Annually	25	Active
+Wizards of Mickey, Vol.3: The Secret of the Great Crown				RBC0456826	0	Annually	25	Active
+Wizards of Mickey, Vol.2: The Dolmen Swamp				RBC0456827	0	Annually	25	Active
+Wizards of Mickey, Vol.5: The Dragon Well				RBC0456829	0	Annually	25	Active
+Wizards of Mickey, Vol.4: The Diamond Moon				RBC0456828	0	Annually	25	Active
+Star Wars: Adventures, Vol.2: Unexpected Detour				RBC0456814	0	Annually	25	Active
+Star Wars: Adventures, Vol.5: Mechanical Mayhem				RBC0456817	0	Annually	25	Active
+Star Wars: Adventures, Vol.1: Heroes of the Galaxy				RBC0456813	0	Annually	25	Active
+Star Wars: Adventures, Vol.3: Endangered				RBC0456815	0	Annually	25	Active
+Star Wars: Adventures, Vol.4: Smuggler's Blues				RBC0456816	0	Annually	25	Active
+Star Wars: Forces of Destiny: Ahsoka & Padme				RBC0456805	0	Annually	25	Active
+DuckTales, Vol.2: Fowl Play				RBC0456714	0	Annually	25	Active
+DuckTales, Vol.4: Quests and Quacks				RBC0456716	0	Annually	25	Active
+DuckTales, Vol.3: Mysteries and Mallards				RBC0456715	0	Annually	25	Active
+DuckTales, Vol.1: Treasure Trove				RBC0456713	0	Annually	25	Active
+Mickey Mouse: The Portable Tele-Transporter				RBC0456789	0	Annually	25	Active
+Mickey Mouse: The Return of Prince Fogs				RBC0456791	0	Annually	25	Active
+Mickey Mouse: Mystery of the Scarlet Roses				RBC0456792	0	Annually	25	Active
+Mickey Mouse: The Flavored Bubbles				RBC0456793	0	Annually	25	Active
+Mickey Mouse: The Jolly Camper Brigade				RBC0456794	0	Annually	25	Active
+Mickey Mouse: The Incredible Christmas				RBC0456783	0	Annually	25	Active
+Wizards of Mickey: The New World, Ep.1: The Ruler of the Seas				RBC0456875	0	Annually	25	Active
+Wizards of Mickey: The New World, Ep.4: The Underground Kingdom, Pt.1				RBC0456878	0	Annually	25	Active
+Wreck-it Ralph - Graphic Novel				RBC0456700	0	Annually	25	Active
+The Little Mermaid - Graphic Novel				RBC0457065	0	Annually	25	Active
+Big Hero 6: The Series: Baymax Returns Cinestory Comic				RBC0457298	0	Annually	25	Active
+Disney Descendants 2 Cinestory Comic				RBC0457138	0	Annually	25	Active
+Memorial				RBC0406808	0	Monthly	25	Active
+Descendants: Wicked World, Vol.3 Cinestory Comic				RBC0457300	0	Annually	25	Active
+Descendants: Wicked World, Vol.4 Cinestory Comic				RBC0457301	0	Annually	25	Active
+Descendants: Wicked World, Vol.1 Cinestory Comic				RBC0457132	0	Annually	25	Active
+Descendants: Wicked World, Vol.2 Cinestory Comic				RBC0457133	0	Annually	25	Active
+Tangled: The Series: Adventure is Calling				RBC0456809	0	Annually	25	Active
+Tangled: The Series: Let Down Your Hair				RBC0456808	0	Annually	25	Active
+Tangled: The Series: Take on the World Cinestory Comic				RBC0456810	0	Annually	25	Active
+Robin Hood - Graphic Novel				RBC0457064	0	Annually	25	Active
+The Princess and the Frog - Graphic Novel				RBC0457066	0	Annually	25	Active
+Rom, Vol. 3: The Roads to Ruin				RBC0440677	0	Monthly	25	Active
+Rom, Vol. 2				RBC0440676	0	Monthly	25	Active
+Rom, Vol. 1				RBC0440675	0	Monthly	25	Active
+Rom: Cold Fire, Hot War				RBC0457453	0	Monthly	25	Active
+Tangled: The Cinestory Comic				RBC0457136	0	Annually	25	Active
+Ether Volume 2: Copper Golems				RBC0457142	0	Annually	25	Active
+Halo: Collateral Damage				RBC0457144	0	Annually	25	Active
+Polar Volume 1: Came from the Cold (Second Edition)				RBC0457146	0	Annually	25	Active
+StarCraft Volume 1: Scavengers				RBC0457147	0	Annually	25	Active
+B.P.R.D.: The Devil You Know Volume 1				RBC0456048	0	Annually	25	Active
+B.P.R.D.: The Devil You Know Volume 2				RBC0457139	0	Annually	25	Active
+Danganronpa: The Animation Volume 1				RBC0456143	0	Annually	25	Active
+Danganronpa: The Animation Volume 2				RBC0456144	0	Annually	25	Active
+Danganronpa: The Animation Volume 3				RBC0456145	0	Annually	25	Active
+Danganronpa: The Animation Volume 4				RBC0456146	0	Annually	25	Active
+Danganronpa 2: Ultimate Luck and Hope and Despair Volume 2				RBC0457140	0	Annually	25	Active
+Neil Gaiman's Only the End of the World Again				RBC0456273	0	Annually	25	Active
+Neil Gaiman's A Study in Emerald				RBC0456274	0	Annually	25	Active
+Neil Gaiman's Likely Stories				RBC0456275	0	Annually	25	Active
+The Problem of Susan and Other Stories				RBC0457148	0	Annually	25	Active
+Alice in Wonderland (Classic) - Graphic Novel				RBC0456650	0	Annually	25	Active
+Alice Through the Looking Glass - Graphic Novel				RBC0456652	0	Annually	25	Active
+Alice in Wonderland (Tim Burton) - Graphic Novel				RBC0456651	0	Annually	25	Active
+Bolt - Graphic Novel				RBC0456654	0	Annually	25	Active
+Brave - Graphic Novel				RBC0456657	0	Annually	25	Active
+Cars - Graphic Novel				RBC0456658	0	Annually	25	Active
+Cinderella - Graphic Novel				RBC0456659	0	Annually	25	Active
+Coco - Graphic Novel				RBC0456660	0	Annually	25	Active
+Finding Nemo - Graphic Novel				RBC0456664	0	Annually	25	Active
+Frankenweenie - Graphic Novel				RBC0456665	0	Annually	25	Active
+Frozen - Graphic Novel				RBC0456800	0	Annually	25	Active
+The Hunchback of Notre Dame - Graphic Novel				RBC0456668	0	Annually	25	Active
+The Incredibles - Graphic Novel				RBC0456669	0	Annually	25	Active
+The Incredibles 2 - Graphic Novel				RBC0456670	0	Annually	25	Active
+The Lion King - Graphic Novel				RBC0456673	0	Annually	25	Active
+Where's Perry				RBC0456797	0	Annually	25	Active
+Perry vs. Doofenshmirtz				RBC0456798	0	Annually	25	Active
+Phineas & Ferb Volume 2				RBC0456799	0	Annually	25	Active
+Superduck, Vol.1: Superhero of the Day				RBC0456770	0	Annually	25	Active
+Superduck, Vol.3: A Perfect World				RBC0456772	0	Annually	25	Active
+Superduck, Vol.2: Toy Land				RBC0456771	0	Annually	25	Active
+Superduck, Vol.4: Days of a Future Past				RBC0456773	0	Annually	25	Active
+Weird West Mickey, Vol.2: Stagecoach to Ghosttown				RBC0456823	0	Annually	25	Active
+Weird West Mickey, Vol.1: Night of the Diablero				RBC0456822	0	Annually	25	Active
+Weird West Mickey, Vol.3: Savage Dragon Mardi Gras				RBC0456824	0	Annually	25	Active
+Come Again				RBC0457406	0	Monthly	25	Active
+Rom & the Micronauts				RBC0457410	0	Monthly	25	Active
+The Spider King				RBC0457411	0	Monthly	25	Active
+Transformers vs. The Visionaries				RBC0457413	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles Color Classics, Vol. 1				RBC0455723	0	Monthly	25	Active
+Teenage Mutant Ninja Turtles: Bodycount				RBC0457414	0	Monthly	25	Active
+Bloom County: Best Read on the Throne				RBC0457416	0	Monthly	25	Active
+Star Trek: Discovery - The Light of Kahless				RBC0457417	0	Monthly	25	Active
+Bram Stoker's Dracula				RBC0457454	0	Monthly	25	Active
+Sonic the Hedgehog, Vol. 1: Fallout				RBC0457455	0	Monthly	25	Active
+M.A.S.K.: Mobile Armored Strike Kommand: Riding V.E.N.O.M.s Trail				RBC0457456	0	Monthly	25	Active
+My Little Pony: Art is Magic!, Vol. 2				RBC0457457	0	Monthly	25	Active
+Star Trek: The Next Generation: Through the Mirror				RBC0457459	0	Monthly	25	Active
+Transformers: Bumblebee - Win If You Dare				RBC0457460	0	Monthly	25	Active
+Goosebumps: Download and Die!				RBC0457462	0	Monthly	25	Active
+Nemo: Heart of Ice				RBC0457463	0	Monthly	25	Active
+Nemo: The Roses of Berlin				RBC0457464	0	Monthly	25	Active
+Nemo: River of Ghosts				RBC0457465	0	Monthly	25	Active
+Bacchus, Vol. 1				RBC0457466	0	Monthly	25	Active
+AMAZING SPIDER-MAN BY NICK SPENCER VOL. 1: BACK TO BASICS				RBC0457067	0	Annually	25	Active
+AMAZING SPIDER-MAN BY NICK SPENCER VOL. 2: FRIENDS AND FOES				RBC0457068	0	Annually	25	Active
+X-Mickey, Vol.1: In the Mirror				RBC0456818	0	Annually	25	Active
+X-Mickey, Vol.3: The 13th Floor				RBC0456820	0	Annually	25	Active
+X-Mickey, Vol.2: The Contest				RBC0456819	0	Annually	25	Active
+X-Mickey, Vol.6: The Carousel				RBC0456869	0	Annually	25	Active
+X-Mickey, Vol.5: Before the Break of Day				RBC0456868	0	Annually	25	Active
+X-Mickey, Vol.8: The Glove				RBC0456871	0	Annually	25	Active
+X-Mickey, Vol.7: Behind the Mask				RBC0456870	0	Annually	25	Active
+X-Mickey, Vol.10: Boo! From Horror City				RBC0456873	0	Annually	25	Active
+X-Mickey, Vol.9: A Christmas Gift				RBC0456872	0	Annually	25	Active
+X-Mickey, Vol.4: The Day of the Forget-Me-Rats				RBC0456821	0	Annually	25	Active
+X-Mickey, Vol.13: Krimold's Heart				RBC0457118	0	Annually	25	Active
+X-Mickey, Vol.15: The Toymaker				RBC0457119	0	Annually	25	Active
+X-Mickey, Vol.18: The Forbidden Passage				RBC0457122	0	Annually	25	Active
+X-Mickey, Vol.19: Maravillia Park				RBC0457123	0	Annually	25	Active
+X-Mickey, Vol.20: Never Alone				RBC0457124	0	Annually	25	Active
+X-Mickey, Vol.11: A Night at the White Mouse				RBC0457116	0	Annually	25	Active
+X-Mickey, Vol.12: Never Ending				RBC0457117	0	Annually	25	Active
+X-Mickey, Vol.14: Werewolf Night				RBC0457131	0	Annually	25	Active
+X-Mickey, Vol.16: The Shadow's Hotel				RBC0457120	0	Annually	25	Active
+X-Mickey, Vol.17: The Illusionist				RBC0457121	0	Annually	25	Active
+X-Mickey, Vol.21: The Road of Fear				RBC0457125	0	Annually	25	Active
+X-Mickey, Vol.22: The Infinite House				RBC0457126	0	Annually	25	Active
+X-Mickey, Vol.23: Photo Session with a Vampire				RBC0457127	0	Annually	25	Active
+X-Mickey, Vol.25: They Come at Night				RBC0457129	0	Annually	25	Active
+X-Mickey, Vol.26: Out of Order				RBC0457130	0	Annually	25	Active
+X-Mickey, Vol.24: The Lost World				RBC0457128	0	Annually	25	Active
+X-Mickey, Vol.14: Werewolf Night				RBC0457303	0	Annually	25	Active
+X-Mickey, Vol.25: They Come at Night				RBC0457309	0	Annually	25	Active
+X-Mickey, Vol.26: Out of Order				RBC0457310	0	Annually	25	Active
+X-Mickey, Vol.13: Krimold's Heart				RBC0457302	0	Annually	25	Active
+X-Mickey, Vol.16: The Shadow's Hotel				RBC0457304	0	Annually	25	Active
+X-Mickey, Vol.17: The Illusionist				RBC0457305	0	Annually	25	Active
+X-Mickey, Vol.20: Never Alone				RBC0457306	0	Annually	25	Active
+X-Mickey, Vol.23: Photo Session with a Vampire				RBC0457307	0	Annually	25	Active
+X-Mickey, Vol.24: The Lost World				RBC0457308	0	Annually	25	Active
+Transformers: Primacy				RBC0413653	0	Monthly	25	Active
+Grandville Force Majeur				RBC0456172	0	Annually	25	Active
+SPIDER-MAN/DEADPOOL VOL. 3: ITSY BITSY - Special				RBC0424630	0	Monthly	25	Active
+SPIDER-MAN/DEADPOOL VOL. 2: SIDE PIECES - Special				RBC0424629	0	Monthly	25	Active
+SPIDER-MAN/DEADPOOL VOL. 1: ISNT IT BROMANTIC - Special				RBC0424628	0	Monthly	25	Active
+THE UNWORTHY THOR - Special				RBC0424644	0	Monthly	25	Active
+THOR VOL. 1: THE GODDESS OF THUNDER - Special				RBC0424645	0	Monthly	25	Active
+X-MEN: DAYS OF FUTURE PAST - Special				RBC0424666	0	Monthly	25	Active
+X-MEN: DARK PHOENIX SAGA - Special				RBC0424665	0	Monthly	25	Active
+UNCANNY X-MEN MASTERWORKS VOL. 3 - Special				RBC0424652	0	Monthly	25	Active
+UNCANNY X-MEN MASTERWORKS VOL. 2 - Special				RBC0424651	0	Monthly	25	Active
+UNCANNY X-MEN MASTERWORKS VOL. 1 - Special				RBC0424650	0	Monthly	25	Active
+UNCANNY X-MEN MASTERWORKS VOL. 4				RBC0455569	0	Monthly	25	Active
+UNCANNY X-MEN MASTERWORKS VOL. 5				RBC0455570	0	Monthly	25	Active
+UNCANNY X-MEN MASTERWORKS VOL. 6				RBC0455571	0	Monthly	25	Active
+X-MEN: MESSIAH COMPLEX - Special				RBC0424668	0	Monthly	25	Active
+X-MEN: PHOENIX ENDSONG - Special				RBC0424670	0	Monthly	25	Active
+ANNIHILATION: CONQUEST BOOK 2 - Special				RBC0424371	0	Monthly	25	Active
+ANNIHILATION: CONQUEST BOOK 1 - Special				RBC0424370	0	Monthly	25	Active
+ANT-MAN VOL. 1: SECOND-CHANCE MAN - Special				RBC0424373	0	Monthly	25	Active
+AVENGERS: TIME RUNS OUT VOL. 4 - Special				RBC0424404	0	Monthly	25	Active
+AVENGERS: TIME RUNS OUT VOL. 3 - Special				RBC0424403	0	Monthly	25	Active
+AVENGERS: TIME RUNS OUT VOL. 2 - Special				RBC0424402	0	Monthly	25	Active
+AVENGERS: TIME RUNS OUT VOL. 1 - Special				RBC0424401	0	Monthly	25	Active
+DAREDEVIL VOL. 4: THE AUTOBIOGRAPHY OF MATT MURDOCK - Special				RBC0424484	0	Monthly	25	Active
+DAREDEVIL VOL. 3: THE DAREDEVIL YOU KNOW - Special				RBC0424483	0	Monthly	25	Active
+DAREDEVIL VOL. 2: WEST-CASE SCENARIO - Special				RBC0424482	0	Monthly	25	Active
+DAREDEVIL VOL. 1: DEVIL AT BAY - Special				RBC0424481	0	Monthly	25	Active
+DAREDEVIL: BACK IN BLACK VOL. 4 - IDENTITY - Special				RBC0424489	0	Monthly	25	Active
+DAREDEVIL: BACK IN BLACK VOL. 3 - DARK ART - Special				RBC0424488	0	Monthly	25	Active
+DAREDEVIL: BACK IN BLACK VOL. 2 - SUPERSONIC - Special				RBC0424487	0	Monthly	25	Active
+DAREDEVIL: BACK IN BLACK VOL. 1 - CHINATOWN - Special				RBC0424486	0	Monthly	25	Active
+DAREDEVIL: YELLOW - Special				RBC0424492	0	Monthly	25	Active
+DAREDEVIL/PUNISHER: SEVENTH CIRCLE - Special				RBC0424485	0	Monthly	25	Active
+DEADPOOL VOL. 5: WEDDING OF DEADPOOL - Special				RBC0424506	0	Monthly	25	Active
+DEADPOOL VOL. 4: DEADPOOL VS S.H.I.E.L.D. - Special				RBC0424505	0	Monthly	25	Active
+DEADPOOL VOL. 3: THE GOOD, THE BAD AND THE UGLY - Special				RBC0424504	0	Monthly	25	Active
+DEADPOOL VOL. 2: SOUL HUNTER - Special				RBC0424503	0	Monthly	25	Active
+DEADPOOL VOL. 1: DEAD PRESIDENTS - Special				RBC0424502	0	Monthly	25	Active
+DEADPOOL & CABLE: SPLIT SECOND - Special				RBC0424493	0	Monthly	25	Active
+DEADPOOL KILLS THE MARVEL UNIVERSE - Special				RBC0424500	0	Monthly	25	Active
+DEADPOOL V GAMBIT: THE “V” IS FOR “VS.” - Special				RBC0424501	0	Monthly	25	Active
+DEADPOOL VS. THE PUNISHER - Special				RBC0424509	0	Monthly	25	Active
+DOCTOR STRANGE VOL. 4: MR. MISERY - Special				RBC0424523	0	Monthly	25	Active
+DOCTOR STRANGE VOL. 3: BLOOD IN THE AETHER - Special				RBC0424522	0	Monthly	25	Active
+DOCTOR STRANGE VOL. 2: THE LAST DAYS OF MAGIC - Special				RBC0424521	0	Monthly	25	Active
+DOCTOR STRANGE VOL. 1: THE WAY OF THE WEIRD - Special				RBC0424520	0	Monthly	25	Active
+MARVELS GUARDIANS OF THE GALAXY PRELUDE - Special				RBC0424588	0	Monthly	25	Active
+MARVELS GUARDIANS OF THE GALAXY VOL. 2 PRELUDE - Special				RBC0424589	0	Monthly	25	Active
+March 2017				RBC0418445	0	Annually	25	Active
+April 2017				RBC0418446	0	Annually	25	Active
+May 2017				RBC0418447	0	Annually	25	Active
+June 2017				RBC0418448	0	Annually	25	Active
+July 2017				RBC0418449	0	Annually	25	Active
+August 2017				RBC0418450	0	Annually	25	Active
+September 2017				RBC0418451	0	Annually	25	Active
+October 2017				RBC0418452	0	Annually	25	Active
+November 2017				RBC0418453	0	Annually	25	Active
+December 2017				RBC0418454	0	Annually	25	Active
+January 2018				RBC0418455	0	Annually	25	Active
+February 2018				RBC0418456	0	Annually	25	Active
+March 2018				RBC0418457	0	Annually	25	Active
+April 2018				RBC0418458	0	Annually	25	Active
+May 2018				RBC0418459	0	Annually	25	Active
+June 2018				RBC0418460	0	Annually	25	Active
+July 2018				RBC0418461	0	Annually	25	Active
+August 2018				RBC0418462	0	Annually	25	Active
+September 2018				RBC0418463	0	Annually	25	Active
+October 2018				RBC0418464	0	Annually	25	Active
+November 2018				RBC0418465	0	Annually	25	Active
+December 2018				RBC0418466	0	Annually	25	Active
+January 2019				RBC0418467	0	Annually	25	Active
+February 2019				RBC0429418	0	Annually	25	Active
+March 2019				RBC0429419	0	Annually	25	Active
+April 2019				RBC0429420	0	Annually	25	Active
+May 2019				RBC0429421	0	Annually	25	Active
+June 2019				RBC0429422	0	Annually	25	Active
+July 2019				RBC0429423	0	Annually	25	Active
+Spring - Summer 2018				RBC0421267	0	Annually	25	Active
+The Style and Grace 2017				RBC0392072	0	Annually	25	Active
+Angel: Lorne				RBC0387445	0	Monthly	25	Active
+Pinky and Stinky				RBC0387526	0	Monthly	25	Active
+Littlest Pet Shop Vol. 2: Wait A Second				RBC0406807	0	Monthly	25	Active
+Littlest Pet Shop: Spring Cleaning				RBC0406806	0	Monthly	25	Active
+Littlest Pet Shop: Open for Business				RBC0406805	0	Monthly	25	Active
+Transformers: Monstrosity				RBC0387575	0	Monthly	25	Active
+Star Trek: New Visions, Vol. 2				RBC0387429	0	Monthly	25	Active
+Star Trek: New Visions, Vol. 1				RBC0387428	0	Monthly	25	Active
+Star Trek: New Visions, Vol. 3				RBC0431081	0	Monthly	25	Active
+Star Trek: New Visions, Vol. 4				RBC0431082	0	Monthly	25	Active
+Star Trek: New Visions, Vol. 5				RBC0429680	0	Monthly	25	Active
+Star Trek: New Visions, Vol. 6				RBC0429681	0	Monthly	25	Active
+Star Trek: New Visions, Vol. 7				RBC0457412	0	Monthly	25	Active
+Kiss Solo				RBC0387735	0	Monthly	25	Active
+Scene But Not Heard				RBC0387530	0	Monthly	25	Active
+CONTEST OF CHAMPIONS VOL. 1: BATTLEWORLD				RBC0455455	0	Annually	25	Active
+CONTEST OF CHAMPIONS VOL. 2: FINAL FIGHT				RBC0455456	0	Annually	25	Active
+Aliens: Dead Orbit				RBC0456041	0	Annually	25	Active
+Aliens: Defiance Volume 2				RBC0456042	0	Annually	25	Active
+American Gods Volume 1: Shadows (Graphic Novel)				RBC0456044	0	Annually	25	Active
+Anthony Bourdain's Hungry Ghosts				RBC0456045	0	Annually	25	Active
+B.P.R.D. Hell on Earth Volume 1				RBC0456046	0	Annually	25	Active
+B.P.R.D. Hell on Earth Volume 2				RBC0456047	0	Annually	25	Active
+Badlands (Second Edition)				RBC0456049	0	Annually	25	Active
+Baltimore, Volume 8: The Red Kingdom				RBC0456050	0	Annually	25	Active
+Beanworld Omnibus Volume 1				RBC0456051	0	Annually	25	Active
+Berserk Volume 1				RBC0456052	0	Annually	25	Active
+Berserk Volume 2				RBC0456053	0	Annually	25	Active
+Berserk Volume 3				RBC0456054	0	Annually	25	Active
+Berserk Volume 4				RBC0456055	0	Annually	25	Active
+Berserk Volume 5				RBC0456056	0	Annually	25	Active
+Berserk Volume 6				RBC0456057	0	Annually	25	Active
+Berserk Volume 7				RBC0456058	0	Annually	25	Active
+Berserk Volume 8				RBC0456059	0	Annually	25	Active
+Berserk Volume 9				RBC0456060	0	Annually	25	Active
+Berserk Volume 10				RBC0456061	0	Annually	25	Active
+Berserk Volume 11				RBC0456062	0	Annually	25	Active
+Berserk Volume 12				RBC0456063	0	Annually	25	Active
+Berserk Volume 13				RBC0456064	0	Annually	25	Active
+Berserk Volume 14				RBC0456065	0	Annually	25	Active
+Berserk Volume 15				RBC0456066	0	Annually	25	Active
+Berserk Volume 16				RBC0456067	0	Annually	25	Active
+Berserk Volume 17				RBC0456068	0	Annually	25	Active
+Berserk Volume 18				RBC0456069	0	Annually	25	Active
+Berserk Volume 19				RBC0456070	0	Annually	25	Active
+Berserk Volume 20				RBC0456071	0	Annually	25	Active
+Berserk Volume 21				RBC0456072	0	Annually	25	Active
+Berserk Volume 22				RBC0456073	0	Annually	25	Active
+Berserk Volume 23				RBC0456074	0	Annually	25	Active
+Berserk Volume 24				RBC0456075	0	Annually	25	Active
+Berserk Volume 25				RBC0456076	0	Annually	25	Active
+Berserk Volume 26				RBC0456077	0	Annually	25	Active
+Berserk Volume 27				RBC0456078	0	Annually	25	Active
+Berserk Volume 28				RBC0456079	0	Annually	25	Active
+Berserk Volume 29				RBC0456080	0	Annually	25	Active
+Berserk Volume 30				RBC0456081	0	Annually	25	Active
+Berserk Volume 31				RBC0456082	0	Annually	25	Active
+Berserk Volume 32				RBC0456083	0	Annually	25	Active
+Berserk Volume 33				RBC0456084	0	Annually	25	Active
+Berserk Volume 34				RBC0456085	0	Annually	25	Active
+Berserk Volume 35				RBC0456086	0	Annually	25	Active
+Berserk Volume 36				RBC0456087	0	Annually	25	Active
+Berserk Volume 37				RBC0456088	0	Annually	25	Active
+Berserk Volume 38				RBC0456089	0	Annually	25	Active
+Berserk Volume 39				RBC0456090	0	Annually	25	Active
+Black Hammer Volume 2: The Event				RBC0456092	0	Annually	25	Active
+Blood-C Volume 1				RBC0456118	0	Annually	25	Active
+Blood-C Volume 2				RBC0456119	0	Annually	25	Active
+Blood-C Volume 3				RBC0456120	0	Annually	25	Active
+Blood-C Volume 4				RBC0456121	0	Annually	25	Active
+Brooklyn Blood				RBC0456137	0	Annually	25	Active
+Call of Duty: Zombies				RBC0456138	0	Annually	25	Active
+Creepy Archives Volume 26				RBC0456141	0	Annually	25	Active
+Dark Horse Comics/DC Comics: Mask				RBC0456147	0	Annually	25	Active
+Dept. H Volume 3: Decompressed				RBC0456148	0	Annually	25	Active
+Dept. H Volume 4: Lifeboat				RBC0456149	0	Annually	25	Active
+Doctor Star & The Kingdom of Lost Tomorrows: From the World of Black Hammer				RBC0456153	0	Annually	25	Active
+Dragon Age: Knight Errant				RBC0456156	0	Annually	25	Active
+Eerie Archives Volume 24				RBC0456158	0	Annually	25	Active
+Empowered and the Soldier of Love				RBC0456162	0	Annually	25	Active
+Fate/Zero Volume 1				RBC0456163	0	Annually	25	Active
+Fate/Zero Volume 2				RBC0456164	0	Annually	25	Active
+Fate/Zero Volume 3				RBC0456165	0	Annually	25	Active
+Fate/Zero Volume 4				RBC0456166	0	Annually	25	Active
+Fate/Zero Volume 5				RBC0456167	0	Annually	25	Active
+Fate/Zero Volume 6				RBC0456168	0	Annually	25	Active
+Gregory Suicide				RBC0456173	0	Annually	25	Active
+Groo: Play of the Gods Volume 1				RBC0456174	0	Annually	25	Active
+H.P. Lovecraft's The Hound and Other Stories (Manga)				RBC0456175	0	Annually	25	Active
+Halo: Rise of Atriox				RBC0456176	0	Annually	25	Active
+Eight Million Ways to Die				RBC0455805	0	Monthly	25	Active
+League of Extraordinary Gentlemen, Vol. 3: Century				RBC0455824	0	Monthly	25	Active
+3 Story: The Secret History of the Giant Man (Expanded Edition)				RBC0456035	0	Annually	25	Active
+Aliens Predator Prometheus AVP: Fire and Stone				RBC0456039	0	Annually	25	Active
+Aliens Predator Prometheus AVP: The Complete Life and Death				RBC0456040	0	Annually	25	Active
+Aliens: The Essential Comics Volume 1				RBC0456043	0	Annually	25	Active
+Best Wishes				RBC0456091	0	Annually	25	Active
+Blood-C: Demonic Moonlight Volume 1				RBC0456123	0	Annually	25	Active
+Blood-C: Demonic Moonlight Volume 2				RBC0456124	0	Annually	25	Active
+Briggs Land Volume 2: Lone Wolves				RBC0456136	0	Annually	25	Active
+Cell Block Earth and Other Stories				RBC0456139	0	Annually	25	Active
+Dragon Age: The World of Thedas Volume 2				RBC0456157	0	Annually	25	Active
+Fight Club 2 (Graphic Novel)				RBC0456169	0	Annually	25	Active
+Giants				RBC0456170	0	Annually	25	Active
+Harrow County Volume 1: Countless Haints				RBC0456178	0	Annually	25	Active
+Harrow County Volume 2: Twice Told				RBC0456179	0	Annually	25	Active
+Harrow County Volume 6: Hedge Magic				RBC0456180	0	Annually	25	Active
+Harrow County Volume 7: Dark Times A'Coming				RBC0456181	0	Annually	25	Active
+Harrow County Volume 8: Done Come Back				RBC0456182	0	Annually	25	Active
+Harrow County Library Edition Volume 1				RBC0456183	0	Annually	25	Active
+Hellboy: The Complete Short Stories Volume 1				RBC0456242	0	Annually	25	Active
+Hellboy: The Complete Short Stories Volume 2				RBC0456243	0	Annually	25	Active
+Legacy: A House of Night Graphic Novel Anniversary Edition				RBC0456253	0	Annually	25	Active
+Life Between Panels				RBC0456254	0	Annually	25	Active
+Mass Effect: Discovery				RBC0456259	0	Annually	25	Active
+Predator: Hunters				RBC0456355	0	Annually	25	Active
+Shadows on the Grave				RBC0456367	0	Annually	25	Active
+Dragon Age: Hard in Hightown				RBC0456155	0	Annually	25	Active
+Sullivan's Sluggers				RBC0456371	0	Annually	25	Active
+MIND MGMT Volume 5: The Eraser				RBC0456265	0	Annually	25	Active
+MIND MGMT Volume 6: The Immortals				RBC0456264	0	Annually	25	Active
+Empowered & Sistah Spooky's High School Hell				RBC0457141	0	Annually	25	Active
+Green River Killer (Second Edition)				RBC0457143	0	Annually	25	Active
+Love Song				RBC0457409	0	Monthly	25	Active
+His Dream of the Skyland: The Walled City Trilogy (Book One)				RBC0457415	0	Monthly	25	Active
+Total	0			

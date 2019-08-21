@@ -1,0 +1,1004 @@
+Title	RBID	Issue Date	Remaining Circs	Active Issues
+$10 DINNERS (OR LESS!)	RBZ0000001	02/01/2012	1499	1
+(inside) interior design review	RBZ0002688			0
+0024 Horloges	RBZ0002360			0
+01net	RBZ0001638	06/25/2019	399	12
+100 Biker	RBZ0000007	05/31/2019	4999	20
+11 Freunde	RBZ0009106	06/30/2019	2499	1
+25 Beautiful Homes	RBZ0000011	06/30/2019	5000	8
+3D World	RBZ0000014	07/31/2019	4999	6
+4 Wheel & Off Road	RBZ0000015	08/31/2019	29999	91
+400 Calories or Less: Easy Italian	RBZ0000016			0
+4Ruedas	RBZ0000017	01/01/2019	85000	1
+4x4 magazine	RBZ0001787	01/31/2019	50000	1
+50 Great British Locomotives	RBZ0000019			0
+52 Bracelets	RBZ0000020			0
+5280 Magazine	RBZ0000021	02/01/2019	50000	1
+7 Jours	RBZ0000022	02/07/2019	50000	5
+ABC Soaps In Depth	RBZ0001850	02/10/2019	10000	2
+Accion Cine-Video	RBZ0002375	01/24/2019	50000	1
+AD Collector	RBZ0001829			0
+AD France	RBZ0001804	01/31/2019	Unlimited	1
+AD Russia	RBZ0002263	01/31/2019	Unlimited	1
+Adirondack Explorer	RBZ0003021	05/13/2019	1000	3
+Advanced 彭蒙惠英語	RBZ0001171	01/17/2019	50000	1
+The Advocate	RBZ0000028	01/31/2019	50000	1
+Adweek	RBZ0002643	06/09/2019	500	16
+Affaires Plus (A+)	RBZ0000023			0
+The Africa Report	RBZ0002891			0
+Algarabía	RBZ0000035	12/31/2018	50000	1
+Algarabía Tópicos	RBZ0000037			0
+Alt om DATA	RBZ0001110	02/28/2019	50000	2
+Amateur Photographer	RBZ0000040	02/01/2019	50000	4
+American Craft	RBZ0000044	01/31/2019	50000	1
+American Patchwork & Quilting	RBZ0000046			0
+The American Poetry Review	RBZ0000048	01/01/2019	50000	1
+American Snowmobiler	RBZ0000049	01/31/2019	50000	1
+America’s Best Home Workshops	RBZ0000041			0
+Angels on Earth magazine	RBZ0000054			0
+Annabel Karmel Family Summer Cookbook	RBZ0002139			0
+Annabel Karmel Family Cookbook Winter and Christmas 2009	RBZ0002035			0
+Aperture	RBZ0000057			0
+AppleMagazine	RBZ0000059	01/24/2019	50000	4
+Aquarium a la Maison	RBZ0002428			0
+Arabian Horse World	RBZ0001437	12/31/2018	10000	1
+Architectural Review Asia Pacific	RBZ0002687			0
+Architecture Australia	RBZ0000062	12/31/2018	50000	1
+Arizona Foothills	RBZ0002194			0
+Arizona Highways Magazine	RBZ0000063	01/31/2019	50000	1
+Armes de chasse	RBZ0001871			0
+The Art of Healing	RBZ0000065			0
+The Artist's Guide to Photoshop	RBZ0003101	04/01/2011	5000	1
+Artists & Illustrators	RBZ0000066	02/28/2019	50000	1
+Aston Martin: The Complete Story	RBZ0003042			0
+Astronomy	RBZ0000068	02/28/2019	50000	1
+Audio Technology	RBZ0000073			0
+Audubon Magazine	RBZ0000074			0
+Australian Country	RBZ0000076	12/31/2018	50000	1
+Australian HiFi	RBZ0000081	12/31/2018	50000	1
+Australian Home Beautiful	RBZ0000082	01/31/2019	50000	1
+Australian Homespun	RBZ0000083			0
+Australian Macworld: Mac Basics Superguide 2	RBZ0002219			0
+Australian Macworld: Mac Troubleshooting Superguide	RBZ0002759			0
+Australian Men's Fitness	RBZ0000084	01/31/2019	50000	1
+Australian Muscle Car	RBZ0000085			0
+Australian New Car Buyer	RBZ0000086			0
+Australian Road Rider	RBZ0000090	12/31/2018	50000	1
+Australian Sky & Telescope	RBZ0000092	01/31/2019	50000	1
+Australian Yoga Journal	RBZ0000095	01/31/2019	50000	1
+Auto Bild es	RBZ0002410	01/24/2019	50000	2
+Auto Express	RBZ0000097	10/29/2019	50000	5
+Automobile	RBZ0001299	02/28/2019	50000	1
+Automovil	RBZ0001086	01/31/2019	50000	1
+Automovil Panamericano	RBZ0000098	01/31/2019	50000	1
+Autopista	RBZ0001155	01/28/2019	50000	4
+Autosport	RBZ0000099	01/30/2019	20000	5
+Avantages	RBZ0003020	01/31/2019	4000	1
+AZURE	RBZ0000103			0
+Backpacker	RBZ0000105	03/01/2019	50000	1
+Backyard & Garden Design Ideas	RBZ0000106	12/31/2018	50000	1
+Baseball America	RBZ0001049	01/17/2019	50000	1
+Bathroom Yearbook	RBZ0000110			0
+BBC Countryfile Magazine	RBZ0000258	01/31/2019	50000	1
+BBC Easycook	RBZ0000111	01/31/2019	50000	2
+BBC Gardeners' World	RBZ0002503	01/31/2019	50000	1
+BBC Good Food Magazine	RBZ0000112	01/31/2019	50000	2
+BBC Sky at Night	RBZ0002494	01/31/2019	50000	1
+BBC Top Gear Magazine	RBZ0002502	01/31/2019	50000	2
+BBC Wildlife Magazine	RBZ0002499	01/31/2019	50000	1
+Bead&Button	RBZ0000118			0
+The Beader's Handbook 2	RBZ0000119			0
+Beads	RBZ0000120	05/01/2011	4999	1
+Beadwork	RBZ0000122	01/31/2019	50000	1
+The Beer Lovers Guide to Australia	RBZ0000126			0
+Beijing Review	RBZ0002795	01/30/2019	Unlimited	4
+Best	RBZ0000128	01/04/2019	50000	5
+Best Buys – Audio & AV	RBZ0000129			0
+Best Ideas for Christmas	RBZ0000132			0
+Best of Creative Jewelry	RBZ0000134			0
+Best of Step by Step Beads	RBZ0000135			0
+Better Homes and Gardens Australia	RBZ0000139	01/31/2019	50000	1
+Bicycling	RBZ0000141			0
+Bicycling Australia	RBZ0000142			0
+Bicycling Buyers' Guide	RBZ0000143			0
+Bicycling South Africa	RBZ0000938	01/31/2019	50000	1
+The Big Black Book	RBZ0000144			0
+Big League Weekly Edition	RBZ0000145			0
+Bike	RBZ0000146			0
+Bike France	RBZ0001811	01/31/2019	Unlimited	1
+BIKE India	RBZ0002186	12/31/2018	50000	1
+Bike México	RBZ0000147			0
+Billboard Magazine	RBZ0000148	01/25/2019	50000	2
+BirdWatching	RBZ0000149			0
+Black Belt Magazine	RBZ0001176	01/31/2019	50000	1
+Blue Mountains Life	RBZ0000156			0
+Blue Water Sailing	RBZ0002042	12/31/2018	10000	1
+BlueWater Boats & Sportsfishing	RBZ0000157			0
+Boat International	RBZ0000158			0
+Boat International - Best of the Best	RBZ0000159			0
+Boating	RBZ0000160			0
+Boating NZ	RBZ0001697	01/31/2019	Unlimited	1
+Bodas	RBZ0003059	12/31/2018	5000	1
+Bonsai Pasion	RBZ0001230	01/31/2019	50000	1
+Brides UK	RBZ0000165	02/28/2019	10000	1
+Britain	RBZ0000166	02/28/2019	50000	1
+Britain in 2011	RBZ0002813			0
+British GQ	RBZ0000429			0
+Build a Better PC 2011	RBZ0002935			0
+Build a Better Website	RBZ0002011			0
+Build Better Model Aircraft	RBZ0000170			0
+BuildHome	RBZ0000171			0
+Business Next 數位時代	RBZ0001055	02/01/2019	Unlimited	1
+Business Today	RBZ0002354	02/09/2019	50000	2
+Business Today 今周刊	RBZ0001111	02/03/2019	50000	5
+Business Traveller	RBZ0000172	01/29/2019	Unlimited	1
+Business Traveller Asia-Pacific Edition	RBZ0002830			0
+Business Weekly 商業周刊	RBZ0001060	01/31/2019	50000	5
+Camera	RBZ0000175			0
+Canadian Living	RBZ0000187			0
+Capital	RBZ0001107	01/31/2019	50000	2
+Capital CEO 資本才俊	RBZ0002887	01/16/2019	50000	1
+Capital Week 證券市場週刊	RBZ0001061	01/25/2019	Unlimited	4
+CAPITAL 資本雜誌	RBZ0002905	01/06/2019	50000	1
+CAR	RBZ0002329	01/31/2019	50000	1
+Car and Driver	RBZ0000191	01/31/2019	Unlimited	1
+Car and Driver	RBZ0001090	01/31/2019	50000	1
+Car Craft	RBZ0001323	03/31/2019	50000	1
+Car India	RBZ0002185	12/31/2018	50000	1
+Car Plus + HIM 車王	RBZ0002906	01/26/2019	50000	1
+Caras-México	RBZ0000194	12/31/2018	50000	1
+The Caravan	RBZ0002484	12/31/2018	50000	1
+Caravan e Camper Granturismo	RBZ0002497	01/31/2019	Unlimited	1
+Caribbean Living	RBZ0001416			0
+Casa Diez	RBZ0001161	01/31/2019	50000	1
+Casa Viva	RBZ0001658	01/31/2019	50000	2
+Casaviva México	RBZ0000192			0
+CBS Soaps In Depth	RBZ0001849	02/03/2019	10000	2
+Ceramics: Art and Perception	RBZ0002938			0
+Chat It's Fate	RBZ0000896	02/28/2019	50000	1
+Chat Passion	RBZ0000897	01/31/2019	50000	1
+Cheers Magazine 快樂工作人	RBZ0001237	01/30/2019	50000	1
+Chevy High Performance	RBZ0001360	03/31/2019	50000	1
+Chicago Magazine	RBZ0000199	02/01/2019	50000	1
+CHIP Malaysia	RBZ0002741	01/01/2019	50000	1
+Cinema Scope	RBZ0000206			0
+Classic & Sports Car	RBZ0000208	01/31/2019	20000	1
+Classic American	RBZ0000210	01/31/2019	50000	1
+Classic Bike Guide	RBZ0000211	01/31/2019	50000	1
+Classic Boat	RBZ0000212	02/28/2019	50000	2
+Classic Dirt Bike	RBZ0000213			0
+Classic Ford	RBZ0000214	02/28/2019	10000	1
+The Classic MotorCycle	RBZ0001006	02/28/2019	50000	2
+Classic Motorcycle Mechanics	RBZ0000215	01/31/2019	50000	1
+Classic Racer	RBZ0000216			0
+Classic Rock	RBZ0000217	02/01/2019	Unlimited	1
+Classic Supercars	RBZ0000219			0
+Classic Toy Trains	RBZ0000220	02/28/2019	50000	1
+Classica	RBZ0002147			0
+Classics Monthly	RBZ0000221	02/28/2019	10000	1
+Clean Eating	RBZ0000222	04/30/2019	4999	3
+Climbing	RBZ0000223	12/31/2018	50000	1
+Clin d'oeil	RBZ0000224			0
+Clio	RBZ0001659	01/14/2019	50000	1
+Cocina Fácil	RBZ0000228	12/31/2018	50000	1
+Collezioni Accessori	RBZ0001531			0
+Collezioni Bambini	RBZ0001496			0
+Collezioni Donna	RBZ0001544			0
+Collezioni Haute Couture	RBZ0001543			0
+Collezioni Sport & Street	RBZ0001498	01/31/2019	50000	1
+Collezioni Trends	RBZ0001547			0
+Collezioni Uomo	RBZ0001546			0
+Columbia Journalism Review	RBZ0000230			0
+Common Health Magazine 康健	RBZ0001459	01/28/2019	50000	1
+Common Wealth Parenting 親子天下	RBZ0001460	01/02/2019	50000	1
+CommonWealth Magazine 天下雜誌	RBZ0001059	01/29/2019	50000	3
+The Complete Guide to Home Video	RBZ0002012			0
+The Complete Guide To Windows 7	RBZ0002671			0
+The Complete Guide to World Cup 2010	RBZ0002230			0
+Computer Arts	RBZ0002828	02/28/2019	10000	2
+The Computer Arts Book of Inspiration	RBZ0002163			0
+Computer Arts Presents iPad - The creative pro's guide	RBZ0002380			0
+Computer Arts Projects Special	RBZ0002165			0
+Computer Hoy	RBZ0002411	01/22/2019	50000	2
+Computer Music	RBZ0000233	02/28/2019	10000	1
+Computer Shopper	RBZ0000234	02/28/2019	50000	1
+Conde Nast Traveller India	RBZ0002565			0
+Conde Nast Traveller UK	RBZ0000235	02/28/2019	Unlimited	1
+COOL!	RBZ0000241	12/31/2018	50000	1
+Cosmetic Surgery & Beauty	RBZ0002423			0
+Cosmopolitan	RBZ0000242	06/30/2019	999	6
+Cosmopolitan - España	RBZ0001148	01/31/2019	50000	1
+Cosmopolitan Body	RBZ0000243			0
+Cosmopolitan de Mexico	RBZ0000244	01/31/2019	50000	2
+Cosmopolitan FR	RBZ0002039			0
+Cosmopolitan South Africa	RBZ0000920	01/31/2019	50000	1
+Cosmopolitan UK	RBZ0000247	02/28/2019	50000	2
+Côté Est	RBZ0002156			0
+Côté Ouest	RBZ0002077	01/31/2019	50000	1
+Côté Paris	RBZ0002142			0
+Côté Sud	RBZ0002076			0
+Côté Sud / Est / Ouest / Paris	RBZ0002395			0
+Coté Sud hors-série	RBZ0002394			0
+Côté Terrasses et Jardins	RBZ0002396			0
+Country Gardens	RBZ0000252	02/01/2019	10000	1
+Country Homes & Interiors	RBZ0000253	02/28/2019	50000	2
+Country Life	RBZ0000254	01/29/2019	50000	4
+Country Living	RBZ0000256	03/01/2019	Unlimited	1
+Country Living UK	RBZ0000257	02/28/2019	50000	2
+Coup de Pouce	RBZ0000259			0
+Cowboys & Indians	RBZ0000261	01/31/2019	50000	1
+CQ Amateur Radio	RBZ0000262	12/31/2018	50000	1
+Create Jewelry: 101 All-New Designs	RBZ0000008	07/01/2015	5000	1
+Crochet Traditions	RBZ0000263			0
+Cross Country	RBZ0000264	01/31/2019	50000	1
+CrossStitcher	RBZ0000266	02/28/2019	Unlimited	2
+Cruise International	RBZ0000267	01/31/2019	50000	1
+Cruising World	RBZ0000268			0
+Cuisine et Vins de France	RBZ0002909	12/31/2018	4000	1
+Custom PC UK	RBZ0002510	02/28/2019	50000	1
+Cycle World	RBZ0000273			0
+Cycling Plus	RBZ0000276	02/28/2019	Unlimited	1
+Cycling Weekly	RBZ0001035	01/30/2019	50000	5
+D-Photo	RBZ0001846	01/31/2019	50000	1
+Da Man	RBZ0002958	01/31/2019	50000	1
+Datatid	RBZ0001124	01/31/2019	50000	1
+De Viajes	RBZ0001139	01/31/2019	50000	1
+Decanter	RBZ0000278	01/31/2019	50000	1
+Decanter Italy	RBZ0002866			0
+Decanter World Wine Awards	RBZ0001955			0
+Decanter-New Zealand 2011	RBZ0002961			0
+Defense Technology Monthly 尖端科技	RBZ0001065			0
+Dernière Heure	RBZ0000283	02/07/2019	50000	2
+DESIGNLINES	RBZ0000284	01/02/2019	50000	1
+Desnivel	RBZ0001211	01/31/2019	50000	2
+DestinAsian	RBZ0001298	01/31/2019	50000	1
+Diabetic Living	RBZ0000288			0
+Diabetic Living Australia	RBZ0000289			0
+Diesel Power	RBZ0001361	02/28/2019	50000	1
+Digital Camera Photographer of the Year 2008	RBZ0002164			0
+Digital Camera World	RBZ0000294	01/31/2019	10000	1
+Digital Photo	RBZ0000295			0
+Digital Photo Pro	RBZ0000296			0
+Digital SLR Photography	RBZ0000298	01/31/2019	50000	1
+Dirt Action	RBZ0000300			0
+Dirt Action Photo Collection	RBZ0000301			0
+Dirt Rag Magazine	RBZ0001435			0
+Discover	RBZ0000304	02/28/2019	10000	1
+Discover Japan　	RBZ0002582	01/05/2019	Unlimited	1
+Dish	RBZ0001194	01/31/2019	50000	1
+DIVA	RBZ0000305	01/31/2019	20000	1
+Do It Yourself	RBZ0000306	01/03/2019	10000	1
+Drawing: The Complete Course	RBZ0000311			0
+Dreamscapes Travel & Lifestyle Magazine	RBZ0000316			0
+Drive Out	RBZ0000939	01/31/2019	50000	1
+Drum English	RBZ0000940	02/06/2019	50000	5
+duPont REGISTRY	RBZ0002332	01/31/2019	10000	1
+Dwell	RBZ0000319	01/31/2019	50000	1
+Earth Island Journal	RBZ0002303			0
+Easy Decorating Ideas	RBZ0000326			0
+Easy Meals	RBZ0000328			0
+Eating Light	RBZ0000329			0
+EatingWell	RBZ0000330	01/31/2019	10000	1
+The Economist	RBZ0000331	01/25/2019	Unlimited	4
+The Economist - Asia Edition	RBZ0001007	06/28/2019	50	26
+The Economist - Continental Europe edition	RBZ0001008	06/28/2019	50	26
+The Economist - Middle East and Africa edition	RBZ0001009	01/25/2019	Unlimited	4
+The Economist - UK edition	RBZ0001010	06/28/2019	50	26
+The Economist-Latin America	RBZ0000332	06/28/2019	50	26
+Edge	RBZ0002740	02/28/2019	10000	2
+El Croquis	RBZ0001402	12/31/2018	50000	1
+Electronic Musician	RBZ0000335	02/28/2019	50000	1
+elGourmet.com - Mexico	RBZ0000921	12/31/2018	50000	1
+Elizabeth The Queen: Diamond Jubilee Souvenir	RBZ0000922			0
+Elle	RBZ0000337	01/31/2019	Unlimited	1
+Elle Canada	RBZ0000338			0
+ELLE DECOR	RBZ0000339			0
+Elle Decoration	RBZ0001886	01/31/2019	Unlimited	1
+Elle España	RBZ0001150	01/31/2019	50000	1
+ELLE GIRL Russia	RBZ0001887	01/31/2019	Unlimited	1
+ELLE México	RBZ0000340	12/31/2018	50000	1
+ELLE QUÉBEC	RBZ0000341			0
+Elle Russia	RBZ0001888	01/31/2019	Unlimited	1
+Emmy Magazine	RBZ0001642			0
+Emprendedores	RBZ0001087	01/31/2019	50000	1
+Equus	RBZ0000344			0
+Especial Relojes de Esquire ES	RBZ0001718			0
+ESPN The Magazine	RBZ0000346	01/31/2019	50000	1
+Esprit Bonsai	RBZ0002427	01/31/2019	50000	1
+Esquire	RBZ0000347			0
+Esquire - España	RBZ0001640	01/31/2019	50000	1
+Esquire - Mexico	RBZ0000348			0
+Esquire UK	RBZ0000349			0
+Esquire: The Big Watch Book	RBZ0000350			0
+The Essential Guide to Landscape Photography 2nd edition	RBZ0002384			0
+The Essential Guide to Portraits	RBZ0002552			0
+Essentials South Africa	RBZ0000923	01/31/2019	50000	1
+Evergreen 常春	RBZ0001456	01/31/2019	50000	1
+Evo	RBZ0000356	02/28/2019	50000	1
+Expansión	RBZ0000357	12/31/2018	50000	1
+F1 Racing UK	RBZ0000359	01/31/2019	20000	1
+Faces of Bhutan	RBZ0001974			0
+Fairlady	RBZ0000941	01/31/2019	50000	1
+Fairlady Bride	RBZ0002738			0
+Familia Saludable	RBZ0000361			0
+Family Circle	RBZ0000362	02/01/2019	10000	1
+Family Handyman	RBZ0000363			0
+Fantasy Art Exhibition: Volume 1	RBZ0003011			0
+Fantasy Art Exhibition: Volume 2	RBZ0003012			0
+Farm Collector	RBZ0001878	01/31/2019	10000	1
+Fast Bikes	RBZ0000365	01/31/2019	10000	1
+Fast Bikes Bookazine: Sportsbike Legends	RBZ0002224			0
+Fast Car	RBZ0000366	01/31/2019	10000	1
+Fast Ford	RBZ0002790	02/28/2019	10000	1
+The Fat Trap	RBZ0000368			0
+Ferrari - The world's greatest F1 team in pictures	RBZ0000369			0
+Ferrari Supercars The Third Edition	RBZ0000370			0
+Ferrovissime	RBZ0002425			0
+The Field	RBZ0001040	01/31/2019	50000	1
+Field & Stream	RBZ0000372	01/31/2019	50000	1
+Film Comment	RBZ0002876	12/31/2018	10000	1
+Film Journal International	RBZ0002644			0
+FineScale Modeler	RBZ0000375	02/28/2019	50000	1
+Finweek - Afrikaans	RBZ0000943	02/06/2019	50000	2
+Finweek - English	RBZ0000944	02/06/2019	50000	2
+Flash Essentials	RBZ0002327			0
+flick!	RBZ0002543	01/19/2019	Unlimited	2
+Florida Design	RBZ0000380			0
+Florida Sport Fishing	RBZ0001727	12/31/2018	10000	1
+Flying	RBZ0000381	12/31/2018	50000	1
+Focus	RBZ0002495	12/31/2018	50000	1
+Focus - Italia	RBZ0001729	01/31/2019	4000	1
+Focus 360°	RBZ0003045	02/17/2011	400	1
+Focus Storia	RBZ0001743	01/31/2019	4000	1
+Focus Storia Collection	RBZ0002370			0
+Focus Storia Wars	RBZ0002369			0
+Food & Home Entertaining	RBZ0000926	01/31/2019	50000	1
+Food Network Magazine	RBZ0000383	01/01/2019	Unlimited	1
+Forbes Russia	RBZ0002823			0
+Forbes Woman	RBZ0003030	03/31/2019	5000	2
+Fortean Times	RBZ0000386	01/31/2019	50000	2
+Fortean Times Paranormal Handbook	RBZ0000387			0
+Fortean Times: It Happened To Me Vol. 1	RBZ0002060			0
+Fortean Times: It Happened To Me Vol.3	RBZ0002578			0
+Four Wheeler	RBZ0000388	01/03/2019	50000	1
+FourFourTwo UK	RBZ0003107	06/30/2019	2000	6
+Frame	RBZ0002912			0
+frankie Magazine	RBZ0001631			0
+Fred Dibnah's World of Steam	RBZ0002226			0
+Future Music	RBZ0000395	01/31/2019	10000	1
+Gadgets & Gizmos	RBZ0002420	12/31/2018	50000	2
+Games World of Puzzles	RBZ0000398			0
+Ganoderma 健康靈芝	RBZ0001726	01/04/2019	50000	1
+Garden Railways	RBZ0000403	01/31/2019	50000	1
+Gardening Australia	RBZ0000404	01/31/2019	50000	1
+Gardening the Easy Way	RBZ0000405			0
+Gardens Illustrated Magazine	RBZ0002501	12/31/2018	50000	1
+Gas Engine Magazine	RBZ0001879	01/31/2019	10000	1
+Gentlemen Drive	RBZ0001994			0
+Geo España	RBZ0001108			0
+Getaway	RBZ0002330	01/31/2019	50000	1
+Getting Started in Digital SLR Photography 2nd ed	RBZ0002812			0
+Getting Started in DSLR Photography	RBZ0002328			0
+Giardini	RBZ0001495			0
+Girlfriend Australia	RBZ0000409			0
+Glamour France	RBZ0001703			0
+Glamour Russia	RBZ0002264	01/31/2019	Unlimited	1
+Gluten-Free Living	RBZ0000412			0
+go Namibia	RBZ0000946			0
+go!	RBZ0000947	01/31/2019	50000	1
+Go! Kgalagadi	RBZ0000948			0
+go! Mozambique	RBZ0000949			0
+Go! Photography	RBZ0000950			0
+Golf Australia	RBZ0000415	01/31/2019	50000	1
+Golf Monthly	RBZ0000416	02/28/2019	50000	2
+Golf Tips	RBZ0000417			0
+Good	RBZ0001328			0
+Good Food Eat well, Healthy	RBZ0000418			0
+Good Food Festive Collection	RBZ0000419			0
+Good Housekeeping	RBZ0000420	02/01/2019	Unlimited	1
+Good Housekeeping All-time favourite Summer Cookbook	RBZ0000421			0
+Good Housekeeping Christmas Cookbook	RBZ0000422			0
+Good Housekeeping Christmas Cookbook	RBZ0002635			0
+Good Housekeeping South Africa	RBZ0000930	01/31/2019	50000	1
+Good Housekeeping UK	RBZ0000423	03/01/2019	50000	2
+Good Organic Gardening	RBZ0000929			0
+Gourmet Kitchen Planner	RBZ0000426			0
+GQ Australia	RBZ0000427	01/31/2019	50000	1
+GQ France	RBZ0001704	01/31/2019	Unlimited	1
+GQ India	RBZ0002617	01/31/2019	50000	2
+GQ JAPAN	RBZ0002633	02/28/2019	50000	1
+GQ Russia	RBZ0002262	01/31/2019	Unlimited	1
+GQ Style Russia	RBZ0002265			0
+Gramophone Magazine	RBZ0000431	01/31/2019	Unlimited	1
+Grandes Espacios	RBZ0001218	12/31/2018	50000	1
+Green Living Guide	RBZ0000433			0
+Gripped: The Climbing Magazine	RBZ0001304			0
+Grit	RBZ0000435			0
+GRIT Country Skills Series	RBZ0000436			0
+Growing Vegetables is Fun	RBZ0001858			0
+Guida Alle Aree di Sosta Italia	RBZ0003074	05/31/2018	5000	1
+Guide to Commuting	RBZ0003014			0
+Guideposts	RBZ0000439	01/31/2019	50000	1
+The Guitar Magazine	RBZ0000440	02/28/2019	Unlimited	2
+Guitar Player	RBZ0000441	01/31/2019	50000	1
+Guitar Techniques	RBZ0000442	02/28/2019	10000	1
+Guitarist	RBZ0000443	01/31/2019	10000	1
+Guitarist Presents - 100 Guitar Heroes	RBZ0006693	10/01/2013	498	1
+Handcrafted Jewelry	RBZ0000444			0
+Handwoven	RBZ0000445			0
+Harper's Bazaar	RBZ0000447	01/31/2019	Unlimited	1
+Harper's Bazaar - Mexico	RBZ0000448			0
+Harper's Bazaar UK	RBZ0000449	01/31/2019	50000	1
+Harper's Magazine	RBZ0000450	01/31/2019	10000	1
+Harper’s Bazaar España	RBZ0002608	01/31/2019	50000	1
+Health & Fitness	RBZ0000453	02/28/2019	50000	1
+Health & Fitness Look Younger Naturally	RBZ0000454			0
+Health & Fitness Tone up in 10 Minutes	RBZ0000455			0
+Health & Fitness Women's Guide to Running	RBZ0000456			0
+Hello magazine Special Fashion Supplement	RBZ0003018			0
+HELLO! magazine	RBZ0000458	07/07/2019	5000	27
+Heritage Commercials	RBZ0001920	01/31/2019	50000	1
+Heritage Railway	RBZ0001164	12/31/2018	50000	1
+Hi-Fi Choice	RBZ0001739	01/31/2019	30000	1
+High Times	RBZ0001370	02/28/2019	10000	1
+Historia Y Vida	RBZ0001473	01/31/2019	50000	1
+Hobby Consolas	RBZ0002413	01/31/2019	50000	1
+The Hockey News	RBZ0000462	01/28/2019	50000	2
+The Hockey News Poolbook French	RBZ0000464			0
+HOLA	RBZ0001200	02/05/2019	50000	5
+Hola! Mexico	RBZ0000465	02/06/2019	50000	5
+Holiday: 301 Recipes & Decorating Ideas	RBZ0000469			0
+Holidays for Couples	RBZ0000470			0
+The Hollywood Reporter	RBZ0002649	01/29/2019	5000	6
+Home	RBZ0000954	01/31/2019	50000	1
+Home Cinema Choice	RBZ0001740	01/31/2019	30000	1
+Home Design	RBZ0000551	12/12/2018	50000	1
+Homes & Antiques	RBZ0002496	02/28/2019	50000	2
+Homes & Gardens	RBZ0000472	02/28/2019	50000	2
+Horse & Hound	RBZ0000473	01/30/2019	50000	5
+Horse & Rider	RBZ0000474			0
+Horses and People	RBZ0000476	12/31/2018	50000	1
+Hot Rod	RBZ0000478	02/28/2019	50000	1
+Hot Rod Deluxe	RBZ0001578	02/28/2019	50000	1
+Hotbook	RBZ0000479	12/31/2018	50000	1
+House and Garden	RBZ0000481	01/31/2019	Unlimited	1
+House and Leisure	RBZ0000933	01/31/2019	50000	1
+House and Leisure Food	RBZ0000934			0
+House Beautiful	RBZ0000482	02/01/2019	Unlimited	1
+House Beautiful 500+ Favorite Paint Colors	RBZ0000483			0
+House Beautiful Christmas Ideas	RBZ0000123			0
+House Beautiful UK	RBZ0000484	02/28/2019	50000	2
+House Beautiful Ultimate Guide to Kitchens sponsored by Kohler	RBZ0000485			0
+Houses: Kitchens + Bathrooms	RBZ0000486			0
+How to Make it in Music 2	RBZ0002065			0
+How to Operate Your Model Railroad	RBZ0000487			0
+How to set up an Online Business	RBZ0002326			0
+Huisgenoot	RBZ0000955	02/06/2019	50000	5
+Huisgenoot Tempo	RBZ0002748			0
+Huisgenoot- Nelson Mandela – Man van Versoening	RBZ0003073	12/01/2013	5000	1
+HWM Singapore	RBZ0002559	01/31/2019	50000	2
+Ideal Home	RBZ0000488	02/28/2019	50000	2
+The Ideal Home and Garden	RBZ0002191	12/31/2018	50000	1
+Ideas	RBZ0000957			0
+Ideat	RBZ0002371	01/31/2019	Unlimited	1
+Idees	RBZ0000958			0
+IL - Idee e lifestyle del Sole 24 ORE	RBZ0002381			0
+Images du monde	RBZ0002267	01/31/2019	Unlimited	1
+ImagineFX	RBZ0000489	02/28/2019	10000	1
+ImagineFX Presents Anatomy	RBZ0002587			0
+The Independent Guide to Ebay 2010	RBZ0001874			0
+Independent Guide to the iPad	RBZ0002336			0
+The Independent Guide to the iPhone 3GS	RBZ0001991			0
+The Independent Guide to the iPhone 4	RBZ0002476			0
+The Independent Guide to the Mac	RBZ0001785			0
+India Today	RBZ0002353	02/03/2019	50000	4
+Indian Bride Look Book 2010-2011	RBZ0002903			0
+Indianapolis Monthly	RBZ0001881	01/31/2019	10000	1
+Inked	RBZ0000491	02/28/2019	50000	1
+Inside Out Renovating & Decorating Guide	RBZ0000495			0
+Inside Sport	RBZ0000496	01/31/2019	50000	1
+Integral	RBZ0001660	01/24/2019	50000	2
+Interior Taiwan 室內	RBZ0001295	01/15/2019	Unlimited	1
+Interiores	RBZ0001474	01/14/2019	50000	1
+Interweave Crochet	RBZ0000500			0
+Interweave Knits	RBZ0000501	01/16/2019	50000	1
+Intramuros	RBZ0001436			0
+iPad & iPhone User	RBZ0000502	12/31/2018	50000	1
+iPhone Life	RBZ0000504	03/01/2019	50000	1
+Island Racer	RBZ0001645			0
+IT for Business	RBZ0001634			0
+Italia magazine	RBZ0000506	01/31/2019	Unlimited	1
+Italia! Guide to Tuscany	RBZ0002811			0
+Ivy League Analytical English 常春藤解析英語	RBZ0001345	01/24/2019	50000	1
+Ivy League Enjoy English 常春藤生活英語	RBZ0001344	01/24/2019	50000	1
+Jaguar: The Complete Story	RBZ0003103	10/01/2014	5000	1
+Jalouse	RBZ0002557	01/31/2019	4999	3
+John Wilson's 501 Fishing Tips v.2	RBZ0002227			0
+The Journal of the Texas Trophy Hunters	RBZ0001451			0
+Jp Magazine	RBZ0001366	01/25/2019	50000	1
+Just Bikes	RBZ0000507	01/17/2019	50000	2
+Just Cars	RBZ0000508	12/18/2018	50000	1
+Keyboards Recording	RBZ0002389			0
+Keyboards Recording Hors-série	RBZ0003068	03/01/2011	4992	1
+Kicks	RBZ0001662			0
+Kid's Collections	RBZ0001929			0
+Kiplinger's Personal Finance	RBZ0000514	02/01/2019	50000	1
+Kitchen Garden	RBZ0000517	02/28/2019	50000	1
+Knit&Spin	RBZ0000520			0
+knit.wear	RBZ0000519			0
+Knitscene	RBZ0000521	12/31/2018	50000	1
+The Knitter	RBZ0001012	01/01/2019	Unlimited	1
+Kung Fu Tai Chi	RBZ0000523			0
+L'Express hors-serie	RBZ0002387			0
+L'impresa	RBZ0002571			0
+L'Officel 1000 Modèles - Design	RBZ0002946			0
+L'Officiel 1000 Modèles	RBZ0002941			0
+L'Officiel Hommes NL	RBZ0002949	01/09/2019	50000	1
+L'Officiel Hommes Paris	RBZ0002933			0
+L'Officiel NL	RBZ0002948	03/31/2019	5000	2
+L'Officiel Paris	RBZ0002554			0
+L'Officiel Voyage	RBZ0002753			0
+La Cucina Italiana	RBZ0002478	01/31/2019	Unlimited	2
+La Moto	RBZ0001135	01/31/2019	50000	1
+La revue des Montres	RBZ0002556	03/31/2019	5000	3
+La Revue des Montres - l'Horoguide	RBZ0002947			0
+La Revue du Vin de France	RBZ0002910	01/31/2019	4000	1
+LA, Journal of Landscape Architecture	RBZ0002320			0
+Land Rover Monthly	RBZ0000528	01/31/2019	50000	1
+Landbouweekblad	RBZ0000959	01/31/2019	50000	3
+Landscape Architecture Magazine	RBZ0001535	01/31/2019	10000	1
+Landscapes	RBZ0000529			0
+Lapidary Journal Jewelry Artist	RBZ0000530			0
+Latino Leaders	RBZ0000532			0
+Le fana de l'aviation	RBZ0001870	01/31/2019	Unlimited	1
+Le Grand Mag	RBZ0002574			0
+Le monde du camping-car	RBZ0001812			0
+Le Point	RBZ0001404	01/30/2019	Unlimited	5
+Le Point - Hors série Jeux	RBZ0001872			0
+Le Point - Les années Michael Jackson	RBZ0001768			0
+Le Soir magazine	RBZ0003111	06/25/2019	7500	285
+Lebanon Opportunities	RBZ0002118	12/31/2018	50000	1
+The Legend of Harley Davidson	RBZ0002032			0
+Leisure Wheels	RBZ0002806	01/31/2019	50000	1
+Les Affaires	RBZ0000535	01/25/2019	50000	2
+Les Idées de ma maison	RBZ0000536	02/28/2019	50000	1
+Let's Talk in English 大家說英語	RBZ0001064	01/17/2019	50000	1
+Líderes Mexicanos	RBZ0000537			0
+Líderes Mexicanos - Special Editions	RBZ0000538			0
+Life & Style México	RBZ0000539			0
+Linux Format	RBZ0002743	01/31/2019	10000	1
+Linux: The Complete Manual	RBZ0002103			0
+Living and Loving	RBZ0000936	01/31/2019	50000	1
+Living Etc	RBZ0000901	02/28/2019	50000	2
+Living The Country Life	RBZ0000544			0
+Ljud & Bild	RBZ0001646	12/31/2018	Unlimited	1
+Loco-Revue	RBZ0002426	01/31/2019	50000	1
+Lonely Planet Magazine: Dream Trips	RBZ0000547			0
+Lowrider	RBZ0000550	03/31/2019	50000	1
+Lowrider Arte	RBZ0001371			0
+Luhho	RBZ0002682			0
+Lyd & Bilde	RBZ0001445	12/31/2018	Unlimited	1
+L’Annuel CANADIENS Yearbook	RBZ0000524			0
+MacFormat	RBZ0000552	01/31/2019	10000	1
+MacFormat Presents: iPad The Essential Handbook	RBZ0002279			0
+MacFormat Presents: The Essential iPhone 4 Handbook	RBZ0002522			0
+Macworld	RBZ0000556	01/31/2019	50000	1
+Macworld Australia	RBZ0000557	12/31/2018	50000	1
+Macworld Australia: iPad Superguide	RBZ0000558			0
+Macworld UK	RBZ0000559	01/31/2019	50000	1
+Magazine TED par QA&V	RBZ0000560	12/31/2018	50000	1
+Maison Française hors-série	RBZ0002393			0
+Maison Magazine hors-série	RBZ0002392			0
+Man on The Moon Collector's Edition	RBZ0002500			0
+Manager Today 經理人	RBZ0001160	01/31/2019	50000	2
+Marie Claire	RBZ0000565	02/01/2019	Unlimited	1
+Marie Claire - France	RBZ0002311	01/31/2019	4000	1
+Marie Claire - UK	RBZ0000566	01/31/2019	50000	1
+Marie Claire Australia	RBZ0000567	02/28/2019	50000	1
+Marie Claire Enfants	RBZ0002542			0
+Marie Claire Idées	RBZ0002911			0
+Marie Claire Maison	RBZ0002541	01/31/2019	4000	1
+Marie Claire Russia	RBZ0001918	01/31/2019	Unlimited	1
+Market Watch	RBZ0002674			0
+Marketing	RBZ0002760			0
+The Marketing Survival Guide	RBZ0002960			0
+Marlin	RBZ0001098	01/14/2019	10000	1
+Martha Stewart Living	RBZ0000569	01/31/2019	Unlimited	1
+Mas Alla	RBZ0001648	01/31/2019	50000	2
+MASK The Magazine	RBZ0003090	05/01/2019	1000	2
+Maxim	RBZ0000573	01/31/2019	50000	1
+Maxim Australia	RBZ0000574	01/31/2019	50000	1
+MAXIM Russia	RBZ0001889	01/31/2019	Unlimited	1
+Men's Fitness - France	RBZ0001463			0
+Men's Fitness 12 Minute Workout	RBZ0003039	03/01/2011	5000	1
+Men's Fitness Body Challenge	RBZ0003040	04/01/2011	5000	1
+Men's Fitness Complete Guide to Abs 2nd edition	RBZ0002943			0
+Men's Fitness Complete Guide to Home Workouts	RBZ0003036	10/01/2014	5000	1
+Men's Fitness Complete Training Guide 2nd edition	RBZ0002826			0
+Men's Fitness UK	RBZ0000577	02/28/2019	50000	1
+Men's Fitness Ultimate Workout Plan	RBZ0003031	06/01/2011	5000	1
+Men's Health	RBZ0000578			0
+Men's Health Australia	RBZ0000579	02/28/2019	50000	2
+Men's Health Belly Off Guide	RBZ0000961			0
+Men's Health South Africa	RBZ0000962	01/31/2019	50000	1
+Men's Health UK	RBZ0000580	02/28/2019	50000	1
+Men's Journal	RBZ0000581	01/31/2019	Unlimited	1
+Metro	RBZ0000584	12/31/2018	50000	1
+Metro Home & Entertaining	RBZ0002505			0
+MiCasa	RBZ0001181	01/31/2019	50000	1
+Micro Pratique	RBZ0001813	01/31/2019	Unlimited	1
+Micro Simulateur	RBZ0001814	12/31/2018	Unlimited	1
+Mieux vivre votre argent	RBZ0001534	01/31/2019	Unlimited	1
+MilK	RBZ0001922			0
+MilK Decoration	RBZ0001928			0
+Mini Magazine	RBZ0000587	01/31/2019	10000	1
+Model Railroader	RBZ0000588	02/28/2019	50000	1
+Modèle Magazine	RBZ0001815	01/31/2019	Unlimited	1
+Modern Patchwork	RBZ0000589			0
+Mopar Muscle	RBZ0001403	03/31/2019	50000	1
+Moteur Boat Magazine	RBZ0001764	01/31/2019	Unlimited	1
+Mother & Baby India	RBZ0002170	12/31/2018	50000	1
+MOTHER EARTH NEWS	RBZ0000593	01/31/2019	50000	1
+Mother Jones	RBZ0000596			0
+Moto Revue	RBZ0001758			0
+Moto Verde	RBZ0001182	01/31/2019	50000	1
+Moto verte	RBZ0001759	01/31/2019	Unlimited	1
+Motociclismo	RBZ0001093	01/28/2019	50000	2
+Motociclismo Panamericano	RBZ0000598	12/31/2018	50000	1
+Motor Boat & Yachting	RBZ0000599	01/31/2019	50000	1
+Motor Boat & Yachting Russia	RBZ0002848			0
+Motor Trend	RBZ0000601	02/28/2019	50000	1
+Motor Trend New Car Buyer's Guide	RBZ0001509			0
+Motorcycle Classics	RBZ0000602			0
+Motorcycle Sport & Leisure	RBZ0000605	02/28/2019	50000	2
+Motorcyclist	RBZ0000606			0
+Motorsport News	RBZ0000607	01/29/2019	20000	5
+Mountain Bike Rider	RBZ0000608	01/31/2019	50000	1
+Mountain Biking Australia	RBZ0000609	01/31/2019	50000	1
+Mountain Biking UK	RBZ0000610	01/31/2019	Unlimited	1
+Muscle Mustangs & Fast Fords	RBZ0001379	02/28/2019	50000	1
+Music Tech Focus	RBZ0000613			0
+Music Tech Focus: Ableton Live 8	RBZ0002808			0
+Music Tech Focus: Logic Pro 9	RBZ0002810			0
+Music Tech Magazine	RBZ0000614	01/31/2019	Unlimited	1
+MUY Historia	RBZ0001147	01/01/2019	50000	1
+MUY Interesante - España	RBZ0001126	01/31/2019	50000	1
+Muy Interesante - Mexico	RBZ0000615	01/01/2019	50000	1
+National Geographic	RBZ0000618	01/01/2019	Unlimited	1
+National Geographic Traveler	RBZ0000619	03/01/2019	4000	1
+Nautica	RBZ0002347			0
+Neptune Yachting Moteur	RBZ0001765	01/31/2019	Unlimited	1
+net	RBZ0000002	07/31/2019	999	20
+New American Paintings	RBZ0002519			0
+New Scientist	RBZ0000626	02/01/2019	10000	5
+New York Review of Books	RBZ0000627	02/06/2019	50000	1
+New Zealand Weddings	RBZ0002250	12/19/2018	50000	1
+Newsweek	RBZ0000629	01/31/2019	50000	3
+NME Originals	RBZ0001080			0
+NME Originals - 80's	RBZ0001076			0
+NME Originals - Folk	RBZ0001106			0
+NME Originals - Goth	RBZ0001077			0
+NME Originals - Mod	RBZ0001063			0
+Northern Home and Cottage	RBZ0001359			0
+Nueva	RBZ0000633	01/27/2019	50000	2
+Nuevo Estilo	RBZ0001169	01/31/2019	50000	1
+NZ Classic Car	RBZ0001847	01/31/2019	50000	1
+NZ Export and Trade Handbook	RBZ0002988	12/31/2018	10000	1
+NZ Hot Rod	RBZ0002520	01/31/2019	10000	1
+NZ Performance Car	RBZ0001862			0
+NZ Rugby World	RBZ0001410			0
+NZ4WD	RBZ0002300	01/31/2019	10000	1
+NZBusiness+Management	RBZ0002301	01/31/2019	10000	1
+NZV8	RBZ0001863			0
+O, The Oprah Magazine	RBZ0000635	02/01/2019	Unlimited	1
+Octane	RBZ0000636	02/28/2019	50000	1
+Octane - Chrono	RBZ0002721			0
+OK! Magazine	RBZ0000638	02/10/2019	Unlimited	5
+OK! Russia	RBZ0002849	01/30/2019	Unlimited	2
+Olive Magazine	RBZ0000113	01/31/2019	50000	1
+OPEN	RBZ0001292	12/31/2018	50000	1
+Open Magazine	RBZ0000980	01/31/2019	50000	5
+Opera Canada	RBZ0000642			0
+Organic NZ	RBZ0002788			0
+Our Canada	RBZ0000646			0
+Our State: Down Home in North Carolina	RBZ0001608	01/31/2019	10000	1
+OUT	RBZ0000648	01/31/2019	50000	1
+Outdoor Life	RBZ0000650			0
+Outdoor Photographer	RBZ0000651			0
+Outside	RBZ0000653			0
+Oxygen	RBZ0000655			0
+PaperCraft Inspirations	RBZ0000981	02/28/2019	Unlimited	1
+Paramotor Magazin	RBZ0002921			0
+PC Gamer	RBZ0000984	01/31/2019	10000	1
+PC Home	RBZ0001053	01/31/2019	50000	1
+PC Magazine	RBZ0000660			0
+PC Powerplay	RBZ0000661			0
+PC Pro	RBZ0000985	02/28/2019	50000	1
+PCWorld	RBZ0000662	01/01/2019	50000	1
+Peppermint Magazine	RBZ0000663			0
+Petróleo & Energía	RBZ0000666			0
+Photographers' Guide to Photoshop	RBZ0002361			0
+PhotoPlus : The Canon Magazine	RBZ0002377	01/31/2019	10000	1
+Pianiste	RBZ0002388			0
+Pick Me Up!	RBZ0000904	02/06/2019	50000	5
+Pick Me Up! Special	RBZ0000905	01/31/2019	50000	1
+PieceWork	RBZ0000669	01/11/2019	50000	1
+Plane & Pilot	RBZ0000671	02/28/2019	50000	1
+PleinAir Magazine	RBZ0003003			0
+Poets & Writers Magazine	RBZ0000673			0
+Point de vue	RBZ0001461	01/29/2019	Unlimited	5
+Popular Mechanics	RBZ0000676	02/28/2019	Unlimited	1
+Popular Mechanics South Africa	RBZ0002809	12/31/2018	50000	1
+Popular Science	RBZ0000678			0
+Porsche Classics	RBZ0003041	02/15/2011	5000	1
+Powder	RBZ0000679	01/31/2019	50000	1
+Power & Motoryacht	RBZ0001363	01/31/2019	50000	1
+Practical Horseman	RBZ0000680			0
+Practical Photoshop	RBZ0000988	01/31/2019	Unlimited	1
+Prevention	RBZ0000683	02/01/2019	50000	1
+Pro Photo	RBZ0000684	05/31/2019	5000	2
+Proceso	RBZ0000685	01/26/2019	50000	4
+Procycling	RBZ0000989	01/31/2019	Unlimited	1
+Procycling Photography 2010: A year with the pro peloton	RBZ0003013			0
+Proyecto Contract	RBZ0001738			0
+Psychologies Russia	RBZ0001891	01/31/2019	Unlimited	1
+Publishers Weekly	RBZ0000688	01/27/2019	2000	4
+Quattroruote	RBZ0002904	01/31/2019	Unlimited	1
+Que leer	RBZ0001900	01/31/2019	50000	2
+Queensland Brides	RBZ0000692			0
+Queensland Homes	RBZ0000693			0
+Queensland Homes Gold	RBZ0000694			0
+Quién	RBZ0000695	12/31/2018	50000	1
+Quilters Companion	RBZ0000696	12/31/2018	50000	1
+Quilting Arts Holiday	RBZ0000697			0
+Quilting Arts Magazine	RBZ0000698			0
+Quilts and More	RBZ0000699	12/26/2018	10000	1
+Quo	RBZ0001158	02/01/2019	50000	1
+R&E-Relojes&Estilográficas	RBZ0001615	12/31/2018	50000	1
+Racecar Engineering	RBZ0000991	01/31/2019	50000	1
+Rachael Ray Every Day	RBZ0000354	01/31/2019	10000	1
+Radio Ink Magazine	RBZ0001413	01/13/2019	10000	1
+Rail Express	RBZ0000992	01/31/2019	50000	1
+Reader's Digest	RBZ0000704	01/31/2019	50000	1
+Reader's Digest Canada	RBZ0000705			0
+Reader's Digest International	RBZ0000089	01/31/2019	50000	1
+Reader's Digest Living Well With Diabetes	RBZ0000706			0
+RealClassic	RBZ0000993	12/31/2018	50000	1
+Reason: The Ultimate Guide	RBZ0002079			0
+Recording & Music Production – Guerrilla Guide	RBZ0000708			0
+RedSleds	RBZ0002956			0
+Remodeling & Makeovers	RBZ0000711			0
+Rhythms Monthly 經典	RBZ0001054	01/28/2019	50000	1
+RIDERS CLUB　ライダースクラブ	RBZ0002879	01/30/2019	Unlimited	1
+Road & Track	RBZ0000721	02/01/2019	Unlimited	1
+Road Rider Bike Guide	RBZ0000722			0
+Robb Report	RBZ0000724	12/31/2018	50000	1
+Rock and Folk	RBZ0001760	01/14/2019	Unlimited	1
+Rolling Stone	RBZ0000729	01/01/2019	Unlimited	1
+Rolling Stone - France	RBZ0001464	01/16/2019	Unlimited	1
+Rolling Stone Hors-Série	RBZ0001930			0
+Rooi Rose	RBZ0000996	01/31/2019	50000	1
+Rotman Management	RBZ0000731	12/09/2019	50000	1
+Rugby World	RBZ0001037	01/31/2019	50000	1
+Runner's World	RBZ0000732			0
+Runner's World - Mexico	RBZ0000733	12/31/2018	50000	1
+Runner's World Complete Guide to Running	RBZ0002363			0
+Runner's World South Africa	RBZ0000963	01/31/2019	50000	1
+Runners World Coach	RBZ0002634			0
+Runner’s World Trail Runner (South African Edition)	RBZ0000967			0
+SA Country Life	RBZ0000997	01/31/2019	50000	1
+SA Garden and Home	RBZ0000998	01/31/2019	50000	1
+SA Hunter/Jagter	RBZ0000956	01/31/2019	50000	1
+SAIL	RBZ0001268	01/31/2019	50000	1
+Sailing Today	RBZ0000999	02/28/2019	50000	1
+Sailing World	RBZ0001101			0
+Salon Platinum 2010	RBZ0002736			0
+Salt Water Sportsman	RBZ0001286	01/31/2019	10000	1
+SARIE	RBZ0000964	01/31/2019	50000	1
+Sarie Bruid	RBZ0002739			0
+SARIE KOS	RBZ0000965	12/31/2018	50000	1
+Sarie Woon	RBZ0002737			0
+Saveur	RBZ0000736			0
+Scientific American Chinese Edition	RBZ0001235	01/15/2019	50000	1
+Scootering	RBZ0001000	01/31/2019	50000	1
+ScrapBook inspirations - Ideas Book	RBZ0002331			0
+ScrapBook inspirations - Ideas Book 2nd Edition	RBZ0002223			0
+Scuba Diving	RBZ0000744			0
+Sélection du Reader's Digest	RBZ0000747			0
+Ser Padres Hoy + El Bebe de ser Padres	RBZ0001109	01/31/2019	50000	1
+Seventeen - Mexico	RBZ0000750	01/31/2019	50000	1
+Seventeen: Justin Beiber Special Issue	RBZ0000751			0
+SFX	RBZ0001001	02/28/2019	10000	2
+Shape	RBZ0000753	01/31/2019	Unlimited	1
+Shape up at Home	RBZ0002944			0
+Shortcut Desserts: 123 Yummy Easiest-Ever Recipes	RBZ0000756			0
+ShowBoats International	RBZ0002814	01/31/2019	50000	2
+Signature Travel & Lifestyle	RBZ0002629			0
+Simple Wine News	RBZ0003069	06/05/2019	5000	4
+Simply Knitting	RBZ0001741	02/28/2019	Unlimited	1
+Ski Magazine	RBZ0000760	01/31/2019	50000	1
+Skin Deep Tattoo Magazine	RBZ0001499	02/28/2019	Unlimited	2
+SkyNews	RBZ0000763			0
+Slam	RBZ0000764			0
+Slam Skateboarding	RBZ0000765			0
+Slow Cooker	RBZ0000766			0
+Small Gardens, Balconies & Courtyards	RBZ0000768			0
+Smart Photography	RBZ0002187	12/31/2018	50000	1
+Smart 智富	RBZ0001056	01/31/2019	50000	1
+Smith Journal	RBZ0000769			0
+Smithsonian Magazine	RBZ0000770			0
+Soap Opera Digest	RBZ0001241	02/03/2019	10000	4
+Sound & Vision	RBZ0000773			0
+Sound + Image	RBZ0000774			0
+Space	RBZ0002128	12/31/2018	50000	1
+Spin-Off	RBZ0003055	05/07/2019	1000	2
+Spoke	RBZ0001783			0
+Sport Fishing	RBZ0000777	01/14/2019	50000	1
+Sport Life	RBZ0001119	01/31/2019	50000	1
+Star Magazine	RBZ0000780	02/03/2019	50000	4
+Steelers Digest	RBZ0001644	01/31/2019	10000	1
+Stereophile	RBZ0000783	01/31/2019	50000	1
+Street Rodder	RBZ0000785	02/28/2019	50000	1
+Studio Classroom 空中英語教室	RBZ0001172	01/17/2019	50000	1
+Style At Home	RBZ0000907	02/28/2019	50000	2
+Successful Farming	RBZ0000787	01/01/2019	10000	1
+Super Chevy	RBZ0001438	02/28/2019	50000	1
+Super Street	RBZ0001362	02/28/2019	50000	1
+The Superfan's Guide to Justin Bieber	RBZ0001014			0
+Superyacht	RBZ0002348			0
+Superyacht International	RBZ0002349			0
+Surfer	RBZ0001288	01/31/2019	50000	1
+Surfing Life	RBZ0000096			0
+Sustainable & Water Wise Gardens	RBZ0000792			0
+Taste of Home	RBZ0000796	01/31/2019	50000	1
+Taste of Home Cooking School	RBZ0000797			0
+Taste.com.au	RBZ0000079			0
+Tatler Russia	RBZ0002266	01/31/2019	Unlimited	1
+Texas Highways Magazine	RBZ0001315	02/01/2019	10000	1
+Texas Monthly	RBZ0001397	02/01/2019	10000	2
+Thermik Magazin	RBZ0002920			0
+The Threepenny Review	RBZ0002319			0
+Top Homes	RBZ0000807			0
+Total Bike Repair & Maintenance	RBZ0002078			0
+Total Body Plan	RBZ0003033	04/01/2011	5000	1
+Total Film	RBZ0001015	12/31/2018	10000	1
+Total Guitar	RBZ0001016	01/31/2019	10000	1
+Tour De France 2012	RBZ0001041			0
+Town & Country	RBZ0000808	01/31/2019	Unlimited	1
+TPCA Magazine 電路板會刊	RBZ0001204			0
+Traces (formerly Inside History)	RBZ0000492			0
+Traditional Home	RBZ0000810			0
+Train like an Olympian	RBZ0001018			0
+Trains	RBZ0000811	02/28/2019	50000	1
+Travel + Leisure India & South Asia	RBZ0002642	12/31/2018	50000	1
+Traverse, Northern Michigan's Magazine	RBZ0001352	01/31/2019	10000	1
+Truck Trend	RBZ0000817	02/28/2019	50000	1
+Truckin	RBZ0000818	03/31/2019	50000	1
+True Love	RBZ0000968	01/31/2019	50000	1
+Tú	RBZ0000820	01/30/2019	50000	3
+Tú Ediciones Especiales	RBZ0000821			0
+Tuis	RBZ0000969	01/31/2019	50000	1
+Tv Notas Horóscopos 2015	RBZ0000823			0
+TV Times	RBZ0001042	02/01/2019	50000	4
+TV&Satellite Week	RBZ0001043	02/01/2019	50000	4
+TvNotas	RBZ0000824	01/28/2019	50000	5
+TvNotas Especiales	RBZ0000055			0
+TVyNovelas	RBZ0000825	01/24/2019	50000	4
+Ultimate 2012 Olympic Guide	RBZ0001021			0
+Ultimate Aircraft	RBZ0000827			0
+The Ultimate Blackberry Guide	RBZ0002050			0
+Ultimate Euro 2012 Guide	RBZ0001022			0
+Ultimate Guide to Amazon Kindle	RBZ0001023			0
+Ultimate Guide to Android Tablets	RBZ0001024			0
+The Ultimate Guide to Bicycle Maintenance	RBZ0002305			0
+The Ultimate Guide to Digital Photography 4	RBZ0002325			0
+The Ultimate Guide to Graphic Design 2	RBZ0002168			0
+The Ultimate Guide to Marathon Running	RBZ0002049			0
+The Ultimate Guide to Marathon Running 2nd edition	RBZ0002568			0
+The Ultimate Guide to Office 2010	RBZ0002335			0
+The Ultimate iPod Guide 5	RBZ0002009			0
+Ultimate PC and Web Workshops	RBZ0001374			0
+Ultimate PC and Web Workshops (2007)	RBZ0001256			0
+The Ultimate World Cup Guide 2010	RBZ0002166			0
+Us Weekly	RBZ0000831	02/10/2019	Unlimited	5
+Utne Reader	RBZ0000832			0
+Vanidades - Mexico	RBZ0000836	02/06/2019	50000	3
+Vanidades Novias	RBZ0000837			0
+Vegetarian Times - Healing Foods Cookbook	RBZ0000840			0
+VegNews Magazine	RBZ0000841	01/01/2019	50000	1
+Veranda	RBZ0000842			0
+Video Focus: Final Cut Pro	RBZ0002803			0
+Visi	RBZ0002596			0
+Viz	RBZ0002873	01/31/2019	50000	1
+Viz Das Krapital - Roger's Profanisaurus	RBZ0003102	03/01/2011	5000	1
+Vogue Australia	RBZ0000848			0
+Vogue Collections	RBZ0001705			0
+Vogue Hommes	RBZ0001706			0
+Vogue hommes English Version	RBZ0002836			0
+VOGUE India	RBZ0002616	01/31/2019	50000	2
+Vogue Italia	RBZ0003052	05/31/2019	400	6
+VOGUE JAPAN	RBZ0002632	02/28/2019	50000	1
+Vogue Living	RBZ0000849			0
+Vogue Living Before + After	RBZ0000850			0
+Vogue Paris	RBZ0001803	01/31/2019	Unlimited	1
+Vogue Russia	RBZ0002261	01/31/2019	Unlimited	1
+Voie Libre international	RBZ0002429			0
+Voile Magazine	RBZ0001788	01/14/2019	Unlimited	1
+Volkswagen Camper and Commercial	RBZ0001520	01/31/2019	Unlimited	1
+Wanderlust	RBZ0002477	01/31/2019	Unlimited	1
+Watch!	RBZ0002612	12/31/2018	10000	1
+WEALTH INVEST WEEKLY 先探投資週刊	RBZ0001066	01/31/2019	50000	5
+Wealth Magazine 財訊雙週刊	RBZ0001114	01/30/2019	50000	3
+Webuser	RBZ0001026	06/25/2019	4999	13
+The Week	RBZ0002827	02/01/2019	50000	4
+Weg Kruger	RBZ0000970			0
+Weg Kuierkos	RBZ0000971			0
+Weg Namibië	RBZ0000972			0
+Weg!	RBZ0000973	01/31/2019	50000	1
+WegSleep	RBZ0000975	06/30/2019	5000	6
+Weight Watchers	RBZ0000855	01/02/2019	50000	1
+WellBeing	RBZ0000856			0
+WellBeing Anti-Ageing	RBZ0000857			0
+WellBeing Astrology	RBZ0000858			0
+WellBeing Fitness	RBZ0000859			0
+Wellbeing Food	RBZ0000860			0
+Wellbeing Happiness	RBZ0000861			0
+Wellbeing Organic Garden	RBZ0000862			0
+Wellbeing Parenting	RBZ0000863			0
+WellBeing Yoga	RBZ0000864			0
+What Digital SLR	RBZ0001411			0
+What's on TV	RBZ0001044	02/01/2019	50000	4
+White Horses	RBZ0000867			0
+White Sposa	RBZ0002506	12/31/2018	50000	1
+Who Do You Think You Are?	RBZ0002504	01/31/2019	50000	1
+Wild	RBZ0000869	01/01/2019	50000	1
+Wilderness	RBZ0002475	06/30/2019	1998	6
+Wine Enthusiast Magazine	RBZ0001717			0
+Wine Spectator	RBZ0001129	02/27/2019	10000	1
+Winestate Magazine	RBZ0000873			0
+Winter Warmth	RBZ0000874			0
+Woman	RBZ0001045	02/03/2019	50000	5
+Woman & Home	RBZ0000915	01/31/2019	50000	1
+Woman & Home Feel Good Food	RBZ0000910			0
+Woman & Home South Africa	RBZ0001028	01/31/2019	50000	1
+Woman's Day	RBZ0000875	02/01/2019	Unlimited	1
+Woman's Day - Comfort Food	RBZ0000876			0
+Woman's Day - Holiday Appetizers	RBZ0000877			0
+Woman's Day - Last Minute Christmas	RBZ0000878			0
+Woman's Own	RBZ0001046	02/03/2019	50000	5
+Woman's Weekly	RBZ0000911	02/04/2019	50000	5
+Women's Fitness The Ultimate 2 Week Fat Loss Diet	RBZ0001030			0
+Women's Fitness Tone up at Home	RBZ0001031			0
+Women's Health	RBZ0000880			0
+Women's Health South Africa	RBZ0000976			0
+WOOD Magazine	RBZ0000881	03/01/2019	10000	1
+Woodcraft Magazine	RBZ0000882			0
+Woodworker's Journal	RBZ0000883			0
+Working Mother	RBZ0000884			0
+World Soccer	RBZ0000912	01/31/2019	50000	1
+The World's Weirdest News Stories	RBZ0002825			0
+Worlds Of Whedon	RBZ0002815			0
+The Writer	RBZ0000886	02/28/2019	50000	1
+Yachting	RBZ0001285	01/31/2019	10000	1
+Yachting Monthly	RBZ0000913	02/28/2019	50000	2
+Yachting World	RBZ0000914	01/31/2019	50000	1
+Yachts & Yachting magazine	RBZ0001033	01/31/2019	50000	1
+Yoga for Beginners	RBZ0000889			0
+Yoga Journal	RBZ0000890	01/31/2019	50000	1
+YOU - Nelson Mandela – Man of History	RBZ0003067	12/01/2013	5000	1
+You South Africa	RBZ0000977	02/06/2019	50000	5
+Your Family Tree Presents: Get Started in Family History	RBZ0002222			0
+Zigzag	RBZ0002599			0
+Zigzag Photo Journal	RBZ0000978			0
+Zoomer Magazine	RBZ0000895	06/30/2019	5000	5
+¡Hola! Cocina	RBZ0002062	08/27/2018	4999	1
+¡Hola! Especial Decoración	RBZ0002056			0
+¡Hola! Especial Viajes	RBZ0002333			0
+¡Hola! Prêt-À-Porter	RBZ0002061	08/31/2016	5000	1
+Проект Россия/Project Russia	RBZ0002730	06/30/2019	5000	3
+Сноб	RBZ0002260			0
+Счастливые родители	RBZ0001890	01/31/2019	Unlimited	1
+サンデー毎日 Sunday Mainichi	RBZ0002670			0
+旭茉 Jessica	RBZ0002900	06/27/2019	5000	6
+週刊エコノミスト	RBZ0002669			0
+Total	18416875	1438

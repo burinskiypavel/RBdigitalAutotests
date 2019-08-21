@@ -1,0 +1,6 @@
+Region: UK
+For Period: from 07/01/2019 to 07/01/2019
+Email	BarCode	Join Date	Library Name	AccountId	Last Service Login	Last Login Date
+a.b.toon@btinternet.com		07/01/2019	hampshire		magazines	06/30/2019
+rhydian.potter@gmail.com	067853929	07/01/2019	westsussex	10000242	unknown	06/30/2019
+Total	2					

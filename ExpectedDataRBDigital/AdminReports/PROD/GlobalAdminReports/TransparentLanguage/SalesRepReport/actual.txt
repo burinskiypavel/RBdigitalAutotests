@@ -1,0 +1,20 @@
+Screen Name	Email	Library	AccountId	Country	State	Start Date	End Date	System Name
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	02/01/2016	12/30/2018	
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	01/30/2015	01/30/2016	
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	05/01/2014	05/31/2014	
+Barney Allan	barney@digitalcontentassociates.com	RBdigital Global Catalog		US	Maryland	01/01/2019	12/31/2019	
+Barney Allan	barney@digitalcontentassociates.com	RBdigital Global Catalog		US	Maryland	02/01/2017	12/31/2018	
+Barney Allan	barney@digitalcontentassociates.com	Hong Kong Central Library Trial	Trial	HK	Hong Kong	05/29/2018	06/30/2018	
+Barney Allan	barney@digitalcontentassociates.com	Sabah State Library	Trial	MY	Malaysia	11/15/2017	12/31/2017	
+Barney Allan	barney@digitalcontentassociates.com	Sustec Trial	Trial	ES	Spain	09/01/2016	08/31/2017	
+Barney Allan	barney@digitalcontentassociates.com	RBdigital Global Catalog		US	Maryland	02/01/2016	01/31/2017	
+BethanyLeach	bleach@recordedbooks.com	Livonia Public Library	7205047	US	Michigan	09/01/2018	08/31/2019	
+BethanyLeach	bleach@recordedbooks.com	North Adams Community Memorial Library	7188998	US	Michigan	10/01/2017	09/30/2018	
+BethanyLeach	bleach@recordedbooks.com	Saginaw Chippewa Tribal Libraries	7208273	US	Michigan	09/16/2017	09/30/2018	
+BethanyLeach	bleach@recordedbooks.com	Livonia Public Library	7205047	US	Michigan	08/16/2017	08/31/2018	
+BethanyLeach	bleach@recordedbooks.com	North Adams Community Memorial Library	7188998	US	Michigan	09/16/2016	09/30/2017	
+Brad Doss	bdoss@recordedbooks.com	Nashville Public Library	7117935	US	Tennessee	07/01/2018	03/31/2023	
+Brad Doss	bdoss@recordedbooks.com	Queens Public Library	7121194	US	New York	08/01/2017	07/31/2020	
+Brad Doss	bdoss@recordedbooks.com	Alachua County Library District	7193174	US	Florida	12/01/2018	11/30/2019	
+Brad Doss	bdoss@recordedbooks.com	Chesapeake Public Library	7125023	US	Virginia	11/01/2018	10/31/2019	Library of Virginia/Lyrasis-7051842
+Brad Doss	bdoss@recordedbooks.com	Chesterfield County Public Library	7187555	US	Virginia	09/01/2018	08/31/2019	Library of Virginia/Lyrasis-7051842

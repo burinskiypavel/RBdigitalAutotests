@@ -1,0 +1,53 @@
+Screen Name	Email	Library	AccountId	Country	State	System Name
+Giulio Blasi	blasi@horizons.it	Media Library Online	7050092	IT	Emilia-Romagna	
+Stelly Cattell	scattell@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+Cooper Cobb	dcobb@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+BradGrayTrialSite	bgray@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+Becky Bramall	becky.bramall@wfhowes.co.uk	RBdigital Trial Customer Library		US	Maryland	
+Jim Schmidt	jschmidt@recordedbooks.com	Skipjack Library	test	US	Maryland	
+Scott Williams	swilliams@recordedbooks.com	Skipjack Library	test	US	Maryland	
+skipjackadmin1	skipjackadmin1@gmail.com	Skipjack Library	test	US	Maryland	
+jen Admin test	jennie01@gmail.com	Skipjack Library	test	US	Maryland	
+Brad Gray	bradleypgray@recordedbooks.com	Skipjack Library	test	US	Maryland	
+sunnysales	sunnysales@gmail.com	Skipjack Library	test	US	Maryland	
+Brooks Bushnell	bbushnell@recordedbooks.com	Skipjack Library	test	US	Maryland	
+Brad Gray	bgray@recordedbooks.com	RBdigital Account Manager Demo Library	7033036	US	Maryland	
+Kevin Karrick	kevin@artistworks.com	RBdigital Account Manager Demo Library	7033036	US	Maryland	
+John Shea	jshea@rbmediaglobal.com	RBdigital Account Manager Demo Library	7033036	US	Maryland	
+Donna Vollmer	dvollmer@recordedbooks.com	RBdigital Account Manager Demo Library	7033036	US	Maryland	
+Craig	callen@recordedbooks.com	RBdigital Account Manager Demo Library	7033036	US	Maryland	
+Brad Gray	bgray@recordedbooks.com	RBdigital Global Catalog	7158224	US	Maryland	
+Nicola Everitt	nicola@digitalcontentassociates.com	RBdigital Global Catalog	7158224	US	Maryland	
+Andrea Ruud	andrea.ruud@tln.lib.ee	RBdigital Global Catalog	7158224	US	Maryland	
+Jill Goodman	mvillelibrary@hotmail.com	Martinsville Public Library District	7220537	US	Illinois	Illinois Heartland Library System
+Julie Douglas	julie.douglas@vpl.ca	Vancouver Public Library	7049312	CA	British Columbia	BC Libraries Cooperative 7040759
+Sara Amon	sara.amon@vpl.ca	Vancouver Public Library	7049312	CA	British Columbia	BC Libraries Cooperative 7040759
+Janet Horne	janet.horne@vpl.ca	Vancouver Public Library	7049312	CA	British Columbia	BC Libraries Cooperative 7040759
+electronic resources	eresources@vpl.ca	Vancouver Public Library	7049312	CA	British Columbia	BC Libraries Cooperative 7040759
+Anna Wilkinson	anna.wilkinson@vpl.ca	Vancouver Public Library	7049312	CA	British Columbia	BC Libraries Cooperative 7040759
+eresources	eresources@vpl.ca	Vancouver Public Library	7049312	CA	British Columbia	BC Libraries Cooperative 7040759
+VPL STATS	vplstats@vpl.ca	Vancouver Public Library	7049312	CA	British Columbia	BC Libraries Cooperative 7040759
+Ken Williams	ken.williams@vpl.ca	Vancouver Public Library	7049312	CA	British Columbia	BC Libraries Cooperative 7040759
+Name1	test@gmail.com	RBdigital Internal Library		US	Maryland	
+QA	qatest@gmail.com	RBdigital Internal Library		US	Maryland	
+111111	vzhidkov@envionsoftware.com	8080 Test Library		US	Oregon	
+test_avolkov	avolkov@envionsoftware.com	8080 Test Library		US	Oregon	
+Malissa Seymour	mseymour@recordedbooks.com	8080 Test Library		US	Oregon	
+test_ymelnik	ymelnik@envionsoftware.com	8080 Test Library		US	Oregon	
+sunnytest	sunnytest@gmail.com	8080 Test Library		US	Oregon	
+test test	test@rbdigital.com	8080 Test Library		US	Oregon	
+brad	bgraytest@rb.com	8080 Test Library		US	Oregon	
+Jennie	jennie01@gmail.com	8080 Test Library		US	Oregon	
+qwertyQwerty	qwerty@gmail.com	8080 Test Library		US	Oregon	
+Testname1	test@gmail.com	8080 Test Library		US	Oregon	
+tryr	wwew@ffff.com	8080 Test Library		US	Oregon	
+Pavel1	qw77@ukr.net	8080 Test Library		US	Oregon	
+uat user	uatuser@email.com	8080 Test Library		US	Oregon	
+mar29	mar29@gmail.com	8080 Test Library		US	Oregon	
+111111	111111@gmail.com	8080 Test Library		US	Oregon	
+Ira	des18@des18.com	8080 Test Library		US	Oregon	
+may6admin	may6admin@gmail.com	8080 Test Library		US	Oregon	
+may17admin	may17admin@gmail.com	8080 Test Library		US	Oregon	
+may22libraryAdmin1	may22libraryAdmin@gmail.com	8080 Test Library		US	Oregon	
+may27_library_admin	qwdffffffffff77@ukr.net	8080 Test Library		US	Oregon	
+Total	51

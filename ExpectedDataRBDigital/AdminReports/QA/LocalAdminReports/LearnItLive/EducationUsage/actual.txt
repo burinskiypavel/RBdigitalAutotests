@@ -1,0 +1,3 @@
+For Period: from 05/06/2016 to 07/01/2018
+Service	License Type	Title	Barcode	Email	Library	Sessions	Notes
+Total	0	

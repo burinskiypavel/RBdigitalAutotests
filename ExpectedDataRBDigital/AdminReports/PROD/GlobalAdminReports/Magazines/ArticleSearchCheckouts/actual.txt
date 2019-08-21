@@ -1,0 +1,20 @@
+For Period: from 01/01/2017 to 02/01/2017
+Title	RBID	Quantity	Issue Date	Library Name
+(inside) interior design review	RBZ0002688	1	11/01/2016	southeastzone
+25 Beautiful Homes	RBZ0000011	11	01/01/2017	wfhowes
+3D World	RBZ0000014	2	12/01/2016	greatermanchester
+4 Wheel & Off Road	RBZ0000015	1	01/01/2017	banqqc
+5280 Magazine	RBZ0000021	2	10/01/2015	douglascountylibraries
+7 Jours	RBZ0000022	7	11/18/2016	banqqc
+ABC Organic Gardener Magazine	RBZ0005129	1	01/01/2017	SAPLN
+Aero Australia	RBZ0000029	2	01/01/2016	auckland
+Allrecipes	RBZ0006296	4	12/01/2016	uplc
+Allure	RBZ0005641	4	11/01/2016	edmontonab
+Amateur Gardening	RBZ0006696	8	10/29/2016	hertfordshirelibraries
+Amateur Photographer	RBZ0000040	18	04/09/2016	hertfordshirelibraries
+American History	RBZ0005968	1	10/01/2016	rbdigitalgatewaytrial
+American Patchwork & Quilting	RBZ0000046	8	02/01/2017	mainincnj
+AppleMagazine	RBZ0000059	9	07/15/2016	cinhamiltonoh
+Architectural Digest	RBZ0005581	8	01/01/2017	mainincnj
+Art & Décoration	RBZ0006171	2	12/01/2016	rbdigitaltrial
+Art Almanac	RBZ0005834	3	09/01/2016	wapldmc

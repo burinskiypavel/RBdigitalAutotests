@@ -1,0 +1,20 @@
+Screen Name	Email	Library	AccountId	Country	State	Start Date	End Date	System Name
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	08/01/2016	08/01/2018	
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	04/14/2016	05/31/2016	
+Barney Allan	barney@digitalcontentassociates.com	HelMet-kirjasto Trial	Trial	FI	Finland	10/07/2016	11/18/2016	
+Brad Doss	bdoss@recordedbooks.com	Multinational Force and Observers	7178979	EG	Military	05/01/2018	09/12/2018	
+Brad Doss	bdoss@recordedbooks.com	Prince George's County Memorial Library System	7153536	US	Maryland	07/01/2017	06/30/2018	
+Brad Doss	bdoss@recordedbooks.com	Multinational Force and Observers	7178979	EG	Military	05/01/2017	04/30/2018	
+Brad Doss	bdoss@recordedbooks.com	Prince George's County Memorial Library System	7153536	US	Maryland	05/30/2016	06/30/2017	
+Brad Doss	bdoss@recordedbooks.com	Tulsa City County Library System	7184727	US	Oklahoma	07/01/2016	06/30/2017	
+Brad Doss	bdoss@recordedbooks.com	Multinational Force and Observers	7178979	EG	Military	04/15/2016	04/30/2017	
+Brian Gilbert	bgilbert@recordedbooks.com	PLAN Digital Group	7191400	US	Florida	11/01/2017	09/12/2018	PLAN 7191397
+Brian Gilbert	bgilbert@recordedbooks.com	Smyrna Public Library	7190300	US	Georgia	12/01/2017	09/12/2018	GADD
+Brian Gilbert	bgilbert@recordedbooks.com	LeRoy Collins Leon County Public Library	7191516	US	Florida	11/01/2017	09/12/2018	PLAN 7191397
+Brian Gilbert	bgilbert@recordedbooks.com	Panhandle Library Cooperative	7191522	US	Florida	11/01/2017	09/12/2018	PLAN 7191397
+Brian Gilbert	bgilbert@recordedbooks.com	Sumter County Library System	7191386	US	Florida	11/01/2017	09/12/2018	
+Brian Gilbert	bgilbert@recordedbooks.com	Three Rivers Regional Library System	7183738	US	Georgia	06/01/2017	05/31/2018	Value Collection
+Brian Gilbert	bgilbert@recordedbooks.com	Dunedin Public Library	7202194	US	Florida	06/01/2017	05/31/2018	
+Brian Gilbert	bgilbert@recordedbooks.com	Greater Clarks Hill Regional Library System	7202025	US	Georgia	06/01/2017	05/31/2018	GADD SVOD - A, IF, Q-unl
+Brian Gilbert	bgilbert@recordedbooks.com	Fitzgerald-Ben Hill County Library	7191529	US	Georgia	11/15/2016	11/30/2017	GADD
+Brian Gilbert	bgilbert@recordedbooks.com	Smyrna Public Library	7190300	US	Georgia	11/15/2016	11/30/2017	GADD

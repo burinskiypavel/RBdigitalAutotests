@@ -1,0 +1,20 @@
+For Period: from 02/02/2017 to 02/02/2017
+Active and Inactive Subscriptions counted
+Region	State	Library	AccountId	SalesRep	Subscription Start Date	Subscription End Date	Subscription Status	System Name
+North America	Alabama	8080 Test Library		avolkov_sales	09/03/2014	09/18/2019	Active	
+Asia	Oman	ABA - an IB World School		ballan1	10/16/2016	10/31/2017	Inactive	
+North America	Massachusetts	Abbot Public Library		jlevy	08/01/2016	07/31/2017	Inactive	SVOD - Acorn, IF, Great Courses
+Australia	New South Wales	ABC Reference Library			01/18/2016	02/29/2020	Active	
+Europe, UK	Scotland	Aberdeen City Library			04/01/2015	03/31/2018	Inactive	
+Europe, UK	Scotland	Aberdeenshire Library & Info. Services			01/01/2015	03/31/2019	Inactive	
+North America	Illinois	Addison Public Library	7039945	mhaddadnull	02/01/2017	01/31/2018	Inactive	
+North America	Massachusetts	Agawam Public Library	7055493	jlevy	07/01/2016	06/30/2017	Inactive	SVOD - A, Q, TGCNC; Unl.; No IF, P
+North America	Military	Air Force Library & Information System	7026668	Doss	11/01/2016	10/31/2017	Inactive	DOD-MWR Air Force/7208672
+North America	Ohio	Akron Summit County Public Library		dmcdonald1	10/01/2016	09/30/2017	Inactive	Acorn, Qello, Indieflix
+North America	Florida	Alachua County Library District		Doss	10/01/2016	09/30/2017	Inactive	
+North America	North Carolina	Alamance County Public Libraries		swilliams1	07/01/2016	06/30/2017	Inactive	
+North America	California	Alameda County Library	1724394	hyena	10/01/2016	09/30/2017	Inactive	ACORN TV , IF, Pongalo, TGC
+North America	New Mexico	Albuquerque Bernalillo County Library	7033942	cstrickland	11/01/2016	10/31/2017	Inactive	
+North America	British Columbia	Alert Bay Public Library	7149971	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative-7040759
+North America	Virginia	Alexandria Library	7040823	Doss	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Illinois	Algonquin Area Public Library	7034044	mhaddadnull	10/01/2016	09/30/2017	Inactive	

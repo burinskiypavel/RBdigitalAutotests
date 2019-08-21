@@ -1,0 +1,11 @@
+For Period: from 01/01/2017 to 01/01/2017
+Service	License Type	Library Name	Billing Account #	System Name	State	Country	Library	Quantity of Tokens	Views	Cost per Token	Total $	Cost per View
+qello	30-day	East Baton Rouge Parish Library	7220260		Louisiana	US		1	3	2.99	2.99	1.00
+qello	30-day	Skipjack Library			Maryland	US		1	0	2.99	2.99	-
+Total	2	3		5.98	
+
+
+Summary
+Service	Cost per View
+qello	1.99
+OVERALL AVERAGE	1.99

@@ -1,0 +1,6 @@
+Service	License Type	Barcode	Email	Library	Licenses #	Description	Monthly Patron Cap	Overall Cap	Group Cap	Patron Cap	Service Cap	Turnaway Reason	Total Turnaways
+method-test-prep	7-day		irybakova@envionsoftware.com	test1	43	test licenses for internal testing	1000	99999	1000	1000	999999	Technical Issue	6
+learnitlive	7-day		mar20a@gmail.com	test1	91	test test Beta test	1000	99999	1000	1000	100	Weekly Patron Cap	1
+method-test-prep	7-day		testbb201809101629@email.com	test1	43	test licenses for internal testing	1000	99999	1000	1000	999999	Technical Issue	5
+method-test-prep	7-day	qwerty	avolkov@envionsoftware.com	test1	43	test licenses for internal testing	1000	99999	1000	1000	999999	Monthly Patron Cap	1
+Total	13

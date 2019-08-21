@@ -1,0 +1,9 @@
+Screen Name	Email	Library	AccountId	Country	State	Start Date	End Date	System Name
+Steve Wilks	swilks@recordedbooks.com	Enid Garfield Library	7202306	US	Oklahoma	07/01/2018	06/30/2019	
+Steve Wilks	swilks@recordedbooks.com	Enid Garfield Library	7202306	US	Oklahoma	06/15/2017	06/30/2018	
+Steve Wilks	swilks@recordedbooks.com	Lawton Public Library	7177355	US	Oklahoma	05/01/2017	04/30/2018	
+Steve Wilks	swilks@recordedbooks.com	Duncan Public Library	7178247	US	Oklahoma	04/01/2017	03/31/2018	
+Steve Wilks	swilks@recordedbooks.com	Mabel C. Fry Public Library	7189675	US	Oklahoma	11/01/2016	10/31/2017	
+Steve Wilks	swilks@recordedbooks.com	Lawton Public Library	7177355	US	Oklahoma	04/18/2016	04/30/2017	
+Steve Wilks	swilks@recordedbooks.com	Duncan Public Library	7178247	US	Oklahoma	03/31/2016	03/31/2017	
+Total	7

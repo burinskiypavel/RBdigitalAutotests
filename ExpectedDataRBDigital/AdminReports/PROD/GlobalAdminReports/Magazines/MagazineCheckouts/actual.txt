@@ -1,0 +1,20 @@
+For Period: from 01/01/2017 to 01/01/2017
+Title	Barcode	Email	Library	RBID	Checkouts	Time Period	Current Issue Default	Status	Checkout Date	Issue Date
+What Digital SLR				RBZ0007034	0	Annually	Unlimited	Inactive		
+Star Wars: The Clones Wars Comic				RBZ0007035	0	Annually	Unlimited	Inactive		
+Studio				RBZ0007036	0	Annually	Unlimited	Inactive		
+Star Wars Souvenir Special				RBZ0007038	0	Annually	Unlimited	Inactive		
+Star Trek Souvenir Special				RBZ0007041	0	Annually	Unlimited	Inactive		
+PC Plus				RBZ0007045	0	Annually	Unlimited	Inactive		
+Performance VW				RBZ0007047	0	Annually	Unlimited	Inactive		
+360 Magazine				RBZ0007048	0	Annually	Unlimited	Inactive		
+UEFA EURO 2012™ Official Guide				RBZ0007058	0	Annually	Unlimited	Inactive		
+The Official UEFA Champions League Magazine				RBZ0007060	0	Annually	Unlimited	Inactive		
+UEFA EURO 2012™ Official Preview Guide				RBZ0007062	0	Annually	Unlimited	Inactive		
+UEFA EURO 2012™ Official Programme				RBZ0007064	0	Annually	Unlimited	Inactive		
+What Laptop				RBZ0007066	0	Annually	Unlimited	Inactive		
+The Oldie				RBZ0007068	0	Annually	Unlimited	Inactive		
+Psychologies UK				RBZ0007073	0	Annually	Unlimited	Inactive		
+Abilities				RBZ0007081	0	Annually	Unlimited	Inactive		
+Zest				RBZ0007084	0	Annually	Unlimited	Inactive		
+Ships Monthly				RBZ0007091	0	Annually	Unlimited	Inactive		

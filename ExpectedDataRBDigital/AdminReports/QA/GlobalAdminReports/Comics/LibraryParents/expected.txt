@@ -1,0 +1,101 @@
+Libraries that were subscribed to comics on 05/31/2019
+Library Nickname	Official Name	State	Country	Child Library Name
+test51	8080 Test Library	Oregon	US	fixed format goodness
+test51	8080 Test Library	Oregon	US	test_1
+test51	8080 Test Library	Oregon	US	test_2
+test51	8080 Test Library	Oregon	US	test_33
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Bondurant Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Carlisle Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Indianola Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Johnston Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Kirkendall Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Norwalk Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Pleasant Hill Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Urbandale Public Library
+johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Winterset Public Library
+threeriversga	Three Rivers Regional Library System	Georgia	US	Brantley County Library
+threeriversga	Three Rivers Regional Library System	Georgia	US	Camden County Library
+threeriversga	Three Rivers Regional Library System	Georgia	US	Charlton County Library
+threeriversga	Three Rivers Regional Library System	Georgia	US	Hog Hammock Public Library
+threeriversga	Three Rivers Regional Library System	Georgia	US	HQ - Administrative Office
+threeriversga	Three Rivers Regional Library System	Georgia	US	Long County Library
+threeriversga	Three Rivers Regional Library System	Georgia	US	McIntosh County/Ida Hilton Library
+threeriversga	Three Rivers Regional Library System	Georgia	US	St. Marys Library
+threeriversga	Three Rivers Regional Library System	Georgia	US	Wayne County Library
+ntlog	North Texas Libraries on the Go	Texas	US	Aubrey Area Library
+ntlog	North Texas Libraries on the Go	Texas	US	Azle Memorial
+ntlog	North Texas Libraries on the Go	Texas	US	Bedford Public
+ntlog	North Texas Libraries on the Go	Texas	US	Benbrook Public
+ntlog	North Texas Libraries on the Go	Texas	US	Crowley Public
+ntlog	North Texas Libraries on the Go	Texas	US	Duncanville
+ntlog	North Texas Libraries on the Go	Texas	US	Haltom City Public
+ntlog	North Texas Libraries on the Go	Texas	US	Hillsboro Public Library
+ntlog	North Texas Libraries on the Go	Texas	US	John Ed Keeter Public Library
+ntlog	North Texas Libraries on the Go	Texas	US	Keller Public
+ntlog	North Texas Libraries on the Go	Texas	US	Lewisville Public Library
+ntlog	North Texas Libraries on the Go	Texas	US	Mary Lou Reddick Public Library
+ntlog	North Texas Libraries on the Go	Texas	US	North Richland Hills
+ntlog	North Texas Libraries on the Go	Texas	US	Richland Hills
+ntlog	North Texas Libraries on the Go	Texas	US	Roanoke Public Library
+ntlog	North Texas Libraries on the Go	Texas	US	Sherman Public
+ntlog	North Texas Libraries on the Go	Texas	US	The Colony Public
+ntlog	North Texas Libraries on the Go	Texas	US	Waco
+ntlog	North Texas Libraries on the Go	Texas	US	Weatherford Public
+ntlog	North Texas Libraries on the Go	Texas	US	Wichita Falls Public
+ntlog	North Texas Libraries on the Go	Texas	US	Wylie Public Library
+llcuk	London Libraries Consortium	England	GB	Barking & Dagenham
+llcuk	London Libraries Consortium	England	GB	Brent
+llcuk	London Libraries Consortium	England	GB	Ealing
+llcuk	London Libraries Consortium	England	GB	Enfield
+llcuk	London Libraries Consortium	England	GB	Hackney
+llcuk	London Libraries Consortium	England	GB	Harrow
+llcuk	London Libraries Consortium	England	GB	Havering
+llcuk	London Libraries Consortium	England	GB	Kingston
+llcuk	London Libraries Consortium	England	GB	Lewisham
+llcuk	London Libraries Consortium	England	GB	Luton
+llcuk	London Libraries Consortium	England	GB	Merton
+llcuk	London Libraries Consortium	England	GB	Newham
+llcuk	London Libraries Consortium	England	GB	Sutton
+llcuk	London Libraries Consortium	England	GB	Tower Hamlets
+llcuk	London Libraries Consortium	England	GB	Vision Redbridge
+llcuk	London Libraries Consortium	England	GB	Waltham Forest
+greatermanchester	Greater Manchester Libraries	England	GB	Blackburn
+greatermanchester	Greater Manchester Libraries	England	GB	Blackpool
+greatermanchester	Greater Manchester Libraries	England	GB	Bolton
+greatermanchester	Greater Manchester Libraries	England	GB	Bury
+greatermanchester	Greater Manchester Libraries	England	GB	Manchester
+greatermanchester	Greater Manchester Libraries	England	GB	Oldham
+greatermanchester	Greater Manchester Libraries	England	GB	Rochdale
+greatermanchester	Greater Manchester Libraries	England	GB	Salford
+greatermanchester	Greater Manchester Libraries	England	GB	Stockport
+greatermanchester	Greater Manchester Libraries	England	GB	Tameside
+greatermanchester	Greater Manchester Libraries	England	GB	Trafford
+greatermanchester	Greater Manchester Libraries	England	GB	Wigan
+londontriborough	Hammersmith & Fulham, Kensington & Chelsea, Westminster	England	GB	Hammersmith & Fulham
+londontriborough	Hammersmith & Fulham, Kensington & Chelsea, Westminster	England	GB	Kensington & Chelsea
+londontriborough	Hammersmith & Fulham, Kensington & Chelsea, Westminster	England	GB	Westminster
+ddbcp	Danskernes Digitale Bibliotek - Comics	Denmark	DK	Aalborg Bibliotekerne
+ddbcp	Danskernes Digitale Bibliotek - Comics	Denmark	DK	Gladsaxe Bibliotekerne
+ddbcp	Danskernes Digitale Bibliotek - Comics	Denmark	DK	Halsnæs Kommune Bibliotekerne
+ddbcp	Danskernes Digitale Bibliotek - Comics	Denmark	DK	Hillerød Bibliotekerne
+ddbcp	Danskernes Digitale Bibliotek - Comics	Denmark	DK	Hjørring Bibliotekerne
+ddbcp	Danskernes Digitale Bibliotek - Comics	Denmark	DK	Holstebro Bibliotek
+ddbcp	Danskernes Digitale Bibliotek - Comics	Denmark	DK	Horsens Bibliotek
+ddbcp	Danskernes Digitale Bibliotek - Comics	Denmark	DK	Odense Bibliotekerne
+ddbcp	Danskernes Digitale Bibliotek - Comics	Denmark	DK	Rebild Kommunes Biblioteker
+ddbcp	Danskernes Digitale Bibliotek - Comics	Denmark	DK	Roskilde Bibliotekerne
+ddbcp	Danskernes Digitale Bibliotek - Comics	Denmark	DK	Rudersdal Bibliotekerne
+ddbcp	Danskernes Digitale Bibliotek - Comics	Denmark	DK	Svendborg Bibliotek
+ddbcp	Danskernes Digitale Bibliotek - Comics	Denmark	DK	Tårnby Kommunebiblioteker
+ddbcp	Danskernes Digitale Bibliotek - Comics	Denmark	DK	Viborg Bibliotekerne
+ddbcp	Danskernes Digitale Bibliotek - Comics	Denmark	DK	Vordingborg Bibliotekerne
+rbdigitalinternal	RBdigital Internal Library	Maryland	US	ProdTest_1
+rbdigitalinternal	RBdigital Internal Library	Maryland	US	ProdTest_2
+rbdigitalinternal	RBdigital Internal Library	Maryland	US	ProdTest_N
+rbdigitalinternal	RBdigital Internal Library	Maryland	US	prod_test_N
+rbdigitalinternal	RBdigital Internal Library	Maryland	US	QA Test
+rbdigitalinternal	RBdigital Internal Library	Maryland	US	test_test
+hunterlibrariesgroup	Hunter Libraries Group	New South Wales	AU	Cessnock Library
+hunterlibrariesgroup	Hunter Libraries Group	New South Wales	AU	Maitland Library
+hunterlibrariesgroup	Hunter Libraries Group	New South Wales	AU	Singleton Library
+hunterlibrariesgroup	Hunter Libraries Group	New South Wales	AU	Upper Hunter Library

@@ -1,0 +1,278 @@
+Screen Name	Email	Library	AccountId	Country	State	System Name
+Karen Stinchfield	cushmanlibrary@gmail.com	Cushman Library	7123000	US	Massachusetts	SVOD--Acorn only; unlimited
+Patrick Hinrichs	HinrichsP@cityofnorthlasvegas.com	North Las Vegas Library District	7189677	US	Nevada	
+Forrest Lewis	LewisF@cityofnorthlasvegas.com	North Las Vegas Library District	7189677	US	Nevada	
+Jenny Ellis	Jenny.Ellis@nashville.gov	Nashville Public Library	7117935	US	Tennessee	
+James Staub	James.Staub@nashville.gov	Nashville Public Library	7117935	US	Tennessee	
+Noel Rutherford	noel.rutherford@nashville.gov	Nashville Public Library	7117935	US	Tennessee	
+Patrick	patrick.johnson@nashville.gov	Nashville Public Library	7117935	US	Tennessee	
+Shannon Jensen	eplib@mchsi.com	Evansdale Public Library	7156039	US	Iowa	
+Hong Yao	Hong.Yao@queenslibrary.org	Queens Public Library	7121194	US	New York	
+Robert Schnell	Robert.Schnell@queenslibrary.org	Queens Public Library	7121194	US	New York	
+Laniece Ince	Laniece.Ince@queenslibrary.org	Queens Public Library	7121194	US	New York	
+Natalie Milbrodt	Natalie.Milbrodt@queenslibrary.org	Queens Public Library	7121194	US	New York	
+Kate Finley	Kate.Finley@queenslibrary.org	Queens Public Library	7121194	US	New York	
+Ju-Hwa Lin	Ju-Hwa.Lin@queenslibrary.org	Queens Public Library	7121194	US	New York	
+Chiang Wang	Chiang.Wang@queenslibrary.org	Queens Public Library	7121194	US	New York	
+Michelle Sampson	msampson@york.lib.me.us	York Public Library	7205031	US	Maine	
+Kim Myers	kemyers@york.lib.me.us	York Public Library	7205031	US	Maine	
+Eric Werthmann	ewerthmann@acornlibrary.org	Acorn Public Library District	7183094	US	Illinois	
+Zach Musil	zmusil@acornlibrary.org	Acorn Public Library District	7183094	US	Illinois	
+Andrea Malquist	amalquist@acornlibrary.org	Acorn Public Library District	7183094	US	Illinois	
+becky stabik	becky.stabik@wfhowes.co.uk	W F Howes Customer Services		GB	England	
+Pedro Moura	pedro.moura@wfhowes.co.uk	W F Howes Customer Services		GB	England	
+Brian Lee	blee@4cls.org	Four County Library System	7205045	US	New York	
+Amy Blue	ablue@apld.info	Antioch Public Library District	7203242	US	Illinois	
+Kim Zupkoff	kzupkoff@apld.info	Antioch Public Library District	7203242	US	Illinois	
+Keith Hammersla	keith.hammersla@mbcpl.org	Martinsburg Berkeley County Public Library	7204634	US	West Virginia	
+Gretchen Fry	gretchen.fry@mbcpl.org	Martinsburg Berkeley County Public Library	7204634	US	West Virginia	
+Lynn Walker	lwalker@mbcpl.org	Martinsburg Berkeley County Public Library	7204634	US	West Virginia	
+Sarah Shewbridge	sarah.shewbridge@mbcpl.org	Martinsburg Berkeley County Public Library	7204634	US	West Virginia	
+Janet	jnocek@portlandct.org	Portland Library	7117527	US	Connecticut	
+Beth Kauczka	bkauczka@portlandct.org	Portland Library	7117527	US	Connecticut	
+Patti Lamalfa	plamalfa@portlandct.org	Portland Library	7117527	US	Connecticut	
+Joanna Kluever	JKLUEVER@MAIL.MERIDIAN223.ORG	Julia Hull District Library	7220098	US	Illinois	
+Karen Roesler	kroesler@meridenct.gov	Meriden Public Library	7151257	US	Connecticut	
+Becky Starr	bstarr@meridenct.gov	Meriden Public Library	7151257	US	Connecticut	
+Judy McConarty	jmcconarty@ocln.org	Norwell Public Library	1740518	US	Massachusetts	Old Colony Library Network (SVOD - Acorn, IF, QC, Great Courses)
+Diane Rodriguez	drodriguez@ocln.org	Norwell Public Library	1740518	US	Massachusetts	Old Colony Library Network (SVOD - Acorn, IF, QC, Great Courses)
+Spencer Smith	ssmith3@mckinneytexas.org	McKinney Public Library	7220148	US	Texas	
+Mike Smith	msmith2@mckinneytexas.org	McKinney Public Library	7220148	US	Texas	
+Marci Chen	mchen@mckinneytexas.org	McKinney Public Library	7220148	US	Texas	
+Gary Landeck	glandeck@mckinneytexas.org	McKinney Public Library	7220148	US	Texas	
+Larry Dishman	ldishman@mckinneytexas.org	McKinney Public Library	7220148	US	Texas	
+Stephanie Harrison	sharriso@mckinneytexas.org	McKinney Public Library	7220148	US	Texas	
+Ed Veal	eveal@mckinneytexas.org	McKinney Public Library	7220148	US	Texas	
+Kenali Woods	kwoods@mckinneytexas.org	McKinney Public Library	7220148	US	Texas	
+Megan Farve	mfarve@mckinneytexas.org	McKinney Public Library	7220148	US	Texas	
+Meredith Tillett	mtillett@mckinneytexas.org	McKinney Public Library	7220148	US	Texas	
+Kathy Walters	kwalters@dcl.lib.sc.us	Dorchester County Library	7205818	US	South Carolina	
+Leslie Koller	lkoller@dcl.lib.sc.us	Dorchester County Library	7205818	US	South Carolina	
+Robert Antill	rantill@dcl.lib.sc.us	Dorchester County Library	7205818	US	South Carolina	
+Sean Birmingham	sbirmingham@vppl.info	Villa Park Public Library	7186965	US	Illinois	
+Jeff Sand	jsand@vppl.info	Villa Park Public Library	7186965	US	Illinois	
+Daniel Criscione	dcriscione@vppl.info	Villa Park Public Library	7186965	US	Illinois	
+Jim Schmidt	jschmidt@recordedbooks.com	Skipjack Library	test	US	Maryland	
+Scott Williams	swilliams@recordedbooks.com	Skipjack Library	test	US	Maryland	
+skipjackadmin1	skipjackadmin1@gmail.com	Skipjack Library	test	US	Maryland	
+jen Admin test	jennie01@gmail.com	Skipjack Library	test	US	Maryland	
+Brad Gray	bradleypgray@recordedbooks.com	Skipjack Library	test	US	Maryland	
+sunnysales	sunnysales@gmail.com	Skipjack Library	test	US	Maryland	
+Brooks Bushnell	bbushnell@recordedbooks.com	Skipjack Library	test	US	Maryland	
+Alyson Niven	alyson.niven@glasgow.gov.uk	Glasgow Life		GB	Scotland	
+Anne Mcpherson	anne.mcpherson@glasgowlife.org.uk	Glasgow Life		GB	Scotland	
+Susan Croall	Susan.Croall@glasgowlife.org.uk	Glasgow Life		GB	Scotland	
+Samantha Moore	Samantha.Moore@glasgowlife.org.uk	Glasgow Life		GB	Scotland	
+Gerry Torley	gerry.torley@glasgowlife.org.uk	Glasgow Life		GB	Scotland	
+Juanita Durkin	jplonline@yahoo.com	Justice Public Library District	7121960	US	Illinois	
+Virginia Phelps	phelpsvi@chesterfield.gov	Chesterfield County Public Library	7187555	US	Virginia	Library of Virginia/Lyrasis-7051842
+Mindy Gipson	gipsonm@chesterfield.gov	Chesterfield County Public Library	7187555	US	Virginia	Library of Virginia/Lyrasis-7051842
+Ginger Armstrong	armstrongg@chesterfield.gov	Chesterfield County Public Library	7187555	US	Virginia	Library of Virginia/Lyrasis-7051842
+Debby Cornett	cornettd@chesterfield.gov	Chesterfield County Public Library	7187555	US	Virginia	Library of Virginia/Lyrasis-7051842
+MJ Jones	jonesmjk@chesterfield.gov	Chesterfield County Public Library	7187555	US	Virginia	Library of Virginia/Lyrasis-7051842
+Kyla	TewK@chesterfield.gov	Chesterfield County Public Library	7187555	US	Virginia	Library of Virginia/Lyrasis-7051842
+Rebecca Kuhn	KuhnR@chesterfield.gov	Chesterfield County Public Library	7187555	US	Virginia	Library of Virginia/Lyrasis-7051842
+Donna Winter	dwinter@livoniapubliclibrary.org	Livonia Public Library	7205047	US	Michigan	
+Toni LaPorte	laporte@livoniapubliclibrary.org	Livonia Public Library	7205047	US	Michigan	
+Kathy Hines	khines@cityof.lawton.ok.us	Lawton Public Library	7130651	US	Oklahoma	
+Kristin Herr	kherr@cityof.lawton.ok.us	Lawton Public Library	7130651	US	Oklahoma	
+Rachel Pierce	rpierce@lawtonok.gov	Lawton Public Library	7130651	US	Oklahoma	
+Amanda Barrera	Amanda.barrera@amarillolibrary.org	Amarillo Public Library	7208769	US	Texas	
+Ben Wilting	benjamin.wilting@amarillolibrary.org	Amarillo Public Library	7208769	US	Texas	
+Alex Hatley	alexh@cctexas.com	Corpus Christi Public Library	7151905	US	Texas	
+Branch Managers	library@cclibraries.com	Corpus Christi Public Library	7151905	US	Texas	
+Stephanie Juarez	stephaniej@cctexas.com	Corpus Christi Public Library	7151905	US	Texas	
+Sheri Starr	sheristarr@prairietrailslibrary.org	Prairie Trails Library District	1743265	US	Illinois	
+MaryAnn Lema	mlema@prairietrailslibrary.org	Prairie Trails Library District	1743265	US	Illinois	
+Christopher Franks	cfranks@cwmars.org	West Springfield Public Library	7040573	US	Massachusetts	SVOD - Acorn, IndieFlix, Qello, Pongalo
+Eileen Chapman	echapman@cwmars.org	West Springfield Public Library	7040573	US	Massachusetts	SVOD - Acorn, IndieFlix, Qello, Pongalo
+Linda Nicholson	lnicholson@lclibs.org	Lebanon County Library District	7207331	US	Pennsylvania	
+Susan Herr	susan@mfplibrary.org	Mammen Family Public Library	7220295	US	Texas	
+Cathy Mandelbaum	cathy@bsblibrary.org	Mammen Family Public Library	7220295	US	Texas	
+Kristin Bowman	kristin@bsblibrary.org	Mammen Family Public Library	7220295	US	Texas	
+Roxanna Deane	roxanna@tpml.org	Mammen Family Public Library	7220295	US	Texas	
+Lois Blankenburg	lois@mfpllibrary.org	Mammen Family Public Library	7220295	US	Texas	
+Katie Paul	katie@mfplibrary.org	Mammen Family Public Library	7220295	US	Texas	
+Jamie Poer	jamie@tpml.org	Mammen Family Public Library	7220295	US	Texas	
+Eric Smith	esmith@mcdlibrary.org	Mid-Michigan Library League	7208971	US	Michigan	
+Kim Jankowiak	kjank@manisteelibrary.org	Mid-Michigan Library League	7208971	US	Michigan	
+Kay Williams	kwilliams@hartpubliclibrary.org	Mid-Michigan Library League	7208971	US	Michigan	
+Mary Barker	mbarker@pentwaterlibrary.org	Mid-Michigan Library League	7208971	US	Michigan	
+Nellie Danke	leelanautwplib@yahoo.com	Mid-Michigan Library League	7208971	US	Michigan	
+Sheryl Mase	smase@mmll.org	Mid-Michigan Library League	7208971	US	Michigan	
+Mary Ann Lenon	mortwplib@centurytel.net	Mid-Michigan Library League	7208971	US	Michigan	
+Alycia McKowen	sevilletownshiplibrary@gmail.com	Mid-Michigan Library League	7208971	US	Michigan	
+Jean Gaskill	director@stpl.org	Mid-Michigan Library League	7208971	US	Michigan	
+Cory Taylor	ctaylor_7@yahoo.com	Mid-Michigan Library League	7208971	US	Michigan	
+Sherma Horrocks	rtl@richlandtownshiplibrary.com	Mid-Michigan Library League	7208971	US	Michigan	
+Lynn Taylor	library@richfieldtownship.com	Mid-Michigan Library League	7208971	US	Michigan	
+Tom Burnosky	tburnosky@reedcitylibrary.org	Mid-Michigan Library League	7208971	US	Michigan	
+Diane Eisenga	deisenga@mcbain.org	Mid-Michigan Library League	7208971	US	Michigan	
+Shelley Scott	marionlibrary@sbcglobal.net	Mid-Michigan Library League	7208971	US	Michigan	
+Sylvia Merz	lelandlibrary@lelandtownshiplibrary.org	Mid-Michigan Library League	7208971	US	Michigan	
+David Diller	info@glenlakelibrary.net	Mid-Michigan Library League	7208971	US	Michigan	
+Miriam Andrus	mandrus@bigrapids.lib.mi.us	Mid-Michigan Library League	7208971	US	Michigan	
+Jane Gyulveszi	bellairelibrary@torchlake.com	Mid-Michigan Library League	7208971	US	Michigan	
+Susal Riegler	aldenlib@torchlake.com	Mid-Michigan Library League	7208971	US	Michigan	
+Kathleen Pintcke	mancelona.twp.library@gmail.com	Mid-Michigan Library League	7208971	US	Michigan	
+Jennifer Thorson	jthorson@reedcitylibrary.org	Mid-Michigan Library League	7208971	US	Michigan	
+Nancy Buck	Nancy.buck@richmondgov.com	Richmond Public Library	7207930	US	Virginia	Library of Virginia/Lyrasis-7051842
+Loren Rosson	loren.rosson@nashualibrary.org	Nashua Public Library	1731370	US	New Hampshire	
+Jenn Hosking	jenn.hosking@nashualibrary.org	Nashua Public Library	1731370	US	New Hampshire	
+Jen McCormack	jennifer.mccormack@nashualibrary.org	Nashua Public Library	1731370	US	New Hampshire	
+Margaret Gleeson	margaret.gleeson@nashualibrary.org	Nashua Public Library	1731370	US	New Hampshire	
+Caroline Allen	caroline.allen@nashualibrary.org	Nashua Public Library	1731370	US	New Hampshire	
+Amanda Rose	arose@burnetcountylibrary.org	Burnet County	7151264	US	Texas	Acorn, Indieflix
+Florence Reeves	freeves@burnetcountylibrary.org	Burnet County	7151264	US	Texas	Acorn, Indieflix
+Ann Brock	abrock@burnetcountylibrary.org	Burnet County	7151264	US	Texas	Acorn, Indieflix
+Laura England	director@hollislibrary.org	Hollis Social Library	7189673	US	New Hampshire	
+Karen Buth	kbuth@beverlyhills.org	Beverly Hills Public Library	7209255	US	California	
+Maksim Ksenjak	mksenjak@beverlyhills.org	Beverly Hills Public Library	7209255	US	California	
+Sarah Ross	srosskelliher@mcounty.com	Midland County Public Library	7159403	US	Texas	Value Collection
+Esther Alexander	LIBCAT07@co.midland.tx.us	Midland County Public Library	7159403	US	Texas	Value Collection
+Ellen Mancuso	mancusoe@boyntonlibrary.org	Boynton Beach City Library	7130197	US	Florida	
+Craig Clark	clarkc@bbfl.us	Boynton Beach City Library	7130197	US	Florida	
+Laura Gardner	lgardner@peterborough.ca	Peterborough Public Library	1742406	CA	Ontario	
+Erin Rexe	erexe@peterborough.ca	Peterborough Public Library	1742406	CA	Ontario	
+Alelya Stone	astone@tylertexas.com	Tyler Public Library	7220437	US	Texas	Value Collection
+Lara Tabri	ltabri@tylertexas.com	Tyler Public Library	7220437	US	Texas	Value Collection
+Chriss Chaney	cchaney@tylertexas.com	Tyler Public Library	7220437	US	Texas	Value Collection
+Ashley Taylor	ataylor@tylertexas.com	Tyler Public Library	7220437	US	Texas	Value Collection
+Samantha Gambill	samantha@myhlc.org	Lake Placid Memorial Library	7220354	US	Florida	
+Paul Ramponi	pramponi@myhlc.org	Lake Placid Memorial Library	7220354	US	Florida	
+Kim DiLego	reference@northadams-ma.gov	North Adams Public Library	1745613	US	Massachusetts	Value -- SVOD: Acorn only; unlimited
+Mindy Hackner	mhackner@northadams-ma.gov	North Adams Public Library	1745613	US	Massachusetts	Value -- SVOD: Acorn only; unlimited
+Nancy Haag	nhaag@northhavenlibrary.net	North Haven Memorial Library	7131045	US	Connecticut	SVOD -- Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello
+Pat LaTerza	platerza@northhavenlibrary.net	North Haven Memorial Library	7131045	US	Connecticut	SVOD -- Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello
+Susan Griffiths	sgriffiths@northhavenlibrary.net	North Haven Memorial Library	7131045	US	Connecticut	SVOD -- Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello
+Mary Rodne	mrodne@colleyville.com	Colleyville Public Library NTLOG	7155241	US	Texas	NTLOG
+Jack Pawlowski	jpawlowski@colleyville.com	Colleyville Public Library NTLOG	7155241	US	Texas	NTLOG
+Vicki Decker	vicki.decker@wellisd.net	Collingsworth Public Library	7220507	US	Texas	
+Manjit Singh	msingh@brantford.library.on.ca	Brantford Public Library	7210992	CA	Ontario	
+Denise Kirk	dkirk@brantford.library.on.ca	Brantford Public Library	7210992	CA	Ontario	
+Mike Olejnik	molejnik@brantford.library.on.ca	Brantford Public Library	7210992	CA	Ontario	
+james	jclark@gmail.com	Brantford Public Library	7210992	CA	Ontario	
+Gregory Testa	gmtesta@infopeake.org	Chesapeake Public Library	7125023	US	Virginia	Library of Virginia/Lyrasis-7051842
+Melissa Christakos	mchrista@infopeake.org	Chesapeake Public Library	7125023	US	Virginia	Library of Virginia/Lyrasis-7051842
+Amanda Jackson	ajackson@infopeake.org	Chesapeake Public Library	7125023	US	Virginia	Library of Virginia/Lyrasis-7051842
+Jodie Reha	jreha@infopeake.org	Chesapeake Public Library	7125023	US	Virginia	Library of Virginia/Lyrasis-7051842
+Melanie Price	mmprice@infopeake.org	Chesapeake Public Library	7125023	US	Virginia	Library of Virginia/Lyrasis-7051842
+Adam Parcell	aparcell@infopeake.org	Chesapeake Public Library	7125023	US	Virginia	Library of Virginia/Lyrasis-7051842
+Donna Blair	dblair@infopeake.org	Chesapeake Public Library	7125023	US	Virginia	Library of Virginia/Lyrasis-7051842
+Renee Patterson	rpatterson@aclib.us	Alachua County Library District	7193174	US	Florida	
+JT Whitfield	ebranch@aclib.us	Alachua County Library District	7193174	US	Florida	
+John Jack	ebranch@aclib.us	Alachua County Library District	7193174	US	Florida	
+Otto Pleil	ebranch@aclib.us	Alachua County Library District	7193174	US	Florida	
+Meaghan Forestell-Page	mforestell@guelphpl.ca	Guelph Public Library	7220535	CA	Ontario	
+Steve Kraft	skraft@library.guelph.on.ca	Guelph Public Library	7220535	CA	Ontario	
+Jen Lisso	jlisso@quelphpl.ca	Guelph Public Library	7220535	CA	Ontario	
+Melani Williams	mwilliams@coqlibrary.ca	Coquitlam Public Library	7220572	CA	British Columbia	BC Libraries Cooperative 7040759
+Tami Setala	tami.setala@bc.libraries.coop	Coquitlam Public Library	7220572	CA	British Columbia	BC Libraries Cooperative 7040759
+Kathy Marino	kmarino@coqlibrary.ca	Coquitlam Public Library	7220572	CA	British Columbia	BC Libraries Cooperative 7040759
+Kathleen Wyatt	kwyatt@coqlibrary.ca	Coquitlam Public Library	7220572	CA	British Columbia	BC Libraries Cooperative 7040759
+Sandra Ancic	sandra.ancic@mpl.on.ca	Milton Public Library	7211464	CA	Ontario	
+Nancy Ladd	pfl@tds.net	Pillsbury Free Library	7133622	US	New Hampshire	
+Joanna Aegard	jaegard@tbpl.ca	Thunder Bay	7154988	CA	Ontario	
+Marianne Lorio	marianne.lorio@houstontx.gov	Houston Public Library	7220607	US	Texas	
+Patrick Atkins	patrick.atkins@houstontx.gov	Houston Public Library	7220607	US	Texas	
+Dominick Spinelli	dominick.spinelli@houstontx.gov	Houston Public Library	7220607	US	Texas	
+Sara Karow	sara.karow@houstontx.gov	Houston Public Library	7220607	US	Texas	
+Sally Bates	Sarah.Bates@houstontx.gov	Houston Public Library	7220607	US	Texas	
+Brad Gray	bgray@recordedbooks.com	RBdigital Account Manager Demo Library		US	Maryland	
+Kevin Karrick	kevin@artistworks.com	RBdigital Account Manager Demo Library		US	Maryland	
+John Shea	jshea@rbmediaglobal.com	RBdigital Account Manager Demo Library		US	Maryland	
+Donna Vollmer	dvollmer@recordedbooks.com	RBdigital Account Manager Demo Library		US	Maryland	
+Craig	callen@recordedbooks.com	RBdigital Account Manager Demo Library		US	Maryland	
+Brad Gray	bgray@recordedbooks.com	RBdigital Global Catalog		US	Maryland	
+Nicola Everitt	nicola@digitalcontentassociates.com	RBdigital Global Catalog		US	Maryland	
+Andrea Ruud	andrea.ruud@tln.lib.ee	RBdigital Global Catalog		US	Maryland	
+Name1	test@gmail.com	RBdigital Internal Library		US	Maryland	
+QA	qatest@gmail.com	RBdigital Internal Library		US	Maryland	
+qatest	qatest@recordedbooks.com	RBdigital Internal Library		US	Maryland	
+Kevin Deamandel	kevin@deamandel.co	RBdigital Internal Library		US	Maryland	
+Stelly Cattell	scattell@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+Cooper Cobb	dcobb@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+BradGrayTrialSite	bgray@recordedbooks.com	RBdigital Trial Customer Library		US	Maryland	
+Becky Bramall	becky.bramall@wfhowes.co.uk	RBdigital Trial Customer Library		US	Maryland	
+Lorraine Butchart	butchartlk@myjdl.com	Jackson District Library	1733181	US	Michigan	
+Michael Greenlee	greenleem@myjdl.com	Jackson District Library	1733181	US	Michigan	
+Martha Hansen	marthah@woodstockil.info	Woodstock Public Library	7211914	US	Illinois	RBdigital Magazine Value Collection
+Tyler Annis	anderson_lee_library@hotmail.com	Anderson Lee Public Library	7212848	US	New York	
+Debbie Geiger	dgeiger@neflin.org	Bradford County Public Library	7157781	US	Florida	New River Co-Op/Value Collection
+Tricia Wylie	newriver@neflin.org	Bradford County Public Library	7157781	US	Florida	New River Co-Op/Value Collection
+Carol Torrens	carolt@bloomingtonlibrary.org	Bloomington Public Library	7220696	US	Illinois	
+Colleen Shaw	colleens@bloomingtonlibrary.org	Bloomington Public Library	7220696	US	Illinois	
+jon whited	jonw@bloomingtonlibrary.org	Bloomington Public Library	7220696	US	Illinois	
+Rachel Park	rachelp@bloomingtonlibrary.org	Bloomington Public Library	7220696	US	Illinois	
+Pat McLeod	pmcleod@williamstown.net	Milne Public Library	1736681	US	Massachusetts	Value ---- SVOD--Acorn, IF, Broadway HD; unlimited
+Amber Steinhart	asteinhart@cityofpasadena.net	Pasadena Public Library	7220738	US	California	
+bcampos	bcampos@cityofpasadena.net	Pasadena Public Library	7220738	US	California	
+Derek Massengale	dmassengale@cityofpasadena.net	Pasadena Public Library	7220738	US	California	
+Paul Giblin	pgiblin@kelleylibrary.org	Kelley Library	7135287	US	New Hampshire	
+Luanne James	luanne.james@yclibrary.net	York County Public Library	7220775	US	South Carolina	
+Donna Andrews	donna.andrews@yclibrary.net	York County Public Library	7220775	US	South Carolina	
+Troy Beckham	troy.beckham@yclibrary.net	York County Public Library	7220775	US	South Carolina	
+Leslie K. Guinto	guintolk@elpasotexas.gov	El Paso Public Library	7220783	US	Texas	
+Brian Burns	burnsbc@elpasotexas.gov	El Paso Public Library	7220783	US	Texas	
+Amy Kastigar	ocplweb@weirton.lib.wv.us	Ohio County Public Library	7215078	US	West Virginia	WV Deli-7120407 - Acorn, Qello, Indieflix
+Dottie Thomas	thomasd@weirton.lib.wv.us	Ohio County Public Library	7215078	US	West Virginia	WV Deli-7120407 - Acorn, Qello, Indieflix
+Cindy Scott	wolfelibdir@metrocast.net	Wolfeboro Public Library	7137028	US	New Hampshire	
+Sharon LaRosa	slarosa@ocln.org	Plymouth Public Library	7137361	US	Massachusetts	
+Jason Black	Jason.black@claycountygov.com	Clay County Public Library	7220787	US	Florida	
+Troy Nagle	Troy.Nagle@claycountygov.com	Clay County Public Library	7220787	US	Florida	
+Catherine Tucker	brooklyntownlibrary3@yahoo.com	Brooklyn Town Library	7198675	US	Connecticut	Value; SVOD - Acorn, Great Courses, Qello
+Linda Duplessis	ldupless@peacelibrarysystem.ab.ca	Peace Library System	7199522	CA	Alberta	Alberta Municipal Affairs 7104420
+Janet Ayles	jayles@peacelibrarysystem.ab.ca	Peace Library System	7199522	CA	Alberta	Alberta Municipal Affairs 7104420
+Katherine Wiebe	KWiebe@peacelibrarysystem.ab.ca	Peace Library System	7199522	CA	Alberta	Alberta Municipal Affairs 7104420
+Samantha Mercer	SMercer@peacelibrarysystem.ab.ca	Peace Library System	7199522	CA	Alberta	Alberta Municipal Affairs 7104420
+Sue Hill	bclibrarydir@yahoo.com	Brigham City Library	7028807	US	Utah	Mirrored eMags from UPLG
+Connie Terry	cterry@woodward.lib.ok.us	Woodward Public Library	7156311	US	Oklahoma	Oklahoma Digital
+Juliette Douglas	juliettedouglas@smrld.org	Six Mile Regional Library District	7218225	US	Illinois	Illinois Heartland Library System
+Tricia Wylie	newriver@neflin.org	New River Co-Op	7220875	US	Florida	New River Co-Op/ Rbdigital Magazine Value Collection - Shared
+Mary Brown	marycb@neflin.org	New River Co-Op	7220875	US	Florida	New River Co-Op/ Rbdigital Magazine Value Collection - Shared
+April Teel	april@neflin.org	New River Co-Op	7220875	US	Florida	New River Co-Op/ Rbdigital Magazine Value Collection - Shared
+Heather Urtz	hurtz@midyork.org	Mid York Library System	7137391	US	New York	
+Kathryn McCauley	kmccauley@midyork.org	Mid York Library System	7137391	US	New York	
+Linda Manfredo	lmanfredo@midyork.org	Mid York Library System	7137391	US	New York	
+Sarah Landeryou	slanderyou@telluridelibrary.org	Wilkinson Public Library	7216738	US	Colorado	
+Alison Farnham	afarnham@telluridelibrary.org	Wilkinson Public Library	7216738	US	Colorado	
+Patrick McGowan	pmcgowan@cwmars.org	Hubbard Memorial Library	7219947	US	Massachusetts	SVOD - Acorn and QC
+Muriel Spill	muriel_spill@ci.pomona.ca.us	Pomona Public Library	7220752	US	California	
+Mark Gluba	mark_gluba@ci.pomona.ca.us	Pomona Public Library	7220752	US	California	
+J Kuusinen	jkuusinen@steamboatlibrary.org	Bud Werner Memorial Library	7218371	US	Colorado	
+Stephen Gaines	sgaines@ncls.org	North Country Library System	7219937	US	New York	
+Steve Bolton	bolton@ncls.org	North Country Library System	7219937	US	New York	
+Matthew Corey	mcorey@ncls.org	North Country Library System	7219937	US	New York	
+Potsdam Library	wells@twcny.rr.com	North Country Library System	7219937	US	New York	
+Alex Juorio	ajuorio@jmcpl.ca	John M. Cuelenaere Public Library	7178727	CA	Saskatchewan	
+Kristen Grills	marketingandcommunicationsdepartment@jcplin.org	Johnson County Public Library	7201900	US	Indiana	
+Melanie Johnson	mjohnson@jcplin.org	Johnson County Public Library	7201900	US	Indiana	
+Erin Kirchhoff	ekirchhoff@jcplin.org	Johnson County Public Library	7201900	US	Indiana	
+Erika Reed	ereed@mcpls.org	Marion County Public Library	7184728	US	West Virginia	WV Deli-7120407
+Larissa Dean	ldean@mcpls.org	Marion County Public Library	7184728	US	West Virginia	WV Deli-7120407
+Jennie Lewis	lewisjm@stls.org	Chemung County Library District	7146036	US	New York	SVOD--All services; 502 max annual, 11 max weekly; Automatically add services
+Ronald Shaw	shawr@stls.org	Chemung County Library District	7146036	US	New York	SVOD--All services; 502 max annual, 11 max weekly; Automatically add services
+Mary Beth Revels	mrevels@sjpl.lib.mo.us	St. Joseph Public Library	7219966	US	Missouri	
+Mayra Rocha	mayra@missiontexas.us	Speer Memorial Library	7221005	US	Texas	
+Darlene Smithwick	dsmithwick@roanokecountyva.gov	Roanoke County Public Library	7221042	US	Virginia	Library of Virginia/Lyrasis-7051842
+Toni Cox	trcox@roanokecountyva.gov	Roanoke County Public Library	7221042	US	Virginia	Library of Virginia/Lyrasis-7051842
+Josh Maness	jmaness@roanokecountyva.gov	Roanoke County Public Library	7221042	US	Virginia	Library of Virginia/Lyrasis-7051842
+Mike Hibbin	mhibben@roanokecountyva.gov	Roanoke County Public Library	7221042	US	Virginia	Library of Virginia/Lyrasis-7051842
+Caitlin Gills	cgills@roanokecountyva.gov	Roanoke County Public Library	7221042	US	Virginia	Library of Virginia/Lyrasis-7051842
+Adrian Whicker	awhicker@roanokecountyva.gov	Roanoke County Public Library	7221042	US	Virginia	Library of Virginia/Lyrasis-7051842
+Alexandria Cole	acole@roanokecountyva.gov	Roanoke County Public Library	7221042	US	Virginia	Library of Virginia/Lyrasis-7051842
+Mary K. Murphy	mmurphy@perry.lib.ia.us	Perry Public Library	7137390	US	Iowa	
+BradGrayRBdigitalBusDev	bgray@recordedbooks.com	Las Vegas Clark County Library District	7144905	US	Nevada	Do not auto-add new SVOD services
+ask account	ask@lvccld.org	Las Vegas Clark County Library District	7144905	US	Nevada	Do not auto-add new SVOD services
+Sufa Anderson	andersons@lvccld.org	Las Vegas Clark County Library District	7144905	US	Nevada	Do not auto-add new SVOD services
+Teresa Handleman	handlemant@lvccld.org	Las Vegas Clark County Library District	7144905	US	Nevada	Do not auto-add new SVOD services
+Al Prendergast	prendergasta@lvccld.org	Las Vegas Clark County Library District	7144905	US	Nevada	Do not auto-add new SVOD services
+Kristine Segura	segurak@lvccld.org	Las Vegas Clark County Library District	7144905	US	Nevada	Do not auto-add new SVOD services
+Rebecca Colbert	colbertr@lvccld.org	Las Vegas Clark County Library District	7144905	US	Nevada	Do not auto-add new SVOD services
+Unique Integrated Communications	jneisler@uniqueic.com	Las Vegas Clark County Library District	7144905	US	Nevada	Do not auto-add new SVOD services
+Jocelyn Bates	batesj@lvccld.org	Las Vegas Clark County Library District	7144905	US	Nevada	Do not auto-add new SVOD services
+Maria Eufemio	eufemiom@lvccld.org	Las Vegas Clark County Library District	7144905	US	Nevada	Do not auto-add new SVOD services
+Victoria Minnick	vminnick@las-cruces.org	Thomas Branigan Memorial Library	7155719	US	New Mexico	
+Steven Haydu	shaydu@las-cruces.org	Thomas Branigan Memorial Library	7155719	US	New Mexico	
+Susan Yirak	syirak@las-cruces.org	Thomas Branigan Memorial Library	7155719	US	New Mexico	
+Total	276

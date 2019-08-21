@@ -1,0 +1,20 @@
+For Period: from 01/01/2018 to 01/01/2018
+Library ID	Account #	Library Name	State / Province	Country	Active Patrons	Checkouts / Views / Downloads / Sessions	Service
+zinioMNL	7050170	Perpustakaan Negara Malaysia	Kuala Lumpur	MY	3	9	magazines
+bramptonlibrary	7136239	Brampton Public Library	Ontario	CA	24	70	magazines
+buckscopa	7044038	Bucks County Free Library	Pennsylvania	US	25	83	magazines
+winnnorthil	7051008	Winnetka Northfield Library District	Illinois	US	3	6	magazines
+lakeforestil	7049029	Lake Forest Library	Illinois	US	2	4	magazines
+wellesturnerct	7049178	Welles Turner Memorial Library	Connecticut	US	2	3	magazines
+somersetma	7050386	Somerset Public Library	Massachusetts	US	1	1	magazines
+cinhamiltonoh	7049278	The Public Library of Cincinnati and Hamilton County	Ohio	US	92	331	magazines
+dorchestersc	7040168	Dorchester County Library	South Carolina	US	2	3	magazines
+liveoakga	7039838	Live Oak Public Libraries	Georgia	US	4	22	magazines
+orangefl	7044125	Orange County Library System	Florida	US	28	68	magazines
+richlandsc	7040356	Richland Library	South Carolina	US	20	88	magazines
+Ipswichlibrary	W_IPS001	Ipswich Libraries	Queensland	AU	4	24	magazines
+hertfordshirelibraries	HER178	Hertfordshire Libraries	England	GB	80	190	magazines
+meltonlibrary	W_MEL001	Melton Library and Information Service	Victoria	AU	2	4	magazines
+guelphon	7040478	Guelph Public Library	Ontario	CA	10	35	magazines
+liverpoolny	7040151	Liverpool Public Library	New York	US	11	28	magazines
+oxfordon	7041181	Oxford County Library	Ontario	CA	2	7	magazines
