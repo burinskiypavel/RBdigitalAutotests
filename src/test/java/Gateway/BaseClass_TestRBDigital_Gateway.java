@@ -15,7 +15,7 @@ import org.testng.annotations.AfterClass;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
-public class PageObj2_BaseClass {
+public class BaseClass_TestRBDigital_Gateway  {
     //public WebDriver driver;
     WebDriver driver;
 
@@ -112,6 +112,18 @@ public class PageObj2_BaseClass {
         Assert.assertTrue(text.contains(contains));
     }
 
+
+    public void openMagazineComicsPage(int page) {
+        driver.findElement(By.id("thumbs-toggle")).click();
+        driver.findElement(By.id("thumb_"+page+"")).click();
+    }
+
+    public void pressArrowNextFromPage(int pageNumber) {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_"+pageNumber+"")));
+        driver.findElement(By.id("page_"+pageNumber+"")).click();
+        driver.findElement(By.id("arrow-next")).click();
+    }
 }
     /*
     public void Register2(String accessKey, String selectValueFromSelect, String firstName, String lastName, String email, String password){

@@ -5,10 +5,10 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.*;
 import org.testng.Assert;
 import org.testng.annotations.*;
-import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
@@ -17,7 +17,7 @@ import java.io.IOException;
 import java.util.List;
 
 @Test
-public class TestRBDigital_Gateway extends PageObj2_BaseClass {
+public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     //public WebDriver driver;
     //PageObj pageObj;
     MainPage mainPage;
@@ -69,21 +69,21 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_01_Audiobooks_and_eBooks_check_on_homePage() {
+    void test_01_Audiobooks_and_eBooks_check_on_homePage() {
         Assert.assertTrue(driver.findElement(By.xpath("//h1[contains(text(), '8080 Test Library')]")).isDisplayed());
         Assert.assertTrue(driver.findElement(By.xpath("//a[contains(text(), 'Audiobooks and eBooks')]")).isDisplayed());
         Assert.assertTrue(driver.findElement(By.xpath("//a[contains(text(), 'Login')]")).isDisplayed());
     }
 
     @Test
-    void Test_02_2_Registration_test51() throws InterruptedException {
+    void test_02_2_Registration_test51() throws InterruptedException {
         String timeStamp = GetTimeStamp();
         mainPage.Register("hotdog", "3755", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
         mainPage.CheckWelcomeText("");
     }
 
     @Test
-    void Test_02_3_Registration_Rbdigitalinternal() throws InterruptedException {
+    void test_02_3_Registration_Rbdigitalinternal() throws InterruptedException {
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
         String timeStamp = GetTimeStamp();
         mainPage.Register("pointbreak", "3802", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
@@ -91,7 +91,7 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_02_1_CheckTitle() {
+    void test_02_1_CheckTitle() {
         String actualTitle = driver.getTitle();
         String actualUrl = driver.getCurrentUrl();
         Assert.assertEquals(actualTitle, "RBdigital Gateway");
@@ -99,13 +99,13 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_03_CorrectLogin() {
+    void test_03_CorrectLogin() {
         mainPage.Login("jun5@gmail.com", "12345qw");
         mainPage.CheckWelcomeText("jun5@gmail.com");
     }
 
     @Test
-    void Test_05_IncorrectLogin_EmptyUserNameAndPassword() {
+    void test_05_IncorrectLogin_EmptyUserNameAndPassword() {
         mainPage.Login("", "");
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//li[contains(text(), 'Registration required')]")));
@@ -113,7 +113,7 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_06_1_MagazineCheckoutRead() throws InterruptedException {
+    void test_06_1_MagazineCheckoutRead() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         magazinePage.SelectMagazine("//img[@alt='Clean Eating']");
@@ -128,7 +128,7 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_06_2_MagazineCheckoutRead() throws InterruptedException {
+    void test_06_2_MagazineCheckoutRead() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         magazinePage.SelectMagazine("//img[@alt='4 Wheel & Off Road']");
@@ -146,7 +146,7 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_07_ComicCheckoutRead() throws InterruptedException {
+    void test_07_ComicCheckoutRead() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         comicPage.OpenComicsPage();
         comicPage.SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']");
@@ -164,7 +164,7 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_08_ComicReturn() throws InterruptedException {
+    void test_08_ComicReturn() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         comicPage.OpenComicsPage();
         comicPage.OpenMyCollection();
@@ -179,7 +179,7 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_09_MagazineReturn() throws InterruptedException {
+    void test_09_MagazineReturn() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         magazinePage.OpenMyCollection();
@@ -194,14 +194,14 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_10_IncorrectLogin_IncorrectPassword() {
+    void test_10_IncorrectLogin_IncorrectPassword() {
         mainPage.Login("jun5@gmail.com", "12345");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//li[contains(text(), 'Username or password is incorrect')]")));
         Assert.assertTrue(driver.findElement(By.xpath("//li[contains(text(), 'Username or password is incorrect')]")).getText().contains("Username or password is incorrect"));
     }
 
     @Test
-    void Test_11_MagazineCheckoutRead_Rbdigitalinternal() throws InterruptedException {
+    void test_11_MagazineCheckoutRead_Rbdigitalinternal() throws InterruptedException {
         //mainPage.Login("jun5@gmail.com", "12345qw");
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
         mainPage.Login("jul25@gmail.com", "12345qw");
@@ -218,7 +218,7 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_12_ComicCheckoutRead_Rbdigitalinternal() throws InterruptedException {
+    void test_12_ComicCheckoutRead_Rbdigitalinternal() throws InterruptedException {
         //mainPage.Login("jun5@gmail.com", "12345qw");
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
@@ -241,7 +241,7 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_13_MagazineReturn_Rbdigitalinternal() throws InterruptedException {
+    void test_13_MagazineReturn_Rbdigitalinternal() throws InterruptedException {
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
         //mainPage.Login("jul25@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
@@ -257,7 +257,7 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_14_ComicReturn_Rbdigitalinternal() throws InterruptedException {
+    void test_14_ComicReturn_Rbdigitalinternal() throws InterruptedException {
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
         comicPage.OpenComicsPageRbdigitalinternal();
         comicPage.OpenMyCollection();
@@ -272,59 +272,46 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_15_SearchMagazineCheckoutReadArrowNext() throws InterruptedException {
+    void test_15_SearchMagazineCheckoutReadArrowNext() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         magazinePage.SearchMagazine("$10 DINNERS (OR LESS!)");
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
-        String actualUrl1 = driver.getCurrentUrl();
-        magazinePage.SwitchToTab();
-        magazinePage.SwitchToIFrameOpenMagazineReadingPage(179674);
-        magazineUrl4 = driver.getCurrentUrl();
-        readingPage.tableOfContentsBtn.click();
-        readingPage.OpenMagazinePageFromListWaitForSpinnerLoading(179674, 4);
-
-        driver.findElement(By.id("page_4")).click();
-        driver.findElement(By.id("arrow-next")).click();
-
+        String actualUrl1 = getCurrentUrl();
+        magazinePage.openMagazineReadingPage(179674);
+        magazineUrl4 = getCurrentUrl();
+        readingPage.openMagazinePageFromTableOfContents(179674, 2);
+        openMagazineComicsPage(4);
+        pressArrowNextFromPage(4);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
-
-        driver.findElement(By.id("thumbs-toggle")).click();
-        Assert.assertTrue(actualUrl1.contains("/test51/service/magazines/landing?mag_id=333"));
-        Assert.assertTrue(magazineUrl4.contains("com/reader.php#/reader/readsvg/179674/Cover"));
+        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=333");
+        checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/179674/Cover");
     }
 
     @Test
-    void Test_16_SearchComicCheckoutReadArrowNext() throws InterruptedException {
+    void test_16_SearchComicCheckoutReadArrowNext() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         comicPage.OpenComicsPage();
         comicPage.SearchComic("Fox Bunny Funny");
         comicPage.PressCheckoutBtn();
         comicPage.PressStartReadingBtn();
-        String actualUrl1 = driver.getCurrentUrl();
-        comicPage.SwitchToTab();
-        comicPage.SwitchToIFrameOpenComicReadingPage(387479);
-        comicsUrl4 = driver.getCurrentUrl();
-        readingPage.tableOfContentsBtn.click();
-        readingPage.OpenMagazinePageFromListWaitForSpinnerLoading(387479, 4);
-
-        driver.findElement(By.id("page_4")).click();
-        driver.findElement(By.id("arrow-next")).click();
-
-        //Wait<WebDriver> wait = new WebDriverWait(driver, 30);
+        String actualUrl1 = getCurrentUrl();
+        comicPage.openComicsReadingPage(387479);
+        comicsUrl4 = getCurrentUrl();
+        readingPage.openComicsPageFromTableOfContents(387479, 2);
+        openMagazineComicsPage(4);
+        pressArrowNextFromPage(4);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
-
-        driver.findElement(By.id("thumbs-toggle")).click();
-        Assert.assertTrue(actualUrl1.contains("/test51/service/comics/landing?mag_id=1439"));
-        Assert.assertTrue(comicsUrl4.contains("com/reader.php#/reader/readsvg/387479/Cover"));
+        checkUrlContains(actualUrl1, "/test51/service/comics/landing?mag_id=1439");
+        checkUrlContains(comicsUrl4, "com/reader.php#/reader/readsvg/387479/Cover");
     }
 
+
     @Test
-    void Test_17_OpenMagazinesCheckPagination() throws InterruptedException {
+    void test_17_OpenMagazinesCheckPagination() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
-
         //driver.findElement(By.cssSelector("a[title = 'Go to page 3']")).click();
         magazinePage.GoToPagePagination(3);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//strong[contains(text(), '[3]')]")));
@@ -353,7 +340,7 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_18_OpenMagazinesCheckGenresCheckDetailPage() throws InterruptedException, IOException {
+    void test_18_OpenMagazinesCheckGenresCheckDetailPage() throws InterruptedException, IOException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("genre_search_line")));
@@ -379,7 +366,7 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_19_OpenComicsCheckGenresCheckDetailPage() throws InterruptedException, IOException {
+    void test_19_OpenComicsCheckGenresCheckDetailPage() throws InterruptedException, IOException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         comicPage.OpenComicsPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("genre_search_line")));
@@ -405,7 +392,7 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_20_OpenMagazinesCheckLanguages() throws InterruptedException {
+    void test_20_OpenMagazinesCheckLanguages() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("language_search_line")));
@@ -437,7 +424,7 @@ public class TestRBDigital_Gateway extends PageObj2_BaseClass {
     }
 
     @Test
-    void Test_21_OpenComicsCheckLanguages() throws InterruptedException {
+    void test_21_OpenComicsCheckLanguages() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         comicPage.OpenComicsPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("language_search_line")));
