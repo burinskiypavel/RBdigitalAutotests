@@ -19,7 +19,7 @@ public class ServiceSitePage {
         PageFactory.initElements(driver, this);
     }
 
-    public void CheckText(String element, String text){
+    public void checkText(String element, String text){
         //driver.findElement(By.xpath("//"+element+"[contains(text(), '"+text+"')]")).getAttribute("innerText");
         Assert.assertEquals(driver.findElement(By.xpath("//"+element+"[contains(text(), '"+text+"')]")).getAttribute("innerText"), text);
     }

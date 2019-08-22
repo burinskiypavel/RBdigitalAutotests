@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="PQ" />
+        <module name="RBdigital" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="PQ" target="1.7" />
+      <module name="RBdigital" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

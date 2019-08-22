@@ -31,7 +31,7 @@ public class ServicePage {
         mainPage = new MainPage(driver);
     }
 
-    public void PressGetStartedButton(){
+    public void pressGetStartedButton(){
         UsePageObj();
         pageObj.ClickInFieldByXpath("//a[@href='#'][@class='button']");
     }

@@ -139,16 +139,16 @@ public class MainPage {
         wait7.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//a[contains(text(), 'Create New Account')]")));
     }
 
-    public void SelectServiceByPictureByXpath(String serviceXpath) {
+    public void selectServiceByPictureByXpath(String serviceXpath) {
         Wait<WebDriver> wait3 = new WebDriverWait(driver, 20);
         wait3.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath(serviceXpath)));
         pageObj.ClickInFieldByXpath(serviceXpath);
     }
 
-    public void GoIntoServiceByButtonByXpath(String serviceXpath) throws InterruptedException {
+    public void goIntoServiceByButtonByXpath(String serviceXpath) throws InterruptedException {
         Thread.sleep(500);
-        //Wait<WebDriver> wait = new WebDriverWait(driver, 30);
-        //wait.until(ExpectedConditions.elementToBeClickable(By.xpath(serviceXpath)));
+        Wait<WebDriver> wait = new WebDriverWait(driver, 30);
+        wait.until(ExpectedConditions.elementToBeClickable(By.xpath(serviceXpath)));
         //int count = 0;
         //while(driver.findElements(By.xpath(serviceXpath)).size() == 0 && count < 3){
         //    Thread.sleep(1000);
