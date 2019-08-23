@@ -1,10 +1,12 @@
 package Gateway;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Wait;
@@ -29,9 +31,15 @@ public class BaseClass_TestServiceCheckout  {
 
     @BeforeClass
     void beforeClass() {
+
         System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
         ChromeOptions chromeOptions = new ChromeOptions();
         driver = new ChromeDriver(chromeOptions);
+        //firefox
+        //System.setProperty("webdriver.gecko.driver","driver/geckodriver.exe");
+        //driver = new FirefoxDriver();
+
+
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//a[contains(text(), 'Login')]")));
@@ -93,7 +101,7 @@ public class BaseClass_TestServiceCheckout  {
         //TypeInFieldByName("password", password);
         driver.findElement(By.name("password")).sendKeys(password);
         clickOnButtonByName("pl_login");
-        //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//div[contains(text(), 'Welcome')]")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//div[contains(text(), 'Welcome')]")));
     }
 
     public void logout() {
@@ -139,7 +147,8 @@ public class BaseClass_TestServiceCheckout  {
         //    Thread.sleep(1000);
         //     count1++;
         //}
-        clickInFieldByXpath(serviceXpath);
+        //clickInFieldByXpath(serviceXpath);
+        clickInField(By.xpath(serviceXpath));
 
     }
 
@@ -147,11 +156,20 @@ public class BaseClass_TestServiceCheckout  {
         driver.findElement(By.xpath(xpath)).click();
     }
 
-    public void pressGetStartedButton(){
-        clickInFieldByXpath("//a[@href='#'][@class='button']");
+    public void clickInField(By locator) {
+        driver.findElement(locator).click();
     }
 
-    public void checkText(String element, String text){
+    public void pressGetStartedButton() throws InterruptedException {
+        clickInFieldByXpath("//a[@href='#'][@class='button']");
+        Thread.sleep(1400);
+        if(isAlertPresent()) {
+            driver.switchTo().alert().accept();
+        }
+    }
+
+    public void checkText(String element, String text) throws InterruptedException {
+        Thread.sleep(1000);
         //driver.findElement(By.xpath("//"+element+"[contains(text(), '"+text+"')]")).getAttribute("innerText");
         Assert.assertEquals(driver.findElement(By.xpath("//"+element+"[contains(text(), '"+text+"')]")).getAttribute("innerText"), text);
     }
@@ -169,6 +187,17 @@ public class BaseClass_TestServiceCheckout  {
     public void goIntoServiceByPictureByXpath(String serviceXpath) {
         Wait<WebDriver> wait3 = new WebDriverWait(driver, 20);
         wait3.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath(serviceXpath)));
-        clickInFieldByXpath(serviceXpath);
+        //clickInFieldByXpath(serviceXpath);
+        clickInField(By.xpath(serviceXpath));
     }
+
+    public boolean isAlertPresent(){
+        try{
+            driver.switchTo().alert();
+            return true;
+        }   //try
+        catch (NoAlertPresentException Ex){
+            return false;
+        }   //catch
+    }    //isAlertPresent
 }

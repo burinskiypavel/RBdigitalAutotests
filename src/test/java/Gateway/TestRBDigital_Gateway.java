@@ -5,6 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.*;
 import org.testng.Assert;
@@ -37,9 +38,13 @@ public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
 
     @BeforeClass
     void beforeClass() {
-        System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
-        ChromeOptions chromeOptions = new ChromeOptions();
-        driver = new ChromeDriver(chromeOptions);
+
+        //System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
+        //ChromeOptions chromeOptions = new ChromeOptions();
+        //driver = new ChromeDriver(chromeOptions);
+        System.setProperty("webdriver.gecko.driver","driver/geckodriver.exe");
+        driver = new FirefoxDriver();
+
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         //Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait = new WebDriverWait(driver, 30);
@@ -172,10 +177,14 @@ public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         //String com = driver.findElement(By.xpath("//a[contains(text(), '"+comicsName+"')]")).getText();
         String comicsId = comicsUrl2.substring(56, 61);
         collectionPage.trashBtn.click();
-        String alertText = driver.switchTo().alert().getText();
-        driver.switchTo().alert().accept();
+
+        //String alertText = driver.switchTo().alert().getText();
+        //driver.switchTo().alert().accept();
+        //Assert.assertEquals(alertText, "Are you sure?\nYou want to remove issue from your reading collection");
+        checkAlert("Are you sure?\nYou want to remove issue from your reading collection");
+
         wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("a[href*='/magazines/proxy/test51/magazine-reader/" + comicsId + "']")));
-        Assert.assertEquals(alertText, "Are you sure?\nYou want to remove issue from your reading collection");
+        Assert.assertFalse(driver.findElements(By.cssSelector("a[href*='/magazines/proxy/test51/magazine-reader/" + comicsId + "']")).size() != 0);
     }
 
     @Test
@@ -193,7 +202,7 @@ public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         Assert.assertEquals(alertText, "Are you sure?\nYou want to remove issue from your reading collection");
     }
 
-    @Test
+    @Test(enabled = false)
     void test_10_IncorrectLogin_IncorrectPassword() {
         mainPage.Login("jun5@gmail.com", "12345");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//li[contains(text(), 'Username or password is incorrect')]")));

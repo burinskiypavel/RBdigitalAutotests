@@ -118,6 +118,9 @@ public class AdminPage {
     @FindBy(xpath = "//a[contains(text(), 'PIN Code Report')]")
     public WebElement PINCodeReport;
 
+    @FindBy(xpath = "//a[contains(text(), 'Service Subscriptions')]")
+    public WebElement serviceSubscriptions;
+
 
     //public void UsePageObj() {
     //    pageObj = new PageObj(driver);

@@ -124,6 +124,12 @@ public class BaseClass_TestRBDigital_Gateway  {
         driver.findElement(By.id("page_"+pageNumber+"")).click();
         driver.findElement(By.id("arrow-next")).click();
     }
+
+    public void checkAlert(String  expectedAlertText) {
+        String alertText = driver.switchTo().alert().getText();
+        driver.switchTo().alert().accept();
+        Assert.assertEquals(alertText,  expectedAlertText);
+    }
 }
     /*
     public void Register2(String accessKey, String selectValueFromSelect, String firstName, String lastName, String email, String password){

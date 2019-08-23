@@ -124,6 +124,7 @@ public class MagazinePage {
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("title_search_line")));
         WebElement search = driver.findElement(By.id("title_search_line"));
+        search.click();
         search.clear();
         search.sendKeys(magazineName);
         search.sendKeys(Keys.ENTER);

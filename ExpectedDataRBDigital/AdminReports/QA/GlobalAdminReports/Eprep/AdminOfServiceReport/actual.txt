@@ -1,18 +1,2 @@
 Screen Name	Email	Library	AccountId	Country	State	System Name
-111111	vzhidkov@envionsoftware.com	8080 Test Library		US	Alabama	
-test_avolkov	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	
-Malissa Seymour	mseymour@recordedbooks.com	8080 Test Library		US	Alabama	
-test_ymelnik	ymelnik@envionsoftware.com	8080 Test Library		US	Alabama	
-test test	test@rbdigital.com	8080 Test Library		US	Alabama	
-brad	bgraytest@rb.com	8080 Test Library		US	Alabama	
-Jennie	jennie01@gmail.com	8080 Test Library		US	Alabama	
-qwertyQwerty	qwerty@gmail.com	8080 Test Library		US	Alabama	
-Testname1	test@gmail.com	8080 Test Library		US	Alabama	
-tryr	wwew@ffff.com	8080 Test Library		US	Alabama	
-testprod@gmail.com	testprod@gmail.com	8080 Test Library		US	Alabama	
-qw77	jun12@gmail.com	8080 Test Library		US	Alabama	
-jun26admin	jun26admin@gmail.com	8080 Test Library		US	Alabama	
-jul8admin	jul8admin@gmail.com	8080 Test Library		US	Alabama	
-jul23libraryAdmin1	jul23libraryAdmin@gmail.com	8080 Test Library		US	Alabama	
-burinskiypavel	burinskiypavel@gmail.com	8080 Test Library		US	Alabama	
-Total	16
+Total	0
