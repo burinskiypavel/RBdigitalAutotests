@@ -120,12 +120,13 @@ public class MagazinePage {
 
     //}
 
-    public void SearchMagazine(String magazineName) {
+    public void SearchMagazine(String magazineName) throws InterruptedException {
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("title_search_line")));
         WebElement search = driver.findElement(By.id("title_search_line"));
-        search.click();
+        //search.click();
         search.clear();
+        Thread.sleep(500);
         search.sendKeys(magazineName);
         search.sendKeys(Keys.ENTER);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("img[alt = '"+magazineName+"']")));

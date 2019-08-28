@@ -203,6 +203,27 @@ public class AdminPage {
         return currentOptions;
     }
 
+    public List<String> GetAllDataFromReportNew(String xpath) {
+        //String css = "table[class='report_table']";
+        List<String> table = new ArrayList<String>();
+        List<String> currentOptions = new ArrayList<>();
+
+        //WebElement select = driver.findElement(By.cssSelector(css));
+
+        //List<WebElement> table2 = select.findElements(By.tagName("tbody"));
+        List<WebElement> table2 = driver.findElements(By.xpath(xpath));
+
+        for (WebElement match : table2) {
+            String text = match.getText();
+            //currentOptions.add(match.getAttribute("innerText"));
+            currentOptions.add(text);
+            System.out.println(match.getAttribute("innerText"));
+            //currentOptions.add("\r\n");
+        }
+
+        return currentOptions;
+    }
+
     public List<String> GetAllDataFromReport20(String xpath) {
         //String css = "table[class='report_table']";
         List<String> table = new ArrayList<String>();
@@ -311,6 +332,7 @@ public class AdminPage {
       String fullPathToFile = "ExpectedDataRBDigital/AdminReports/QA/" + path;// QA
 
         List<String> actualReport = GetAllDataFromReport(xpath);
+      //List<String> actualReport = GetAllDataFromReportNew(xpath);
       FileWriter writer = new FileWriter(fullPathToFile);
       for(String str: actualReport) {
           writer.write(str);

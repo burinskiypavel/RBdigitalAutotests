@@ -29,11 +29,11 @@ public class TestReportsInGlobalAdmin {
 
     @BeforeClass
     void beforeClass() {
-        //System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
-        //ChromeOptions chromeOptions = new ChromeOptions();
-        //driver = new ChromeDriver(chromeOptions);
-        System.setProperty("webdriver.gecko.driver","driver/geckodriver.exe");
-        driver = new FirefoxDriver();
+        System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
+        ChromeOptions chromeOptions = new ChromeOptions();
+        driver = new ChromeDriver(chromeOptions);
+        //System.setProperty("webdriver.gecko.driver","driver/geckodriver.exe");
+        //driver = new FirefoxDriver();
 
         driver.navigate().to("https://www.rbdigitalqa.com/admin/liblist");
         wait = new WebDriverWait(driver, 30);

@@ -21,4 +21,8 @@ public class CollectionPage {
 
     @FindBy(css = "span[class = 'image trash']")
     public WebElement trashBtn;
+
+    public void clickTrashBtn() {
+        trashBtn.click();
+    }
 }

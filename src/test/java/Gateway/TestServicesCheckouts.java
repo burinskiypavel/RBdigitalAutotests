@@ -24,7 +24,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
 
     @Test
     void test_02_artistWorksService_test51() throws InterruptedException {
-        login("jun5@gmail.com", "12345qw");
+        login("aug28@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/artistworks']");
         pressGetStartedButton();
         checkURL("https://test-artistworks.artistworks.com/");
@@ -33,7 +33,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
 
     @Test
     void test_03_newspapers_test51() throws InterruptedException {
-        login("jun5@gmail.com", "12345qw");
+        login("aug28@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/newspapers']");
         pressGetStartedButton();
         checkURL("https://www.pressreader.com/catalog");
@@ -63,7 +63,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
     @Test
     void test_06_transparentLanguage_rbdigitalinternal() throws InterruptedException {
         navigate("https://www.rbdigitalqa.com/rbdigitalinternal/");
-        login("jul25@gmail.com", "12345qw");
+        login("aug28@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/transparent_language']");
         pressGetStartedButton();
         checkURL("http://192.168.254.49/rbdigitalinternal/game/rbdgLogin");
@@ -78,7 +78,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
         }
-        login("jul25@gmail.com", "12345qw");
+        login("aug28@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/artistworks']");
         pressGetStartedButton();
         checkURL("https://test-artistworks.artistworks.com/");
@@ -91,7 +91,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
         }
-        login("jul25@gmail.com", "12345qw");
+        login("aug28@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/hoonuit']");
         pressGetStartedButton();
         checkURL("https://learnit.hoonuit.com/?from_auth=1");
@@ -105,7 +105,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
         }
-        login("jul25@gmail.com", "12345qw");
+        login("aug28@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/lawdepot']");
         pressGetStartedButton();
         checkURL("https://www.lawdepot.com/libraries/errorRBDG.aspx?errorcode=authentication&id=rbdg&rbid=f1662d2b-aa2a-495a-8de8-65d81c3915b7");
@@ -118,7 +118,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
         }
-        login("jul25@gmail.com", "12345qw");
+        login("aug28@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/newspapers']");
         pressGetStartedButton();
         checkURL("https://www.pressreader.com/catalog");
@@ -131,7 +131,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
         }
-        login("jul25@gmail.com", "12345qw");
+        login("aug28@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/acorntv']");
         pressGetStartedButton();
         checkURL("https://signup-qa.acorn.tv/extendsubscription.html?sessionid=dbdd5785-421e-4531-a9b9-ea6a4c3d9b06");
@@ -144,7 +144,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
         }
-        login("jul25@gmail.com", "12345qw");
+        login("aug28@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/pongalo']");
         pressGetStartedButton();
         checkURLcontains("https://frontend-dev.pongalo.com/recorded-books/");
@@ -157,7 +157,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
         }
-        login("jul25@gmail.com", "12345qw");
+        login("aug28@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/method-test-prep']");
         pressGetStartedButton();
         checkURLcontains("https://dev.methodtestprep.com/student/home/index_v4");

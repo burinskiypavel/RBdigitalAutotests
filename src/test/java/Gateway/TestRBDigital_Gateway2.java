@@ -5,6 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.support.ui.*;
 import org.testng.Assert;
 import org.testng.annotations.*;
@@ -36,10 +37,14 @@ public class TestRBDigital_Gateway2 {
 
 
     @BeforeClass
-    void beforeClass() {
+    void beforeClass(){
         System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
         ChromeOptions chromeOptions = new ChromeOptions();
-        driver = new ChromeDriver(chromeOptions);      // в ссылку присв. элем
+        driver = new ChromeDriver(chromeOptions);
+
+        //System.setProperty("webdriver.ie.driver","driver/IEDriverServer.exe");
+        //WebDriver driver = new InternetExplorerDriver();
+
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         //Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait = new WebDriverWait(driver, 30);

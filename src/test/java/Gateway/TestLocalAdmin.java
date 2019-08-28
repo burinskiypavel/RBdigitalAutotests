@@ -2,6 +2,7 @@ package Gateway;
 
 import Gateway.pages.AdminPage;
 import Gateway.pages.MainPage;
+import Gateway.pages.ServicePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -22,6 +23,7 @@ public class TestLocalAdmin {
     PageObj pageObj;
     MainPage mainPage;
     AdminPage adminPage;
+    ServicePage servicePage;
 
     @BeforeClass
     void beforeClass() {
@@ -38,6 +40,7 @@ public class TestLocalAdmin {
         //servicePage = new ServicePage(driver);
         //platformPage = new PlatformPage(driver);
         adminPage = new AdminPage(driver);
+        servicePage = new ServicePage(driver);
         adminPage.LoginInAdmin("pburinskiy", "pburinskiy123");
     }
 
@@ -80,12 +83,21 @@ public class TestLocalAdmin {
     }
 
     @Test
-    public void test_02_licenses_AddLinensesToService() {
-        //Wait<WebDriver> wait = new WebDriverWait(driver, 30);
+    public void test_02_licenses_updateWeeklyOverallPatronCap() throws InterruptedException {
         adminPage.licensesTab.click();
-        driver.findElement(By.cssSelector("a[href onclick = 'LicenseManager(); return false;']")).click();
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//span[contains(text(), 'License Order Generator')]")));
-        //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("table[class = 'magazines_table']")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("overall_patron_cap")));
+        driver.findElement(By.id("overall_patron_cap")).clear();
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("overall_patron_cap")));
+        driver.findElement(By.id("overall_patron_cap")).sendKeys("0");
+        driver.findElement(By.id("save")).click();
+        driver.navigate().to("https://www.rbdigitalqa.com/test51");
+        //mainPage.Login("jun5@gmail.com", "12345qw");
+
+        String timeStamp = mainPage.GetTimeStamp();
+        mainPage.Register("pointbreak", "3802", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
+        mainPage.goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/comics']");
+        servicePage.pressGetStartedButton();
+        checkAlert("");
     }
 
     @Test

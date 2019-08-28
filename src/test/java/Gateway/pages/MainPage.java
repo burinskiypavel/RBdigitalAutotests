@@ -11,6 +11,8 @@ import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.Random;
 
 public class MainPage {
@@ -180,6 +182,11 @@ public class MainPage {
         }
 
         return character;
+    }
+
+    public String GetTimeStamp() {
+        String timeStamp = new SimpleDateFormat("MM_dd_yyyy_HH_mm").format(Calendar.getInstance().getTime());
+        return timeStamp;
     }
 
 }

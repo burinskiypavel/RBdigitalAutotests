@@ -32,11 +32,11 @@ public class TestReportsInLocalAdmin{
 
     @BeforeClass
     void beforeClass() {
-        //System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
-        //ChromeOptions chromeOptions = new ChromeOptions();
-        //driver = new ChromeDriver(chromeOptions);
-        System.setProperty("webdriver.gecko.driver","driver/geckodriver.exe");
-        driver = new FirefoxDriver();
+        System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
+        ChromeOptions chromeOptions = new ChromeOptions();
+        driver = new ChromeDriver(chromeOptions);
+        //System.setProperty("webdriver.gecko.driver","driver/geckodriver.exe");
+        //driver = new FirefoxDriver();
 
         driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
         wait = new WebDriverWait(driver, 30);
@@ -95,6 +95,7 @@ public class TestReportsInLocalAdmin{
         adminPage.includeLibraryCheckbox.click();
         adminPage.createReport("//table[@class='report_table auto_size']");
         List<String> actualReport = adminPage.GetActualData("//table[@class='report_table auto_size']", "LocalAdminReports/AllServices/VideoUsage/actual.txt");
+        //List<String> actualReport = adminPage.GetActualData("//tbody", "LocalAdminReports/AllServices/VideoUsage/actual.txt");
         List<String> expectedReport = adminPage.GetDateFromFile("LocalAdminReports/AllServices/VideoUsage/expected.txt");
         Assert.assertEquals(actualReport, expectedReport);
     }

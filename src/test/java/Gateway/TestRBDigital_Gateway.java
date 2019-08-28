@@ -39,11 +39,11 @@ public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     @BeforeClass
     void beforeClass() {
 
-        //System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
-        //ChromeOptions chromeOptions = new ChromeOptions();
-        //driver = new ChromeDriver(chromeOptions);
-        System.setProperty("webdriver.gecko.driver","driver/geckodriver.exe");
-        driver = new FirefoxDriver();
+        System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
+        ChromeOptions chromeOptions = new ChromeOptions();
+        driver = new ChromeDriver(chromeOptions);
+        //System.setProperty("webdriver.gecko.driver","driver/geckodriver.exe");
+        //driver = new FirefoxDriver();
 
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         //Wait<WebDriver> wait = new WebDriverWait(driver, 30);
@@ -176,13 +176,8 @@ public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("span[class = 'image trash']")));
         //String com = driver.findElement(By.xpath("//a[contains(text(), '"+comicsName+"')]")).getText();
         String comicsId = comicsUrl2.substring(56, 61);
-        collectionPage.trashBtn.click();
-
-        //String alertText = driver.switchTo().alert().getText();
-        //driver.switchTo().alert().accept();
-        //Assert.assertEquals(alertText, "Are you sure?\nYou want to remove issue from your reading collection");
+        collectionPage.clickTrashBtn();
         checkAlert("Are you sure?\nYou want to remove issue from your reading collection");
-
         wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("a[href*='/magazines/proxy/test51/magazine-reader/" + comicsId + "']")));
         Assert.assertFalse(driver.findElements(By.cssSelector("a[href*='/magazines/proxy/test51/magazine-reader/" + comicsId + "']")).size() != 0);
     }
@@ -195,11 +190,10 @@ public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("span[class = 'image trash']")));
         //String com = driver.findElement(By.xpath("//a[contains(text(), '"+comicsName+"')]")).getText();
         String magazineId = magazineUrl2.substring(55, 61);
-        collectionPage.trashBtn.click();
-        String alertText = driver.switchTo().alert().getText();
-        driver.switchTo().alert().accept();
+        collectionPage.clickTrashBtn();
+        checkAlert("Are you sure?\nYou want to remove issue from your reading collection");
         wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("a[href*='/magazines/proxy/test51/magazine-reader/" + magazineId + "']")));
-        Assert.assertEquals(alertText, "Are you sure?\nYou want to remove issue from your reading collection");
+        Assert.assertFalse(driver.findElements(By.cssSelector("a[href*='/magazines/proxy/test51/magazine-reader/" + magazineId + "']")).size() != 0);
     }
 
     @Test(enabled = false)
@@ -213,7 +207,7 @@ public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_11_MagazineCheckoutRead_Rbdigitalinternal() throws InterruptedException {
         //mainPage.Login("jun5@gmail.com", "12345qw");
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
-        mainPage.Login("jul25@gmail.com", "12345qw");
+        mainPage.Login("aug28@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         magazinePage.SelectMagazine("//img[@alt='The New Yorker']");
         magazinePage.PressCheckoutBtn();
@@ -233,7 +227,7 @@ public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
-        mainPage.Login("jul25@gmail.com", "12345qw");
+        mainPage.Login("aug28@gmail.com", "12345qw");
         comicPage.OpenComicsPageRbdigitalinternal();
         comicPage.SelectComics("//img[@alt='Transformers: Lost Light, Vol. 1']");
         comicPage.PressCheckoutBtn();
@@ -258,11 +252,10 @@ public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("span[class = 'image trash']")));
         //String com = driver.findElement(By.xpath("//a[contains(text(), '"+comicsName+"')]")).getText();
         String magazineId = magazineUrl3.substring(55, 61);
-        collectionPage.trashBtn.click();
-        String alertText = driver.switchTo().alert().getText();
-        driver.switchTo().alert().accept();
+        collectionPage.clickTrashBtn();
+        checkAlert("Are you sure?\nYou want to remove issue from your reading collection");
         wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("a[href*='/magazines/proxy/rbdigitalinternal/magazine-reader/" + magazineId + "']")));
-        Assert.assertEquals(alertText, "Are you sure?\nYou want to remove issue from your reading collection");
+        Assert.assertFalse(driver.findElements(By.cssSelector("a[href*='/magazines/proxy/test51/magazine-reader/" + magazineId + "']")).size() != 0);
     }
 
     @Test
@@ -273,11 +266,10 @@ public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("span[class = 'image trash']")));
         //String com = driver.findElement(By.xpath("//a[contains(text(), '"+comicsName+"')]")).getText();
         String comicsId = comicsUrl3.substring(56, 61);
-        collectionPage.trashBtn.click();
-        String alertText = driver.switchTo().alert().getText();
-        driver.switchTo().alert().accept();
+        collectionPage.clickTrashBtn();
+        checkAlert("Are you sure?\nYou want to remove issue from your reading collection");
         wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("a[href*='/magazines/proxy/rbdigitalinternal/magazine-reader/" + comicsId + "']")));
-        Assert.assertEquals(alertText, "Are you sure?\nYou want to remove issue from your reading collection");
+        Assert.assertFalse(driver.findElements(By.cssSelector("a[href*='/magazines/proxy/test51/magazine-reader/" + comicsId + "']")).size() != 0);
     }
 
     @Test
