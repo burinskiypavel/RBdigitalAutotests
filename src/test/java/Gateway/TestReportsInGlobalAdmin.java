@@ -69,8 +69,8 @@ public class TestReportsInGlobalAdmin {
         pageObj.SelectFromSelectByIdAndValue("service_t", "all");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//span[contains(text(), 'New Patrons Report')]")));
         adminPage.ClickOnCalendarIcon();
-        adminPage.SetDatesInRepot("07/01/2019", "07/01/2019");
-        adminPage.selectRegionFromSelect("form_location_region", "UK");
+        adminPage.SetDatesInRepot("07/01/2017", "07/01/2017");
+        adminPage.selectRegionFromSelect("form_location_region", "Asia");
         adminPage.createReport("//table[@class='report_table']");
         List<String> actualReport = adminPage.GetActualData("//div[@id='report_refresh']", "GlobalAdminReports/AllServices/NewPatronsReport/actual.txt");
         List<String> expectedReport = adminPage.GetDateFromFile("GlobalAdminReports/AllServices/NewPatronsReport/expected.txt");
@@ -83,8 +83,8 @@ public class TestReportsInGlobalAdmin {
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//a[contains(text(), 'Gateway Service Report')]")));
         globalAdminPage.gatewayServiceReport.click();
         adminPage.ClickOnCalendarIcon();
-        adminPage.SetDatesInRepot("07/01/2019", "07/01/2019");
-        adminPage.selectRegionFromSelect("form_location_region", "UK");
+        adminPage.SetDatesInRepot("07/01/2017", "07/01/2017");
+        adminPage.selectRegionFromSelect("form_location_region", "Asia");
         //wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("a[class='ui-state-default'][href='#']")));
         //adminPage.includeLibraryCheckbox.click();
         adminPage.createReport("//table[@class='report_table auto_size']");
@@ -97,8 +97,8 @@ public class TestReportsInGlobalAdmin {
     void Test_03_AllServices_GatewayServiceUsageReport() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "all");
         adminPage.OpenReport("//a[contains(text(), 'Gateway Service Usage Report')]");
-        adminPage.SetDatesInRepot("07/01/2019", "07/01/2019");
-        adminPage.selectRegionFromSelect("form_location_region", "UK");
+        adminPage.SetDatesInRepot("07/01/2017", "07/01/2017");
+        adminPage.selectRegionFromSelect("form_location_region", "Asia");
         adminPage.createReport("//table[@class='report_table wide_report']");
         List<String> actualReport = adminPage.GetActualData20("//div[@id='report_refresh']", "GlobalAdminReports/AllServices/GatewayServiceUsageReport/actual.txt");
         List<String> expectedReport = adminPage.GetDateFromFile20("GlobalAdminReports/AllServices/GatewayServiceUsageReport/expected.txt");
@@ -185,6 +185,7 @@ public class TestReportsInGlobalAdmin {
     void Test_10_AudioBooksAndEBooks_AdminOfServiceReport() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "rbdigital");
         adminPage.OpenReport("//span[contains(text(), 'Admin Of Service Report')]");
+        adminPage.selectRegionCountryState("form_location_region", "North America", "form_location_country", "US", "form_location_state", "Illinois");
         adminPage.createReport("//table[@class='report_table']");
         List<String> actualReport = adminPage.GetActualData20("//div[@id='report_refresh']", "GlobalAdminReports/AudioBooksAndEBooks/AdminOfServiceReport/actual.txt");
         List<String> expectedReport = adminPage.GetDateFromFile20("GlobalAdminReports/AudioBooksAndEBooks/AdminOfServiceReport/expected.txt");
@@ -195,7 +196,7 @@ public class TestReportsInGlobalAdmin {
     void Test_11_AudioBooksAndEBooks_SalesRepReport() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "rbdigital");
         adminPage.OpenReport("//a[contains(text(), 'Sales Rep Report')]");
-        adminPage.selectRegionFromSelect("form_location_region", "UK");
+        adminPage.selectRegionCountryState("form_location_region", "North America", "form_location_country", "US", "form_location_state", "Oregon");
         adminPage.createReport("//table[@class='report_table wide_report']");
         List<String> actualReport = adminPage.GetActualData20("//div[@id='report_refresh']", "GlobalAdminReports/AudioBooksAndEBooks/SalesRepReport/actual.txt");
         List<String> expectedReport = adminPage.GetDateFromFile20("GlobalAdminReports/AudioBooksAndEBooks/SalesRepReport/expected.txt");
@@ -206,7 +207,7 @@ public class TestReportsInGlobalAdmin {
     void Test_12_Magazines_AdminOfServiceReport() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "magazines");
         adminPage.OpenReport("//span[contains(text(), 'Admin Of Service Report')]");
-        adminPage.selectRegionAndCountry("form_location_region", "Asia", "form_location_country", "IN");
+        adminPage.selectRegionAndCountry("form_location_region", "Europe", "form_location_country", "FI");
         adminPage.createReport("//table[@class='report_table']");
         List<String> actualReport = adminPage.GetActualData20("//div[@id='report_refresh']", "GlobalAdminReports/Magazines/AdminOfServiceReport/actual.txt");
         List<String> expectedReport = adminPage.GetDateFromFile20("GlobalAdminReports/Magazines/AdminOfServiceReport/expected.txt");
@@ -217,7 +218,7 @@ public class TestReportsInGlobalAdmin {
     void Test_13_Magazines_SalesRepReport() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "magazines");
         adminPage.OpenReport("//a[contains(text(), 'Sales Rep Report')]");
-        adminPage.selectRegionCountryState("form_location_region", "UK", "form_location_country", "GB", "form_location_state", "England");
+        adminPage.selectRegionAndCountry("form_location_region", "Europe", "form_location_country", "BE");
         adminPage.createReport("//table[@class='report_table wide_report']");
         List<String> actualReport = adminPage.GetActualData("//div[@id='report_refresh']", "GlobalAdminReports/Magazines/SalesRepReport/actual.txt");
         List<String> expectedReport = adminPage.GetDateFromFile("GlobalAdminReports/Magazines/SalesRepReport/expected.txt");
@@ -399,6 +400,7 @@ public class TestReportsInGlobalAdmin {
     void Test_28_Artistworks_AdminOfServiceReport() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "artistworks");
         adminPage.OpenReport("//span[contains(text(), 'Admin Of Service Report')]");
+        adminPage.selectRegionCountryState("form_location_region", "North America", "form_location_country", "CA", "form_location_state", "Saskatchewan");
         adminPage.createReport("//table[@class='report_table']");
         List<String> actualReport = adminPage.GetActualData20("//div[@id='report_refresh']", "GlobalAdminReports/Artistworks/AdminOfServiceReport/actual.txt");
         List<String> expectedReport = adminPage.GetDateFromFile20("GlobalAdminReports/Artistworks/AdminOfServiceReport/expected.txt");
@@ -421,6 +423,7 @@ public class TestReportsInGlobalAdmin {
         pageObj.SelectFromSelectByIdAndValue("service_t", "comics");
         adminPage.OpenReport("//span[contains(text(), 'Admin Of Service Report')]");
         adminPage.selectRegionFromSelect("form_location_region", "Other");
+        adminPage.selectRegionAndCountry("form_location_region", "Asia", "form_location_country", "IN");
         adminPage.createReport("//table[@class='report_table']");
         List<String> actualReport = adminPage.GetActualData20("//div[@id='report_refresh']", "GlobalAdminReports/Comics/AdminOfServiceReport/actual.txt");
         List<String> expectedReport = adminPage.GetDateFromFile20("GlobalAdminReports/Comics/AdminOfServiceReport/expected.txt");
@@ -431,7 +434,7 @@ public class TestReportsInGlobalAdmin {
     void Test_31_Comics_SalesRepReport() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "comics");
         adminPage.OpenReport("//a[contains(text(), 'Sales Rep Report')]");
-        adminPage.selectRegionFromSelect("form_location_region", "Other");
+        adminPage.selectRegionAndCountry("form_location_region", "Asia", "form_location_country", "SG");
         adminPage.createReport("//table[@class='report_table wide_report']");
         //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.tagName("tbody")));
         //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.tagName("td")));

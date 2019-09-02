@@ -6,6 +6,7 @@ Sarah Evans	sarah.evans@gloucestershire.gov.uk	W. F. Howes Trial	TEST	GB	England
 peter kobilarov	petar.kobilarov@missing-link.de	W. F. Howes Trial	TEST	GB	England	
 pedro moura	pedro.moura@wfhowes.co.uk	W. F. Howes Trial	TEST	GB	England	
 qatest1	qatest@gmail.com	W. F. Howes Trial	TEST	GB	England	
+becky stabik	becky.stabik@wfhowes.co.uk	W. F. Howes Trial	TEST	GB	England	
 Karen Bale	kbale@lism.catholic.edu.au	St Joseph's Regional College	W_STJ004	AU	New South Wales	
 Paul Banner	pbanner@lism.catholic.edu.au	St Joseph's Regional College	W_STJ004	AU	New South Wales	
 Julie Wells	jwells@urbandale.org	Urbandale Public Library	7047787	US	Iowa	
@@ -17,4 +18,3 @@ Tom Dignan	tom@librarysupply.co.nz	The Library Supply Company		NZ	Auckland
 Christine Zeiler	christine@librarysupply.co.nz	The Library Supply Company		NZ	Auckland	
 becky	becky.stabik@wfhowes.co.uk	W. F. Howes Internal Test Site	TEST	GB	England	
 Lydia Woodgate	lydiawoodgate@caulfieldgs.vic.edu.au	Caulfield Grammar School	W_CAU001	AU	Victoria	
-Helen Matthews	HelenMatthews@caulfieldgs.vic.edu.au	Caulfield Grammar School	W_CAU001	AU	Victoria	

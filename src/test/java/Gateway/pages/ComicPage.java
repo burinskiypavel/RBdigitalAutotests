@@ -41,7 +41,7 @@ public class ComicPage {
         Thread.sleep(1500);
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("a[href*='service/comics']")));
         //driver.findElement(By.xpath("//a[contains(@href, 'service/comics')]")).click();
-        driver.findElements(By.cssSelector("a[href*='service/comics']")).get(1).click();
+        driver.findElements(By.cssSelector("a[href*='service/comics']")).get(0).click();
         driver.findElement(By.xpath("//a[contains(text(), 'Browse Comics')]")).click();
     }
 

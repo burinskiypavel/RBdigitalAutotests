@@ -1,3 +1,3 @@
 Screen Name	Email	Library	AccountId	Country	State	System Name
-Laurie Carpenter	laurie@orono.org	Orono Public Library	7221046	US	Maine	SVOD - Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello; 1 token per patron per week
+Laurie Carpenter	laurie@orono.org	Orono Public Library	7221046	US	Maine	Value; SVOD - Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello; 1 token per patron per week
 Total	1

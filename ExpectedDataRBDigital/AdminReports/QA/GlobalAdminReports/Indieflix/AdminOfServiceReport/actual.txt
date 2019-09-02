@@ -1,4 +1,4 @@
 Screen Name	Email	Library	AccountId	Country	State	System Name
-Hanna Jasinska	hjasinska@wtcc.sa.gov.au	West Torrens Library Service	WES001	AU	South Australia	
-Sarah Morphett	smorphett@wtcc.sa.gov.au	West Torrens Library Service	WES001	AU	South Australia	
+Fran Moroney	franmoroney@gladstonerc.qld.gov.au	Gladstone Regional Library		AU	Queensland	
+Gay Sirriss	gays@gladstone.qld.gov.au	Gladstone Regional Library		AU	Queensland	
 Total	2

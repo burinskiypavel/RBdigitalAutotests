@@ -1,7 +1,9 @@
 Screen Name	Email	Library	AccountId	Country	State	System Name
-Gaurav Bisht	gbisht@aes.ac.in	American Embassy School, New Delhi - Elementary School Collection	7180674	IN	India	
-Gaurav Bisht	gbisht@aes.ac.in	American Embassy School, New Delhi - Middle/High School Collection	7180675	IN	India	
-Neeti Saxena	Neeti.saxena@britishcouncil.org	British Council Libraries	BRI059	IN	India	
-Nirmala Rajan	Nirmala.rajan@britishcouncil.org	British Council Libraries	BRI059	IN	India	
-Megha	megha.kakkar@britishcouncil.org	British Council Libraries	BRI059	IN	India	
-Total	5
+Janne Ranta	janne.ranta@yle.fi	Yle Arkisto	7133071	FI	Helsinki	
+Henry Bolshaw	bolshawh@parliament.uk	UK Parliament	LMI001	FI	FINLAND	
+hoclibraryonline@parliament.uk	hoclibraryonline@parliament.uk	UK Parliament	LMI001	FI	FINLAND	
+John Greenhead	greenheadj@parliament.uk	UK Parliament	LMI001	FI	FINLAND	
+Paul Stainthorp	stainthorpp@parliament.uk	UK Parliament	LMI001	FI	FINLAND	
+HL Library Online	hllibraryonline@parliament.uk	UK Parliament	LMI001	FI	FINLAND	
+Phil Lewis	lewisp@parliament.uk	UK Parliament	LMI001	FI	FINLAND	
+Total	7

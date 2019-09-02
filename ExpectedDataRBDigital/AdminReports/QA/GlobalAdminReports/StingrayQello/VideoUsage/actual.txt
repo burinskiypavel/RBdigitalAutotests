@@ -33,8 +33,8 @@ qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artist
 qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Elton John - Classic Album: Goodbye Yellow Brick Road	21659002660312	jmcoutee@cox.net		3	Qello, Pongalo, TGC, IF
 qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	The B52s - With The Wild Crowd: Live in Athens, GA	21659013398696	exaltaretunombre@gmail.com		3	Qello, Pongalo, TGC, IF
 qello	7-day	RBdigital Trial Customer Library			Maryland	US	Dixie Chicks - An Evening with the Dixie Chicks		bridout@cabq.gov		3	
-qello	7-day	RBdigital Trial Customer Library			Maryland	US	Various Artists - Bridge School Benefit		cebert@dconc.gov		3	
-qello	7-day	RBdigital Trial Customer Library			Maryland	US	Various Artists - Rock & Roll Hall of Fame 25th Anniversary Concerts		cebert@dconc.gov		3	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Various Artists - Bridge School Benefit		cebert@dconc.gov	Test123	3	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Various Artists - Rock & Roll Hall of Fame 25th Anniversary Concerts		cebert@dconc.gov	Test123	3	
 qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	The Police - Certifiable		f_hulse@yahoo.com		3	Qello, Pongalo, TGC, IF
 qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Pink Floyd - The Pink Floyd & Syd Barrett Story	21659010116067	bmrpwalker@hotmail.com		3	Qello, Pongalo, TGC, IF
 qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Pink Floyd - The Story of Wish You Were Here	21659010116067	bmrpwalker@hotmail.com		3	Qello, Pongalo, TGC, IF
@@ -104,9 +104,6 @@ qello	7-day	RBdigital Trial Customer Library			Maryland	US	Joan Baez - How Sweet
 qello	7-day	RBdigital Trial Customer Library			Maryland	US	Pink Floyd - Classic Albums: The Dark Side Of The Moon		bridout@cabq.gov		1	
 qello	7-day	RBdigital Trial Customer Library			Maryland	US	The String Cheese Incident - Live in Ashville		bridout@cabq.gov		1	
 qello	7-day	RBdigital Trial Customer Library			Maryland	US	Various Artists - The Swingtime Collection:Half Past Jump Time!		bridout@cabq.gov		1	
-qello	7-day	RBdigital Trial Customer Library			Maryland	US	Dar Williams And Gillian Welch - Live at Soundstage		cebert@dconc.gov		1	
-qello	7-day	RBdigital Trial Customer Library			Maryland	US	Rickie Lee Jones - Live at Soundstage		cebert@dconc.gov		1	
-qello	7-day	RBdigital Trial Customer Library			Maryland	US	Southside Johnny & The Asbury Jukes - The Fever Feature		cebert@dconc.gov		1	
 qello	7-day	RBdigital Trial Customer Library			Maryland	US	Beyoncé - The Beyonce Experience Tour		hgeorgiou@bellsouth.net		1	
 qello	7-day	RBdigital Trial Customer Library			Maryland	US	Deep Purple - With Orchestra: Live at Montreux 2011		hgeorgiou@bellsouth.net		1	
 qello	7-day	RBdigital Trial Customer Library			Maryland	US	Dixie Chicks - Top of the World Tour: Live		hgeorgiou@bellsouth.net		1	
@@ -132,6 +129,9 @@ qello	7-day	RBdigital Trial Customer Library			Maryland	US	Tony Bennett - Legend
 qello	7-day	RBdigital Trial Customer Library			Maryland	US	AC/DC - Live At River Plate		vanessa.skowbo@kerrvilletx.gov		1	
 qello	7-day	RBdigital Trial Customer Library			Maryland	US	Avenged Sevenfold - Live in The LBC & Diamonds in the Rough		vanessa.skowbo@kerrvilletx.gov		1	
 qello	7-day	RBdigital Trial Customer Library			Maryland	US	Social Distortion - Guitar Center Sessions		vanessa.skowbo@kerrvilletx.gov		1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Dar Williams And Gillian Welch - Live at Soundstage		cebert@dconc.gov	Test123	1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Rickie Lee Jones - Live at Soundstage		cebert@dconc.gov	Test123	1	
+qello	7-day	RBdigital Trial Customer Library			Maryland	US	Southside Johnny & The Asbury Jukes - The Fever Feature		cebert@dconc.gov	Test123	1	
 qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Celtic Thunder - Celtic Thunder - Celtic Roots		f_hulse@yahoo.com		1	Qello, Pongalo, TGC, IF
 qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Celtic Thunder - Storm		f_hulse@yahoo.com		1	Qello, Pongalo, TGC, IF
 qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Daniel Harding - Frauenkirche Concert Homage to Robert Schumann		f_hulse@yahoo.com		1	Qello, Pongalo, TGC, IF

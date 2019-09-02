@@ -1,3 +1,3 @@
 Screen Name	Email	Library	AccountId	Country	State	Start Date	End Date	System Name
-Joe Levy	jlevy@recordedbooks.com	Orono Public Library	7221046	US	Maine	06/28/2019	06/30/2020	SVOD - Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello; 1 token per patron per week
+Joe Levy	jlevy@recordedbooks.com	Orono Public Library	7221046	US	Maine	06/28/2019	06/30/2020	Value; SVOD - Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello; 1 token per patron per week
 Total	1

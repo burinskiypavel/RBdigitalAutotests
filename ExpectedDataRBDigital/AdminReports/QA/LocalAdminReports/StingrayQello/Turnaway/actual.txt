@@ -1,29 +1,8 @@
 For Period: from 05/21/2017 to 07/01/2018
 The patron cap data included in the report is as of the time when the report is run. No history of prior caps is retained.
 License Type	Barcode	Email	Library	Licenses #	Description	Monthly Patron Cap	Overall Cap	Group Cap	Patron Cap	Service Cap	Turnaway Reason	Total Turnaways
-7-day		qa2@qa.qa		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		test.20.121.patron@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		test.21.122.patron@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		test.21.126.patron@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		v.2012.134152@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		v.2012.134216@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		v.2012.174752@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		v.2012.174820@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		v.2112.110217@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		v.2112.110239@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		v.2112.180719@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		v.2112.180747@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		v.2212.162154@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		v.2212.162219@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		v.2212.183317@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		v.2212.183342@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		v.2712.113201@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		v.2712.113225@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		v.2712.115306@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-7-day		v.2712.115327@gmail.com		92	RB Licenses for test library	1000	99999	1000	1000	100	Service or Patron Cap	1
-Total	20
+Total	0
 
 
 Summary of Turnaways
 Reason	Total
-Service or Patron Cap Turnaway Total	20

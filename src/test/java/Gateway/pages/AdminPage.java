@@ -12,7 +12,9 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
 import java.io.*;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.List;
 
 public class AdminPage {
@@ -120,6 +122,9 @@ public class AdminPage {
 
     @FindBy(xpath = "//a[contains(text(), 'Service Subscriptions')]")
     public WebElement serviceSubscriptions;
+
+    @FindBy(xpath = "//a[contains(text(), 'Patron')]")
+    public WebElement patron;
 
 
     //public void UsePageObj() {
@@ -441,4 +446,47 @@ public class AdminPage {
 
     }
 
+    public void checkAlert(String  expectedAlertText) {
+        String alertText = driver.switchTo().alert().getText();
+        driver.switchTo().alert().accept();
+        Assert.assertEquals(alertText,  expectedAlertText);
+    }
+
+    public void checkAlertModal(String  expectedAlertText) {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("error_dialog")));
+        String alertText = driver.findElement(By.id("error_dialog")).getText();
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("button[class='close']")));
+        driver.findElement(By.cssSelector("button[class='close']")).click();
+        Assert.assertEquals(alertText,  expectedAlertText);
+    }
+
+    public void updateWeeklyOverallPatronCap(String value) throws InterruptedException {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        licensesTab.click();
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("overall_patron_cap")));
+        driver.findElement(By.id("overall_patron_cap")).clear();
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("overall_patron_cap")));
+        driver.findElement(By.id("overall_patron_cap")).clear();
+        Thread.sleep(500);
+        driver.findElement(By.id("overall_patron_cap")).sendKeys(value);
+        driver.findElement(By.id("save")).click();
+    }
+
+    public void updateMonthlyOverallPatronCap(String value) throws InterruptedException {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        licensesTab.click();
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("overall_patron_monthly_cap")));
+        driver.findElement(By.id("overall_patron_monthly_cap")).clear();
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("overall_patron_monthly_cap")));
+        driver.findElement(By.id("overall_patron_monthly_cap")).clear();
+        Thread.sleep(500);
+        driver.findElement(By.id("overall_patron_monthly_cap")).sendKeys(value);
+        driver.findElement(By.id("save")).click();
+    }
+
+    public String GetTimeStamp() {
+        String timeStamp = new SimpleDateFormat("MM_dd_yyyy_HH_mm").format(Calendar.getInstance().getTime());
+        return timeStamp;
+    }
 }

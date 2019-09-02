@@ -229,17 +229,17 @@ public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         }
         mainPage.Login("aug28@gmail.com", "12345qw");
         comicPage.OpenComicsPageRbdigitalinternal();
-        comicPage.SelectComics("//img[@alt='Transformers: Lost Light, Vol. 1']");
+        comicPage.SelectComics("//img[@alt='CAPTAIN MARVEL VOL. 3: ALIS VOLAT PROPRIIS - Special']");
         comicPage.PressCheckoutBtn();
         comicPage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        comicPage.openComicsReadingPage(455689);
+        comicPage.openComicsReadingPage(424458);
         comicsUrl3 = getCurrentUrl();
-        readingPage.openComicsPageFromTableOfContents(455689, 4);
+        readingPage.openComicsPageFromTableOfContents(424458, 4);
         readingPage.openBookmarks();
         String actualText = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
-        checkUrlContains(actualUrl1, "service/comics/landing?mag_id=2534");
-        checkUrlContains(comicsUrl3, "com/reader.php#/reader/readsvg/455689/Cover");
+        checkUrlContains(actualUrl1, "service/comics/landing?mag_id=1876");
+        checkUrlContains(comicsUrl3, "com/reader.php#/reader/readsvg/424458/Cover");
         checkTextContains(actualText, "Select the page you want to bookmark");
     }
 
@@ -294,18 +294,18 @@ public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_16_SearchComicCheckoutReadArrowNext() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         comicPage.OpenComicsPage();
-        comicPage.SearchComic("Fox Bunny Funny");
+        comicPage.SearchComic("Black Dynamite");
         comicPage.PressCheckoutBtn();
         comicPage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        comicPage.openComicsReadingPage(387479);
+        comicPage.openComicsReadingPage(389797);
         comicsUrl4 = getCurrentUrl();
-        readingPage.openComicsPageFromTableOfContents(387479, 2);
+        readingPage.openComicsPageFromTableOfContents(389797, 2);
         openMagazineComicsPage(4);
         pressArrowNextFromPage(4);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
-        checkUrlContains(actualUrl1, "/test51/service/comics/landing?mag_id=1439");
-        checkUrlContains(comicsUrl4, "com/reader.php#/reader/readsvg/387479/Cover");
+        checkUrlContains(actualUrl1, "/test51/service/comics/landing?mag_id=1394");
+        checkUrlContains(comicsUrl4, "com/reader.php#/reader/readsvg/389797/Cover");
     }
 
 
@@ -353,7 +353,7 @@ public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='architecture']")));
         SelectFromSelectByIdAndValue("genre_search_line", "architecture");
-        magazinePage.SelectMagazine("//img[@alt='AD Russia']");
+        magazinePage.SelectMagazine("//img[@alt='Stadswerk Magazine']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Architecture')]")));
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='art-photo']")));
@@ -372,20 +372,20 @@ public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         comicPage.OpenComicsPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("genre_search_line")));
 
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='crime-mystery']")));
-        SelectFromSelectByIdAndValue("genre_search_line", "crime-mystery");
-        magazinePage.SelectMagazine("//img[@alt='Parker: The Hunter']");
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Crime & Mystery')]")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='science-fiction']")));
+        SelectFromSelectByIdAndValue("genre_search_line", "science-fiction");
+        magazinePage.SelectMagazine("//img[@alt='Black Dynamite']");
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Science Fiction')]")));
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='horror']")));
         SelectFromSelectByIdAndValue("genre_search_line", "horror");
-        magazinePage.SelectMagazine("//img[@alt='Lore: Book 1']");
+        magazinePage.SelectMagazine("//img[@alt='Night Mary']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Horror')]")));
 
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='general']")));
-        SelectFromSelectByIdAndValue("genre_search_line", "general");
-        magazinePage.SelectMagazine("//img[@alt='110 Percent']");
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: General')]")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='superheroes']")));
+        SelectFromSelectByIdAndValue("genre_search_line", "superheroes");
+        magazinePage.SelectMagazine("//img[@alt='X-MEN: SECOND COMING - Special']");
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Superheroes')]")));
 
         List<String> actualReport = adminPage.GetActualDatadef("//div[@class='magazine_detail_content']", "TestRBDigital_Gateway/Test_19_OpenComicsCheckGenresCheckDetailPage/actual.txt");
         List<String> expectedReport = adminPage.GetDateFromFiledef("TestRBDigital_Gateway/Test_19_OpenComicsCheckGenresCheckDetailPage/expected.txt");
@@ -415,7 +415,7 @@ public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='dutch']")));
         SelectFromSelectByIdAndValue("language_search_line", "german");
-        magazinePage.SelectMagazine("//img[@alt='11 Freunde']");
+        magazinePage.SelectMagazine("//img[@alt='Eltern Family']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: German')]")));
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='french']")));
@@ -431,7 +431,7 @@ public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("language_search_line")));
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='english']")));
         SelectFromSelectByIdAndValue("language_search_line", "english");
-        magazinePage.SelectMagazine("//img[@alt='Angel: Old Friends']");
+        magazinePage.SelectMagazine("//img[@alt='Judge Dredd, Vol. 2']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: English')]")));
         Assert.assertTrue(driver.findElement(By.xpath("//p[contains(text(), 'language: English')]")).isDisplayed());
     }

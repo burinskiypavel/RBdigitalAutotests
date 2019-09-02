@@ -148,7 +148,7 @@ public class MainPage {
     }
 
     public void goIntoServiceByButtonByXpath(String serviceXpath) throws InterruptedException {
-        Thread.sleep(500);
+        Thread.sleep(700);
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.elementToBeClickable(By.xpath(serviceXpath)));
         //int count = 0;

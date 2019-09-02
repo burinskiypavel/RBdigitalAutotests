@@ -1,4 +1,3 @@
 Screen Name	Email	Library	AccountId	Country	State	Start Date	End Date	System Name
-Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	07/01/2019	07/31/2023	
-Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	07/01/2017	07/31/2018	
-Total	2
+Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	08/06/2019	08/06/2021	
+Total	1
