@@ -53,6 +53,8 @@ public class TestLocalAdmin {
     void afterClass() throws InterruptedException {
         driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
         //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.name("login")));
+        adminPage.Logout();
+        adminPage.LoginInAdmin("pburinskiy", "pburinskiy123");
         adminPage.updateWeeklyOverallPatronCap("99999");
         driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
         adminPage.updateMonthlyOverallPatronCap("99999");
@@ -159,28 +161,14 @@ public class TestLocalAdmin {
 
     @Test
     public void test_07_updatePatronPassword() throws InterruptedException {
-        adminPage.patron.click();
-        wait.until(ExpectedConditions.elementToBeClickable(By.id("search_line")));
-        Thread.sleep(1000);
-        driver.findElement(By.id("search_line")).sendKeys("bjones@emmaus.edu");
-        wait.until(ExpectedConditions.elementToBeClickable(By.id("search_button")));
-        driver.findElement(By.id("search_button")).click();
-        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("span[title='Modify']")));
-        driver.findElement(By.cssSelector("span[title='Modify']")).click();
-        wait.until(ExpectedConditions.elementToBeClickable(By.id("password")));
-        driver.findElement(By.id("password")).sendKeys("12345qw");
-        wait.until(ExpectedConditions.elementToBeClickable(By.id("r_password")));
-        driver.findElement(By.id("r_password")).sendKeys("12345qw");
-        wait.until(ExpectedConditions.elementToBeClickable(By.id("submitButton")));
-        driver.findElement(By.id("submitButton")).click();
-        Thread.sleep(1500);
-        wait.until(ExpectedConditions.elementToBeClickable(By.id("search_button")));
+        adminPage.openPatronTab();
+        adminPage.searchPatron("bjones@emmaus.edu");
+        adminPage.pressModify();
+        adminPage.updatePatronPassword("12345qw");
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
-        Thread.sleep(1500);
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
-        Thread.sleep(2700);
         mainPage.Login("bjones@emmaus.edu", "12345qw");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("profile")));
         Assert.assertTrue(driver.findElement(By.id("profile")).isDisplayed());
@@ -188,27 +176,14 @@ public class TestLocalAdmin {
 
     @Test
     public void test_08_updatePatronPasswordBack() throws InterruptedException {
-        driver.findElement(By.xpath("//a[contains(text(), 'Patron')]")).click();
-        //adminPage.patron.click();
-        wait.until(ExpectedConditions.elementToBeClickable(By.id("search_line")));
-        Thread.sleep(500);
-        driver.findElement(By.id("search_line")).sendKeys("bjones@emmaus.edu");
-        wait.until(ExpectedConditions.elementToBeClickable(By.id("search_button")));
-        driver.findElement(By.id("search_button")).click();
-        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("span[title='Modify']")));
-        driver.findElement(By.cssSelector("span[title='Modify']")).click();
-        wait.until(ExpectedConditions.elementToBeClickable(By.id("password")));
-        driver.findElement(By.id("password")).sendKeys("qw12345");
-        driver.findElement(By.id("r_password")).sendKeys("qw12345");
-        driver.findElement(By.id("submitButton")).click();
-        Thread.sleep(1500);
-        wait.until(ExpectedConditions.elementToBeClickable(By.id("search_button")));
+        adminPage.openPatronTab();
+        adminPage.searchPatron("bjones@emmaus.edu");
+        adminPage.pressModify();
+        adminPage.updatePatronPassword("qw12345");
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
-        Thread.sleep(1500);
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
-        Thread.sleep(4700);
         mainPage.Login("bjones@emmaus.edu", "qw12345");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("profile")));
         Assert.assertTrue(driver.findElement(By.id("profile")).isDisplayed());

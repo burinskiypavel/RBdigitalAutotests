@@ -1,4 +1,3 @@
 Screen Name	Email	Library	AccountId	Country	State	Start Date	End Date	System Name
-Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	01/01/2018	12/31/2018	
-Brian Gilbert	bgilbert@recordedbooks.com	Chelsea Public Library	7220061	US	Alabama	10/01/2018	09/30/2019	
-Total	2
+Joe Levy	jlevy@recordedbooks.com	Orono Public Library	7221046	US	Maine	06/28/2019	06/30/2020	Value; SVOD - Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello; 1 token per patron per week
+Total	1

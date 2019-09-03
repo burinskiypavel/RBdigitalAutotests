@@ -1,18 +1,4 @@
 Service	Date	Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
 great-courses	11/05/2018	test51				jauth@recordedbooks.com	fixed format goodness	7-day		1	0
-great-courses	12/05/2018	test51				frfrfr@fr.com	test_1	7-day		1	0
-great-courses	03/25/2019	test51				mar25@gmail.com	test_1	7-day		1	0
-great-courses	03/29/2019	test51				mar29@gmail.com	test_1	7-day		1	0
-great-courses	03/29/2019	test51				ymelnik@envionsoftware.com	test_1	7-day		1	0
-great-courses	04/01/2019	test51				apr1@gmail.com	test_1	7-day		1	0
-great-courses	04/05/2019	test51				apr5@gmail.com	test_1	7-day		1	0
-great-courses	04/11/2019	test51				apr11@gmail.com	test_1	7-day		1	0
-great-courses	04/12/2019	test51				apr12f@gmail.com	test_1	7-day		1	0
-great-courses	04/23/2019	test51				apr23@gmail.com	test_1	7-day		1	0
-great-courses	05/06/2019	test51				may6c@gmail.com	test_1	7-day		1	0
-great-courses	05/13/2019	test51				may13@gmail.com	test_1	7-day		1	0
-great-courses	05/16/2019	test51				may16@gmail.com	test_1	7-day		1	0
-great-courses	05/22/2019	test51				may21@gmail.com	test_1	7-day		1	0
-great-courses	05/27/2019	test51				may27@gmail.com	test_1	7-day		1	0
-great-courses	06/10/2019	test51				jun5@gmail.com	test_1	7-day		1	0
-Total	16	0
+great-courses	12/05/2018	test51				frfrfr@fr.com	test1	7-day		1	0
+Total	2	0

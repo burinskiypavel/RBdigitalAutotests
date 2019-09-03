@@ -543,4 +543,36 @@ public class AdminPage {
     public void Logout() {
         driver.findElement(By.id("logout")).click();
     }
+
+    public void openPatronTab() throws InterruptedException {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        patron.click();
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("search_line")));
+        Thread.sleep(500);
+    }
+
+    public void pressModify() {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("span[title='Modify']")));
+        driver.findElement(By.cssSelector("span[title='Modify']")).click();
+    }
+
+    public void updatePatronPassword(String password) throws InterruptedException {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("password")));
+        driver.findElement(By.id("password")).sendKeys(password);
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("r_password")));
+        driver.findElement(By.id("r_password")).sendKeys(password);
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("submitButton")));
+        driver.findElement(By.id("submitButton")).click();
+        Thread.sleep(1500);
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("search_button")));
+    }
+
+    public void SwitchToTab(){
+        ArrayList<String> tabs = new ArrayList<String>(driver.getWindowHandles());
+        int comicsPageIndex = tabs.size() - 1;
+        driver.switchTo().window(tabs.get(comicsPageIndex));
+    }
+
 }

@@ -1,4 +1,4 @@
 Service	License Type	Title	Barcode	Email	Library	Views	Notes
-indieflix	30-day	Outsourced - Outsourced - IndieFlix		worker1125WAS@email.com		1	
-indieflix	30-day	Dear Dolphin - Dear Dolphin - IndieFlix		gustavogiudici@gmail.com		1	
+indieflix	7-day	Outsourced - Outsourced - IndieFlix		worker1125WAS@email.com		1	
+indieflix	7-day	Dear Dolphin - Dear Dolphin - IndieFlix		gustavogiudici@gmail.com		1	
 Total	2	

@@ -29,7 +29,7 @@ qello	01/11/2017	RBdigital Trial Customer Library		Maryland	US	rbdigitaltrial			
 qello	01/12/2017	East Baton Rouge Parish Library		Louisiana	US	eastbatonrougela	7220260		21659014836462	Esposmp@gmail.com		30-day	Qello, Pongalo, TGC, IF	1	8
 qello	01/12/2017	RBdigital Account Manager Demo Library		Maryland	US	rbdigitalgatewaytrial				mctrask@gmail.com	Custom	30-day		1	0
 qello	01/12/2017	RBdigital Trial Customer Library		Maryland	US	rbdigitaltrial				direction@cid.fr		30-day		1	0
-qello	01/13/2017	RBdigital Trial Customer Library		Maryland	US	rbdigitaltrial				cebert@dconc.gov		30-day		1	9
+qello	01/13/2017	RBdigital Trial Customer Library		Maryland	US	rbdigitaltrial				cebert@dconc.gov	Test123	30-day		1	9
 qello	01/15/2017	East Baton Rouge Parish Library		Louisiana	US	eastbatonrougela	7220260		21659005687635	rridge@gmail.com		30-day	Qello, Pongalo, TGC, IF	1	0
 qello	01/16/2017	East Baton Rouge Parish Library		Louisiana	US	eastbatonrougela	7220260		21659011984794	ryanpwest1@gmail.com		30-day	Qello, Pongalo, TGC, IF	1	5
 qello	01/17/2017	East Baton Rouge Parish Library		Louisiana	US	eastbatonrougela	7220260			jschmidt5432112345@gmail.com		30-day	Qello, Pongalo, TGC, IF	1	0

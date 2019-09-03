@@ -41,7 +41,7 @@ Dash-1@email.com		fixed format goodness	02/06/2019	unknown	02/06/2019
 Noemail1@email.com		fixed format goodness	02/06/2019	unknown	02/06/2019
 RBPD-2647-002@test.com		test_2	01/29/2019	magazines	01/29/2019
 RBPD-2647-001@test.com		test1	01/29/2019	magazines	01/29/2019
-jun24@ukr.net		test1	01/24/2019	magazines	06/26/2019
+jun24@ukr.net		test1	01/24/2019	magazines	08/04/2019
 des18@des18.com		test1	01/15/2019		
 qauser011019@email.com		test_2	01/10/2019	unknown	01/10/2019
 januar10@januar10.com		test1	01/10/2019		

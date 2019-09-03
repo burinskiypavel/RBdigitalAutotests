@@ -569,6 +569,7 @@ public class TestReportsInGlobalAdmin {
     void Test_43_Crunchyroll_AdminOfServiceReport() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "crunchyroll");
         adminPage.OpenReport("//span[contains(text(), 'Admin Of Service Report')]");
+        adminPage.selectRegionCountryState("form_location_region", "North America", "form_location_country", "US", "form_location_state", "Vermont");
         adminPage.createReport("//table[@class='report_table']");
         List<String> actualReport = adminPage.GetActualData20("//div[@id='report_refresh']", "GlobalAdminReports/Crunchyroll/AdminOfServiceReport/actual.txt");
         List<String> expectedReport = adminPage.GetDateFromFile20("GlobalAdminReports/Crunchyroll/AdminOfServiceReport/expected.txt");
@@ -1138,5 +1139,43 @@ public class TestReportsInGlobalAdmin {
         List<String> expectedReport = adminPage.GetDateFromFile("GlobalAdminReports/Newspapers/SalesRepReport/expected.txt");
         Assert.assertTrue(driver.findElement(By.id("submit")).getAttribute("value").contains("Create New Report"));
         Assert.assertEquals(actualReport, expectedReport);
+    }
+
+    @Test
+    void Test_91_createNewGatewayAdmin() throws InterruptedException {
+        globalAdminPage.openAdminsTab();
+        driver.findElement(By.xpath("//a[@title='New Gateway Admin']")).click();
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("email")));
+        String timeStamp = adminPage.GetTimeStamp();
+        adminPage.fillTheFieldsToCreateNewLibraryAdmin(timeStamp, timeStamp, "12345qw", timeStamp+"@gmail.com", "12345");
+        adminPage.searchPatron(timeStamp+"@gmail.com");
+        driver.findElement(By.cssSelector("span[title='Modify']")).click();
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("email")));
+        String actualEmail = driver.findElement(By.id("email")).getAttribute("value");
+        Assert.assertEquals(actualEmail, timeStamp+"@gmail.com");
+    }
+
+    @Test
+    void Test_92_createNewLibrary() throws InterruptedException {
+        globalAdminPage.openLibrariesTab();
+        driver.findElement(By.xpath("//a[@title='Create New Library']")).click();
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("name")));
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("off_name")));
+        String timeStamp = adminPage.GetTimeStamp();
+        driver.findElement(By.id("name")).sendKeys(timeStamp);
+        driver.findElement(By.id("off_name")).sendKeys(timeStamp);
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("total_filial")));
+        driver.findElement(By.id("total_filial")).sendKeys("3");
+        driver.findElement(By.id("address_l1")).sendKeys("Washington street");
+        driver.findElement(By.id("city")).sendKeys("test");
+        driver.findElement(By.id("p_code")).sendKeys("12345");
+        driver.findElement(By.id("phone")).sendKeys("12345");
+        driver.findElement(By.id("submitButton")).click();
+        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("span[title='Stop']")));
+        driver.findElement(By.xpath("//a[contains(text(), '"+timeStamp+"')]")).click();
+        adminPage.SwitchToTab();
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[@class='withfields']")));
+        String text = driver.findElement(By.xpath("//div[@class='content']")).getText();
+        Assert.assertEquals(text, "There are no services currently available. Please contact your library.");
     }
 }
