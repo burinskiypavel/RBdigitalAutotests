@@ -251,11 +251,13 @@ public class TestLocalAdmin {
     public void test_10_imposibleLoginWithInactiveUser() throws InterruptedException {
         adminPage.patron.click();
         wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[@title='New Patron']")));
+        Thread.sleep(700);
         searchPatron("kdeamandel@asdads.nl");
         driver.findElement(By.cssSelector("td[class='Stop']")).click();
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         mainPage.Login("kdeamandel@asdads.nl", "12345qw");
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("div[class='error']")));
+        Thread.sleep(600);
+        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("div[class='error']")));
         String errorText = driver.findElement(By.cssSelector("div[class='error']")).getText();
         Assert.assertEquals(errorText, "Your account is blocked");
     }
@@ -264,10 +266,14 @@ public class TestLocalAdmin {
     public void test_11_posibleLoginWithActiveUser() throws InterruptedException {
         adminPage.patron.click();
         wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[@title='New Patron']")));
+        Thread.sleep(700);
         searchPatron("kdeamandel@asdads.nl");
+        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("td[class='Start']")));
         driver.findElement(By.cssSelector("td[class='Start']")).click();
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         mainPage.Login("kdeamandel@asdads.nl", "12345qw");
+        Thread.sleep(600);
+        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("div[class='welcome']")));
         String welcomeKelvinText = driver.findElement(By.cssSelector("div[class='welcome']")).getText();
         Assert.assertEquals(welcomeKelvinText, "Welcome, Kevin");
     }
