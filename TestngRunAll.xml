@@ -4,7 +4,7 @@
     <test name = "testngTest">
         <classes>
 
-            <class name="Gateway.TestRBDigital_Gateway" />
+            <class name="Gateway.TestRBdigital_Gateway" />
             <class name="Gateway.TestReportsInGlobalAdmin" />
             <class name="Gateway.TestReportsInLocalAdmin" />
             <class name="Gateway.TestLocalAdmin" />

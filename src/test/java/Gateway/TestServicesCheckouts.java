@@ -108,7 +108,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         login("aug28@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/lawdepot']");
         pressGetStartedButton();
-        checkURL("https://www.lawdepot.com/libraries/errorRBDG.aspx?errorcode=authentication&id=rbdg&rbid=f1662d2b-aa2a-495a-8de8-65d81c3915b7");
+        checkURLcontains("https://www.lawdepot.com/libraries/errorRBDG.aspx");
         checkText("h2", "LawDepot Library Subscription");
     }
 
@@ -134,7 +134,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         login("aug28@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/acorntv']");
         pressGetStartedButton();
-        checkURL("https://signup-qa.acorn.tv/extendsubscription.html?sessionid=dbdd5785-421e-4531-a9b9-ea6a4c3d9b06");
+        checkURLcontains("https://signup-qa.acorn.tv/extendsubscription.html?sessionid=");
         checkText("h4", "Welcome back to Acorn TV");
     }
 

@@ -318,14 +318,11 @@ public class TestLocalAdmin {
         adminPage.searchPatron(libraryAdminTimeStamp);
         driver.findElement(By.cssSelector("td[class='Start']")).click();
         driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
-
         adminPage.Logout();
         adminPage.LoginInAdmin(libraryAdminTS+"test123", "qw12345");
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("logout")));
         String text = driver.findElement(By.id("principal")).getText();
         Assert.assertEquals(text, libraryAdminTS+"test123");
     }
-
-
 
 }

@@ -400,7 +400,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='afrikaans']")));
         SelectFromSelectByIdAndValue("language_search_line", "afrikaans");
-        magazinePage.SelectMagazine("//img[@alt='WegSleep']");
+        magazinePage.SelectMagazine("//img[@alt='Huisgenoot']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: Afrikaans')]")));
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='chinese']")));
