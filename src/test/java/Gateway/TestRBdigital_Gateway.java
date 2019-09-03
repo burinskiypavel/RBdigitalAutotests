@@ -18,7 +18,7 @@ import java.io.IOException;
 import java.util.List;
 
 @Test
-public class TestRBDigital_Gateway extends BaseClass_TestRBDigital_Gateway {
+public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     //public WebDriver driver;
     //PageObj pageObj;
     MainPage mainPage;

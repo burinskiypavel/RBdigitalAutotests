@@ -24,6 +24,8 @@ public class TestLocalAdmin {
     MainPage mainPage;
     AdminPage adminPage;
     ServicePage servicePage;
+    String libraryAdminTimeStamp;
+    String libraryAdminTS;
 
     @BeforeClass
     void beforeClass() throws InterruptedException {
@@ -220,39 +222,23 @@ public class TestLocalAdmin {
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("search_button")));
         driver.findElement(By.xpath("//a[@title='New Patron']")).click();
         wait.until(ExpectedConditions.elementToBeClickable(By.id("email")));
-
         String timeStamp = adminPage.GetTimeStamp();
-        driver.findElement(By.id("email")).sendKeys(timeStamp + "@gmail.com");
-        driver.findElement(By.id("pname")).sendKeys("te");
-        driver.findElement(By.id("plname")).sendKeys("et");
-        driver.findElement(By.id("username")).sendKeys( timeStamp+"@gmail.com");
-        driver.findElement(By.id("password")).sendKeys("12345qw");
-        driver.findElement(By.id("r_password")).sendKeys("12345qw");
-        driver.findElement(By.id("submitButton")).click();
-
-        searchPatron(timeStamp+"@gmail.com");
-
+        adminPage.fillTheFieldToCreateAPatron(timeStamp + "@gmail.com", "te", "et", timeStamp+"@gmail.com", "12345qw");
+        adminPage.searchPatron(timeStamp+"@gmail.com");
         driver.findElement(By.cssSelector("span[title='Modify']")).click();
         wait.until(ExpectedConditions.elementToBeClickable(By.id("email")));
         String actualEmail = driver.findElement(By.id("email")).getAttribute("value");
         Assert.assertEquals(actualEmail, timeStamp+"@gmail.com");
     }
 
-    public void searchPatron(String patron) throws InterruptedException {
-        wait.until(ExpectedConditions.elementToBeClickable(By.id("search_line")));
-        driver.findElement(By.id("search_line")).click();
-        driver.findElement(By.id("search_line")).clear();
-        driver.findElement(By.id("search_line")).sendKeys(patron);
-        driver.findElement(By.id("search_button")).click();
-        Thread.sleep(300);
-    }
+
 
     @Test
     public void test_10_imposibleLoginWithInactiveUser() throws InterruptedException {
         adminPage.patron.click();
         wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[@title='New Patron']")));
         Thread.sleep(700);
-        searchPatron("kdeamandel@asdads.nl");
+        adminPage.searchPatron("kdeamandel@asdads.nl");
         driver.findElement(By.cssSelector("td[class='Stop']")).click();
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         mainPage.Login("kdeamandel@asdads.nl", "12345qw");
@@ -267,7 +253,7 @@ public class TestLocalAdmin {
         adminPage.patron.click();
         wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[@title='New Patron']")));
         Thread.sleep(700);
-        searchPatron("kdeamandel@asdads.nl");
+        adminPage.searchPatron("kdeamandel@asdads.nl");
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("td[class='Start']")));
         driver.findElement(By.cssSelector("td[class='Start']")).click();
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
@@ -277,5 +263,69 @@ public class TestLocalAdmin {
         String welcomeKelvinText = driver.findElement(By.cssSelector("div[class='welcome']")).getText();
         Assert.assertEquals(welcomeKelvinText, "Welcome, Kevin");
     }
+
+    @Test
+    public void test_12_createNewLibraryAdmin() throws InterruptedException {
+        adminPage.openAdminsTab();
+        driver.findElement(By.xpath("//a[@title='New Library Admin']")).click();
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("email")));
+        String timeStamp = adminPage.GetTimeStamp();
+        libraryAdminTimeStamp = timeStamp+"@gmail.com";
+        libraryAdminTS = timeStamp;
+        adminPage.fillTheFieldsToCreateNewLibraryAdmin(timeStamp, timeStamp, "12345qw", timeStamp+"@gmail.com", "12345");
+        adminPage.searchPatron(timeStamp+"@gmail.com");
+        driver.findElement(By.cssSelector("span[title='Modify']")).click();
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("email")));
+        String actualEmail = driver.findElement(By.id("email")).getAttribute("value");
+        Assert.assertEquals(actualEmail, timeStamp+"@gmail.com");
+    }
+
+    @Test
+    public void test_13_updateNewLibraryAdmin() throws InterruptedException {
+        adminPage.openAdminsTab();
+        adminPage.searchPatron(libraryAdminTimeStamp);
+        driver.findElement(By.cssSelector("span[title='Modify']")).click();
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("email")));
+        driver.findElement(By.id("username")).sendKeys("test123");
+        driver.findElement(By.id("password")).sendKeys("qw12345");
+        driver.findElement(By.id("r_password")).sendKeys("qw12345");
+        driver.findElement(By.id("submitButton")).click();
+        adminPage.searchPatron(libraryAdminTimeStamp);
+        driver.findElement(By.cssSelector("span[title='Modify']")).click();
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("email")));
+        String newUsername = driver.findElement(By.id("username")).getAttribute("value");
+        Assert.assertTrue(newUsername.contains("test123"));
+    }
+
+    @Test
+    public void test_14_imposibleLoginWithInactiveAdmin() throws InterruptedException {
+        adminPage.openAdminsTab();
+        adminPage.searchPatron(libraryAdminTimeStamp);
+        driver.findElement(By.cssSelector("td[class='Stop']")).click();
+        driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
+
+        adminPage.Logout();
+        adminPage.LoginInAdminFailed(libraryAdminTS+"test123", "qw12345");
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("div[class='error']")));
+        String errorText = driver.findElement(By.cssSelector("div[class='error']")).getText();
+        Assert.assertEquals(errorText, "Bad user name or password.");
+    }
+
+    @Test
+    public void test_15_posibleLoginWithActiveAdmin() throws InterruptedException {
+        adminPage.LoginInAdmin("pburinskiy", "pburinskiy123");
+        adminPage.openAdminsTab();
+        adminPage.searchPatron(libraryAdminTimeStamp);
+        driver.findElement(By.cssSelector("td[class='Start']")).click();
+        driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
+
+        adminPage.Logout();
+        adminPage.LoginInAdmin(libraryAdminTS+"test123", "qw12345");
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("logout")));
+        String text = driver.findElement(By.id("principal")).getText();
+        Assert.assertEquals(text, libraryAdminTS+"test123");
+    }
+
+
 
 }

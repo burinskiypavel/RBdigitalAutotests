@@ -126,6 +126,9 @@ public class AdminPage {
     @FindBy(xpath = "//a[contains(text(), 'Patron')]")
     public WebElement patron;
 
+    @FindBy(xpath = "//a[contains(text(), 'Admins')]")
+    public WebElement adminsTab;
+
 
     //public void UsePageObj() {
     //    pageObj = new PageObj(driver);
@@ -142,6 +145,15 @@ public class AdminPage {
         password.sendKeys(passwords);
         loginBtn.click();
         wait0.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("li[class='first current']")));
+    }
+
+    public void LoginInAdminFailed(String usernames, String passwords) {
+        Wait<WebDriver> wait0 = new WebDriverWait(driver, 30);
+        wait0.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.name("login")));
+        username.sendKeys(usernames);
+        password.sendKeys(passwords);
+        loginBtn.click();
+        //wait0.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("li[class='first current']")));
     }
 
     public void OpenSettings() {
@@ -488,5 +500,47 @@ public class AdminPage {
     public String GetTimeStamp() {
         String timeStamp = new SimpleDateFormat("MM_dd_yyyy_HH_mm").format(Calendar.getInstance().getTime());
         return timeStamp;
+    }
+
+    public void searchPatron(String patron) throws InterruptedException {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("search_line")));
+        driver.findElement(By.id("search_line")).click();
+        driver.findElement(By.id("search_line")).clear();
+        driver.findElement(By.id("search_line")).sendKeys(patron);
+        driver.findElement(By.id("search_button")).click();
+        Thread.sleep(300);
+    }
+
+    public void fillTheFieldToCreateAPatron(String email, String firstName, String lastName, String username, String password) {
+        driver.findElement(By.id("email")).sendKeys(email);
+        driver.findElement(By.id("pname")).sendKeys(firstName);
+        driver.findElement(By.id("plname")).sendKeys(lastName);
+        driver.findElement(By.id("username")).sendKeys( username);
+        driver.findElement(By.id("password")).sendKeys(password);
+        driver.findElement(By.id("r_password")).sendKeys(password);
+        driver.findElement(By.id("submitButton")).click();
+    }
+
+    public void fillTheFieldsToCreateNewLibraryAdmin(String username, String name, String password, String email, String phone) {
+        driver.findElement(By.id("username")).sendKeys(username);
+        driver.findElement(By.id("name")).sendKeys(name);
+        driver.findElement(By.id("password")).sendKeys(password);
+        driver.findElement(By.id("r_password")).sendKeys(password);
+        driver.findElement(By.id("email")).sendKeys(email);
+        driver.findElement(By.id("phone")).sendKeys(phone);
+        driver.findElement(By.id("submitButton")).click();
+    }
+
+    public void openAdminsTab() {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        adminsTab.click();
+        wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[@title='New Library Admin']")));
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("a[title='New Library Admin']")));
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("search_button")));
+    }
+
+    public void Logout() {
+        driver.findElement(By.id("logout")).click();
     }
 }
