@@ -18,7 +18,7 @@ import java.io.IOException;
 import java.util.List;
 
 @Test
-public class TestRBDigital_Gateway2 {
+public class TestRBdigital_Gateway2 {
     public WebDriver driver;
     PageObj pageObj;
     MainPage mainPage;
