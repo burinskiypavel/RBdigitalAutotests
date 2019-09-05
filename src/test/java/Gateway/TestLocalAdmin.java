@@ -16,6 +16,7 @@ import org.testng.Assert;
 import org.testng.annotations.*;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 
 public class TestLocalAdmin {
@@ -301,6 +302,62 @@ public class TestLocalAdmin {
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("logout")));
         String text = driver.findElement(By.id("principal")).getText();
         Assert.assertEquals(text, libraryAdminTS+"test123");
+    }
+
+    @Test
+    public void test_16_addLicenseToAcornTV(){
+        if (driver.findElements(By.id("logout")).size() != 0) {
+            adminPage.Logout();
+        }
+        adminPage.LoginInAdmin("pburinskiy", "pburinskiy123");
+        adminPage.licensesTab.click();
+        adminPage.goToLicenseManager();
+        int licensesBeforeAdd = adminPage.getDataFromLicensesOveral_getLicenses(2);
+        adminPage.createLicensesForService("acorntv", "5", "test");
+        int licensesAfterAdd = adminPage.getDataFromLicensesOveral_getLicenses(2);
+        Assert.assertEquals(licensesAfterAdd,licensesBeforeAdd+5);
+    }
+
+    @Test
+    public void test_17_addLicenseToGreatCourses(){
+        if (driver.findElements(By.id("logout")).size() != 0) {
+            adminPage.Logout();
+        }
+        adminPage.LoginInAdmin("pburinskiy", "pburinskiy123");
+        adminPage.licensesTab.click();
+        adminPage.goToLicenseManager();
+        int licensesBeforeAdd = adminPage.getDataFromLicensesOveral_getLicenses(4);
+        adminPage.createLicensesForService("great-courses", "5", "test");
+        int licensesAfterAdd = adminPage.getDataFromLicensesOveral_getLicenses(4);
+        Assert.assertEquals(licensesAfterAdd,licensesBeforeAdd+5);
+    }
+
+    @Test
+    public void test_18_addLicenseToIndieflix(){
+        if (driver.findElements(By.id("logout")).size() != 0) {
+            adminPage.Logout();
+        }
+        adminPage.LoginInAdmin("pburinskiy", "pburinskiy123");
+        adminPage.licensesTab.click();
+        adminPage.goToLicenseManager();
+        int licensesBeforeAdd = adminPage.getDataFromLicensesOveral_getLicenses(5);
+        adminPage.createLicensesForService("indieflix", "5", "test");
+        int licensesAfterAdd = adminPage.getDataFromLicensesOveral_getLicenses(5);
+        Assert.assertEquals(licensesAfterAdd,licensesBeforeAdd+5);
+    }
+
+    @Test
+    public void test_19_addLicenseToLearnItLive(){
+        if (driver.findElements(By.id("logout")).size() != 0) {
+            adminPage.Logout();
+        }
+        adminPage.LoginInAdmin("pburinskiy", "pburinskiy123");
+        adminPage.licensesTab.click();
+        adminPage.goToLicenseManager();
+        int licensesBeforeAdd = adminPage.getDataFromLicensesOveral_getLicenses(6);
+        adminPage.createLicensesForService("learnitlive", "5", "test");
+        int licensesAfterAdd = adminPage.getDataFromLicensesOveral_getLicenses(6);
+        Assert.assertEquals(licensesAfterAdd,licensesBeforeAdd+5);
     }
 
 }

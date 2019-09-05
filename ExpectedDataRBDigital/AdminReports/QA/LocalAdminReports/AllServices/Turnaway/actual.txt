@@ -95,9 +95,9 @@ acorntv	7-day		jun11@gmail.com	test1	168	qa testing I want have the license :) a
 acorntv	7-day		jun12@gmail.com	test1	168	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Monthly Patron Cap	1
 acorntv	7-day		jun12b@gmail.com	test1	168	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Monthly Patron Cap	1
 acorntv	7-day		mar20@gmail.com	test1	168	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Service Cap	1
-acorntv	7-day		mar20a@gmail.com	test1	168	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Monthly Patron Cap	1
 acorntv	7-day		mar20a@gmail.com	test1	168	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Weekly Patron Cap	1
 learnitlive	7-day		mar20a@gmail.com	test1	90	test Beta test	99999	99999	1000	1000	100	Weekly Patron Cap	1
+acorntv	7-day		mar20a@gmail.com	test1	168	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Monthly Patron Cap	1
 indieflix	7-day		sunnyinfo2@gmail.com	test1	204	test Test	99999	99999	1000	1000	100	Technical Issue	1
 indieflix	7-day		ymelnik@envionsoftware.com	test1	204	test Test	99999	99999	1000	1000	100	Technical Issue	4
 acorntv	7-day		ymelnik@envionsoftware.com	test1	168	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Technical Issue	1

@@ -575,4 +575,37 @@ public class AdminPage {
         driver.switchTo().window(tabs.get(comicsPageIndex));
     }
 
+    public int getDataFromLicensesOveral_getLicenses(int rows) {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("table[class='magazines_table']")));
+        WebElement table = driver.findElement(By.cssSelector("table[class='magazines_table']"));
+        String actual_licence;
+        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("tr")));
+        WebElement row = table.findElements(By.cssSelector("tr")).get(rows);//AcornTV = 1
+        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("td")));
+        WebElement cell = row.findElements(By.cssSelector("td")).get(7);
+        actual_licence = cell.getText();
+        int result = Integer.parseInt(actual_licence);
+        return result;
+    }
+
+    public void createLicensesForService(String service, String number, String description) {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("service_key")));
+        //pageObj.SelectFromSelectByIdAndValue("service_key", service);
+        selectServiceFromSelect("service_key", service);
+        driver.findElement(By.id("lic_limit")).clear();
+        driver.findElement(By.id("lic_limit")).sendKeys(number);
+        driver.findElement(By.id("lic_order_description")).sendKeys(description);
+        driver.findElement(By.id("generateLisenses")).click();
+        //WebElement lic_limit = driver.findElement(By.id("lic_limit"));
+        wait.until(ExpectedConditions.textToBePresentInElementValue(By.id("lic_limit"), "0"));
+    }
+
+    public void goToLicenseManager() {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("div[class='license-manager right']")));
+        driver.findElement(By.cssSelector("div[class='license-manager right']")).click();
+    }
+
 }
