@@ -254,6 +254,7 @@ public class TestReportsInLocalAdmin{
 
     @Test
     void Test_14_Artistworks_VideoUsage() throws IOException {
+        wait = new WebDriverWait(driver, 40);
         pageObj.SelectFromSelectByIdAndValue("service_t", "artistworks");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//span[contains(text(), 'Video Usage')]")));
         adminPage.SetDatesInRepot("01/06/2019", "01/29/2019");
