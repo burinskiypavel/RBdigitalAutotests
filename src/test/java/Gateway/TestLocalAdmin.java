@@ -235,7 +235,6 @@ public class TestLocalAdmin {
         driver.findElement(By.cssSelector("input[type='checkbox']")).click();
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         mainPage.Login("05_30_2019_12_20@gmail.com", "12345qw");//kdeamandel@asdads.nl
-        //Thread.sleep(600);
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("div[class='error']")));
         String errorText = driver.findElement(By.cssSelector("div[class='error']")).getText();
         Assert.assertEquals(errorText, "Your account is blocked");
@@ -250,7 +249,6 @@ public class TestLocalAdmin {
         driver.findElement(By.cssSelector("input[type='checkbox']")).click();
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         mainPage.Login("05_30_2019_12_20@gmail.com", "12345qw");
-        Thread.sleep(700);
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("div[class='welcome']")));
         String welcomeKelvinText = driver.findElement(By.cssSelector("div[class='welcome']")).getText();
         Assert.assertEquals(welcomeKelvinText, "Welcome, 05_30_2019_12_20");

@@ -27,7 +27,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         login("jun5@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/artistworks']");
         pressGetStartedButton();
-        checkURL("https://test-artistworks.artistworks.com/");
+        checkURL("https://test-mb3-awd7.pantheonsite.io/");
         checkText("a", "FREE SAMPLE LESSONS");
     }
 
@@ -82,7 +82,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         login("aug28@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/artistworks']");
         pressGetStartedButton();
-        checkURL("https://test-artistworks.artistworks.com/");
+        checkURL("https://test-mb3-awd7.pantheonsite.io/");
         checkText("a", "FREE SAMPLE LESSONS");
     }
 
@@ -113,8 +113,9 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         checkText("h2", "LawDepot Library Subscription");
     }
 
-    @Test(enabled = false)
+    @Test
     void test_10_newspapers_rbdigitalinternal() throws InterruptedException {
+        wait = new WebDriverWait(driver, 35);
         navigate("https://www.rbdigitalqa.com/rbdigitalinternal/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
