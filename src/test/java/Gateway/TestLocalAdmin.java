@@ -20,7 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class TestLocalAdmin {
-   public WebDriver driver;
+    public WebDriver driver;
     WebDriverWait wait;
     PageObj pageObj;
     MainPage mainPage;
@@ -63,7 +63,7 @@ public class TestLocalAdmin {
         driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
         adminPage.updateMonthlyOverallPatronCap("99999");
         driver.close();
-        driver.quit();
+        //driver.quit();
     }
 
     @BeforeMethod
@@ -103,7 +103,7 @@ public class TestLocalAdmin {
     public void test_02_licenses_updateWeeklyOverallPatronCap() throws InterruptedException {
         adminPage.updateWeeklyOverallPatronCap("0");
         driver.navigate().to("https://www.rbdigitalqa.com/test51");
-        mainPage.Login("jun5@gmail.com", "12345qw");
+        mainPage.Login("sep11@gmail.com", "12345qw");
         mainPage.goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/indieflix']");
         servicePage.pressGetStartedButton();
         adminPage.checkAlertModal("You have exceeded the number of services that you can access through your library this week.");
@@ -115,7 +115,7 @@ public class TestLocalAdmin {
         driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
         adminPage.updateMonthlyOverallPatronCap("0");
         driver.navigate().to("https://www.rbdigitalqa.com/test51");
-        mainPage.Login("sep2@gmail.com", "12345qw");
+        mainPage.Login("sep9@gmail.com", "12345qw");
         mainPage.goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/indieflix']");
         servicePage.pressGetStartedButton();
         adminPage.checkAlertModal("You have exceeded the number of services that you can access through your library this month.");
@@ -131,13 +131,10 @@ public class TestLocalAdmin {
     }
 
     @Test
-    public void test_05_updateSubscriptionPeriodsSetEprepActive(){
+    public void test_05_updateSubscriptionPeriodsSetEprepActive() {
         adminPage.serviceSubscriptions.click();
         driver.findElement(By.xpath("//a[contains(text(), 'EPREP')]")).click();
-        driver.findElement(By.id("start_sub_date")).clear();
-        driver.findElement(By.id("start_sub_date")).sendKeys("05/01/2016");
-        driver.findElement(By.id("exp_date")).clear();
-        driver.findElement(By.id("exp_date")).sendKeys("10/31/2024");
+        adminPage.selectSubscriptionPeriodStartEnd("05/01/2016", "10/31/2024");
         pageObj.SelectFromSelectByIdAndValue("show_service", "1");
         driver.findElement(By.id("submit_update")).click();
         adminPage.checkAlert("Are you sure you want to update?\nThis will erase the current subscription parameters.");
@@ -148,14 +145,10 @@ public class TestLocalAdmin {
     }
 
     @Test
-    public void test_06_updateSubscriptionPeriodsSetEprepActive(){
+    public void test_06_1_updateSubscriptionPeriodsSetEprepActive() {
         adminPage.serviceSubscriptions.click();
         driver.findElement(By.xpath("//a[contains(text(), 'EPREP')]")).click();
-        driver.findElement(By.id("start_sub_date")).clear();
-        driver.findElement(By.id("start_sub_date")).sendKeys("05/01/2016");
-        driver.findElement(By.id("exp_date")).clear();
-        driver.findElement(By.id("exp_date")).sendKeys("10/31/2017");
-        //pageObj.SelectFromSelectByIdAndValue("show_service", "1");
+        adminPage.selectSubscriptionPeriodStartEnd("05/01/2016", "10/31/2017");
         driver.findElement(By.id("submit_update")).click();
         adminPage.checkAlert("Are you sure you want to update?\nThis will erase the current subscription parameters.");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//li[contains(text(), 'Subscription was successfully updated')]")));
@@ -164,16 +157,38 @@ public class TestLocalAdmin {
     }
 
     @Test
+    public void test_06_2_createSubscriptionPeriodsForAcornTV() {
+        adminPage.serviceSubscriptions.click();
+        driver.findElement(By.xpath("//a[contains(text(), 'ACORN TV')]")).click();
+        adminPage.selectSubscriptionPeriodStartEnd("05/01/2025", "10/31/2026");
+        driver.findElement(By.cssSelector("input[type='button'][value='Save as new']")).click();
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//li[contains(text(), 'Subscription was successfully created')]")));
+        WebElement parent = driver.findElement(By.id("right_col"));
+        String actualText = parent.findElements(By.xpath("//label[@class='medium']")).get(6).getText();
+        Assert.assertTrue(actualText.contains("05/01/2025 — 10/31/2026"));
+    }
+
+    @Test
+    public void test_06_3_deleteSubscriptionPeriodsForAcornTV() {
+        adminPage.serviceSubscriptions.click();
+        driver.findElement(By.xpath("//a[contains(text(), 'ACORN TV')]")).click();
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//label[contains(text(), '05/01/2025 — 10/31/2026')]")));
+        driver.findElements(By.cssSelector("a[title='Remove subscription']")).get(1).click();
+        adminPage.checkAlert("Are you sure?\nYou want to delete service subscription.");
+        wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//label[contains(text(), '05/01/2025 — 10/31/2026')]")));
+    }
+
+    @Test
     public void test_07_updatePatronPassword() throws InterruptedException {
         adminPage.openPatronTab();
-        adminPage.searchPatron("bjones@emmaus.edu");
+        adminPage.searchPatron("tests@recordedbooks.com");
         adminPage.pressModify();
         adminPage.updatePatronPassword("12345qw");
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
-        mainPage.Login("bjones@emmaus.edu", "12345qw");
+        mainPage.Login("tests@recordedbooks.com", "12345qw");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("profile")));
         Assert.assertTrue(driver.findElement(By.id("profile")).isDisplayed());
     }
@@ -181,14 +196,14 @@ public class TestLocalAdmin {
     @Test
     public void test_08_updatePatronPasswordBack() throws InterruptedException {
         adminPage.openPatronTab();
-        adminPage.searchPatron("bjones@emmaus.edu");
+        adminPage.searchPatron("tests@recordedbooks.com");
         adminPage.pressModify();
         adminPage.updatePatronPassword("qw12345");
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
-        mainPage.Login("bjones@emmaus.edu", "qw12345");
+        mainPage.Login("tests@recordedbooks.com", "qw12345");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("profile")));
         Assert.assertTrue(driver.findElement(By.id("profile")).isDisplayed());
     }
@@ -202,26 +217,25 @@ public class TestLocalAdmin {
         driver.findElement(By.xpath("//a[@title='New Patron']")).click();
         wait.until(ExpectedConditions.elementToBeClickable(By.id("email")));
         String timeStamp = adminPage.GetTimeStamp();
-        adminPage.fillTheFieldToCreateAPatron(timeStamp + "@gmail.com", "te", "et", timeStamp+"@gmail.com", "12345qw");
-        adminPage.searchPatron(timeStamp+"@gmail.com");
+        adminPage.fillTheFieldToCreateAPatron(timeStamp + "@gmail.com", "te", "et", timeStamp + "@gmail.com", "12345qw");
+        adminPage.searchPatron(timeStamp + "@gmail.com");
         driver.findElement(By.cssSelector("span[title='Modify']")).click();
         wait.until(ExpectedConditions.elementToBeClickable(By.id("email")));
         String actualEmail = driver.findElement(By.id("email")).getAttribute("value");
-        Assert.assertEquals(actualEmail, timeStamp+"@gmail.com");
+        Assert.assertEquals(actualEmail, timeStamp + "@gmail.com");
     }
-
 
 
     @Test
     public void test_10_imposibleLoginWithInactiveUser() throws InterruptedException {
-        adminPage.patron.click();
-        wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[@title='New Patron']")));
-        Thread.sleep(700);
-        adminPage.searchPatron("kdeamandel@asdads.nl");
-        driver.findElement(By.cssSelector("td[class='Stop']")).click();
+        adminPage.openPatronTab();
+        adminPage.searchPatron("05_30_2019_12_20@gmail.com");
+        adminPage.showInactiveUsers();
+        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("input[type='checkbox']")));
+        driver.findElement(By.cssSelector("input[type='checkbox']")).click();
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
-        mainPage.Login("kdeamandel@asdads.nl", "12345qw");
-        Thread.sleep(600);
+        mainPage.Login("05_30_2019_12_20@gmail.com", "12345qw");//kdeamandel@asdads.nl
+        //Thread.sleep(600);
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("div[class='error']")));
         String errorText = driver.findElement(By.cssSelector("div[class='error']")).getText();
         Assert.assertEquals(errorText, "Your account is blocked");
@@ -229,18 +243,17 @@ public class TestLocalAdmin {
 
     @Test
     public void test_11_posibleLoginWithActiveUser() throws InterruptedException {
-        adminPage.patron.click();
-        wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[@title='New Patron']")));
-        Thread.sleep(700);
-        adminPage.searchPatron("kdeamandel@asdads.nl");
-        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("td[class='Start']")));
-        driver.findElement(By.cssSelector("td[class='Start']")).click();
+        adminPage.openPatronTab();
+        adminPage.searchPatron("05_30_2019_12_20@gmail.com");
+        adminPage.showInactiveUsers();
+        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("input[type='checkbox']")));
+        driver.findElement(By.cssSelector("input[type='checkbox']")).click();
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
-        mainPage.Login("kdeamandel@asdads.nl", "12345qw");
-        Thread.sleep(600);
+        mainPage.Login("05_30_2019_12_20@gmail.com", "12345qw");
+        Thread.sleep(700);
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("div[class='welcome']")));
         String welcomeKelvinText = driver.findElement(By.cssSelector("div[class='welcome']")).getText();
-        Assert.assertEquals(welcomeKelvinText, "Welcome, Kevin");
+        Assert.assertEquals(welcomeKelvinText, "Welcome, 05_30_2019_12_20");
     }
 
     @Test
@@ -249,14 +262,14 @@ public class TestLocalAdmin {
         driver.findElement(By.xpath("//a[@title='New Library Admin']")).click();
         wait.until(ExpectedConditions.elementToBeClickable(By.id("email")));
         String timeStamp = adminPage.GetTimeStamp();
-        libraryAdminTimeStamp = timeStamp+"@gmail.com";
+        libraryAdminTimeStamp = timeStamp + "@gmail.com";
         libraryAdminTS = timeStamp;
-        adminPage.fillTheFieldsToCreateNewLibraryAdmin(timeStamp, timeStamp, "12345qw", timeStamp+"@gmail.com", "12345");
-        adminPage.searchPatron(timeStamp+"@gmail.com");
+        adminPage.fillTheFieldsToCreateNewLibraryAdmin(timeStamp, timeStamp, "12345qw", timeStamp + "@gmail.com", "12345");
+        adminPage.searchPatron(timeStamp + "@gmail.com");
         driver.findElement(By.cssSelector("span[title='Modify']")).click();
         wait.until(ExpectedConditions.elementToBeClickable(By.id("email")));
         String actualEmail = driver.findElement(By.id("email")).getAttribute("value");
-        Assert.assertEquals(actualEmail, timeStamp+"@gmail.com");
+        Assert.assertEquals(actualEmail, timeStamp + "@gmail.com");
     }
 
     @Test
@@ -284,7 +297,7 @@ public class TestLocalAdmin {
         driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
 
         adminPage.Logout();
-        adminPage.LoginInAdminFailed(libraryAdminTS+"test123", "qw12345");
+        adminPage.LoginInAdminFailed(libraryAdminTS + "test123", "qw12345");
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("div[class='error']")));
         String errorText = driver.findElement(By.cssSelector("div[class='error']")).getText();
         Assert.assertEquals(errorText, "Bad user name or password.");
@@ -298,14 +311,14 @@ public class TestLocalAdmin {
         driver.findElement(By.cssSelector("td[class='Start']")).click();
         driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
         adminPage.Logout();
-        adminPage.LoginInAdmin(libraryAdminTS+"test123", "qw12345");
+        adminPage.LoginInAdmin(libraryAdminTS + "test123", "qw12345");
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("logout")));
         String text = driver.findElement(By.id("principal")).getText();
-        Assert.assertEquals(text, libraryAdminTS+"test123");
+        Assert.assertEquals(text, libraryAdminTS + "test123");
     }
 
     @Test
-    public void test_16_addLicenseToAcornTV(){
+    public void test_16_addLicenseToAcornTV() {
         if (driver.findElements(By.id("logout")).size() != 0) {
             adminPage.Logout();
         }
@@ -315,11 +328,11 @@ public class TestLocalAdmin {
         int licensesBeforeAdd = adminPage.getDataFromLicensesOveral_getLicenses(2);
         adminPage.createLicensesForService("acorntv", "5", "test");
         int licensesAfterAdd = adminPage.getDataFromLicensesOveral_getLicenses(2);
-        Assert.assertEquals(licensesAfterAdd,licensesBeforeAdd+5);
+        Assert.assertEquals(licensesAfterAdd, licensesBeforeAdd + 5);
     }
 
     @Test
-    public void test_17_addLicenseToGreatCourses(){
+    public void test_17_addLicenseToGreatCourses() {
         if (driver.findElements(By.id("logout")).size() != 0) {
             adminPage.Logout();
         }
@@ -329,11 +342,11 @@ public class TestLocalAdmin {
         int licensesBeforeAdd = adminPage.getDataFromLicensesOveral_getLicenses(4);
         adminPage.createLicensesForService("great-courses", "5", "test");
         int licensesAfterAdd = adminPage.getDataFromLicensesOveral_getLicenses(4);
-        Assert.assertEquals(licensesAfterAdd,licensesBeforeAdd+5);
+        Assert.assertEquals(licensesAfterAdd, licensesBeforeAdd + 5);
     }
 
     @Test
-    public void test_18_addLicenseToIndieflix(){
+    public void test_18_addLicenseToIndieflix() {
         if (driver.findElements(By.id("logout")).size() != 0) {
             adminPage.Logout();
         }
@@ -343,11 +356,11 @@ public class TestLocalAdmin {
         int licensesBeforeAdd = adminPage.getDataFromLicensesOveral_getLicenses(5);
         adminPage.createLicensesForService("indieflix", "5", "test");
         int licensesAfterAdd = adminPage.getDataFromLicensesOveral_getLicenses(5);
-        Assert.assertEquals(licensesAfterAdd,licensesBeforeAdd+5);
+        Assert.assertEquals(licensesAfterAdd, licensesBeforeAdd + 5);
     }
 
     @Test
-    public void test_19_addLicenseToLearnItLive(){
+    public void test_19_addLicenseToLearnItLive() {
         if (driver.findElements(By.id("logout")).size() != 0) {
             adminPage.Logout();
         }
@@ -357,7 +370,73 @@ public class TestLocalAdmin {
         int licensesBeforeAdd = adminPage.getDataFromLicensesOveral_getLicenses(6);
         adminPage.createLicensesForService("learnitlive", "5", "test");
         int licensesAfterAdd = adminPage.getDataFromLicensesOveral_getLicenses(6);
-        Assert.assertEquals(licensesAfterAdd,licensesBeforeAdd+5);
+        Assert.assertEquals(licensesAfterAdd, licensesBeforeAdd + 5);
     }
 
+    @Test
+    public void test_20_createAccesKey() {
+        adminPage.filtersTab.click();
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//a[contains(text(), 'Access Key Filtering')]")));
+        driver.findElement(By.xpath("//a[contains(text(), 'Access Key Filtering')]")).click();
+        adminPage.createAccesKeyStrikt("qa");
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("span[title='qa']")));
+        Assert.assertTrue(driver.findElement(By.cssSelector("span[title='qa']")).isDisplayed());
+    }
+
+    @Test
+    public void test_21_deleteAccesKey() throws InterruptedException {
+        adminPage.filtersTab.click();
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//a[contains(text(), 'Access Key Filtering')]")));
+        driver.findElement(By.xpath("//a[contains(text(), 'Access Key Filtering')]")).click();
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("submit")));
+        driver.findElements(By.cssSelector("a[title='Remove']")).get(1).click();
+        wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("span[title='qa']")));
+        Assert.assertFalse(driver.findElements(By.cssSelector("span[title='qa']")).size() !=0);
+    }
+
+    @Test
+    public void test_22_createChildLibrary() {
+        if (driver.findElements(By.cssSelector("a[class='child_library_edit']")).size() == 0) {
+            adminPage.settingsTab.click();
+        }
+            adminPage.goToChildLibraryPage();
+            wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//a[contains(text(), 'New Child Library')]")));
+            driver.findElement(By.xpath("//a[contains(text(), 'New Child Library')]")).click();
+            wait.until(ExpectedConditions.elementToBeClickable(By.id("submitButton")));
+            driver.findElement(By.id("off_name")).sendKeys("test");
+            driver.findElement(By.id("submitButton")).click();
+            wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//span[@title='Modify']")));
+            String actual = driver.findElements(By.cssSelector("td[class='officialName']")).get(1).getText();
+            Assert.assertEquals(actual, "test");
+    }
+    @Test
+    public void test_23_updateChildLibrary() {
+        if (driver.findElements(By.cssSelector("a[class='child_library_edit']")).size() == 0) {
+            adminPage.settingsTab.click();
+        }
+            adminPage.goToChildLibraryPage();
+            wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//span[@title='Modify']")));
+            driver.findElements(By.xpath("//span[@title='Modify']")).get(1).click();
+            wait.until(ExpectedConditions.elementToBeClickable(By.id("submitButton")));
+            driver.findElement(By.id("off_name")).sendKeys("0");
+            driver.findElement(By.id("submitButton")).click();
+            wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//span[@title='Modify']")));
+            String actual = driver.findElements(By.cssSelector("td[class='officialName']")).get(1).getText();
+            Assert.assertEquals(actual, "test0");
+    }
+
+    @Test
+    public void test_24_deleteChildLibrary() throws InterruptedException {
+        if (driver.findElements(By.cssSelector("a[class='child_library_edit']")).size() == 0) {
+            adminPage.settingsTab.click();
+
+        }
+        adminPage.goToChildLibraryPage();
+        wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//span[@title='Delete']")));
+        driver.findElements(By.xpath("//span[@title='Delete']")).get(1).click();
+        adminPage.checkAlert("WARNING: All the patrons in this library will be deleted too.\nAre you sure?");
+        Thread.sleep(1000);
+        String actual = driver.findElements(By.cssSelector("td[class='officialName']")).get(1).getText();
+        Assert.assertNotEquals(actual, "test0");
+    }
 }

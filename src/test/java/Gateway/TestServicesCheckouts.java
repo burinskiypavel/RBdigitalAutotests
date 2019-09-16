@@ -24,7 +24,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
 
     @Test
     void test_02_artistWorksService_test51() throws InterruptedException {
-        login("aug28@gmail.com", "12345qw");
+        login("jun5@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/artistworks']");
         pressGetStartedButton();
         checkURL("https://test-artistworks.artistworks.com/");
@@ -33,11 +33,12 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
 
     @Test
     void test_03_newspapers_test51() throws InterruptedException {
-        login("aug28@gmail.com", "12345qw");
+        login("jun5@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/newspapers']");
         pressGetStartedButton();
-        checkURL("https://www.pressreader.com/catalog");
-        checkText("span", "Sign in");
+        //checkURL("https://www.beta.pressreader.com/catalog");
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("label[class = 'btn btn-action']")));
+        checkText("button", "Select Publication");
     }
 
     @Test
@@ -112,7 +113,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         checkText("h2", "LawDepot Library Subscription");
     }
 
-    @Test
+    @Test(enabled = false)
     void test_10_newspapers_rbdigitalinternal() throws InterruptedException {
         navigate("https://www.rbdigitalqa.com/rbdigitalinternal/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
@@ -121,8 +122,9 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         login("aug28@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/newspapers']");
         pressGetStartedButton();
-        checkURL("https://www.pressreader.com/catalog");
-        checkText("span", "Sign in");
+        //checkURL("https://www.pressreader.com/catalog");
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("label[class = 'btn btn-action']")));
+        checkText("button", "Select Publication");
     }
 
     @Test

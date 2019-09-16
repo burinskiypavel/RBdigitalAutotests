@@ -10,17 +10,17 @@ $10 DINNERS (OR LESS!)	RBZ0000001	02/01/2012	499	1
 10 Minute Yoga Calm	RBZ0008908	07/01/2016	2500	1
 10 Week Fat Burn: Lose a Stone	RBZ0008156	08/01/2015	2500	1
 100 All-Time Greatest Comics	RBZ0007658	06/01/2016	1000	1
-100 Best Cookies	RBZ0000003	10/01/2013	500	1
+100 Best Cookies	RBZ0000003	10/01/2013	499	1
 The 100 Best Games to Play Right Now	RBZ0008983	09/01/2016	2500	1
 100 Biker	RBZ0000007	12/05/2018	Unlimited	15
 100 Decorating Ideas	RBZ0000004	12/01/2012	500	1
 100 Great Guitars	RBZ0007773	01/01/2015	500	1
-100 Greatest Comedy Movies by Radio Times	RBZ0007810	01/01/2015	2500	1
+100 Greatest Comedy Movies by Radio Times	RBZ0007810	01/01/2015	2499	1
 The 100 Greatest Graphic Novels Of All Time	RBZ0008815	07/01/2016	2500	1
 100 greatest moments from 100 years of the Tour De France	RBZ0006004	03/01/2013	2500	1
 100 Greatest Sci-Fi Characters	RBZ0008071	06/01/2015	2500	1
 The 100 Greatest Sci-Fi Characters Of All Time	RBZ0009242	03/01/2017	500	1
-100 Greatest Thriller Movies by Radio Times	RBZ0007811	01/01/2015	2499	1
+100 Greatest Thriller Movies by Radio Times	RBZ0007811	01/01/2015	2498	1
 The 100 Greatest TV Shows of All Time	RBZ0008020	05/01/2015	500	1
 100 Ideas Makeover Style	RBZ0000005			0
 100 Ideas Real Rooms	RBZ0000006	06/25/2012	500	1
@@ -47,11 +47,11 @@ The 2014 Tour de France in Britain	RBZ0007312	04/01/2014	500	1
 2nd セカンド	RBZ0006985	11/20/2018	Unlimited	13
 2rivers 双河彎	RBZ0005916	08/01/2015	2500	1
 30 Millions d'Amis	RBZ0009605	05/31/2018	Unlimited	7
-30 Minute Dinners	RBZ0000013	10/01/2015	500	1
+30 Minute Dinners	RBZ0000013	10/01/2015	499	1
 350-Calorie Meals	RBZ0009892			0
 The 3D Art & Design Annual Volume 1	RBZ0008248	01/01/2018	1000	2
-The 3D Art & Design Book	RBZ0004876	04/01/2015	1000	1
 The 3D Art & Design Book	RBZ0004687	04/15/2012	1000	1
+The 3D Art & Design Book	RBZ0004876	04/01/2015	1000	1
 3D Art & Design Tips, Tricks & Fixes	RBZ0006783	01/01/2016	1000	1
 3D Artist	RBZ0004471	01/31/2019	1000	13
 3D Make And Print 2nd Edition	RBZ0008506	12/01/2016	2500	1
@@ -387,7 +387,7 @@ Australian Shape	RBZ0000091	10/01/2016	2500	1
 Australian Sky & Telescope	RBZ0000092	12/31/2018	2500	9
 Australian Stitches	RBZ0008850	05/31/2018	2500	4
 Australian Trailrider	RBZ0000093	05/31/2018	2500	5
-Australian Traveller	RBZ0009261	10/31/2018	2500	5
+Australian Traveller	RBZ0009261	10/31/2018	Unlimited	5
 The Australian Vegan Magazine	RBZ0009264	10/31/2018	Unlimited	6
 Australian Wine Showcase	RBZ0000094	07/01/2015	2500	1
 The Australian Women's Weekly	RBZ0006978	12/01/2018	2500	14
@@ -639,7 +639,7 @@ Business Traveller Asia-Pacific Edition	RBZ0002830	11/30/2018	Unlimited	11
 Business Weekly 商業周刊	RBZ0001060	12/16/2018	2500	53
 Buy And Play The Acoustic Guitar	RBZ0008171	09/01/2015	500	1
 c't Digital Photography	RBZ0004192	12/01/2015	499	1
-C10 Builder Guide	RBZ0009826	11/12/2018	1500	3
+C10 Builder Guide	RBZ0009826	11/12/2018	Unlimited	3
 Ça m'intéresse	RBZ0003121	02/01/2018	2500	27
 Ça m'intéresse Histoire	RBZ0003128	12/01/2017	2500	14
 Ça m'intéresse Histoire HS	RBZ0008074	07/01/2017	2499	4
@@ -808,7 +808,7 @@ Clio	RBZ0001659	11/14/2018	2500	13
 Clio Especiales	RBZ0008512	11/14/2018	Unlimited	7
 Closer	RBZ0004641	12/13/2018	Unlimited	164
 Closer	RBZ0007873	12/14/2018	500	52
-Closer - C'est leur histoire	RBZ0005043	08/31/2018	2500	15
+Closer - C'est leur histoire	RBZ0005043	08/31/2018	Unlimited	15
 Closer C'est leur Histoire HS	RBZ0008547	05/01/2017	2500	2
 Closer Hors Série Destin	RBZ0008847	07/01/2016	2500	1
 Closer Hors-série Jeux	RBZ0009641	02/01/2018	2500	4
@@ -982,7 +982,7 @@ Cosmo Beauty 1	RBZ0005047	07/01/2012	2500	1
 Cosmo Body	RBZ0006167	04/01/2015	2500	1
 Cosmo on Campus	RBZ0006593	07/01/2014	500	1
 Cosmo on Campus	RBZ0006663	10/01/2014	2500	1
-Cosmopolitan	RBZ0000242	08/31/2019	499	143
+Cosmopolitan	RBZ0000242	08/31/2019	498	143
 Cosmopolitan - Chile	RBZ0004088	11/30/2018	2500	13
 Cosmopolitan - España	RBZ0001148	11/30/2018	2500	13
 Cosmopolitan Argentina	RBZ0005696	01/01/2018	2500	2
@@ -1231,7 +1231,7 @@ Dream Cottage Gardens	RBZ0000312	01/01/2011	500	1
 Dream Garden Rooms	RBZ0000313	05/01/2011	500	1
 Dream Kitchens & Baths	RBZ0000314	09/13/2018	500	2
 Dream Landscapes	RBZ0000315	01/01/2011	500	1
-Dreams	RBZ0009656	06/30/2019	2500	6
+Dreams	RBZ0009656	06/30/2019	2498	6
 Dreamscapes Travel & Lifestyle Magazine	RBZ0000316	11/20/2018	2500	7
 Dressage Today	RBZ0000317	10/31/2018	2500	12
 Drew League	RBZ0006496	08/01/2013	Unlimited	1
@@ -1400,8 +1400,8 @@ The Essential Guide to Landscape Photography 3rd edition	RBZ0003470	05/01/2011	2
 Essential Guide to Mountain Biking	RBZ0008321	09/04/2018	2500	2
 Essential Guide to Movie Superheroes	RBZ0005769	02/01/2013	2500	1
 The Essential Guide to Outdoor Photography	RBZ0003625	05/01/2015	2500	1
-The Essential Guide to Portraits	RBZ0002552	01/01/2010	2500	1
 The Essential Guide to Portraits	RBZ0003846	06/01/2015	2500	1
+The Essential Guide to Portraits	RBZ0002552	01/01/2010	2500	1
 Essential Guide to Portraits 3	RBZ0004760	05/10/2012	2500	1
 Essential Guide to the iPod	RBZ0005850	03/01/2013	2500	1
 Essential Maintenance Guide	RBZ0004599	06/01/2012	2500	1
@@ -1554,7 +1554,7 @@ Flex	RBZ0005760	04/01/2018	500	5
 FLEX	RBZ0008025	06/01/2017	2500	1
 flick!	RBZ0002543	11/18/2018	Unlimited	12
 flick!特別編集	RBZ0007012	12/10/2018	Unlimited	6
-Flightpath	RBZ0008764	10/31/2018	2500	5
+Flightpath	RBZ0008764	10/31/2018	Unlimited	5
 Florida Design	RBZ0000380	12/04/2018	2500	6
 Florida Design's MIAMI HOME & DECOR	RBZ0003066	12/01/2016	500	1
 Florida Sport Fishing	RBZ0001727	10/31/2018	500	7
@@ -3059,7 +3059,7 @@ New Artist Summer 2016	RBZ0008830	07/01/2016	2500	1
 New Belgium Brewery	RBZ0008810	06/01/2016	2500	1
 New Idea	RBZ0009176	12/16/2018	Unlimited	52
 New Old House	RBZ0005516	09/01/2016	2500	1
-New Philosopher	RBZ0008618	10/31/2018	2500	5
+New Philosopher	RBZ0008618	10/31/2018	Unlimited	5
 New Royal Family	RBZ0007725	12/01/2015	1000	1
 New Scientist	RBZ0000626	12/14/2018	500	53
 New Scientist Australian Edition	RBZ0006376	12/14/2018	500	53
@@ -3221,7 +3221,7 @@ Outdoor Rooms Bookazine	RBZ0008446	11/01/2014	2500	1
 Outer Edge	RBZ0009055	01/01/2017	2500	1
 Outside	RBZ0000653	12/01/2018	2500	14
 Outside Chile	RBZ0008275	10/31/2018	Unlimited	7
-Overland Journal	RBZ0009148	12/31/2018	1500	7
+Overland Journal	RBZ0009148	12/31/2018	Unlimited	7
 Overlander 4WD	RBZ0007812	05/31/2018	2500	7
 Owner Driver	RBZ0008135	10/31/2018	Unlimited	12
 The Oxford American	RBZ0002070	06/01/2017	500	1
@@ -3344,7 +3344,7 @@ Pianiste	RBZ0002388	12/31/2018	Unlimited	20
 Piano For Beginners	RBZ0006470	03/01/2017	1000	1
 Pick Me Up!	RBZ0000904	12/26/2018	2500	52
 Pick Me Up! Special	RBZ0000905	12/01/2018	2500	14
-Picsou Magazine	RBZ0009748	12/31/2018	2500	8
+Picsou Magazine	RBZ0009748	12/31/2018	Unlimited	8
 PieceWork	RBZ0000669	10/01/2018	2500	6
 Pirate	RBZ0009749	01/01/2018	2500	2
 Pirate Informatique	RBZ0009750	11/01/2017	2500	1
@@ -3421,8 +3421,8 @@ Preview	RBZ0002756	04/30/2018	500	6
 Preview Art	RBZ0003557	06/24/2011	2500	1
 Preview: styLIZed	RBZ0006801	01/01/2014	2500	1
 Prima	RBZ0003130	03/01/2018	2500	27
-Prima Christmas Makes	RBZ0003893	10/01/2013	2500	1
 Prima Christmas Makes	RBZ0008397	09/01/2015	2500	1
+Prima Christmas Makes	RBZ0003893	10/01/2013	2500	1
 Prima Flat Belly for Life	RBZ0009843	07/01/2017	2500	1
 Prima Makes	RBZ0007328	04/01/2018	2500	2
 Prima Makes, Create and Craft - 2016	RBZ0008638	06/01/2016	2500	1
@@ -3443,7 +3443,7 @@ Procycling Season Review 2011	RBZ0004056	11/11/2011	500	1
 Profession Cgp	RBZ0009759	01/01/2018	2500	2
 The Professional Photoshop Book	RBZ0005293	10/01/2015	1000	1
 Prog	RBZ0009842	11/29/2018	Unlimited	12
-Project Calm	RBZ0009229	11/13/2018	2500	8
+Project Calm	RBZ0009229	11/13/2018	Unlimited	8
 Prologue Magazine	RBZ0002013	12/01/2017	500	2
 Proyecto Contract	RBZ0001738	11/25/2018	2500	11
 Proyecto Contract - Especiales	RBZ0009275	03/01/2017	2500	1
@@ -3460,8 +3460,8 @@ Quattroruote	RBZ0002904	11/30/2018	Unlimited	13
 Quattroruote	RBZ0008286	11/30/2018	Unlimited	11
 Que leer	RBZ0001900	11/30/2018	2500	12
 Quebec le mag	RBZ0009762	01/01/2018	2500	2
-The Queen	RBZ0009233	01/01/2017	2500	1
 The Queen	RBZ0008155	08/01/2015	2500	1
+The Queen	RBZ0009233	01/01/2017	2500	1
 Queen Elizabeth II	RBZ0008580	04/01/2016	2500	1
 Queen 女人我最大	RBZ0003638	10/01/2017	2500	1
 Queensland Brides	RBZ0000692	06/30/2018	2500	3
@@ -3590,8 +3590,8 @@ Road & Track	RBZ0000721	12/31/2018	Unlimited	11
 Road Cyclists Training Manual 2016	RBZ0008709	01/01/2018	2500	2
 Road Rider Bike Guide	RBZ0000722	08/01/2017	2500	1
 Roaditude	RBZ0009765	10/21/2018	2500	3
-Robb Report	RBZ0009080	11/30/2018	2500	6
 Robb Report	RBZ0000724	11/30/2018	2500	13
+Robb Report	RBZ0009080	11/30/2018	2500	6
 ROBB REPORT - España	RBZ0009146	11/30/2018	2500	12
 Robb Report España en Chino	RBZ0008930	05/01/2017	2500	1
 Robb Report Watch Collector	RBZ0006163	01/01/2014	Unlimited	1
@@ -3709,7 +3709,7 @@ Scootering	RBZ0001000	11/30/2018	2500	13
 Scooting	RBZ0002742	06/01/2017	2500	1
 ScrapBook inspirations - Ideas Book	RBZ0002331	01/01/2010	500	1
 ScrapBook inspirations - Ideas Book 2nd Edition	RBZ0002223	01/01/2010	500	1
-Scrapbooking Memories	RBZ0008938	09/01/2017	2500	1
+Scrapbooking Memories	RBZ0008938	09/01/2017	Unlimited	1
 Scrapbooks Etc. Page Planner	RBZ0000743	01/01/2010	500	1
 Scratch: Learn to program the easy way	RBZ0008371	09/01/2015	2500	1
 Screen Education	RBZ0003861	11/30/2018	2500	5
@@ -3971,7 +3971,7 @@ Taste of Home Holiday	RBZ0000798	11/01/2017	2500	1
 Taste of the South	RBZ0007821	03/24/2019	2500	35
 Taste&Travel International	RBZ0003299	10/14/2018	500	5
 Taste.com.au	RBZ0000079	12/01/2018	2500	14
-taste.com.au Cookbooks	RBZ0009171	12/02/2018	2500	8
+taste.com.au Cookbooks	RBZ0009171	12/02/2018	Unlimited	8
 Tatler UK	RBZ0007059	12/31/2018	Unlimited	13
 Tattoo Style	RBZ0003983	11/01/2011	2500	1
 Teach Your kids to code	RBZ0007671	10/01/2014	2500	1
@@ -4178,10 +4178,10 @@ Ultimate Guide	RBZ0005074	06/01/2012	1000	1
 The Ultimate Guide to 3D Printing	RBZ0007422	03/01/2014	2500	1
 The Ultimate Guide to Ableton	RBZ0003474	06/01/2011	500	1
 Ultimate Guide to Ableton Live	RBZ0008385	09/01/2015	500	1
-Ultimate Guide to Amazon Kindle	RBZ0006914	01/01/2014	2500	1
 Ultimate Guide to Amazon Kindle	RBZ0001023	02/01/2013	2500	1
-The Ultimate Guide to Android Tablets	RBZ0006911	01/01/2014	2500	1
+Ultimate Guide to Amazon Kindle	RBZ0006914	01/01/2014	2500	1
 Ultimate Guide to Android Tablets	RBZ0001024	10/01/2011	2500	1
+The Ultimate Guide to Android Tablets	RBZ0006911	01/01/2014	2500	1
 The Ultimate Guide to Bicycle Maintenance	RBZ0002305	08/01/2010	2500	1
 Ultimate Guide to Bicycle maintenance & upgrades	RBZ0004761	05/01/2012	2500	1
 Ultimate Guide to Birdwatching	RBZ0009914			0
@@ -4492,7 +4492,7 @@ Windows 8.1 Technology Tips Guide	RBZ0007964	04/01/2015	500	1
 Windows 8.1 The Ultimate Handbook	RBZ0008058	05/01/2015	500	1
 Windows 8: Expert Tips and Tricks	RBZ0005814	02/01/2013	500	1
 Windows 8: The Complete Guide	RBZ0005499	11/01/2012	500	1
-Windows PC Trucs & Astuces	RBZ0009805	01/01/2018	2499	2
+Windows PC Trucs & Astuces	RBZ0009805	01/01/2018	2500	2
 Windsor Concours of Elegance Programme	RBZ0008885	09/01/2016	2500	1
 Wine Enthusiast Magazine	RBZ0001717	11/12/2018	500	14
 Wine Spectator	RBZ0001129	12/30/2018	500	16
@@ -4521,7 +4521,7 @@ Woman's Own	RBZ0001046	12/23/2018	2500	51
 Woman's Weekly	RBZ0000911	12/24/2018	2500	51
 Woman's Weekly Jubilee Collector's Edition	RBZ0004850	05/24/2012	2500	1
 Woman's World	RBZ0008599	12/23/2018	Unlimited	54
-Womankind	RBZ0008619	10/31/2018	2500	5
+Womankind	RBZ0008619	10/31/2018	Unlimited	5
 Women on Wheels	RBZ0006286	07/01/2017	2500	1
 Women's Fitness 30 Day Challenge	RBZ0007715	12/01/2014	2500	1
 Women's Fitness Australia	RBZ0007664	05/01/2018	2500	6
@@ -4769,4 +4769,4 @@ ZZZ_Oxygen Annual	RBZ0005666	01/01/2013	2499	1
 月刊HiVi	RBZ0004349	11/16/2018	Unlimited	13
 趣味の文具箱	RBZ0007009	12/12/2018	Unlimited	6
 週刊東洋経済	RBZ0004151	12/08/2018	2500	50
-Total	8431538	33626
+Total	8406032	33626

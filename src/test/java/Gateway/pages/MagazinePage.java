@@ -5,6 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -53,12 +54,17 @@ public class MagazinePage {
 
     public void OpenMagazinesPage() throws InterruptedException {
         //driver.findElement(By.xpath("//a[contains(@href, 'com/test51/service/magazines')]")).click()
+        Thread.sleep(1500);
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[contains(text(), 'Learn more')]")));
-        Thread.sleep(1500);
+
 
         WebElement learnMore = driver.findElements(By.xpath("//a[contains(text(), 'Learn more')]")).get(1);
         learnMore.click();
+        //Actions actions = new Actions(driver);
+        //actions.moveToElement(learnMore).click().build().perform();
+
+
         driver.findElement(By.xpath("//a[contains(text(), 'Browse Magazines')]")).click();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("title_search_line")));
     }

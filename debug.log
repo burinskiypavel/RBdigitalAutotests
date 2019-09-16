@@ -1,1 +1,2 @@
 [0529/184032.056:ERROR:file_io_win.cc(179)] CreateFile C:\Users\PBURIN~1\AppData\Local\Temp\scoped_dir11756_3165\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0906/131037.032:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports

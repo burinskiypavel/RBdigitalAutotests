@@ -74,10 +74,9 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     }
 
     @Test
-    void test_01_Audiobooks_and_eBooks_check_on_homePage() {
+    void test_01_CheckTexOnHomePage() {
         Assert.assertTrue(driver.findElement(By.xpath("//h1[contains(text(), '8080 Test Library')]")).isDisplayed());
         Assert.assertTrue(driver.findElement(By.xpath("//a[contains(text(), 'Audiobooks and eBooks')]")).isDisplayed());
-        Assert.assertTrue(driver.findElement(By.xpath("//a[contains(text(), 'Login')]")).isDisplayed());
     }
 
     @Test
@@ -136,18 +135,18 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_06_2_MagazineCheckoutRead() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='4 Wheel & Off Road']");
+        magazinePage.SelectMagazine("//img[@alt='4Ruedas']");
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        magazinePage.openMagazineReadingPage(431802);
+        magazinePage.openMagazineReadingPage(398482);
         magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(431802, 4);
+        readingPage.openMagazinePageFromTableOfContents(398482, 4);
         readingPage.openBookmarks();
         String actualText2 = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
         checkTextContains(actualText2, "Select the page you want to bookmark");
-        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=347");
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/431802/Cover");
+        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=349");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/398482/Cover");
     }
 
     @Test
@@ -209,15 +208,15 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
         mainPage.Login("aug28@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='The New Yorker']");
+        magazinePage.SelectMagazine("//img[@alt='Anyone Can Cook']");
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        magazinePage.openMagazineReadingPage(432288);
+        magazinePage.openMagazineReadingPage(144893);
         magazineUrl3 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(432288, 4);
-        checkUrlContains(actualUrl1, "service/magazines/landing?mag_id=6754");
-        checkUrlContains(magazineUrl3, "com/reader.php#/reader/readsvg/432288/Cover");
+        readingPage.openMagazinePageFromTableOfContents(144893, 4);
+        checkUrlContains(actualUrl1, "service/magazines/landing?mag_id=385");
+        checkUrlContains(magazineUrl3, "com/reader.php#/reader/readsvg/144893/Cover");
     }
 
     @Test
@@ -348,7 +347,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='cycling']")));
         SelectFromSelectByIdAndValue("genre_search_line", "cycling");
-        magazinePage.SelectMagazine("//img[@alt='Bike France']");
+        magazinePage.SelectMagazine("//img[@alt='Big Bike']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Cycling')]")));
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='architecture']")));
@@ -358,7 +357,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='art-photo']")));
         SelectFromSelectByIdAndValue("genre_search_line", "art-photo");
-        magazinePage.SelectMagazine("//img[@alt='Pro Photo']");
+        magazinePage.SelectMagazine("//img[@alt='Photo Editing']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Art & Photo')]")));
 
         List<String> actualReport = adminPage.GetActualDatadef("//div[@class='magazine_detail_content']", "TestRBDigital_Gateway/Test_18_OpenMagazinesCheckGenresCheckDetailPage/actual.txt");

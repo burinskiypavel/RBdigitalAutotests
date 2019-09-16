@@ -1,8 +1,13 @@
 For Period: from 01/01/2017 to 01/22/2017
 Title	Barcode	Email	Library	RBID	Checkouts	Time Period	Current Issue Default	Status
+5 Days to Die				RBC0389805	0	Monthly	25	Active
 Mars Attacks, Vol. 1: Attack From Space				RBC0387513	0	Monthly	25	Active
+Angel: Old Friends				RBC0387451	0	Monthly	25	Active
 Rocketeer Adventures, Vol. 1				RBC0387917	0	Monthly	25	Active
-Pinky and Stinky				RBC0387526	0	Monthly	25	Active
+Angel: Spotlight				RBC0387453	0	Monthly	25	Active
+High School Musical, Vol.2: A Very Strange Week				RBC0456723	0	Annually	25	Active
+High School Musical, Vol.1: A Song For East High				RBC0456722	0	Annually	25	Active
+High School Musical, Vol.3:				RBC0456724	0	Annually	25	Active
 Popeye: Classics, Vol. 2				RBC0388030	0	Monthly	25	Active
 Popeye: Classics, Vol. 1				RBC0388153	0	Monthly	25	Active
 Angel: The Curse				RBC0387455	0	Monthly	25	Active
@@ -13,8 +18,3 @@ Samurai Jack, Vol. 1: The Threads of Time				RBC0387743	0	Monthly	25	Active
 Shadow Show: Stories In Celebration of Ray Bradbury				RBC0387531	0	Monthly	25	Active
 Shockrockets				RBC0387532	0	Monthly	25	Active
 Silent Hill: Dying Inside				RBC0387533	0	Monthly	25	Active
-Spike: After The Fall, Vol.1				RBC0387976	0	Monthly	25	Active
-Star Mage				RBC0387539	0	Monthly	25	Active
-Star Slammers: The Complete Collection by Walter Simonson				RBC0387975	0	Monthly	25	Active
-The Hammer: Kelley Jones' Complete Series				RBC0387548	0	Monthly	25	Active
-The Lovely Horrible Stuff				RBC0387549	0	Monthly	25	Active

@@ -1,8 +1,8 @@
-Pro Photo
+Photo Editing
 
-November 30, 2018 *A current subscription to this magazine is unavailable from RBdigital Magazines. Back issues may still be available for checkout.
+July 01, 2017
 
-ProPhoto magazine is the professional photographer's trusted resource in a world of rapidly changing digital imaging and multi-media technologies. Every issue features stunning portfolios, equipment evaluations, exhibition details, photographer profiles, advanced techniques and product guides.
+Easy to follow advice on the basics of fixing and optimising your photos, from resizing and cropping through to brightness, contrast, layers, colour adjustments, B&W, and how to prepare your best images for high-quality prints. This handy guide explains how all image editors provide a workspace with menu bars and toolbars for accessing the adjustments. Although their layout may be a little different, in essence most of them operate similarly and are easy to use. Photo Editing shows you the best ways to adjust and optimise your photos, including how to resize, crop, retouch, convert to monochrome, fix contrast, brightness, colour, use layers, filters, and effects. This guide shows you how to take control of the many ways to improve and perfect your photos.
 
 READ NOW:
 
@@ -18,6 +18,6 @@ country: Australia
 
 language: English
 
-no. of issues: Quarterly
+no. of issues: One Issue Only
 
  Checkout  Automatically checkout the next issue

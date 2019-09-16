@@ -1,16 +1,16 @@
 <suite name = "Automation Suite" allow-return-values="true" verbose="1" parallel="tests" thread-count="2">
-    <!--<test name = "testngTest" parallel="classes" thread-count="2">-->
-    <test name = "testngTest">
-        <classes>
+<!--<test name = "testngTest" parallel="classes" thread-count="2">-->
+ <test name = "testngTest">
+     <classes>
 
-            <class name="Gateway.TestRBdigital_Gateway" />
-            <class name="Gateway.TestReportsInGlobalAdmin" />
-            <class name="Gateway.TestReportsInLocalAdmin" />
-            <class name="Gateway.TestLocalAdmin" />
-            <class name="Gateway.TestServicesCheckouts" />
+         <class name="Gateway.TestRBdigital_Gateway" />
+         <class name="Gateway.TestReportsInGlobalAdmin" />
+         <class name="Gateway.TestReportsInLocalAdmin" />
+         <class name="Gateway.TestLocalAdmin" />
+         <class name="Gateway.TestServicesCheckouts" />
 
-        </classes>
+     </classes>
 
-    </test>
+ </test>
 
 </suite>

@@ -95,6 +95,7 @@ public class TestReportsInGlobalAdmin {
 
     @Test
     void Test_03_AllServices_GatewayServiceUsageReport() throws IOException {
+        wait = new WebDriverWait(driver, 35);
         pageObj.SelectFromSelectByIdAndValue("service_t", "all");
         adminPage.OpenReport("//a[contains(text(), 'Gateway Service Usage Report')]");
         adminPage.SetDatesInRepot("07/01/2017", "07/01/2017");
@@ -1149,6 +1150,7 @@ public class TestReportsInGlobalAdmin {
         String timeStamp = adminPage.GetTimeStamp();
         adminPage.fillTheFieldsToCreateNewLibraryAdmin(timeStamp, timeStamp, "12345qw", timeStamp+"@gmail.com", "12345");
         adminPage.searchPatron(timeStamp+"@gmail.com");
+        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("span[title='Modify']")));
         driver.findElement(By.cssSelector("span[title='Modify']")).click();
         wait.until(ExpectedConditions.elementToBeClickable(By.id("email")));
         String actualEmail = driver.findElement(By.id("email")).getAttribute("value");

@@ -129,6 +129,11 @@ public class AdminPage {
     @FindBy(xpath = "//a[contains(text(), 'Admins')]")
     public WebElement adminsTab;
 
+    @FindBy(xpath = "//a[contains(text(), 'Filters')]")
+    public WebElement filtersTab;
+
+    @FindBy(xpath = "//a[contains(text(), 'Settings')]")
+    public WebElement settingsTab;
 
     //public void UsePageObj() {
     //    pageObj = new PageObj(driver);
@@ -419,7 +424,7 @@ public class AdminPage {
       //globalAdminPage.gatewayServiceUsageReport.click();
   }
   public void createReport(String xpath){
-      Wait<WebDriver> wait = new WebDriverWait(driver, 30);
+      Wait<WebDriver> wait = new WebDriverWait(driver, 34);
       createReportBtn.click();
       wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath(xpath)));
   }
@@ -503,6 +508,7 @@ public class AdminPage {
     }
 
     public void searchPatron(String patron) throws InterruptedException {
+        Thread.sleep(300);
         Wait<WebDriver> wait = new WebDriverWait(driver, 20);
         wait.until(ExpectedConditions.elementToBeClickable(By.id("search_line")));
         driver.findElement(By.id("search_line")).click();
@@ -510,6 +516,12 @@ public class AdminPage {
         driver.findElement(By.id("search_line")).sendKeys(patron);
         driver.findElement(By.id("search_button")).click();
         Thread.sleep(300);
+    }
+
+    public void showInactiveUsers(){
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        driver.findElement(By.cssSelector("a[title='Show Inactive Users']")).click();
+        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("a[title='Hide Inactive Users']")));
     }
 
     public void fillTheFieldToCreateAPatron(String email, String firstName, String lastName, String username, String password) {
@@ -530,6 +542,8 @@ public class AdminPage {
         driver.findElement(By.id("email")).sendKeys(email);
         driver.findElement(By.id("phone")).sendKeys(phone);
         driver.findElement(By.id("submitButton")).click();
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("search_button")));
     }
 
     public void openAdminsTab() {
@@ -547,8 +561,9 @@ public class AdminPage {
     public void openPatronTab() throws InterruptedException {
         Wait<WebDriver> wait = new WebDriverWait(driver, 20);
         patron.click();
+        wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[@title='New Patron']")));
         wait.until(ExpectedConditions.elementToBeClickable(By.id("search_line")));
-        Thread.sleep(500);
+        Thread.sleep(700);
     }
 
     public void pressModify() {
@@ -606,6 +621,26 @@ public class AdminPage {
         Wait<WebDriver> wait = new WebDriverWait(driver, 20);
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("div[class='license-manager right']")));
         driver.findElement(By.cssSelector("div[class='license-manager right']")).click();
+    }
+
+    public void selectSubscriptionPeriodStartEnd(String startDate, String endDate) {
+        driver.findElement(By.id("start_sub_date")).clear();
+        driver.findElement(By.id("start_sub_date")).sendKeys(startDate);
+        driver.findElement(By.id("exp_date")).clear();
+        driver.findElement(By.id("exp_date")).sendKeys(endDate);
+    }
+
+    public void createAccesKeyStrikt(String key) {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("submit")));
+        driver.findElement(By.id("access_key")).sendKeys(key);
+        driver.findElement(By.id("submit")).click();
+    }
+
+    public void goToChildLibraryPage() {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("a[class='child_library_edit']")));
+        driver.findElement(By.cssSelector("a[class='child_library_edit']")).click();
     }
 
 }

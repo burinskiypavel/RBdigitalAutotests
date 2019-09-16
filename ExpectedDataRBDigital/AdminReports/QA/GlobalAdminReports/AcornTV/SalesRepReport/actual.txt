@@ -4,8 +4,8 @@ Steve Wilks	swilks@recordedbooks.com	Woodward Public Library	7219989	US	Oklahoma
 Steve Wilks	swilks@recordedbooks.com	Will Rogers Library	7214712	US	Oklahoma	07/01/2019	06/30/2020	Acorn Only
 Steve Wilks	swilks@recordedbooks.com	Piedmont Public Library	7218372	US	Oklahoma	06/01/2019	05/31/2020	
 Steve Wilks	swilks@recordedbooks.com	Okmulgee Public Library	7220059	US	Oklahoma	08/01/2018	07/31/2019	
-Steve Wilks	swilks@recordedbooks.com	Will Rogers Library	7214712	US	Oklahoma	07/01/2018	06/30/2019	Acorn Only
 Steve Wilks	swilks@recordedbooks.com	Woodward Public Library	7219989	US	Oklahoma	07/01/2018	06/30/2019	Oklahoma Digital
+Steve Wilks	swilks@recordedbooks.com	Will Rogers Library	7214712	US	Oklahoma	07/01/2018	06/30/2019	Acorn Only
 Steve Wilks	swilks@recordedbooks.com	Piedmont Public Library	7218372	US	Oklahoma	06/01/2018	05/31/2019	
 Steve Wilks	swilks@recordedbooks.com	Will Rogers Library	7214712	US	Oklahoma	03/02/2018	06/30/2018	Acorn Only
 Total	9

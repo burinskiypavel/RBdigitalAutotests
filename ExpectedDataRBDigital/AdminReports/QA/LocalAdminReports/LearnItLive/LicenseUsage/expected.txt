@@ -1,12 +1,12 @@
 For Period: from 05/06/2016 to 07/01/2018
 Service	Date	Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
-learnitlive	05/17/2018	test51			qwerty	avolkov@envionsoftware.com	test_1	7-day		1	0
+learnitlive	05/17/2018	test51			qwerty	avolkov@envionsoftware.com	test1	7-day		1	0
 learnitlive	05/18/2018	test51				testbb201805182122@email.com		7-day		1	0
 learnitlive	05/21/2018	test51				new@new.new		7-day		1	0
-learnitlive	05/21/2018	test51				sidsnewemail@learnitlive.com	test_1	7-day		1	0
+learnitlive	05/21/2018	test51				sidsnewemail@learnitlive.com	test1	7-day		1	0
 learnitlive	05/30/2018	test51				adrian.alexe@tremend.com		7-day		1	0
-learnitlive	05/30/2018	test51				dbejan@tremend.ro	test_1	7-day		1	0
-learnitlive	05/30/2018	test51			qwerty	avolkov@envionsoftware.com	test_1	7-day		1	0
+learnitlive	05/30/2018	test51				dbejan@tremend.ro	test1	7-day		1	0
+learnitlive	05/30/2018	test51			qwerty	avolkov@envionsoftware.com	test1	7-day		1	0
 learnitlive	05/31/2018	test51				adrianalexe15@yahoo.com		7-day		1	0
 learnitlive	05/31/2018	test51				adrianalexe32@gmail.com		7-day		1	0
 learnitlive	05/31/2018	test51				new_test@test.com		7-day		1	0
@@ -15,7 +15,7 @@ learnitlive	05/31/2018	test51				test_001241@mailinator.com		7-day		1	0
 learnitlive	05/31/2018	test51				test_001242@mailinator.com		7-day		1	0
 learnitlive	05/31/2018	test51				test_001243@mailinator.com		7-day		1	0
 learnitlive	05/31/2018	test51				test_001244@mailinator.com		7-day		1	0
-learnitlive	06/01/2018	test51				sidsnewemail@learnitlive.com	test_1	7-day		1	0
+learnitlive	06/01/2018	test51				sidsnewemail@learnitlive.com	test1	7-day		1	0
 learnitlive	06/06/2018	test51				test_001339@mailinator.com		7-day		1	0
 learnitlive	06/07/2018	test51				new_test@test.com		7-day		1	0
 learnitlive	06/28/2018	test51				new_test@test.com		7-day		1	0
