@@ -83,7 +83,6 @@ public class TestLocalAdmin {
     @Test
     public void test_01_licenses_OpenLicensesTab() {
         adminPage.licensesTab.click();
-        //Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//a[contains(text(), 'License Manager')]")));
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//label[contains(text(), 'Weekly Overall Patron Cap:')]")));
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//label[contains(text(), 'Monthly Overall Patron Cap:')]")));
@@ -293,7 +292,6 @@ public class TestLocalAdmin {
         adminPage.searchPatron(libraryAdminTimeStamp);
         driver.findElement(By.cssSelector("td[class='Stop']")).click();
         driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
-
         adminPage.Logout();
         adminPage.LoginInAdminFailed(libraryAdminTS + "test123", "qw12345");
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("div[class='error']")));
@@ -373,9 +371,8 @@ public class TestLocalAdmin {
 
     @Test
     public void test_20_createAccesKey() {
-        adminPage.filtersTab.click();
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//a[contains(text(), 'Access Key Filtering')]")));
-        driver.findElement(By.xpath("//a[contains(text(), 'Access Key Filtering')]")).click();
+        adminPage.openFiltersTab();
+        adminPage.goToAccessKeyFiltering();
         adminPage.createAccesKeyStrikt("qa");
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("span[title='qa']")));
         Assert.assertTrue(driver.findElement(By.cssSelector("span[title='qa']")).isDisplayed());
@@ -383,10 +380,8 @@ public class TestLocalAdmin {
 
     @Test
     public void test_21_deleteAccesKey() throws InterruptedException {
-        adminPage.filtersTab.click();
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//a[contains(text(), 'Access Key Filtering')]")));
-        driver.findElement(By.xpath("//a[contains(text(), 'Access Key Filtering')]")).click();
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("submit")));
+        adminPage.openFiltersTab();
+        adminPage.goToAccessKeyFiltering();
         driver.findElements(By.cssSelector("a[title='Remove']")).get(1).click();
         wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("span[title='qa']")));
         Assert.assertFalse(driver.findElements(By.cssSelector("span[title='qa']")).size() !=0);
@@ -407,6 +402,7 @@ public class TestLocalAdmin {
             String actual = driver.findElements(By.cssSelector("td[class='officialName']")).get(1).getText();
             Assert.assertEquals(actual, "test");
     }
+
     @Test
     public void test_23_updateChildLibrary() {
         if (driver.findElements(By.cssSelector("a[class='child_library_edit']")).size() == 0) {
@@ -436,5 +432,23 @@ public class TestLocalAdmin {
         Thread.sleep(1000);
         String actual = driver.findElements(By.cssSelector("td[class='officialName']")).get(1).getText();
         Assert.assertNotEquals(actual, "test0");
+    }
+
+    @Test
+    public void test_25_createBarcode() {
+        adminPage.openFiltersTab();
+        adminPage.goToBarcodeFiltering();
+        adminPage.createBarcode("abc", "5");
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("span[title='abc']")));
+        Assert.assertTrue(driver.findElement(By.cssSelector("span[title='abc']")).isDisplayed());
+    }
+
+    @Test
+    public void test_26_deleteBarcode() throws InterruptedException {
+        adminPage.openFiltersTab();
+        adminPage.goToBarcodeFiltering();
+        driver.findElements(By.cssSelector("a[title='Remove']")).get(0).click();
+        wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("span[title='abc']")));
+        Assert.assertFalse(driver.findElements(By.cssSelector("span[title='abc']")).size() !=0);
     }
 }

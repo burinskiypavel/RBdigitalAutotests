@@ -643,4 +643,29 @@ public class AdminPage {
         driver.findElement(By.cssSelector("a[class='child_library_edit']")).click();
     }
 
+    public void openFiltersTab() {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 15);
+        filtersTab.click();
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//a[contains(text(), 'Access Key Filtering')]")));
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//a[contains(text(), 'Barcode Filtering')]")));
+    }
+
+    public void createBarcode(String pref, String len) {
+        driver.findElement(By.id("barcode_pref")).sendKeys(pref);
+        driver.findElement(By.id("barcode_len")).sendKeys(len);
+        driver.findElement(By.id("submit")).click();
+    }
+
+    public void goToBarcodeFiltering() {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 15);
+        driver.findElement(By.xpath("//a[contains(text(), 'Barcode Filtering')]")).click();
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("submit")));
+    }
+
+    public void goToAccessKeyFiltering() {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 15);
+        driver.findElement(By.xpath("//a[contains(text(), 'Access Key Filtering')]")).click();
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("submit")));
+    }
+
 }
