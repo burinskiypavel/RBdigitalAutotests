@@ -130,6 +130,21 @@ public class MainPage {
         pageObj.TypeInFieldByName("username", username);
         pageObj.TypeInFieldByName("password", password);
         pageObj.ClickOnButtonByName("pl_login");
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//div[contains(text(), 'Welcome')]")));
+    }
+
+    public void LoginUnsuccessful(String username, String password) {
+        UsePageObj();
+        //driver.findElement(By.xpath("//a[contains(text(), 'Login')]")).click();
+        loginBtn.click();
+        Wait<WebDriver> wait = new WebDriverWait(driver, 30);
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.name("pl_login")));
+        //WebElement loginButton = driver.findElement(By.name("pl_login"));
+        //Assert.assertTrue(loginButton.isDisplayed());
+        usernameField.clear();
+        pageObj.TypeInFieldByName("username", username);
+        pageObj.TypeInFieldByName("password", password);
+        pageObj.ClickOnButtonByName("pl_login");
         //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//div[contains(text(), 'Welcome')]")));
     }
 

@@ -27,8 +27,8 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         login("jun5@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/artistworks']");
         pressGetStartedButton();
-        checkURL("https://test-mb3-awd7.pantheonsite.io/");
-        checkText("a", "FREE SAMPLE LESSONS");
+        //checkURL("https://test-mb3-awd7.pantheonsite.io/");
+        checkText("Privacy Policy");
     }
 
     @Test
@@ -37,8 +37,8 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/newspapers']");
         pressGetStartedButton();
         //checkURL("https://www.beta.pressreader.com/catalog");
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("label[class = 'btn btn-action']")));
-        checkText("button", "Select Publication");
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("a[class = 'toolbar-button-appmenu']")));
+        checkText("Publications");
     }
 
     @Test
@@ -47,7 +47,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/magazines']");
         pressGetStartedButton();
         checkURL("https://www.rbdigitalqa.com/test51/service/magazines/landing?");
-        checkText("a", "My Collection");
+        checkText("My Collection");
         checkElementIsPresent("div[class='magazine-card']");
     }
 
@@ -57,7 +57,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/comics']");
         pressGetStartedButton();
         checkURL("https://www.rbdigitalqa.com/test51/service/comics/landing?");
-        checkText("a", "My Collection");
+        checkText("My Collection");
         checkElementIsPresent("div[class='magazine-card']");
     }
 
@@ -82,8 +82,8 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         login("aug28@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/artistworks']");
         pressGetStartedButton();
-        checkURL("https://test-mb3-awd7.pantheonsite.io/");
-        checkText("a", "FREE SAMPLE LESSONS");
+        //checkURL("https://test-mb3-awd7.pantheonsite.io/");
+        checkText("Privacy Policy");
     }
 
     @Test
@@ -97,7 +97,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         pressGetStartedButton();
         checkURL("https://learnit.hoonuit.com/?from_auth=1");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("section_heading_Pathways")));
-        checkText("h2", "Pathways");
+        checkText("Pathways");
     }
 
     @Test
@@ -110,7 +110,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/lawdepot']");
         pressGetStartedButton();
         checkURLcontains("https://www.lawdepot.com/libraries/errorRBDG.aspx");
-        checkText("h2", "LawDepot Library Subscription");
+        checkText("LawDepot Library Subscription");
     }
 
     @Test
@@ -124,8 +124,8 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/newspapers']");
         pressGetStartedButton();
         //checkURL("https://www.pressreader.com/catalog");
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("label[class = 'btn btn-action']")));
-        checkText("button", "Select Publication");
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("a[class = 'toolbar-button-appmenu']")));
+        checkText("Publications");
     }
 
     @Test
@@ -138,7 +138,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/acorntv']");
         pressGetStartedButton();
         checkURLcontains("https://signup-qa.acorn.tv/extendsubscription.html?sessionid=");
-        checkText("h4", "Welcome back to Acorn TV");
+        checkText("Welcome back to Acorn TV");
     }
 
     @Test
@@ -151,7 +151,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/pongalo']");
         pressGetStartedButton();
         checkURLcontains("https://frontend-dev.pongalo.com/recorded-books/");
-        checkText("p", "PONGALO está disponible en tu teléfono móvil, tableta, computador y TV.");
+        checkText("PONGALO está disponible en tu teléfono móvil, tableta, computador y TV.");
     }
 
     @Test
@@ -164,6 +164,6 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/method-test-prep']");
         pressGetStartedButton();
         checkURLcontains("https://dev.methodtestprep.com/student/home/index_v4");
-        checkText("h2", "Student Dashboard");
+        checkText("Student Dashboard");
     }
 }

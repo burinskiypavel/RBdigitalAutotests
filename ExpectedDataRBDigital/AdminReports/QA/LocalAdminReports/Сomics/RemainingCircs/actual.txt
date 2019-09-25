@@ -73,12 +73,12 @@ Angel: Barbary Coast	RBC0387450
 Angel: Blood and Trenches	RBC0387447		
 Angel: Immortality For Dummies	RBC0387446		
 Angel: Lorne	RBC0387445		
-Angel: Masks	RBC0387444	05/19/2017	24
+Angel: Masks	RBC0387444	05/19/2017	Unlimited
 Angel: Old Friends	RBC0387451		
 Angel: Only Human	RBC0387452		
 Angel: Smile Time - Collected Edition	RBC0389781		
 Angel: Spotlight	RBC0387453		
-Angel: The Crown Prince Syndrome	RBC0387454	05/27/2017	25
+Angel: The Crown Prince Syndrome	RBC0387454	05/27/2017	22
 Angel: The Curse	RBC0387455		
 Angel: The Wolf, The Ram, and The Heart	RBC0387456		
 Angora Napkin, Vol. 1	RBC0387457		
@@ -90,7 +90,7 @@ ANNIHILATION: CONQUEST BOOK 1 - Special	RBC0424370
 ANNIHILATION: CONQUEST BOOK 2 - Special	RBC0424371		
 ANT-MAN SEASON ONE - Special	RBC0424372		
 ANT-MAN VOL. 1: SECOND-CHANCE MAN - Special	RBC0424373		
-Army of Two, Vol. 1: Across The Border	RBC0389796	08/08/2017	11
+Army of Two, Vol. 1: Across The Border	RBC0389796	08/08/2017	5
 ASTONISHING X-MEN VOL. 1: GIFTED - Special	RBC0424374		
 ASTONISHING X-MEN VOL. 2: DANGEROUS - Special	RBC0424375		
 ASTONISHING X-MEN VOL. 3: TORN - Special	RBC0424376		
@@ -377,7 +377,7 @@ Joe Hills The Cape	RBC0424295
 Joe Hills The Cape:1969	RBC0424296		
 Judas: The Last Days	RBC0387506		
 Judge Dredd, Vol. 1	RBC0387507		
-Judge Dredd, Vol. 2	RBC0387508	06/04/2017	25
+Judge Dredd, Vol. 2	RBC0387508	06/04/2017	24
 Judge Dredd, Vol. 3	RBC0387509		
 Judge Dredd, Vol. 4: Thirteen Badges	RBC0387510		
 Judge Dredd: Mega-City Two	RBC0406803		
@@ -677,4 +677,4 @@ X-MEN: MUTANT GENESIS - Special	RBC0424669
 X-MEN: PHOENIX ENDSONG - Special	RBC0424670		
 X-MEN: SCHISM - Special	RBC0424671		
 X-MEN: SECOND COMING - Special	RBC0424672	12/31/1969	21
-Total	181
+Total	147

@@ -95,7 +95,7 @@ public class TestReportsInGlobalAdmin {
 
     @Test
     void Test_03_AllServices_GatewayServiceUsageReport() throws IOException {
-        wait = new WebDriverWait(driver, 35);
+        wait = new WebDriverWait(driver, 40);
         pageObj.SelectFromSelectByIdAndValue("service_t", "all");
         adminPage.OpenReport("//a[contains(text(), 'Gateway Service Usage Report')]");
         adminPage.SetDatesInRepot("07/01/2017", "07/01/2017");

@@ -656,11 +656,21 @@ public class AdminPage {
         driver.findElement(By.id("submit")).click();
     }
 
+    public void createIPFiltering(String first, String second, String third, String forth) {
+        driver.findElement(By.id("ip4a")).sendKeys(first);
+        driver.findElement(By.id("ip4b")).sendKeys(second);
+        driver.findElement(By.id("ip4c")).sendKeys(third);
+        driver.findElement(By.id("ip4d")).sendKeys(forth);
+        driver.findElement(By.id("is_net")).click();
+        driver.findElement(By.id("submit")).click();
+    }
+
     public void goToBarcodeFiltering() {
         Wait<WebDriver> wait = new WebDriverWait(driver, 15);
         driver.findElement(By.xpath("//a[contains(text(), 'Barcode Filtering')]")).click();
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("submit")));
     }
+
 
     public void goToAccessKeyFiltering() {
         Wait<WebDriver> wait = new WebDriverWait(driver, 15);

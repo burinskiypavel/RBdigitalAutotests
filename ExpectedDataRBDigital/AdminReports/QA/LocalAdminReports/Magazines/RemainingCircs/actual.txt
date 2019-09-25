@@ -4,7 +4,7 @@ $10 DINNERS (OR LESS!)	RBZ0000001	02/01/2012	499	1
 .net CSS Design Essentials	RBZ0003796			0
 0024 Horloges	RBZ0002360	11/30/2018	2500	2
 0024 WatchWorld Scandinavia	RBZ0002875	12/01/2016	2500	1
-01net	RBZ0001638	08/06/2019	5	41
+01net	RBZ0001638	08/06/2019	4	41
 01net HS	RBZ0002120	02/01/2018	200	2
 10 Minute Pilates	RBZ0007447	05/01/2014	2500	1
 10 Minute Yoga Calm	RBZ0008908	07/01/2016	2500	1
@@ -15,7 +15,7 @@ The 100 Best Games to Play Right Now	RBZ0008983	09/01/2016	2500	1
 100 Biker	RBZ0000007	12/05/2018	Unlimited	15
 100 Decorating Ideas	RBZ0000004	12/01/2012	500	1
 100 Great Guitars	RBZ0007773	01/01/2015	500	1
-100 Greatest Comedy Movies by Radio Times	RBZ0007810	01/01/2015	2499	1
+100 Greatest Comedy Movies by Radio Times	RBZ0007810	01/01/2015	2498	1
 The 100 Greatest Graphic Novels Of All Time	RBZ0008815	07/01/2016	2500	1
 100 greatest moments from 100 years of the Tour De France	RBZ0006004	03/01/2013	2500	1
 100 Greatest Sci-Fi Characters	RBZ0008071	06/01/2015	2500	1
@@ -64,7 +64,7 @@ The 3D Art & Design Book	RBZ0004876	04/01/2015	1000	1
 4x4 Magazine Australia	RBZ0007748	12/01/2018	2500	13
 50 Baby Knits	RBZ0008729	06/01/2016	2500	1
 50 Dream Rooms	RBZ0006495	09/01/2013	2500	1
-50 Great British Locomotives	RBZ0000019	10/21/2008	2500	1
+50 Great British Locomotives	RBZ0000019	10/21/2008	2499	1
 The 50 Greatest SciFi Icons	RBZ0006686	10/01/2013	1000	1
 50 Photo Projects Vol 2	RBZ0005847	02/01/2013	2500	1
 50 Things No Man Should Be Without	RBZ0006191	05/01/2013	2500	1
@@ -153,7 +153,7 @@ AFAR	RBZ0003187	11/30/2018	500	6
 Affaires Plus (A+)	RBZ0000023	10/31/2018	2500	5
 Affix Magazine	RBZ0008234	09/01/2015	2500	1
 The Africa Report	RBZ0002891	11/30/2018	500	11
-African Hunting Gazette	RBZ0008294	09/30/2018	2500	5
+African Hunting Gazette	RBZ0008294	09/30/2018	Unlimited	5
 Afrique Magazine	RBZ0009612	02/01/2018	Unlimited	3
 Afrique Magazine HS	RBZ0009613	12/01/2017	2500	1
 Afrique Mediterranée Business	RBZ0009614	12/01/2017	2500	1
@@ -799,7 +799,7 @@ Classics in Camera	RBZ0003494	06/01/2011	2500	1
 Classics Monthly	RBZ0000221	12/31/2018	500	14
 Classy	RBZ0009196	06/01/2017	2500	1
 Claves de la Razón Práctica	RBZ0004397	10/31/2018	2500	7
-Clean Eating	RBZ0000222	06/30/2019	2499	80
+Clean Eating	RBZ0000222	06/30/2019	2498	80
 Clés pour le train miniature	RBZ0007318	10/31/2018	Unlimited	19
 Click	RBZ0007937	02/01/2018	500	3
 Climbing	RBZ0000223	11/30/2018	2500	7
@@ -1215,7 +1215,7 @@ Dogs Life	RBZ0000307	08/01/2018	2500	4
 Dogster	RBZ0008883	06/01/2017	500	1
 Dolls Bears & Collectables	RBZ0007651	08/01/2017	2500	1
 Domus	RBZ0004366	11/30/2018	Unlimited	13
-Donna Hay Kids' Magazine	RBZ0004007	06/01/2014	2500	3
+Donna Hay Kids' Magazine	RBZ0004007	06/01/2014	2499	3
 donna hay magazine	RBZ0004006	08/01/2018	2500	5
 donna hay: Fresh + Light	RBZ0008436	03/01/2018	2500	3
 Donna Magazin	RBZ0008677	12/01/2017	2500	1
@@ -1365,7 +1365,7 @@ Entrepreneur's Success Stories	RBZ0005233	09/01/2012	500	1
 Entrepreneur's The Franchise Guidebook	RBZ0005232	09/01/2012	500	1
 Entrepreneurs 52 Inspiring Success Stories	RBZ0008629	03/01/2016	2500	1
 Entrepreneur’s Franchise Your Way to Business Success	RBZ0004839	05/22/2012	500	1
-Entrepreneur’s 45 Home-Based Business Ideas	RBZ0004838	05/21/2012	500	1
+Entrepreneur’s 45 Home-Based Business Ideas	RBZ0004838	05/21/2012	499	1
 Entrepreneur’s The Ultimate Guide to Business Success	RBZ0004840	05/22/2012	500	1
 Entrevue	RBZ0008536	04/01/2017	2500	22
 epicure	RBZ0003940	11/30/2018	2500	13
@@ -1383,7 +1383,7 @@ Esquire - Mexico	RBZ0000348	11/30/2018	2500	11
 Esquire Big Black Book	RBZ0006922	01/01/2014	2500	1
 Esquire Philippines	RBZ0003855	08/01/2017	500	1
 Esquire Summer Style Guide 2013	RBZ0006206	06/01/2013	2500	1
-Esquire Taiwan 君子時代雜誌	RBZ0005080	08/05/2019	2499	86
+Esquire Taiwan 君子時代雜誌	RBZ0005080	08/05/2019	2500	86
 Esquire UK	RBZ0000349	12/31/2018	2500	11
 Esquire: The Big Black Book	RBZ0005937	03/01/2016	2500	1
 Esquire: The Big Watch Book	RBZ0000350	09/30/2018	2500	3
@@ -1865,7 +1865,7 @@ Guitarist Guide To Effects Pedals (2015 Edition)	RBZ0007824	02/01/2015	499	1
 Guitarist Presents - 100 Great Guitars	RBZ0006694	10/01/2013	500	1
 Guitarist Presents - 100 Guitar Heroes	RBZ0006693	10/01/2013	500	1
 Guitarist Presents - Blues Guitar Heroes	RBZ0006734	10/01/2013	500	1
-Guitarist Presents - Buy & Play The Acoustic Guitar	RBZ0006692	10/01/2013	500	1
+Guitarist Presents - Buy & Play The Acoustic Guitar	RBZ0006692	10/01/2013	499	1
 Guitarist Presents - Guide To Effects Pedals	RBZ0006675	10/01/2013	500	1
 Guitarist Presents Acoustic: Autumn	RBZ0008979	10/01/2016	2500	1
 Guitarist Presents Acoustic: Spring	RBZ0008635	04/01/2018	2500	2
@@ -1937,7 +1937,7 @@ HELLO! Diamond Jubilee Souvenir Edition	RBZ0005146	08/01/2012	2500	1
 HELLO! Fashion Monthly	RBZ0009846	11/30/2018	Unlimited	10
 HELLO! India	RBZ0003707	12/01/2018	500	14
 HELLO! Lifestyle Series	RBZ0006616	06/01/2015	2500	1
-HELLO! magazine	RBZ0000458	09/01/2019	2499	649
+HELLO! magazine	RBZ0000458	09/01/2019	2500	649
 Hello! Magazine Georgia	RBZ0009002	11/30/2018	2499	13
 Hello! Magazine Special Issue- ROYAL WEDDING Anniversary	RBZ0004779	05/08/2012	2500	1
 HELLO! Pret a Porter	RBZ0008061	01/01/2016	2499	1
@@ -2102,7 +2102,7 @@ HOW TO DO EVERYTHING IN MINECRAFT	RBZ0007272	03/01/2014	2500	1
 How to Make it in Music 2	RBZ0002065	01/01/2010	2500	1
 How to Operate Your Model Railroad	RBZ0000487	06/01/2012	2500	1
 How to Paint and Draw	RBZ0008168	08/01/2015	500	1
-How to publish your own ebook 2	RBZ0006002	10/01/2014	2500	2
+How to publish your own ebook 2	RBZ0006002	10/01/2014	2499	2
 How To Relieve Back Pain	RBZ0008967	10/01/2016	2500	1
 How to Save Money Online	RBZ0003741	08/01/2011	2500	1
 How to set up an Online Business	RBZ0002326	07/01/2010	2500	1
@@ -2366,7 +2366,7 @@ Ivy League Enjoy English 常春藤生活英語	RBZ0001344	11/27/2018	2500	13
 J-14	RBZ0008594	01/01/2019	Unlimited	7
 Jack	RBZ0001981	01/01/2013	200	1
 Jaguar: The Complete Story	RBZ0003103	10/01/2014	2500	1
-Jalouse	RBZ0002557	09/30/2018	2500	11
+Jalouse	RBZ0002557	09/30/2018	2499	11
 Jamie Magazin	RBZ0009121	01/01/2018	2500	2
 Jams and Jellies	RBZ0009291	04/01/2017	500	1
 The JAPAN COMPANY HANDBOOK (JCH)　英文会社四季報	RBZ0008267	01/01/2015	2500	1
@@ -2831,7 +2831,7 @@ men's uno HK	RBZ0005083	11/29/2018	2500	14
 Mens Fitness 50 meals that make Muscle	RBZ0005536	11/01/2012	2500	1
 Mens Fitness Build a Bigger Chest	RBZ0006906	01/01/2014	2500	1
 Mens Fitness Muscle Food	RBZ0008362	10/01/2014	2500	1
-Mens Fitness The 12 Week Body Plan	RBZ0005679	01/01/2013	2500	1
+Mens Fitness The 12 Week Body Plan	RBZ0005679	01/01/2013	2499	1
 Mens Fitness Workout Manual 2013	RBZ0005817	02/01/2013	2500	1
 Mens Fitness Workout Manual 2014	RBZ0006907	01/01/2014	2500	1
 Mens Health México - Guide to Style	RBZ0008975	09/01/2016	2500	1
@@ -3571,7 +3571,7 @@ Revista Semana	RBZ0009813	04/01/2018	2500	17
 Revista Tênis	RBZ0007390	05/01/2017	2500	1
 Revista THC	RBZ0009145	11/30/2018	Unlimited	16
 Revista Transporte Mundial	RBZ0002957	12/01/2016	2500	1
-Revolution	RBZ0008282	02/28/2019	2500	7
+Revolution	RBZ0008282	02/28/2019	2499	7
 REVOLUTION DIGITAL	RBZ0005764	09/10/2018	2500	5
 Revolution Hong Kong	RBZ0004273	12/01/2016	2500	1
 Revolution Taiwan	RBZ0004572	01/01/2017	2500	1
@@ -3872,7 +3872,7 @@ Stand Up Paddle World	RBZ0004055	07/01/2018	2500	3
 Star Magazine	RBZ0000780	12/16/2018	2500	54
 Star Magic Catalogue	RBZ0004949	01/01/2015	2500	1
 Star Système	RBZ0005235	12/20/2018	Unlimited	46
-Star Trek Magazine	RBZ0007040	11/30/2018	1000	6
+Star Trek Magazine	RBZ0007040	11/30/2018	Unlimited	6
 Star Trek Magazine Movie Special	RBZ0008933	07/01/2016	999	1
 Star Wars Insider	RBZ0007151	10/31/2018	Unlimited	8
 Star Wars Insider Special Edition 2017	RBZ0009239	12/01/2017	1000	1
@@ -4130,7 +4130,7 @@ TV y Novelas - Colombia	RBZ0004137	12/06/2018	Unlimited	25
 TV&Satellite Week	RBZ0001043	12/21/2018	2500	52
 TVNewsCheck's Executive Outlook	RBZ0005238	01/01/2015	500	1
 TvNotas	RBZ0000824	12/10/2018	2500	52
-TvNotas Especiales	RBZ0000055	11/24/2018	2500	5
+TvNotas Especiales	RBZ0000055	11/24/2018	Unlimited	5
 TVyNovelas	RBZ0000825	12/06/2018	2500	52
 TVyNovelas Puerto Rico	RBZ0004969	11/01/2014	500	1
 TVyNovelas USA	RBZ0000826	12/01/2017	2500	2
@@ -4768,5 +4768,5 @@ ZZZ_Oxygen Annual	RBZ0005666	01/01/2013	2499	1
 旭茉 Jessica	RBZ0002900	11/25/2018	2500	13
 月刊HiVi	RBZ0004349	11/16/2018	Unlimited	13
 趣味の文具箱	RBZ0007009	12/12/2018	Unlimited	6
-週刊東洋経済	RBZ0004151	12/08/2018	2500	50
-Total	8406032	33626
+週刊東洋経済	RBZ0004151	12/08/2018	2499	50
+Total	8400022	33626

@@ -110,7 +110,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void test_05_IncorrectLogin_EmptyUserNameAndPassword() {
-        mainPage.Login("", "");
+        mainPage.LoginUnsuccessful("", "");
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//li[contains(text(), 'Registration required')]")));
         Assert.assertTrue(driver.findElement(By.id("login_dialog")).getText().contains("Registration required"));
@@ -153,17 +153,17 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_07_ComicCheckoutRead() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         comicPage.OpenComicsPage();
-        comicPage.SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']");
+        comicPage.SelectComics("//img[@alt='Angel: The Crown Prince Syndrome']");
         comicPage.PressCheckoutBtn();
         comicPage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        comicPage.openComicsReadingPage(389796);
+        comicPage.openComicsReadingPage(387454);
         comicsUrl2 = getCurrentUrl();
-        readingPage.openComicsPageFromTableOfContents(389796, 4);
+        readingPage.openComicsPageFromTableOfContents(387454, 4);
         readingPage.openBookmarks();
         String actualText = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
-        checkUrlContains(actualUrl1, "/test51/service/comics/landing?mag_id=1393");
-        checkUrlContains(comicsUrl2, "com/reader.php#/reader/readsvg/389796/Cover");
+        checkUrlContains(actualUrl1, "/test51/service/comics/landing?mag_id=1421");
+        checkUrlContains(comicsUrl2, "com/reader.php#/reader/readsvg/387454/Cover");
         checkTextContains(actualText, "Select the page you want to bookmark");
     }
 
@@ -208,14 +208,14 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
         mainPage.Login("aug28@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='Anyone Can Cook']");
+        magazinePage.SelectMagazine("//img[@alt='Star Magazine ']");
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
         magazinePage.openMagazineReadingPage(144893);
         magazineUrl3 = getCurrentUrl();
         readingPage.openMagazinePageFromTableOfContents(144893, 4);
-        checkUrlContains(actualUrl1, "service/magazines/landing?mag_id=385");
+        checkUrlContains(actualUrl1, "service/magazines/landing?mag_id=1093");
         checkUrlContains(magazineUrl3, "com/reader.php#/reader/readsvg/144893/Cover");
     }
 

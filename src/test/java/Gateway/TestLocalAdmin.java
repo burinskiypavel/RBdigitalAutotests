@@ -81,7 +81,7 @@ public class TestLocalAdmin {
 
 
     @Test
-    public void test_01_licenses_OpenLicensesTab() {
+    public void test_01_licenses_OpenLicensesTabCheckText() {
         adminPage.licensesTab.click();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//a[contains(text(), 'License Manager')]")));
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//label[contains(text(), 'Weekly Overall Patron Cap:')]")));
@@ -102,7 +102,7 @@ public class TestLocalAdmin {
     public void test_02_licenses_updateWeeklyOverallPatronCap() throws InterruptedException {
         adminPage.updateWeeklyOverallPatronCap("0");
         driver.navigate().to("https://www.rbdigitalqa.com/test51");
-        mainPage.Login("sep11@gmail.com", "12345qw");
+        mainPage.Login("sep18a@gmail.com", "12345qw");
         mainPage.goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/indieflix']");
         servicePage.pressGetStartedButton();
         adminPage.checkAlertModal("You have exceeded the number of services that you can access through your library this week.");
@@ -114,7 +114,7 @@ public class TestLocalAdmin {
         driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
         adminPage.updateMonthlyOverallPatronCap("0");
         driver.navigate().to("https://www.rbdigitalqa.com/test51");
-        mainPage.Login("sep9@gmail.com", "12345qw");
+        mainPage.Login("sep18a@gmail.com", "12345qw");
         mainPage.goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/indieflix']");
         servicePage.pressGetStartedButton();
         adminPage.checkAlertModal("You have exceeded the number of services that you can access through your library this month.");
@@ -233,7 +233,7 @@ public class TestLocalAdmin {
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("input[type='checkbox']")));
         driver.findElement(By.cssSelector("input[type='checkbox']")).click();
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
-        mainPage.Login("05_30_2019_12_20@gmail.com", "12345qw");//kdeamandel@asdads.nl
+        mainPage.LoginUnsuccessful("05_30_2019_12_20@gmail.com", "12345qw");//kdeamandel@asdads.nl
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("div[class='error']")));
         String errorText = driver.findElement(By.cssSelector("div[class='error']")).getText();
         Assert.assertEquals(errorText, "Your account is blocked");
@@ -450,5 +450,21 @@ public class TestLocalAdmin {
         driver.findElements(By.cssSelector("a[title='Remove']")).get(0).click();
         wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("span[title='abc']")));
         Assert.assertFalse(driver.findElements(By.cssSelector("span[title='abc']")).size() !=0);
+    }
+
+    @Test
+    public void test_27_createIPFiltering() {
+        adminPage.openFiltersTab();
+        adminPage.createIPFiltering("192", "192", "193", "194");
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[contains(text(), '192.192.193.194')]")));
+        Assert.assertTrue(driver.findElement(By.xpath("//span[contains(text(), '192.192.193.194')]")).isDisplayed());
+    }
+
+    @Test
+    public void test_28_deleteIPFiltering() throws InterruptedException {
+        adminPage.openFiltersTab();
+        driver.findElements(By.cssSelector("a[title='Remove']")).get(0).click();
+        wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//span[contains(text(), '192.192.193.194')]")));
+        Assert.assertFalse(driver.findElements(By.xpath("//span[contains(text(), '192.192.193.194')]")).size() !=0);
     }
 }

@@ -168,10 +168,10 @@ public class BaseClass_TestServiceCheckout  {
         }
     }
 
-    public void checkText(String element, String text) throws InterruptedException {
+    public void checkText(String text) throws InterruptedException {
         Thread.sleep(1000);
-        //driver.findElement(By.xpath("//"+element+"[contains(text(), '"+text+"')]")).getAttribute("innerText");
-        Assert.assertEquals(driver.findElement(By.xpath("//"+element+"[contains(text(), '"+text+"')]")).getAttribute("innerText"), text);
+        Assert.assertEquals(driver.findElement(By.xpath("//*[contains(text(), '"+text+"')]")).getAttribute("innerText"), text);
+        //Assert.assertEquals(driver.findElement(By.xpath("//"+element+"[contains(text(), '"+text+"')]")).getAttribute("innerText"), text);
     }
 
 
