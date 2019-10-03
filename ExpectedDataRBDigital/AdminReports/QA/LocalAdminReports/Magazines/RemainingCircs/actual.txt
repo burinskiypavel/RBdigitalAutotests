@@ -40,7 +40,7 @@ The 2012 iPad Handbook	RBZ0006991	01/01/2012	500	1
 The 2014 Tour de France in Britain	RBZ0007312	04/01/2014	500	1
 220 Triathlon	RBZ0006019	12/31/2018	2500	14
 220 Triathlon presents the Beginner's Guide to Triathlon	RBZ0008333	10/01/2014	2500	1
-25 Beautiful Homes	RBZ0000011	12/31/2018	2500	13
+25 Beautiful Homes	RBZ0000011	08/31/2019	2500	21
 25 Millions de Proprietaires	RBZ0009604	02/01/2018	2500	3
 25 Years of the Hubble Space Telescope - from BBC Sky at Night Magazine	RBZ0007978	04/01/2015	2500	1
 273 Papercraft & Card Ideas	RBZ0008728	06/01/2016	2500	1
@@ -72,7 +72,7 @@ The 50 Greatest SciFi Icons	RBZ0006686	10/01/2013	1000	1
 500 Calorie	RBZ0009240	01/01/2018	2500	2
 500 Calorie Diet Complete Meal Planner	RBZ0007308	04/01/2014	2500	1
 52 Bracelets	RBZ0000020	03/01/2012	2500	1
-5280 Magazine	RBZ0000021	12/01/2018	2500	13
+5280 Magazine	RBZ0000021	12/01/2018	2499	13
 60 Millions de Consommateurs	RBZ0009606	02/01/2018	Unlimited	3
 60 millions de consommateurs Hors Série Découverte	RBZ0009607	12/01/2017	2499	1
 60 millions de consommateurs Hors Série Expert	RBZ0009608	08/01/2017	2500	1
@@ -952,7 +952,7 @@ Computer Hoy	RBZ0002411	12/11/2018	2500	28
 Computer Music	RBZ0000233	12/31/2018	500	14
 Computer Shopper	RBZ0000234	01/31/2019	2500	13
 Computeractive	RBZ0005952	12/04/2018	2500	27
-Conceal & Carry	RBZ0008122	09/30/2018	1500	5
+Conceal & Carry	RBZ0008122	09/30/2018	Unlimited	5
 Condé Nast House & Garden	RBZ0005948	11/30/2018	2500	13
 Condé Nast House & Garden Design Directory	RBZ0008718	10/21/2018	2500	2
 Condé Nast House & Garden GOURMET South Africa	RBZ0006316	11/01/2017	2500	1
@@ -1683,7 +1683,7 @@ GEO Saison	RBZ0009118	12/31/2018	Unlimited	14
 GEO Saison Extra	RBZ0009131	06/30/2018	2500	5
 Geo Special	RBZ0009119	09/30/2018	Unlimited	7
 Géo Voyage Hors-Série	RBZ0005507	12/01/2012	2499	1
-GEO Wissen	RBZ0009129	11/30/2018	2500	3
+GEO Wissen	RBZ0009129	11/30/2018	Unlimited	3
 GEOkompakt	RBZ0009120	09/30/2018	Unlimited	4
 GEOlino	RBZ0009098	12/01/2018	Unlimited	14
 GEOlino Extra	RBZ0009099	11/30/2018	Unlimited	7
@@ -1863,7 +1863,7 @@ Guitar Techniques	RBZ0000442	12/31/2018	500	14
 Guitarist	RBZ0000443	12/31/2018	500	15
 Guitarist Guide To Effects Pedals (2015 Edition)	RBZ0007824	02/01/2015	499	1
 Guitarist Presents - 100 Great Guitars	RBZ0006694	10/01/2013	500	1
-Guitarist Presents - 100 Guitar Heroes	RBZ0006693	10/01/2013	500	1
+Guitarist Presents - 100 Guitar Heroes	RBZ0006693	10/01/2013	499	1
 Guitarist Presents - Blues Guitar Heroes	RBZ0006734	10/01/2013	500	1
 Guitarist Presents - Buy & Play The Acoustic Guitar	RBZ0006692	10/01/2013	499	1
 Guitarist Presents - Guide To Effects Pedals	RBZ0006675	10/01/2013	500	1
@@ -1937,7 +1937,7 @@ HELLO! Diamond Jubilee Souvenir Edition	RBZ0005146	08/01/2012	2500	1
 HELLO! Fashion Monthly	RBZ0009846	11/30/2018	Unlimited	10
 HELLO! India	RBZ0003707	12/01/2018	500	14
 HELLO! Lifestyle Series	RBZ0006616	06/01/2015	2500	1
-HELLO! magazine	RBZ0000458	09/01/2019	2500	649
+HELLO! magazine	RBZ0000458	09/01/2019	2499	649
 Hello! Magazine Georgia	RBZ0009002	11/30/2018	2499	13
 Hello! Magazine Special Issue- ROYAL WEDDING Anniversary	RBZ0004779	05/08/2012	2500	1
 HELLO! Pret a Porter	RBZ0008061	01/01/2016	2499	1
@@ -2674,7 +2674,7 @@ Made in Paper	RBZ0007288	03/01/2014	2500	1
 The Magazine Antiques	RBZ0008561	09/01/2017	2500	1
 Magazine Fútbol Táctico	RBZ0007767	06/30/2018	2500	7
 Magazine TED par QA&V	RBZ0000560	10/31/2018	2500	7
-The Magnolia Journal	RBZ0009318	10/25/2018	500	5
+The Magnolia Journal	RBZ0009318	10/25/2018	Unlimited	5
 Maison & Travaux	RBZ0009710	03/01/2018	2500	3
 Maison Créative	RBZ0009711	03/01/2018	2500	3
 Maison et Jardin Magazine	RBZ0009817	10/01/2017	2500	2
@@ -3590,8 +3590,8 @@ Road & Track	RBZ0000721	12/31/2018	Unlimited	11
 Road Cyclists Training Manual 2016	RBZ0008709	01/01/2018	2500	2
 Road Rider Bike Guide	RBZ0000722	08/01/2017	2500	1
 Roaditude	RBZ0009765	10/21/2018	2500	3
-Robb Report	RBZ0000724	11/30/2018	2500	13
 Robb Report	RBZ0009080	11/30/2018	2500	6
+Robb Report	RBZ0000724	11/30/2018	2500	13
 ROBB REPORT - España	RBZ0009146	11/30/2018	2500	12
 Robb Report España en Chino	RBZ0008930	05/01/2017	2500	1
 Robb Report Watch Collector	RBZ0006163	01/01/2014	Unlimited	1
@@ -4463,7 +4463,7 @@ Why is my computer so slow	RBZ0006916	01/01/2014	2500	1
 Wider Magazine	RBZ0009800	12/01/2017	2500	2
 Wild	RBZ0000869	11/01/2018	2500	7
 Wild West	RBZ0005974	01/31/2019	500	7
-Wilderness	RBZ0002475	08/31/2019	999	109
+Wilderness	RBZ0002475	08/31/2019	998	109
 Wildfowl	RBZ0009286	11/30/2018	Unlimited	10
 Wildlife Ranching Magazine	RBZ0008069	11/30/2018	2500	7
 Wildlife Ranching Magazine - Rhino Files	RBZ0008110	07/01/2017	Unlimited	1
@@ -4769,4 +4769,4 @@ ZZZ_Oxygen Annual	RBZ0005666	01/01/2013	2499	1
 月刊HiVi	RBZ0004349	11/16/2018	Unlimited	13
 趣味の文具箱	RBZ0007009	12/12/2018	Unlimited	6
 週刊東洋経済	RBZ0004151	12/08/2018	2499	50
-Total	8400022	33626
+Total	8395518	33634

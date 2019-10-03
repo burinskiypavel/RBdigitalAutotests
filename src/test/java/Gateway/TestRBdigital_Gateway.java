@@ -120,15 +120,15 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_06_1_MagazineCheckoutRead() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='Clean Eating']");
+        magazinePage.SelectMagazine("//img[@alt='30 Minute Dinners']");
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        magazinePage.openMagazineReadingPage(446259);
+        magazinePage.openMagazineReadingPage(270531);
         magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(446259, 4);
-        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=548");
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/446259/Cover");
+        readingPage.openMagazinePageFromTableOfContents(270531, 4);
+        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=345");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/270531/Cover");
     }
 
     @Test
@@ -159,7 +159,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         String actualUrl1 = getCurrentUrl();
         comicPage.openComicsReadingPage(387454);
         comicsUrl2 = getCurrentUrl();
-        readingPage.openComicsPageFromTableOfContents(387454, 4);
+        readingPage.openComicsPageFromTableOfContents(387454, 3);
         readingPage.openBookmarks();
         String actualText = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
         checkUrlContains(actualUrl1, "/test51/service/comics/landing?mag_id=1421");
