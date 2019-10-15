@@ -303,7 +303,7 @@ public class TestReportsInLocalAdmin{
     }
 
     @Test
-    void Test_18_Сomics_RemainingCircs() throws IOException {
+    void Test_18_Comics_RemainingCircs() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "comics");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//a[contains(text(), 'Remaining Circs')]")));
         adminPage.remainingCircs.click();

@@ -82,7 +82,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     @Test
     void test_02_2_Registration_test51() throws InterruptedException {
         String timeStamp = GetTimeStamp();
-        mainPage.Register("hotdog", "3755", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
+        mainPage.Register("hotdog", "3765", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
         mainPage.CheckWelcomeText("");
     }
 
@@ -135,35 +135,35 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_06_2_MagazineCheckoutRead() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='4Ruedas']");
+        magazinePage.SelectMagazine("//img[@alt='5280 Magazine']");
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        magazinePage.openMagazineReadingPage(398482);
+        magazinePage.openMagazineReadingPage(394311);
         magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(398482, 4);
+        readingPage.openMagazinePageFromTableOfContents(394311, 4);
         readingPage.openBookmarks();
         String actualText2 = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
         checkTextContains(actualText2, "Select the page you want to bookmark");
-        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=349");
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/398482/Cover");
+        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=353");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/394311/Cover");
     }
 
     @Test
     void test_07_ComicCheckoutRead() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         comicPage.OpenComicsPage();
-        comicPage.SelectComics("//img[@alt='Angel: The Crown Prince Syndrome']");
+        comicPage.SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']");
         comicPage.PressCheckoutBtn();
         comicPage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        comicPage.openComicsReadingPage(387454);
+        comicPage.openComicsReadingPage(389796);
         comicsUrl2 = getCurrentUrl();
-        readingPage.openComicsPageFromTableOfContents(387454, 3);
+        readingPage.openComicsPageFromTableOfContents(389796, 4);
         readingPage.openBookmarks();
         String actualText = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
-        checkUrlContains(actualUrl1, "/test51/service/comics/landing?mag_id=1421");
-        checkUrlContains(comicsUrl2, "com/reader.php#/reader/readsvg/387454/Cover");
+        checkUrlContains(actualUrl1, "/test51/service/comics/landing?mag_id=1393");
+        checkUrlContains(comicsUrl2, "com/reader.php#/reader/readsvg/389796/Cover");
         checkTextContains(actualText, "Select the page you want to bookmark");
     }
 
@@ -198,25 +198,25 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     @Test(enabled = false)
     void test_10_IncorrectLogin_IncorrectPassword() {
         mainPage.Login("jun5@gmail.com", "12345");
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//li[contains(text(), 'Username or password is incorrect')]")));
+        wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//li[contains(text(), 'Username or password is incorrect')]")));
         Assert.assertTrue(driver.findElement(By.xpath("//li[contains(text(), 'Username or password is incorrect')]")).getText().contains("Username or password is incorrect"));
     }
 
     @Test
     void test_11_MagazineCheckoutRead_Rbdigitalinternal() throws InterruptedException {
-        //mainPage.Login("jun5@gmail.com", "12345qw");
+        //mainPage.Login("jun5@gmail.com", "12345qw");//new checkout new accaount_expectedAccesCheckout
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
         mainPage.Login("aug28@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='Star Magazine ']");
+        magazinePage.SelectMagazine("//img[@alt='100 Ideas Real Rooms']");
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        magazinePage.openMagazineReadingPage(144893);
+        magazinePage.openMagazineReadingPage(191099);
         magazineUrl3 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(144893, 4);
-        checkUrlContains(actualUrl1, "service/magazines/landing?mag_id=1093");
-        checkUrlContains(magazineUrl3, "com/reader.php#/reader/readsvg/144893/Cover");
+        readingPage.openMagazinePageFromTableOfContents(191099, 4);
+        checkUrlContains(actualUrl1, "service/magazines/landing?mag_id=338");
+        checkUrlContains(magazineUrl3, "com/reader.php#/reader/readsvg/191099/Cover");
     }
 
     @Test

@@ -1,7 +1,7 @@
 Service	License Type	Title	Barcode	Email	Library	Sessions	Notes
-learnitlive	7-day	5 Keys To Having A Successful Relationship		sidsnewemail@learnitlive.com	test1	1	
-learnitlive	7-day	Part I:Bringing 2D into the 3D World (Drawing)		sidsnewemail@learnitlive.com	test1	1	
-learnitlive	7-day	Puppet Slam Primer: An Introduction by Beau Brown		sidsnewemail@learnitlive.com	test1	1	
+learnitlive	7-day	5 Keys To Having A Successful Relationship		sidsnewemail@learnitlive.com		1	
+learnitlive	7-day	Part I:Bringing 2D into the 3D World (Drawing)		sidsnewemail@learnitlive.com		1	
+learnitlive	7-day	Puppet Slam Primer: An Introduction by Beau Brown		sidsnewemail@learnitlive.com		1	
 method-test-prep	7-day	ACT/SAT		superman1111WAS@email.com		1	
 method-test-prep	7-day	ACT/SAT		worker1121WAS@email.com		1	
 Total	5	

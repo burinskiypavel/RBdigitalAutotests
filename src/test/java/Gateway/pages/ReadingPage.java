@@ -43,12 +43,17 @@ public class ReadingPage {
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_"+pageNumber+"")));
     }
 
-    public void openMagazinePageFromTableOfContents(int magazineID, int pageNumber){
+    public void openMagazinePageFromTableOfContents(int magazineID, int pageNumber) throws InterruptedException {
+        //Thread.sleep(500);
+        Wait<WebDriver> wait = new WebDriverWait(driver, 35);
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("thumbs-toggle")));
         tableOfContentsBtn.click();
         OpenMagazinePageFromListWaitForSpinnerLoading(magazineID, pageNumber);
     }
 
     public void openComicsPageFromTableOfContents(int comicsID, int pageNumber){
+        Wait<WebDriver> wait = new WebDriverWait(driver, 35);
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("thumbs-toggle")));
         tableOfContentsBtn.click();
         OpenComicsPageFromListWaitForSpinnerLoading(comicsID, pageNumber);
     }

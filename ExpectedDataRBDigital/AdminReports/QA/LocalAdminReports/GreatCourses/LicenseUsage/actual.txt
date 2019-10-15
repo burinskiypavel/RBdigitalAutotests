@@ -1,4 +1,4 @@
 Service	Date	Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
 great-courses	11/05/2018	test51				jauth@recordedbooks.com	fixed format goodness	7-day		1	0
-great-courses	12/05/2018	test51				frfrfr@fr.com	test1	7-day		1	0
+great-courses	12/05/2018	test51				frfrfr@fr.com		7-day		1	0
 Total	2	0
