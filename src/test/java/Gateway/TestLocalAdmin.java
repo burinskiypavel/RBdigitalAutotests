@@ -249,8 +249,8 @@ public class TestLocalAdmin {
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         mainPage.Login("10_15_2019_13_22@gmail.com", "12345qw");
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("div[class='welcome']")));
-        String welcomeKelvinText = driver.findElement(By.cssSelector("div[class='welcome']")).getText();
-        Assert.assertEquals(welcomeKelvinText, "Welcome, 10_15_2019_13_22");
+        String welcomeText = driver.findElement(By.cssSelector("div[class='welcome']")).getText();
+        Assert.assertEquals(welcomeText, "Welcome, 10_15_2019_13_22");
     }
 
     @Test

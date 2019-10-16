@@ -65,8 +65,8 @@ public class PageObj {
     }
 
     public void SelectFromSelectByIdAndValue(String id, String value)  {
-        WebElement selectElem = driver.findElement(By.id(id));
-        Select select = new Select(selectElem);
+        WebElement selectElement = driver.findElement(By.id(id));
+        Select select = new Select(selectElement);
         //Wait<WebDriver> wait = new WebDriverWait(driver, 10);
         //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='"+value+"']")));
         select.selectByValue(value);

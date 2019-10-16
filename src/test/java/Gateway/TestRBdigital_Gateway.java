@@ -120,33 +120,33 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_06_1_MagazineCheckoutRead() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='30 Minute Dinners']");
+        magazinePage.SelectMagazine("//img[@alt='400 Calories or Less: Easy Italian']");
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        magazinePage.openMagazineReadingPage(270531);
+        magazinePage.openMagazineReadingPage(161695);
         magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(270531, 4);
-        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=345");
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/270531/Cover");
+        readingPage.openMagazinePageFromTableOfContents(161695, 4);
+        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=348");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/161695/Cover");
     }
 
     @Test
     void test_06_2_MagazineCheckoutRead() throws InterruptedException {
         mainPage.Login("jun5@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='5280 Magazine']");
+        magazinePage.SelectMagazine("//img[@alt='100 Greatest Thriller Movies by Radio Times']");
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        magazinePage.openMagazineReadingPage(394311);
+        magazinePage.openMagazineReadingPage(345090);
         magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(394311, 4);
+        readingPage.openMagazinePageFromTableOfContents(345090, 4);
         readingPage.openBookmarks();
         String actualText2 = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
         checkTextContains(actualText2, "Select the page you want to bookmark");
-        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=353");
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/394311/Cover");
+        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=8054");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/345090/Cover");
     }
 
     @Test
