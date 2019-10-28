@@ -198,7 +198,7 @@ The Crow: Midnight Legends, Vol. 1: Dead Time	RBC0387543
 The Crow: Midnight Legends, Vol. 2: Flesh & Blood	RBC0387544		
 The Crow: Midnight Legends, Vol. 3: Wild Justice	RBC0387545		
 The Crow: Midnight Legends, Vol. 4: Waking Nightmares	RBC0387546		
-Crysis	RBC0389798		
+Crysis	RBC0389798	08/08/2017	Unlimited
 CSI: Bad Rap	RBC0387465		
 CSI: Serial	RBC0387466		
 Danger Girl Deluxe	RBC0387467		
@@ -377,7 +377,7 @@ Joe Hills The Cape	RBC0424295
 Joe Hills The Cape:1969	RBC0424296		
 Judas: The Last Days	RBC0387506		
 Judge Dredd, Vol. 1	RBC0387507		
-Judge Dredd, Vol. 2	RBC0387508	06/04/2017	24
+Judge Dredd, Vol. 2	RBC0387508	06/04/2017	25
 Judge Dredd, Vol. 3	RBC0387509		
 Judge Dredd, Vol. 4: Thirteen Badges	RBC0387510		
 Judge Dredd: Mega-City Two	RBC0406803		
@@ -677,4 +677,4 @@ X-MEN: MUTANT GENESIS - Special	RBC0424669
 X-MEN: PHOENIX ENDSONG - Special	RBC0424670		
 X-MEN: SCHISM - Special	RBC0424671		
 X-MEN: SECOND COMING - Special	RBC0424672	12/31/1969	24
-Total	98
+Total	99

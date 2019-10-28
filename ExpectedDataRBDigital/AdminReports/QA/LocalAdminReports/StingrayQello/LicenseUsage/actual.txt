@@ -38,7 +38,7 @@ qello	12/27/2017	test51				v.2712.112939@gmail.com		30-day		1	0
 qello	12/27/2017	test51				v.2712.114925@gmail.com		30-day		1	0
 qello	12/27/2017	test51				v.2712.115043@gmail.com		30-day		1	0
 qello	12/27/2017	test51				vahafonov2038.envion2017@mail.ru		30-day		1	0
-qello	01/04/2018	test51				testbb201712011315@email.com	fixed format goodness	30-day		1	0
+qello	01/04/2018	test51				testbb201712011315@email.com		30-day		1	0
 qello	01/15/2018	test51				ymelnik@envionsoftware.com		30-day		1	0
 qello	01/16/2018	test51				jan8@email.com		30-day		1	0
 qello	02/05/2018	test51				newusertest1@email.com		30-day		1	0

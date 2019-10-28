@@ -1,4 +1,4 @@
 Service	License Type	Title	Barcode	Email	Library	Views	Notes
-acorntv	7-day	flametrees-01-The Promised Land		testbb201712011315@email.com	fixed format goodness	1	
+acorntv	7-day	flametrees-01-The Promised Land		testbb201712011315@email.com		1	
 indieflix	7-day	Dear Dolphin - Dear Dolphin - IndieFlix		gustavogiudici@gmail.com		1	
 Total	2	

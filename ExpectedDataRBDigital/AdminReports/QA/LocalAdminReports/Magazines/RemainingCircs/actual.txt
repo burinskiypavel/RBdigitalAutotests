@@ -50,8 +50,8 @@ The 2014 Tour de France in Britain	RBZ0007312	04/01/2014	500	1
 30 Minute Dinners	RBZ0000013	10/01/2015	499	1
 350-Calorie Meals	RBZ0009892			0
 The 3D Art & Design Annual Volume 1	RBZ0008248	01/01/2018	1000	2
-The 3D Art & Design Book	RBZ0004876	04/01/2015	1000	1
 The 3D Art & Design Book	RBZ0004687	04/15/2012	1000	1
+The 3D Art & Design Book	RBZ0004876	04/01/2015	1000	1
 3D Art & Design Tips, Tricks & Fixes	RBZ0006783	01/01/2016	1000	1
 3D Artist	RBZ0004471	01/31/2019	1000	13
 3D Make And Print 2nd Edition	RBZ0008506	12/01/2016	2500	1
@@ -1400,8 +1400,8 @@ The Essential Guide to Landscape Photography 3rd edition	RBZ0003470	05/01/2011	2
 Essential Guide to Mountain Biking	RBZ0008321	09/04/2018	2500	2
 Essential Guide to Movie Superheroes	RBZ0005769	02/01/2013	2500	1
 The Essential Guide to Outdoor Photography	RBZ0003625	05/01/2015	2500	1
-The Essential Guide to Portraits	RBZ0002552	01/01/2010	2500	1
 The Essential Guide to Portraits	RBZ0003846	06/01/2015	2500	1
+The Essential Guide to Portraits	RBZ0002552	01/01/2010	2500	1
 Essential Guide to Portraits 3	RBZ0004760	05/10/2012	2500	1
 Essential Guide to the iPod	RBZ0005850	03/01/2013	2500	1
 Essential Maintenance Guide	RBZ0004599	06/01/2012	2500	1
@@ -3421,8 +3421,8 @@ Preview	RBZ0002756	04/30/2018	500	6
 Preview Art	RBZ0003557	06/24/2011	2500	1
 Preview: styLIZed	RBZ0006801	01/01/2014	2500	1
 Prima	RBZ0003130	03/01/2018	2500	27
-Prima Christmas Makes	RBZ0003893	10/01/2013	2500	1
 Prima Christmas Makes	RBZ0008397	09/01/2015	2500	1
+Prima Christmas Makes	RBZ0003893	10/01/2013	2500	1
 Prima Flat Belly for Life	RBZ0009843	07/01/2017	2500	1
 Prima Makes	RBZ0007328	04/01/2018	2500	2
 Prima Makes, Create and Craft - 2016	RBZ0008638	06/01/2016	2500	1
@@ -3460,8 +3460,8 @@ Quattroruote	RBZ0002904	11/30/2018	Unlimited	13
 Quattroruote	RBZ0008286	11/30/2018	Unlimited	11
 Que leer	RBZ0001900	11/30/2018	2500	12
 Quebec le mag	RBZ0009762	01/01/2018	2500	2
-The Queen	RBZ0009233	01/01/2017	2500	1
 The Queen	RBZ0008155	08/01/2015	2500	1
+The Queen	RBZ0009233	01/01/2017	2500	1
 Queen Elizabeth II	RBZ0008580	04/01/2016	2500	1
 Queen 女人我最大	RBZ0003638	10/01/2017	2500	1
 Queensland Brides	RBZ0000692	06/30/2018	2500	3
@@ -4178,10 +4178,10 @@ Ultimate Guide	RBZ0005074	06/01/2012	1000	1
 The Ultimate Guide to 3D Printing	RBZ0007422	03/01/2014	2500	1
 The Ultimate Guide to Ableton	RBZ0003474	06/01/2011	500	1
 Ultimate Guide to Ableton Live	RBZ0008385	09/01/2015	500	1
-Ultimate Guide to Amazon Kindle	RBZ0006914	01/01/2014	2500	1
 Ultimate Guide to Amazon Kindle	RBZ0001023	02/01/2013	2500	1
-The Ultimate Guide to Android Tablets	RBZ0006911	01/01/2014	2500	1
+Ultimate Guide to Amazon Kindle	RBZ0006914	01/01/2014	2500	1
 Ultimate Guide to Android Tablets	RBZ0001024	10/01/2011	2500	1
+The Ultimate Guide to Android Tablets	RBZ0006911	01/01/2014	2500	1
 The Ultimate Guide to Bicycle Maintenance	RBZ0002305	08/01/2010	2500	1
 Ultimate Guide to Bicycle maintenance & upgrades	RBZ0004761	05/01/2012	2500	1
 Ultimate Guide to Birdwatching	RBZ0009914			0
