@@ -82,7 +82,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     @Test
     void test_02_2_Registration_test51() throws InterruptedException {
         String timeStamp = GetTimeStamp();
-        mainPage.Register("hotdog", "6825", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
+        mainPage.Register("hotdog", "6830", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
         mainPage.CheckWelcomeText("");
     }
 
@@ -135,18 +135,18 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_06_2_MagazineCheckoutRead() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='100 Greatest Thriller Movies by Radio Times']");
+        magazinePage.SelectMagazine("//img[@alt='52 Bracelets']");
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        magazinePage.openMagazineReadingPage(345090);
+        magazinePage.openMagazineReadingPage(181626);
         magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(345090, 4);
+        readingPage.openMagazinePageFromTableOfContents(181626, 4);
         readingPage.openBookmarks();
         String actualText2 = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
         checkTextContains(actualText2, "Select the page you want to bookmark");
-        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=8054");
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/345090/Cover");
+        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=352");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/181626/Cover");
     }
 
     @Test

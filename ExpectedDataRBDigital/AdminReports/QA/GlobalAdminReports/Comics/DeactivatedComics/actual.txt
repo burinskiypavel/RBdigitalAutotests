@@ -1,2 +1,2 @@
-Official Name	Nickname	Title	RBID	Zenith Issue Id	Issue Date
+Library Name	Library Nickname	Title	RBID	Zenith Issue Id	Issue Date
 Total	0

@@ -1,5 +1,5 @@
 For Period: from 01/01/2017 to 01/22/2017
-Official Name	Name	Account ID	Codes in use	Codes in date range	RemainingCodes
+Library Name	Library Nickname	Account ID	Codes in use	Codes in date range	RemainingCodes
 InfoSoup	appletonwi	7173924	400	18	1913
 Arapahoe Library District	arapahoeco	7194159	276	64	9658
 Boulder City Public Library	bouldercitynv	7179021	11	1	3975

@@ -1,7 +1,7 @@
-Service	Date	Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
-indieflix	05/22/2018	test51			0211gdpr01	gdpr01@email.com		7-day		1	0
-indieflix	06/04/2018	test51				gustavotest1@indieflix.com		7-day		1	0
-indieflix	06/04/2018	test51				worker1124WAS@email.com		7-day		1	0
-indieflix	06/05/2018	test51				worker1125WAS@email.com		7-day		1	1
-indieflix	06/11/2018	test51				worker1124@xymail.com		7-day		1	0
+Service	Date	Library Name	Library Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
+indieflix	05/22/2018	8080 Test Library	test51			0211gdpr01	gdpr01@email.com		7-day		1	0
+indieflix	06/04/2018	8080 Test Library	test51				gustavotest1@indieflix.com		7-day		1	0
+indieflix	06/04/2018	8080 Test Library	test51				worker1124WAS@email.com		7-day		1	0
+indieflix	06/05/2018	8080 Test Library	test51				worker1125WAS@email.com		7-day		1	1
+indieflix	06/11/2018	8080 Test Library	test51				worker1124@xymail.com		7-day		1	0
 Total	5	1
