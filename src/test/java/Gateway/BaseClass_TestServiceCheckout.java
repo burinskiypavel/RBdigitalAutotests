@@ -90,7 +90,7 @@ public class BaseClass_TestServiceCheckout  {
         //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//a[contains(text(), 'Login')]")));
         driver.findElement(By.xpath("//a[contains(text(), 'Login')]")).click();
         //loginBtn.click();
-        wait = new WebDriverWait(driver, 30);
+        wait = new WebDriverWait(driver, 45);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.name("pl_login")));
         //WebElement loginButton = driver.findElement(By.name("pl_login"));
         //Assert.assertTrue(loginButton.isDisplayed());
@@ -128,7 +128,7 @@ public class BaseClass_TestServiceCheckout  {
     }
 
     public void checkURLcontains(String url){
-        //Wait<WebDriver> wait = new WebDriverWait(driver, 30);
+        Wait<WebDriver> wait = new WebDriverWait(driver, 75);
         wait.until(ExpectedConditions.urlContains(url));
         Assert.assertTrue(driver.getCurrentUrl().contains(url));
     }

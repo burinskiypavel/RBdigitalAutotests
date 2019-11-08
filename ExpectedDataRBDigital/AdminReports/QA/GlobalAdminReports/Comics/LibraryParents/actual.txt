@@ -1,20 +1,20 @@
-Libraries that were subscribed to comics on 09/30/2019
+Libraries that were subscribed to comics on 10/31/2019
 Library Nickname	Official Name	State	Country	Child Library Name
 test51	8080 Test Library	Alabama	US	111
 test51	8080 Test Library	Alabama	US	test
 test51	8080 Test Library	Alabama	US	testqa0000
-johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Altoona Public Library
-johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Bondurant Public Library
-johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Carlisle Public Library
-johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Grimes Public Library
-johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Johnston Public Library
-johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Kirkendall Public Library
-johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Norwalk Public Library
-johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Pleasant Hill Public Library
-johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Urbandale Public Library
-johnstonia	Central Iowa MagNet Zinio Consortium	Iowa	US	Winterset Public Library
 dachshund	The Dachshund Test Library	Maryland	US	Long
 dachshund	The Dachshund Test Library	Maryland	US	Short
 dachshund	The Dachshund Test Library	Maryland	US	Tweenie
 dachshund	The Dachshund Test Library	Maryland	US	Wannabe
 dachshund	The Dachshund Test Library	Maryland	US	Wire
+rbdigitaltrial	RBdigital Trial Customer Library	Maryland	US	Test-123
+rbdigitaltrial	RBdigital Trial Customer Library	Maryland	US	Test123
+britishcouncil	British Council Libraries	India	IN	Afganistan
+britishcouncil	British Council Libraries	India	IN	Bangladesh
+britishcouncil	British Council Libraries	India	IN	India
+britishcouncil	British Council Libraries	India	IN	Myanmar
+britishcouncil	British Council Libraries	India	IN	Nepal
+britishcouncil	British Council Libraries	India	IN	Pakistan
+britishcouncil	British Council Libraries	India	IN	Sri Lanka
+britishcouncil	British Council Libraries	India	IN	Zimbabwe

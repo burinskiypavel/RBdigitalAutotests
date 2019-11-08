@@ -308,7 +308,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     }
 
 
-    @Test
+    @Test(enabled = false)
     void test_17_OpenMagazinesCheckPagination() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();

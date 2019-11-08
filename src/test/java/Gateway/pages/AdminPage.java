@@ -424,7 +424,7 @@ public class AdminPage {
       //globalAdminPage.gatewayServiceUsageReport.click();
   }
   public void createReport(String xpath){
-      Wait<WebDriver> wait = new WebDriverWait(driver, 34);
+      Wait<WebDriver> wait = new WebDriverWait(driver, 45);
       createReportBtn.click();
       wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath(xpath)));
   }
@@ -509,7 +509,7 @@ public class AdminPage {
 
     public void searchPatron(String patron) throws InterruptedException {
         Thread.sleep(300);
-        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        Wait<WebDriver> wait = new WebDriverWait(driver, 39);
         wait.until(ExpectedConditions.elementToBeClickable(By.id("search_line")));
         driver.findElement(By.id("search_line")).click();
         driver.findElement(By.id("search_line")).clear();

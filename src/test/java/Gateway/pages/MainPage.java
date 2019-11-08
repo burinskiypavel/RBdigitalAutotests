@@ -82,7 +82,7 @@ public class MainPage {
         pageObj.TypeInFieldById("r_password", password);
         pageObj.ClickOnButtonById("pl_create_account");
 
-        Wait<WebDriver> wait5 = new WebDriverWait(driver, 45);
+        Wait<WebDriver> wait5 = new WebDriverWait(driver, 65);
         wait5.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("tos_agree")));
 
         pageObj.SelectCheckboxById("tos_agree");
@@ -122,7 +122,7 @@ public class MainPage {
         UsePageObj();
         //driver.findElement(By.xpath("//a[contains(text(), 'Login')]")).click();
         loginBtn.click();
-        Wait<WebDriver> wait = new WebDriverWait(driver, 40);
+        Wait<WebDriver> wait = new WebDriverWait(driver, 45);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.name("pl_login")));
         //WebElement loginButton = driver.findElement(By.name("pl_login"));
         //Assert.assertTrue(loginButton.isDisplayed());

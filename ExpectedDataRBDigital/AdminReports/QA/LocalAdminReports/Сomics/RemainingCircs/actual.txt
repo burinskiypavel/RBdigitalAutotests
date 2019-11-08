@@ -676,5 +676,5 @@ Library Name	Title	RBID	Issue Date	Remaining Circs
 8080 Test Library	X-MEN: MUTANT GENESIS - Special	RBC0424669		
 8080 Test Library	X-MEN: PHOENIX ENDSONG - Special	RBC0424670		
 8080 Test Library	X-MEN: SCHISM - Special	RBC0424671		
-8080 Test Library	X-MEN: SECOND COMING - Special	RBC0424672	12/31/1969	24
-Total	99
+8080 Test Library	X-MEN: SECOND COMING - Special	RBC0424672	12/31/1969	25
+Total	100
