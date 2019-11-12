@@ -1,12 +1,12 @@
 For Period: from 05/15/2017 to 07/01/2018
-Service	Date	Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
-pongalo	04/19/2018	test51			qwerty	avolkov@envionsoftware.com	test1	7-day		1	0
-pongalo	04/26/2018	test51				test1904patron@gmail.com		7-day		1	0
-pongalo	04/26/2018	test51				test2004patron@gmail.com		7-day		1	0
-pongalo	04/26/2018	test51				test2104patron@gmail.com		7-day		1	0
-pongalo	05/23/2018	test51				btbush.nell@gmail.com		7-day		1	0
-pongalo	05/24/2018	test51				b.b.ushnell61@gmail.com		7-day		1	0
-pongalo	05/24/2018	test51				bbushn.ell61@gmail.com		7-day		1	1
-pongalo	05/24/2018	test51				btbush.nell61@gmail.com		7-day		1	0
-pongalo	06/14/2018	test51				testbb201801081037@email.com		7-day		1	0
+Service	Date	Library Name	Library Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
+pongalo	04/19/2018	8080 Test Library	test51			qwerty	avolkov@envionsoftware.com		7-day		1	0
+pongalo	04/26/2018	8080 Test Library	test51				test1904patron@gmail.com		7-day		1	0
+pongalo	04/26/2018	8080 Test Library	test51				test2004patron@gmail.com		7-day		1	0
+pongalo	04/26/2018	8080 Test Library	test51				test2104patron@gmail.com		7-day		1	0
+pongalo	05/23/2018	8080 Test Library	test51				btbush.nell@gmail.com		7-day		1	0
+pongalo	05/24/2018	8080 Test Library	test51				b.b.ushnell61@gmail.com		7-day		1	0
+pongalo	05/24/2018	8080 Test Library	test51				bbushn.ell61@gmail.com		7-day		1	1
+pongalo	05/24/2018	8080 Test Library	test51				btbush.nell61@gmail.com		7-day		1	0
+pongalo	06/14/2018	8080 Test Library	test51				testbb201801081037@email.com		7-day		1	0
 Total	9	1

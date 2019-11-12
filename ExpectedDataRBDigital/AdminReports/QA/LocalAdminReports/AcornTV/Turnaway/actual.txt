@@ -1,6 +1,6 @@
 License Type	Library Name	Barcode	Email	Library	Licenses #	Description	Monthly Patron Cap	Overall Cap	Group Cap	Patron Cap	Service Cap	Turnaway Reason	Total Turnaways
 7-day	8080 Test Library		mar1a@email.com		4	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
 7-day	8080 Test Library		mar20@gmail.com		4	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Service Cap	1
-7-day	8080 Test Library		mar20a@gmail.com		4	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Monthly Patron Cap	1
 7-day	8080 Test Library		mar20a@gmail.com		4	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Weekly Patron Cap	1
+7-day	8080 Test Library		mar20a@gmail.com		4	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Monthly Patron Cap	1
 Total	4

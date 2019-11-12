@@ -64,7 +64,7 @@ public class ComicPage {
     }
 
     public void PressStartReadingBtn(){
-        Wait<WebDriver> wait = new WebDriverWait(driver, 40);
+        Wait<WebDriver> wait = new WebDriverWait(driver, 43);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//span[contains(text(), 'Start Reading')]")));
         //wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[contains(text(), 'yoursupport@recordedbooks.com')]")));
         driver.findElement(By.xpath("//span[contains(text(), 'Start Reading')]")).click();

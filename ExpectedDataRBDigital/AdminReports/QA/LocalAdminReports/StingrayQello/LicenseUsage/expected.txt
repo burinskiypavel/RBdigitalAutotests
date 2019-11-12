@@ -1,95 +1,95 @@
 For Period: from 05/21/2017 to 07/01/2018
-Service	Date	Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
-qello	08/30/2017	test51				international@email.com		30-day		1	0
-qello	08/30/2017	test51				qa@qa.qa		30-day		1	0
-qello	10/20/2017	test51				gustavo@indieflix.com		30-day		1	0
-qello	10/20/2017	test51			qwerty	avolkov@envionsoftware.com	test1	30-day		1	0
-qello	10/31/2017	test51				v-1031-1542@gmail.com		30-day		1	0
-qello	10/31/2017	test51			98765678999	v-1031-1458@gmail.com		30-day		1	0
-qello	11/01/2017	test51				v-1101-958@gmail.com		30-day		1	0
-qello	11/16/2017	test51				v-1611-1600@gmail.com		30-day		1	0
-qello	11/21/2017	test51				test_21.patron@test.com		30-day		1	0
-qello	11/21/2017	test51				test_22.patron@test.com		30-day		1	0
-qello	11/21/2017	test51				test_23.patron@test.com		30-day		1	0
-qello	12/20/2017	test51				test.09.12.patron@gmail.com		30-day		1	0
-qello	12/20/2017	test51				test.19.12.patron@gmail.com		30-day		1	0
-qello	12/20/2017	test51				test.20.12.patron@gmail.com		30-day		1	0
-qello	12/20/2017	test51				test.20.121.patron@gmail.com		30-day		1	0
-qello	12/20/2017	test51				v.2012.134041@gmail.com		30-day		1	0
-qello	12/20/2017	test51				v.2012.134115@gmail.com		30-day		1	0
-qello	12/20/2017	test51				v.2012.174629@gmail.com		30-day		1	0
-qello	12/20/2017	test51				v.2012.174708@gmail.com		30-day		1	0
-qello	12/21/2017	test51				test.21.12.patron@gmail.com		30-day		1	0
-qello	12/21/2017	test51				test.21.121.patron@gmail.com		30-day		1	0
-qello	12/21/2017	test51				test.21.122.patron@gmail.com		30-day		1	0
-qello	12/21/2017	test51				test.21.124.patron@gmail.com		30-day		1	0
-qello	12/21/2017	test51				test.21.125.patron@gmail.com		30-day		1	0
-qello	12/21/2017	test51				v.2112.110049@gmail.com		30-day		1	0
-qello	12/21/2017	test51				v.2112.110126@gmail.com		30-day		1	0
-qello	12/21/2017	test51				v.2112.180551@gmail.com		30-day		1	0
-qello	12/21/2017	test51				v.2112.180627@gmail.com		30-day		1	0
-qello	12/22/2017	test51				v.2212.162026@gmail.com		30-day		1	0
-qello	12/22/2017	test51				v.2212.162104@gmail.com		30-day		1	0
-qello	12/22/2017	test51				v.2212.183200@gmail.com		30-day		1	0
-qello	12/22/2017	test51				v.2212.183236@gmail.com		30-day		1	0
-qello	12/22/2017	test51				vahafonov.2212.envion@gmail.com		30-day		1	0
-qello	12/27/2017	test51				v.2712.112818@gmail.com		30-day		1	0
-qello	12/27/2017	test51				v.2712.112939@gmail.com		30-day		1	0
-qello	12/27/2017	test51				v.2712.114925@gmail.com		30-day		1	0
-qello	12/27/2017	test51				v.2712.115043@gmail.com		30-day		1	0
-qello	12/27/2017	test51				vahafonov2038.envion2017@mail.ru		30-day		1	0
-qello	01/04/2018	test51				testbb201712011315@email.com	fixed format goodness	30-day		1	0
-qello	01/15/2018	test51				ymelnik@envionsoftware.com	test1	30-day		1	0
-qello	01/16/2018	test51				jan8@email.com		30-day		1	0
-qello	02/05/2018	test51				newusertest1@email.com		30-day		1	0
-qello	02/08/2018	test51				acorntv1@email.com		30-day		1	0
-qello	02/08/2018	test51				svod_test1@email.com		30-day		1	0
-qello	02/08/2018	test51				svod_test3@email.com		30-day		1	0
-qello	02/08/2018	test51				takecert1@email.com		30-day		1	0
-qello	02/08/2018	test51				test.08patron@gmail.com		30-day		1	0
-qello	02/09/2018	test51				m@pyland.com		30-day		1	0
-qello	02/12/2018	test51				bsmoot@recordedbooks.com		30-day		1	0
-qello	02/15/2018	test51				svod_test2@email.com		30-day		1	0
-qello	03/01/2018	test51				test.11patron@gmail.com		30-day		1	0
-qello	03/01/2018	test51				test.12patron@gmail.com		30-day		1	0
-qello	03/01/2018	test51				test.13patron@gmail.com		7-day		1	0
-qello	03/01/2018	test51				test.17patron@gmail.com		7-day		1	0
-qello	03/01/2018	test51				test.18patron@gmail.com		30-day		1	0
-qello	03/01/2018	test51				test.19patron@gmail.com		unlimited		1	0
-qello	03/01/2018	test51				test.21patron@gmail.com		7-day		1	0
-qello	03/01/2018	test51				test.22patron@gmail.com		unlimited		1	0
-qello	03/02/2018	test51				test.15patron@gmail.com		7-day		1	0
-qello	03/02/2018	test51				test.16patron@gmail.com		7-day		1	0
-qello	03/02/2018	test51				test.20patron@gmail.com		7-day		1	0
-qello	03/02/2018	test51				test.23patron@gmail.com		7-day		1	0
-qello	03/02/2018	test51				test.24patron@gmail.com		7-day		1	0
-qello	03/06/2018	test51				test06.patron@test.com		7-day		1	0
-qello	03/13/2018	test51				jan8@email.com		7-day		1	1
-qello	03/16/2018	test51				slacker1126@xymail.com		7-day		1	0
-qello	03/16/2018	test51				slacker1127WAS@email.com		7-day		1	0
-qello	03/16/2018	test51				slacker1129@xymail.com		7-day		1	0
-qello	03/16/2018	test51				worker1128WAS@email.com		7-day		1	0
-qello	03/17/2018	test51				slacker1123@xymail.com		7-day		1	0
-qello	03/17/2018	test51				slacker1125WAS@email.com		7-day		1	0
-qello	03/17/2018	test51				slacker1130WAS@email.com		7-day		1	0
-qello	03/18/2018	test51				slacker1124@xymail.com		7-day		1	0
-qello	03/18/2018	test51				slacker1126WAS@email.com		7-day		1	0
-qello	03/26/2018	test51				slacker1122WAS@email.com		7-day		1	0
-qello	03/26/2018	test51				slacker1130WAS@email.com		7-day		1	0
-qello	03/26/2018	test51				worker1124@xymail.com		7-day		1	0
-qello	03/26/2018	test51				worker1126@xymail.com		7-day		1	0
-qello	03/26/2018	test51				worker1126WAS@email.com		7-day		1	0
-qello	03/26/2018	test51				worker1128WAS@email.com		7-day		1	0
-qello	03/26/2018	test51				worker1129@xymail.com		7-day		1	0
-qello	03/26/2018	test51				worker1130@xymail.com		7-day		1	0
-qello	03/29/2018	test51				dataneupane@gmail.com		7-day		1	0
-qello	03/29/2018	test51				slacker1130@xymail.com		7-day		1	0
-qello	03/29/2018	test51				worker1130WAS@email.com		7-day		1	1
-qello	04/03/2018	test51				sunnyinfo2@gmail.com	test1	7-day		1	0
-qello	04/20/2018	test51				slacker1129WAS@email.com		7-day		1	0
-qello	05/07/2018	test51			qwerty	avolkov@envionsoftware.com	test1	7-day		1	0
-qello	05/22/2018	test51			0211gdpr01	gdpr01@email.com	test1	7-day		1	0
-qello	06/04/2018	test51				worker1124WAS@email.com		7-day		1	0
-qello	06/11/2018	test51				dataneupane@gmail.com		7-day		1	0
-qello	06/26/2018	test51				ymelnik@envionsoftware.com	test1	7-day		1	0
+Service	Date	Library Name	Library Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
+qello	08/30/2017	8080 Test Library	test51				international@email.com		30-day		1	0
+qello	08/30/2017	8080 Test Library	test51				qa@qa.qa		30-day		1	0
+qello	10/20/2017	8080 Test Library	test51				gustavo@indieflix.com		30-day		1	0
+qello	10/20/2017	8080 Test Library	test51			qwerty	avolkov@envionsoftware.com		30-day		1	0
+qello	10/31/2017	8080 Test Library	test51				v-1031-1542@gmail.com		30-day		1	0
+qello	10/31/2017	8080 Test Library	test51			98765678999	v-1031-1458@gmail.com		30-day		1	0
+qello	11/01/2017	8080 Test Library	test51				v-1101-958@gmail.com		30-day		1	0
+qello	11/16/2017	8080 Test Library	test51				v-1611-1600@gmail.com		30-day		1	0
+qello	11/21/2017	8080 Test Library	test51				test_21.patron@test.com		30-day		1	0
+qello	11/21/2017	8080 Test Library	test51				test_22.patron@test.com		30-day		1	0
+qello	11/21/2017	8080 Test Library	test51				test_23.patron@test.com		30-day		1	0
+qello	12/20/2017	8080 Test Library	test51				test.09.12.patron@gmail.com		30-day		1	0
+qello	12/20/2017	8080 Test Library	test51				test.19.12.patron@gmail.com		30-day		1	0
+qello	12/20/2017	8080 Test Library	test51				test.20.12.patron@gmail.com		30-day		1	0
+qello	12/20/2017	8080 Test Library	test51				test.20.121.patron@gmail.com		30-day		1	0
+qello	12/20/2017	8080 Test Library	test51				v.2012.134041@gmail.com		30-day		1	0
+qello	12/20/2017	8080 Test Library	test51				v.2012.134115@gmail.com		30-day		1	0
+qello	12/20/2017	8080 Test Library	test51				v.2012.174629@gmail.com		30-day		1	0
+qello	12/20/2017	8080 Test Library	test51				v.2012.174708@gmail.com		30-day		1	0
+qello	12/21/2017	8080 Test Library	test51				test.21.12.patron@gmail.com		30-day		1	0
+qello	12/21/2017	8080 Test Library	test51				test.21.121.patron@gmail.com		30-day		1	0
+qello	12/21/2017	8080 Test Library	test51				test.21.122.patron@gmail.com		30-day		1	0
+qello	12/21/2017	8080 Test Library	test51				test.21.124.patron@gmail.com		30-day		1	0
+qello	12/21/2017	8080 Test Library	test51				test.21.125.patron@gmail.com		30-day		1	0
+qello	12/21/2017	8080 Test Library	test51				v.2112.110049@gmail.com		30-day		1	0
+qello	12/21/2017	8080 Test Library	test51				v.2112.110126@gmail.com		30-day		1	0
+qello	12/21/2017	8080 Test Library	test51				v.2112.180551@gmail.com		30-day		1	0
+qello	12/21/2017	8080 Test Library	test51				v.2112.180627@gmail.com		30-day		1	0
+qello	12/22/2017	8080 Test Library	test51				v.2212.162026@gmail.com		30-day		1	0
+qello	12/22/2017	8080 Test Library	test51				v.2212.162104@gmail.com		30-day		1	0
+qello	12/22/2017	8080 Test Library	test51				v.2212.183200@gmail.com		30-day		1	0
+qello	12/22/2017	8080 Test Library	test51				v.2212.183236@gmail.com		30-day		1	0
+qello	12/22/2017	8080 Test Library	test51				vahafonov.2212.envion@gmail.com		30-day		1	0
+qello	12/27/2017	8080 Test Library	test51				v.2712.112818@gmail.com		30-day		1	0
+qello	12/27/2017	8080 Test Library	test51				v.2712.112939@gmail.com		30-day		1	0
+qello	12/27/2017	8080 Test Library	test51				v.2712.114925@gmail.com		30-day		1	0
+qello	12/27/2017	8080 Test Library	test51				v.2712.115043@gmail.com		30-day		1	0
+qello	12/27/2017	8080 Test Library	test51				vahafonov2038.envion2017@mail.ru		30-day		1	0
+qello	01/04/2018	8080 Test Library	test51				testbb201712011315@email.com		30-day		1	0
+qello	01/15/2018	8080 Test Library	test51				ymelnik@envionsoftware.com		30-day		1	0
+qello	01/16/2018	8080 Test Library	test51				jan8@email.com		30-day		1	0
+qello	02/05/2018	8080 Test Library	test51				newusertest1@email.com		30-day		1	0
+qello	02/08/2018	8080 Test Library	test51				acorntv1@email.com		30-day		1	0
+qello	02/08/2018	8080 Test Library	test51				svod_test1@email.com		30-day		1	0
+qello	02/08/2018	8080 Test Library	test51				svod_test3@email.com		30-day		1	0
+qello	02/08/2018	8080 Test Library	test51				takecert1@email.com		30-day		1	0
+qello	02/08/2018	8080 Test Library	test51				test.08patron@gmail.com		30-day		1	0
+qello	02/09/2018	8080 Test Library	test51				m@pyland.com		30-day		1	0
+qello	02/12/2018	8080 Test Library	test51				bsmoot@recordedbooks.com		30-day		1	0
+qello	02/15/2018	8080 Test Library	test51				svod_test2@email.com		30-day		1	0
+qello	03/01/2018	8080 Test Library	test51				test.11patron@gmail.com		30-day		1	0
+qello	03/01/2018	8080 Test Library	test51				test.12patron@gmail.com		30-day		1	0
+qello	03/01/2018	8080 Test Library	test51				test.13patron@gmail.com		7-day		1	0
+qello	03/01/2018	8080 Test Library	test51				test.17patron@gmail.com		7-day		1	0
+qello	03/01/2018	8080 Test Library	test51				test.18patron@gmail.com		30-day		1	0
+qello	03/01/2018	8080 Test Library	test51				test.19patron@gmail.com		unlimited		1	0
+qello	03/01/2018	8080 Test Library	test51				test.21patron@gmail.com		7-day		1	0
+qello	03/01/2018	8080 Test Library	test51				test.22patron@gmail.com		unlimited		1	0
+qello	03/02/2018	8080 Test Library	test51				test.15patron@gmail.com		7-day		1	0
+qello	03/02/2018	8080 Test Library	test51				test.16patron@gmail.com		7-day		1	0
+qello	03/02/2018	8080 Test Library	test51				test.20patron@gmail.com		7-day		1	0
+qello	03/02/2018	8080 Test Library	test51				test.23patron@gmail.com		7-day		1	0
+qello	03/02/2018	8080 Test Library	test51				test.24patron@gmail.com		7-day		1	0
+qello	03/06/2018	8080 Test Library	test51				test06.patron@test.com		7-day		1	0
+qello	03/13/2018	8080 Test Library	test51				jan8@email.com		7-day		1	1
+qello	03/16/2018	8080 Test Library	test51				slacker1126@xymail.com		7-day		1	0
+qello	03/16/2018	8080 Test Library	test51				slacker1127WAS@email.com		7-day		1	0
+qello	03/16/2018	8080 Test Library	test51				slacker1129@xymail.com		7-day		1	0
+qello	03/16/2018	8080 Test Library	test51				worker1128WAS@email.com		7-day		1	0
+qello	03/17/2018	8080 Test Library	test51				slacker1123@xymail.com		7-day		1	0
+qello	03/17/2018	8080 Test Library	test51				slacker1125WAS@email.com		7-day		1	0
+qello	03/17/2018	8080 Test Library	test51				slacker1130WAS@email.com		7-day		1	0
+qello	03/18/2018	8080 Test Library	test51				slacker1124@xymail.com		7-day		1	0
+qello	03/18/2018	8080 Test Library	test51				slacker1126WAS@email.com		7-day		1	0
+qello	03/26/2018	8080 Test Library	test51				slacker1122WAS@email.com		7-day		1	0
+qello	03/26/2018	8080 Test Library	test51				slacker1130WAS@email.com		7-day		1	0
+qello	03/26/2018	8080 Test Library	test51				worker1124@xymail.com		7-day		1	0
+qello	03/26/2018	8080 Test Library	test51				worker1126@xymail.com		7-day		1	0
+qello	03/26/2018	8080 Test Library	test51				worker1126WAS@email.com		7-day		1	0
+qello	03/26/2018	8080 Test Library	test51				worker1128WAS@email.com		7-day		1	0
+qello	03/26/2018	8080 Test Library	test51				worker1129@xymail.com		7-day		1	0
+qello	03/26/2018	8080 Test Library	test51				worker1130@xymail.com		7-day		1	0
+qello	03/29/2018	8080 Test Library	test51				dataneupane@gmail.com		7-day		1	0
+qello	03/29/2018	8080 Test Library	test51				slacker1130@xymail.com		7-day		1	0
+qello	03/29/2018	8080 Test Library	test51				worker1130WAS@email.com		7-day		1	1
+qello	04/03/2018	8080 Test Library	test51				sunnyinfo2@gmail.com		7-day		1	0
+qello	04/20/2018	8080 Test Library	test51				slacker1129WAS@email.com		7-day		1	0
+qello	05/07/2018	8080 Test Library	test51			qwerty	avolkov@envionsoftware.com		7-day		1	0
+qello	05/22/2018	8080 Test Library	test51			0211gdpr01	gdpr01@email.com		7-day		1	0
+qello	06/04/2018	8080 Test Library	test51				worker1124WAS@email.com		7-day		1	0
+qello	06/11/2018	8080 Test Library	test51				dataneupane@gmail.com		7-day		1	0
+qello	06/26/2018	8080 Test Library	test51				ymelnik@envionsoftware.com		7-day		1	0
 Total	92	2

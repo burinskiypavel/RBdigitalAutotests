@@ -120,15 +120,15 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_06_1_MagazineCheckoutRead() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='400 Calories or Less: Easy Italian']");
+        magazinePage.SelectMagazine("//img[@alt='Affaires Plus (A+)']");
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        magazinePage.openMagazineReadingPage(161695);
+        magazinePage.openMagazineReadingPage(395260);
         magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(161695, 4);
-        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=348");
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/161695/Cover");
+        readingPage.openMagazinePageFromTableOfContents(395260, 4);
+        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=355");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/395260/Cover");
     }
 
     @Test
