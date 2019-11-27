@@ -1,6 +1,6 @@
 Screen Name	Email	Library	AccountId	Country	State	System Name
 Connie Terry	cterry@woodward.lib.ok.us	Woodward Public Library	7219989	US	Oklahoma	Oklahoma Digital
 Sherry Beach	sbeach@claremorecity.com	Will Rogers Library	7214712	US	Oklahoma	Acorn Only
-Rhonda Turley	info@piedmontlibrary.org	Piedmont Public Library	7218372	US	Oklahoma	
+Rhonda Turley	info@piedmontlibrary.org	Piedmont Public Library	7218372	US	Oklahoma	Oklahoma Digital
 Kristin Cunningham	library@okmcity.net	Okmulgee Public Library	7220059	US	Oklahoma	
 Total	4

@@ -1,13 +1,13 @@
 Service	License Type	Library Name	Title	Barcode	Email	Library	Views	Notes
-acorntv	7-day	8080 Test Library	flametrees-01-The Promised Land		testbb201712011315@email.com		1	
-acorntv	7-day	8080 Test Library	hamishmacbeth-01-A Pillar of the Community		testbb201712011315@email.com		1	
-acorntv	7-day	8080 Test Library	lochness-01-Episode 1		testbb201712011315@email.com		1	
-acorntv	7-day	8080 Test Library	lochness-01-Episode 2		testbb201712011315@email.com		1	
-acorntv	7-day	8080 Test Library	lochness-01-Episode 3		testbb201712011315@email.com		1	
-acorntv	7-day	8080 Test Library	lochness-01-Episode 4		testbb201712011315@email.com		1	
-acorntv	7-day	8080 Test Library	lochness-01-Episode 5		testbb201712011315@email.com		1	
-acorntv	7-day	8080 Test Library	lochness-01-Episode 6		testbb201712011315@email.com		1	
-acorntv	7-day	8080 Test Library	qi-01-Aquatic Animals		testbb201712011315@email.com		1	
-acorntv	7-day	8080 Test Library	qi-01-Astronomy		testbb201712011315@email.com		1	
-acorntv	7-day	8080 Test Library	qi-01-Atoms		testbb201712011315@email.com		1	
+acorntv	7-day	8080 Test Library	flametrees-01-The Promised Land		testbb201712011315@email.com	fixed format goodness	1	
+acorntv	7-day	8080 Test Library	hamishmacbeth-01-A Pillar of the Community		testbb201712011315@email.com	fixed format goodness	1	
+acorntv	7-day	8080 Test Library	lochness-01-Episode 1		testbb201712011315@email.com	fixed format goodness	1	
+acorntv	7-day	8080 Test Library	lochness-01-Episode 2		testbb201712011315@email.com	fixed format goodness	1	
+acorntv	7-day	8080 Test Library	lochness-01-Episode 3		testbb201712011315@email.com	fixed format goodness	1	
+acorntv	7-day	8080 Test Library	lochness-01-Episode 4		testbb201712011315@email.com	fixed format goodness	1	
+acorntv	7-day	8080 Test Library	lochness-01-Episode 5		testbb201712011315@email.com	fixed format goodness	1	
+acorntv	7-day	8080 Test Library	lochness-01-Episode 6		testbb201712011315@email.com	fixed format goodness	1	
+acorntv	7-day	8080 Test Library	qi-01-Aquatic Animals		testbb201712011315@email.com	fixed format goodness	1	
+acorntv	7-day	8080 Test Library	qi-01-Astronomy		testbb201712011315@email.com	fixed format goodness	1	
+acorntv	7-day	8080 Test Library	qi-01-Atoms		testbb201712011315@email.com	fixed format goodness	1	
 Total	11	

@@ -1,5 +1,5 @@
 Service	Date	Library Name	Library Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
-acorntv	01/04/2018	8080 Test Library	test51				testbb201712011315@email.com		7-day		1	0
+acorntv	01/04/2018	8080 Test Library	test51				testbb201712011315@email.com	fixed format goodness	7-day		1	0
 acorntv	01/05/2018	8080 Test Library	test51				testbb201801052220@email.com		7-day		1	0
 acorntv	01/10/2018	8080 Test Library	test51				test.10.01.patron@gmail.com		7-day		1	0
 Total	3	0

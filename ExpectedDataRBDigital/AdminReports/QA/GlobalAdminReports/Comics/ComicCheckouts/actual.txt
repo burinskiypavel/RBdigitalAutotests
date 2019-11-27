@@ -4,11 +4,6 @@ Mars Attacks, Vol. 1: Attack From Space				RBC0387513	0	Monthly	25	Active
 Angel: Old Friends				RBC0387451	0	Monthly	25	Active
 Rocketeer Adventures, Vol. 1				RBC0387917	0	Monthly	25	Active
 Angel: Spotlight				RBC0387453	0	Monthly	25	Active
-My Little Pony: Legends of Magic, Vol. 1				RBC0455734	0	Monthly	25	Active
-My Little Pony: Legends of Magic Annual 2018				RBC0455735	0	Monthly	25	Active
-My Little Pony: Legends of Magic, Vol. 2				RBC0455736	0	Monthly	25	Active
-Powerpuff Girls: The Bureau of Bad				RBC0455769	0	Monthly	25	Active
-My Little Pony: The Cutie Re-Mark				RBC0455804	0	Monthly	25	Active
 Popeye: Classics, Vol. 2				RBC0388030	0	Monthly	25	Active
 Popeye: Classics, Vol. 1				RBC0388153	0	Monthly	25	Active
 Angel: The Curse				RBC0387455	0	Monthly	25	Active
@@ -18,3 +13,8 @@ Samurai Jack, Vol. 2: The Scotsman's Curse				RBC0387744	0	Monthly	25	Active
 Samurai Jack, Vol. 1: The Threads of Time				RBC0387743	0	Monthly	25	Active
 Shadow Show: Stories In Celebration of Ray Bradbury				RBC0387531	0	Monthly	25	Active
 Shockrockets				RBC0387532	0	Monthly	25	Active
+Silent Hill: Dying Inside				RBC0387533	0	Monthly	25	Active
+Spike: After The Fall, Vol.1				RBC0387976	0	Monthly	25	Active
+Star Mage				RBC0387539	0	Monthly	25	Active
+Star Slammers: The Complete Collection by Walter Simonson				RBC0387975	0	Monthly	25	Active
+Star Trek, Vol. 6: After Darkness				RBC0387426	0	Monthly	25	Active

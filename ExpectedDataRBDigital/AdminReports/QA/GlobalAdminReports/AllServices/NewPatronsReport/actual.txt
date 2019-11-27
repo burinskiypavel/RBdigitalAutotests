@@ -4,7 +4,7 @@ Email	BarCode	Join Date	Library Name	Library Nickname	AccountId	Last Service Log
 srinivasnarisetty@yahoo.co.uk	ADL035261	07/01/2017	British Council Libraries	britishcouncil		indieflix	07/01/2017
 abdulquddushalim@gmail.com		07/01/2017	Perpustakaan Negara Malaysia	zinioMNL			
 sivadaskr@gmail.com		07/01/2017	British Council Libraries	britishcouncil		indieflix	11/14/2017
-arun@wicom.co.in	ABL019309	07/01/2017	British Council Libraries	britishcouncil		magazines	08/24/2019
+arun@wicom.co.in	ABL019309	07/01/2017	British Council Libraries	britishcouncil		magazines	10/27/2019
 j.k.priyanka2110@gmail.com	AHD021066	07/01/2017	British Council Libraries	britishcouncil		indieflix	07/11/2017
 gnavink75@gmail.com	AMA031777	07/01/2017	British Council Libraries	britishcouncil		indieflix	07/01/2017
 ltshipra@rediffmail.com		07/01/2017	British Council Libraries	britishcouncil		comicsplus	07/10/2017

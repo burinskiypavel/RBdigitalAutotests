@@ -1,12 +1,12 @@
 For Period: from 05/06/2016 to 07/01/2018
 Service	Date	Library Name	Library Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
-learnitlive	05/17/2018	8080 Test Library	test51			qwerty	avolkov@envionsoftware.com		7-day		1	0
+learnitlive	05/17/2018	8080 Test Library	test51			qwerty	avolkov@envionsoftware.com	test	7-day		1	0
 learnitlive	05/18/2018	8080 Test Library	test51				testbb201805182122@email.com		7-day		1	0
 learnitlive	05/21/2018	8080 Test Library	test51				new@new.new		7-day		1	0
 learnitlive	05/21/2018	8080 Test Library	test51				sidsnewemail@learnitlive.com		7-day		1	0
 learnitlive	05/30/2018	8080 Test Library	test51				adrian.alexe@tremend.com		7-day		1	0
 learnitlive	05/30/2018	8080 Test Library	test51				dbejan@tremend.ro		7-day		1	0
-learnitlive	05/30/2018	8080 Test Library	test51			qwerty	avolkov@envionsoftware.com		7-day		1	0
+learnitlive	05/30/2018	8080 Test Library	test51			qwerty	avolkov@envionsoftware.com	test	7-day		1	0
 learnitlive	05/31/2018	8080 Test Library	test51				adrianalexe15@yahoo.com		7-day		1	0
 learnitlive	05/31/2018	8080 Test Library	test51				adrianalexe32@gmail.com		7-day		1	0
 learnitlive	05/31/2018	8080 Test Library	test51				new_test@test.com		7-day		1	0

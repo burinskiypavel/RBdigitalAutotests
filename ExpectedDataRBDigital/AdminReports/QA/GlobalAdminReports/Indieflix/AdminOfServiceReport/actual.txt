@@ -1,4 +1,4 @@
 Screen Name	Email	Library	AccountId	Country	State	System Name
 Fran Moroney	franmoroney@gladstonerc.qld.gov.au	Gladstone Regional Library		AU	Queensland	
-Gay Sirriss	gays@gladstone.qld.gov.au	Gladstone Regional Library		AU	Queensland	
+Stacey Mobbs	Stacey.Mobbs@gladstone.qld.gov.au	Gladstone Regional Library		AU	Queensland	
 Total	2

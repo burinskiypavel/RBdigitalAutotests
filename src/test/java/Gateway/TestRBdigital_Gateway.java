@@ -1,6 +1,7 @@
 package Gateway;
 
 import Gateway.pages.*;
+import org.apache.tools.ant.types.resources.selectors.Compare;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -13,6 +14,7 @@ import org.testng.annotations.*;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
+import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
 import java.util.List;
@@ -90,7 +92,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_02_3_Registration_Rbdigitalinternal() throws InterruptedException {
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
         String timeStamp = GetTimeStamp();
-        mainPage.Register("pointbreak", "3802", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
+        mainPage.Register("pointbreak", "6794", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
         mainPage.CheckWelcomeText("");
     }
 
@@ -120,14 +122,14 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_06_1_MagazineCheckoutRead() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='Affaires Plus (A+)']");
+        magazinePage.SelectMagazine("//img[@alt='220 Triathlon']");
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
         magazinePage.openMagazineReadingPage(395260);
         magazineUrl2 = getCurrentUrl();
         readingPage.openMagazinePageFromTableOfContents(395260, 4);
-        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=355");
+        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=345");
         checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/395260/Cover");
     }
 
@@ -135,7 +137,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_06_2_MagazineCheckoutRead() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='52 Bracelets']");
+        magazinePage.SelectMagazine("//img[@alt='Webuser']");
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
@@ -145,7 +147,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         readingPage.openBookmarks();
         String actualText2 = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
         checkTextContains(actualText2, "Select the page you want to bookmark");
-        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=352");
+        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=1394");
         checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/181626/Cover");
     }
 
@@ -367,6 +369,8 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void test_19_OpenComicsCheckGenresCheckDetailPage() throws InterruptedException, IOException {
+        SoftAssert softAssert = new SoftAssert();
+
         mainPage.Login("oct29@gmail.com", "12345qw");
         comicPage.OpenComicsPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("genre_search_line")));
@@ -374,38 +378,47 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='science-fiction']")));
         SelectFromSelectByIdAndValue("genre_search_line", "science-fiction");
         magazinePage.SelectMagazine("//img[@alt='Black Dynamite']");
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Science Fiction')]")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'Science Fiction')]")));
+        softAssert.assertFalse(driver.findElements(By.xpath("//p[contains(text(), 'genre: Science Fiction')]")).size() == 0, "ERROR - genre: Science Fiction");
+
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='horror']")));
         SelectFromSelectByIdAndValue("genre_search_line", "horror");
         magazinePage.SelectMagazine("//img[@alt='Night Mary']");
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Horror')]")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre')]")));
+        softAssert.assertFalse(driver.findElements(By.xpath("//p[contains(text(), 'genre: Horror')]")).size() == 0, "ERROR - genre: Horror");
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='superheroes']")));
         SelectFromSelectByIdAndValue("genre_search_line", "superheroes");
         magazinePage.SelectMagazine("//img[@alt='X-MEN: SECOND COMING - Special']");
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Superheroes')]")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre')]")));
+        softAssert.assertFalse(driver.findElements(By.xpath("//p[contains(text(), 'genre: Superheroes')]")).size() == 0, "ERROR - genre: Superheroe");
 
         List<String> actualReport = adminPage.GetActualDatadef("//div[@class='magazine_detail_content']", "TestRBDigital_Gateway/Test_19_OpenComicsCheckGenresCheckDetailPage/actual.txt");
         List<String> expectedReport = adminPage.GetDateFromFiledef("TestRBDigital_Gateway/Test_19_OpenComicsCheckGenresCheckDetailPage/expected.txt");
+        softAssert.assertAll();
         Assert.assertEquals(actualReport, expectedReport);
     }
 
     @Test
     void test_20_OpenMagazinesCheckLanguages() throws InterruptedException {
+        SoftAssert softAssert = new SoftAssert();
+
         mainPage.Login("oct29@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("language_search_line")));
 
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='afrikaans']")));
-        SelectFromSelectByIdAndValue("language_search_line", "afrikaans");
-        magazinePage.SelectMagazine("//img[@alt='Huisgenoot']");
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: Afrikaans')]")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='french']")));
+        SelectFromSelectByIdAndValue("language_search_line", "french");
+        magazinePage.SelectMagazine("//img[@alt='01net']");
 
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='chinese']")));
-        SelectFromSelectByIdAndValue("language_search_line", "chinese");
-        magazinePage.SelectMagazine("//img[@alt='旭茉 Jessica']");
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: Chinese')]")));
+        softAssert.assertFalse(driver.findElements(By.xpath("//p[contains(text(), 'language: French')]")).size() == 0, "ERROR - language: Afrikaans is not present");
+        softAssert.assertAll();
+
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='english']")));
+        SelectFromSelectByIdAndValue("language_search_line", "english");
+        magazinePage.SelectMagazine("//img[@alt='net']");
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: English')]")));
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='danish']")));
         SelectFromSelectByIdAndValue("language_search_line", "danish");
