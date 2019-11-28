@@ -1,10 +1,10 @@
 Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
-8080 Test Library	01net	RBZ0001638	10/29/2019	200	1
-8080 Test Library	220 Triathlon	RBZ0006019	11/30/2019	2500	1
-8080 Test Library	25 Beautiful Homes	RBZ0000011	11/30/2019	2500	1
-8080 Test Library	3D Artist	RBZ0004471	01/31/2020	1000	1
-8080 Test Library	3D World	RBZ0000014	10/29/2019	500	1
-8080 Test Library	4 Wheel & Off Road	RBZ0000015	01/31/2020	2500	2
+8080 Test Library	01net	RBZ0001638	10/29/2019	199	1
+8080 Test Library	220 Triathlon	RBZ0006019	11/30/2019	2499	1
+8080 Test Library	25 Beautiful Homes	RBZ0000011	11/30/2019	2499	1
+8080 Test Library	3D Artist	RBZ0004471	01/31/2020	999	1
+8080 Test Library	3D World	RBZ0000014	10/29/2019	499	1
+8080 Test Library	4 Wheel & Off Road	RBZ0000015	01/31/2020	Unlimited	2
 8080 Test Library	4x4 magazine	RBZ0001787	09/30/2019	2500	1
 8080 Test Library	50 Greatest Mysteries in the Universe	RBZ0004669	10/16/2018	500	1
 8080 Test Library	5280 Magazine	RBZ0000021	10/31/2019	2500	1
@@ -546,4 +546,4 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Your Home and Garden	RBZ0008877	11/30/2019	2500	1
 8080 Test Library	Zen et bien dans ma vie	RBZ0010041	06/30/2019	2500	1
 8080 Test Library	Zoomer Magazine	RBZ0000895	10/31/2019	2500	1
-Total	1034921	653
+Total	1032416	653

@@ -64,7 +64,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
     @Test
     void test_06_transparentLanguage_rbdigitalinternal() throws InterruptedException {
         navigate("https://www.rbdigitalqa.com/rbdigitalinternal/");
-        login("aug28@gmail.com", "12345qw");
+        login("nov27@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/transparent_language']");
         pressGetStartedButton();
         checkURL("http://192.168.254.49/rbdigitalinternal/game/rbdgLogin");
@@ -79,7 +79,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
         }
-        login("aug28@gmail.com", "12345qw");
+        login("nov27@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/artistworks']");
         pressGetStartedButton();
         //checkURL("https://test-mb3-awd7.pantheonsite.io/");
@@ -92,7 +92,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
         }
-        login("aug28@gmail.com", "12345qw");
+        login("nov27@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/hoonuit']");
         pressGetStartedButton();
         checkURL("https://learnit.hoonuit.com/?from_auth=1");
@@ -106,7 +106,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
         }
-        login("aug28@gmail.com", "12345qw");
+        login("nov27@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/lawdepot']");
         pressGetStartedButton();
         checkURLcontains("https://www.lawdepot.com/libraries/errorRBDG.aspx");
@@ -120,7 +120,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
         }
-        login("aug28@gmail.com", "12345qw");
+        login("nov27@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/newspapers']");
         pressGetStartedButton();
         //checkURL("https://www.pressreader.com/catalog");
@@ -134,7 +134,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
         }
-        login("aug28@gmail.com", "12345qw");
+        login("nov27@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/acorntv']");
         pressGetStartedButton();
         checkURLcontains("https://signup-qa.acorn.tv/extendsubscription.html?sessionid=");
@@ -147,7 +147,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
         }
-        login("aug28@gmail.com", "12345qw");
+        login("nov27@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/pongalo']");
         pressGetStartedButton();
         checkURLcontains("https://frontend-dev.pongalo.com/recorded-books/");
@@ -160,7 +160,7 @@ public class TestServicesCheckouts extends BaseClass_TestServiceCheckout {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
         }
-        login("aug28@gmail.com", "12345qw");
+        login("nov27@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/method-test-prep']");
         pressGetStartedButton();
         checkURLcontains("https://dev.methodtestprep.com/student/home/index_v4");

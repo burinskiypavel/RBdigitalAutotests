@@ -11,8 +11,8 @@ acorntv	7-day	8080 Test Library		jun11@gmail.com		168	qa testing I want have the
 acorntv	7-day	8080 Test Library		jun12@gmail.com		168	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Monthly Patron Cap	1
 acorntv	7-day	8080 Test Library		jun12b@gmail.com		168	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Monthly Patron Cap	1
 acorntv	7-day	8080 Test Library		mar20@gmail.com		168	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Service Cap	1
-learnitlive	7-day	8080 Test Library		mar20a@gmail.com		90	test Beta test	99999	99999	1000	1000	100	Weekly Patron Cap	1
 acorntv	7-day	8080 Test Library		mar20a@gmail.com		168	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Monthly Patron Cap	1
+learnitlive	7-day	8080 Test Library		mar20a@gmail.com		90	test Beta test	99999	99999	1000	1000	100	Weekly Patron Cap	1
 acorntv	7-day	8080 Test Library		mar20a@gmail.com		168	qa testing I want have the license :) another test	99999	99999	1000	1000	10000	Weekly Patron Cap	1
 indieflix	7-day	8080 Test Library		qa@qa.qa		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	3
 indieflix	7-day	8080 Test Library		slacker1125WAS@email.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	4
