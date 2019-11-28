@@ -119,36 +119,18 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     }
 
     @Test
-    void test_06_1_MagazineCheckoutRead() throws InterruptedException {
+    void test_06_MagazineCheckoutRead() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='220 Triathlon']");
+        magazinePage.SelectMagazine("//img[@alt='4 Wheel & Off Road']");
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        magazinePage.openMagazineReadingPage(395260);
+        magazinePage.openMagazineReadingPage(431807);
         magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(395260, 4);
-        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=345");
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/395260/Cover");
-    }
-
-    @Test
-    void test_06_2_MagazineCheckoutRead() throws InterruptedException {
-        mainPage.Login("oct29@gmail.com", "12345qw");
-        magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='Webuser']");
-        magazinePage.PressCheckoutBtn();
-        magazinePage.PressStartReadingBtn();
-        String actualUrl1 = getCurrentUrl();
-        magazinePage.openMagazineReadingPage(181626);
-        magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(181626, 4);
-        readingPage.openBookmarks();
-        String actualText2 = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
-        checkTextContains(actualText2, "Select the page you want to bookmark");
-        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=1394");
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/181626/Cover");
+        readingPage.openMagazinePageFromTableOfContents(431807, 4);
+        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=347");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/431807/Cover");
     }
 
     @Test
@@ -208,9 +190,9 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_11_MagazineCheckoutRead_Rbdigitalinternal() throws InterruptedException {
         //mainPage.Login("jun5@gmail.com", "12345qw");//new checkout new accaount_expectedAccesCheckout
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
-        mainPage.Login("aug28@gmail.com", "12345qw");
+        mainPage.Login("nov27@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='100 Ideas Real Rooms']");
+        magazinePage.SelectMagazine("//img[@alt='0024 Horloges']");
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
@@ -228,7 +210,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
-        mainPage.Login("aug28@gmail.com", "12345qw");
+        mainPage.Login("nov27@gmail.com", "12345qw");
         comicPage.OpenComicsPageRbdigitalinternal();
         comicPage.SelectComics("//img[@alt='CAPTAIN MARVEL VOL. 3: ALIS VOLAT PROPRIIS - Special']");
         comicPage.PressCheckoutBtn();
