@@ -180,14 +180,14 @@ public class TestLocalAdmin {
     @Test
     public void test_07_updatePatronPassword() throws InterruptedException {
         adminPage.openPatronTab();
-        adminPage.searchPatron("abc@abc.abc");
+        adminPage.searchPatron("d@mail.ru");
         adminPage.pressModify();
         adminPage.updatePatronPassword("12345qw");
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
-        mainPage.Login("abc@abc.abc", "12345qw");
+        mainPage.Login("d@mail.ru", "12345qw");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("profile")));
         Assert.assertTrue(driver.findElement(By.id("profile")).isDisplayed());
     }
@@ -195,14 +195,14 @@ public class TestLocalAdmin {
     @Test
     public void test_08_updatePatronPasswordBack() throws InterruptedException {
         adminPage.openPatronTab();
-        adminPage.searchPatron("abc@abc.abc");
+        adminPage.searchPatron("d@mail.ru");
         adminPage.pressModify();
         adminPage.updatePatronPassword("qw12345");
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
-        mainPage.Login("abc@abc.abc", "qw12345");
+        mainPage.Login("d@mail.ru", "qw12345");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("profile")));
         Assert.assertTrue(driver.findElement(By.id("profile")).isDisplayed());
     }

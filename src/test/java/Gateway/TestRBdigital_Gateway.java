@@ -196,11 +196,11 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        magazinePage.openMagazineReadingPage(191099);
+        magazinePage.openMagazineReadingPage(420020);
         magazineUrl3 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(191099, 4);
-        checkUrlContains(actualUrl1, "service/magazines/landing?mag_id=338");
-        checkUrlContains(magazineUrl3, "com/reader.php#/reader/readsvg/191099/Cover");
+        readingPage.openMagazinePageFromTableOfContents(420020, 4);
+        checkUrlContains(actualUrl1, "service/magazines/landing?mag_id=2882");
+        checkUrlContains(magazineUrl3, "com/reader.php#/reader/readsvg/420020/Cover");
     }
 
     @Test
@@ -212,17 +212,17 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         }
         mainPage.Login("nov27@gmail.com", "12345qw");
         comicPage.OpenComicsPageRbdigitalinternal();
-        comicPage.SelectComics("//img[@alt='CAPTAIN MARVEL VOL. 3: ALIS VOLAT PROPRIIS - Special']");
+        comicPage.SelectComics("//img[@alt='CAPTAIN MARVEL VOL. 1: HIGHER, FURTHER, FASTER, MORE - Special']");
         comicPage.PressCheckoutBtn();
         comicPage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        comicPage.openComicsReadingPage(424458);
+        comicPage.openComicsReadingPage(424456);
         comicsUrl3 = getCurrentUrl();
-        readingPage.openComicsPageFromTableOfContents(424458, 4);
+        readingPage.openComicsPageFromTableOfContents(424456, 4);
         readingPage.openBookmarks();
         String actualText = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
-        checkUrlContains(actualUrl1, "service/comics/landing?mag_id=1876");
-        checkUrlContains(comicsUrl3, "com/reader.php#/reader/readsvg/424458/Cover");
+        checkUrlContains(actualUrl1, "service/comics/landing?mag_id=1878");
+        checkUrlContains(comicsUrl3, "com/reader.php#/reader/readsvg/424456/Cover");
         checkTextContains(actualText, "Select the page you want to bookmark");
     }
 
