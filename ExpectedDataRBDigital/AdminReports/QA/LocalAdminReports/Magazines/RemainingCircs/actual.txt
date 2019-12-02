@@ -1,13 +1,13 @@
 Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
-8080 Test Library	01net	RBZ0001638	10/29/2019	199	1
-8080 Test Library	220 Triathlon	RBZ0006019	11/30/2019	2499	1
-8080 Test Library	25 Beautiful Homes	RBZ0000011	11/30/2019	2499	1
+8080 Test Library	01net	RBZ0001638	10/29/2019	200	1
+8080 Test Library	220 Triathlon	RBZ0006019	11/30/2019	2500	1
+8080 Test Library	25 Beautiful Homes	RBZ0000011	11/30/2019	2500	1
 8080 Test Library	3D Artist	RBZ0004471	01/31/2020	999	1
-8080 Test Library	3D World	RBZ0000014	10/29/2019	499	1
-8080 Test Library	4 Wheel & Off Road	RBZ0000015	01/31/2020	Unlimited	2
-8080 Test Library	4x4 magazine	RBZ0001787	09/30/2019	2500	1
+8080 Test Library	3D World	RBZ0000014	10/29/2019	500	1
+8080 Test Library	4 Wheel & Off Road	RBZ0000015	01/31/2020	2499	2
+8080 Test Library	4x4 magazine	RBZ0001787	09/30/2019	2499	1
 8080 Test Library	50 Greatest Mysteries in the Universe	RBZ0004669	10/16/2018	500	1
-8080 Test Library	5280 Magazine	RBZ0000021	10/31/2019	2500	1
+8080 Test Library	5280 Magazine	RBZ0000021	10/31/2019	2499	1
 8080 Test Library	7 Jours	RBZ0000022	11/21/2019	2500	2
 8080 Test Library	AD Collector	RBZ0001829	04/01/2017	2500	1
 8080 Test Library	AD France	RBZ0001804	10/31/2019	2500	1
@@ -18,7 +18,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Afrique Magazine	RBZ0009612	10/31/2019	2500	1
 8080 Test Library	Air & Space	RBZ0010076	11/30/2019	2500	2
 8080 Test Library	Alberta Views Magazine	RBZ0010073	11/30/2019	500	1
-8080 Test Library	All About History	RBZ0006251	12/31/2019	1000	1
+8080 Test Library	All About History	RBZ0006251	12/31/2019	999	1
 8080 Test Library	All About Space	RBZ0004983	03/31/2020	1000	1
 8080 Test Library	All Natura	RBZ0010150	03/31/2019	2500	1
 8080 Test Library	Allure	RBZ0005641	10/31/2019	500	1
@@ -48,7 +48,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Avantages	RBZ0003020	09/30/2019	200	2
 8080 Test Library	Avantages HS	RBZ0005651	06/01/2018	200	1
 8080 Test Library	AZURE	RBZ0000103	10/31/2019	2500	1
-8080 Test Library	Backpacker	RBZ0000105	10/31/2019	2500	1
+8080 Test Library	Backpacker	RBZ0000105	10/31/2019	2499	1
 8080 Test Library	Banknote Reporter	RBZ0010199	10/31/2019	500	1
 8080 Test Library	Baseball America	RBZ0001049	10/31/2019	2500	1
 8080 Test Library	Bass Player	RBZ0010161	11/30/2019	2500	1
@@ -546,4 +546,4 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Your Home and Garden	RBZ0008877	11/30/2019	2500	1
 8080 Test Library	Zen et bien dans ma vie	RBZ0010041	06/30/2019	2500	1
 8080 Test Library	Zoomer Magazine	RBZ0000895	10/31/2019	2500	1
-Total	1032416	653
+Total	1034915	653

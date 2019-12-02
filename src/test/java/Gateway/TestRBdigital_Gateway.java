@@ -190,7 +190,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_11_MagazineCheckoutRead_Rbdigitalinternal() throws InterruptedException {
         //mainPage.Login("jun5@gmail.com", "12345qw");//new checkout new accaount_expectedAccesCheckout
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
-        mainPage.Login("nov27@gmail.com", "12345qw");
+        mainPage.Login("qauser", "password1");
         magazinePage.OpenMagazinesPage();
         magazinePage.SelectMagazine("//img[@alt='0024 Horloges']");
         magazinePage.PressCheckoutBtn();
@@ -210,7 +210,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
-        mainPage.Login("nov27@gmail.com", "12345qw");
+        mainPage.Login("qauser", "password1");
         comicPage.OpenComicsPageRbdigitalinternal();
         comicPage.SelectComics("//img[@alt='CAPTAIN MARVEL VOL. 1: HIGHER, FURTHER, FASTER, MORE - Special']");
         comicPage.PressCheckoutBtn();
@@ -259,18 +259,18 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_15_SearchMagazineCheckoutReadArrowNext() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
-        magazinePage.SearchMagazine("$10 DINNERS (OR LESS!)");
+        magazinePage.SearchMagazine("Zen et bien dans ma vie");
         magazinePage.PressCheckoutBtn();
         magazinePage.PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
-        magazinePage.openMagazineReadingPage(179674);
+        magazinePage.openMagazineReadingPage(453469);
         magazineUrl4 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(179674, 2);
-        openMagazineComicsPage(4);
-        pressArrowNextFromPage(4);
+        readingPage.openMagazinePageFromTableOfContents(453469, 4);
+        openMagazineComicsPage(6);
+        pressArrowNextFromPage(6);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
-        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=333");
-        checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/179674/Cover");
+        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=10284");
+        checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/453469/Cover");
     }
 
     @Test
