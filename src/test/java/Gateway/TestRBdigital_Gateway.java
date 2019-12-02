@@ -402,6 +402,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         magazinePage.SelectMagazine("//img[@alt='net']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: English')]")));
 
+
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='danish']")));
         SelectFromSelectByIdAndValue("language_search_line", "danish");
         magazinePage.SelectMagazine("//img[@alt='Datatid']");
