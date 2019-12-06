@@ -26,7 +26,7 @@ public class ComicPage {
         PageFactory.initElements(driver, this);
     }
 
-    public void OpenComicsPage() throws InterruptedException {
+    public ComicPage OpenComicsPage() throws InterruptedException {
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         Thread.sleep(1500);
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("a[href*='service/comics']")));
@@ -34,18 +34,28 @@ public class ComicPage {
         driver.findElement(By.cssSelector("a[href*='service/comics']")).click();
         driver.findElement(By.xpath("//a[contains(text(), 'Browse Comics')]")).click();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("title_search_line")));
+        return this;
     }
 
-    public void OpenComicsPageRbdigitalinternal() throws InterruptedException {
+    public ComicPage pressKeepBrowsingBtn(){
+        Wait<WebDriver> wait = new WebDriverWait(driver, 80);
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//a[contains(text(), 'Keep Browsing')]")));
+        //wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[contains(text(), 'yoursupport@recordedbooks.com')]")));
+        driver.findElement(By.xpath("//a[contains(text(), 'Keep Browsing')]")).click();
+        return this;
+    }
+
+    public ComicPage OpenComicsPageRbdigitalinternal() throws InterruptedException {
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         Thread.sleep(1500);
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("a[href*='service/comics']")));
         //driver.findElement(By.xpath("//a[contains(@href, 'service/comics')]")).click();
         driver.findElements(By.cssSelector("a[href*='service/comics']")).get(0).click();
         driver.findElement(By.xpath("//a[contains(text(), 'Browse Comics')]")).click();
+        return this;
     }
 
-    public void SelectComics(String xpath) throws InterruptedException {
+    public ComicPage SelectComics(String xpath) throws InterruptedException {
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
 
         int count=0;
@@ -57,17 +67,20 @@ public class ComicPage {
         //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("div[class = 'magazine-card']")));
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath(xpath)));
         driver.findElement(By.xpath(xpath)).click();
+        return this;
     }
 
-    public void PressCheckoutBtn(){
+    public ComicPage PressCheckoutBtn(){
         driver.findElement(By.xpath("//a[@class='button'][@title='Checkout Now']")).click();
+        return this;
     }
 
-    public void PressStartReadingBtn(){
+    public ComicPage PressStartReadingBtn(){
         Wait<WebDriver> wait = new WebDriverWait(driver, 43);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//span[contains(text(), 'Start Reading')]")));
         //wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[contains(text(), 'yoursupport@recordedbooks.com')]")));
         driver.findElement(By.xpath("//span[contains(text(), 'Start Reading')]")).click();
+        return this;
     }
 
     public void SwitchToTab(int window){
@@ -100,13 +113,14 @@ public class ComicPage {
         driver.switchTo().window(tabs.get(comicsPageIndex));
     }
 
-    public void SearchComic(String comicName){
+    public ComicPage SearchComic(String comicName){
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         WebElement search = driver.findElement(By.id("title_search_line"));
         search.sendKeys(comicName);
         search.sendKeys(Keys.ENTER);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("img[alt = '"+comicName+"']")));
         driver.findElement(By.cssSelector("img[alt = '"+comicName+"']")).click();
+        return this;
     }
 
     public void SwitchToIFrameOpenComicsReadingPage(int comicsID) throws InterruptedException {
@@ -122,9 +136,10 @@ public class ComicPage {
         wait2.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("div[title = 'Bookmarks']")));
     }
 
-    public void openComicsReadingPage(int comicsID) throws InterruptedException {
+    public ComicPage openComicsReadingPage(int comicsID) throws InterruptedException {
         SwitchToTab();
         SwitchToIFrameOpenComicsReadingPage(comicsID);
+        return this;
     }
 
 }

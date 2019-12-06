@@ -37,6 +37,7 @@ public class DB_Testing {
         while (rs.next()){
             String myName = rs.getString(1);
             String myAge = rs.getString(2);
+
             System. out.println(myName+"  "+myAge);
         }
         // closing DB Connection

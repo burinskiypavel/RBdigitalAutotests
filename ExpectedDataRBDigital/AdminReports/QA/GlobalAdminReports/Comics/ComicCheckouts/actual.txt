@@ -1,20 +1,20 @@
 For Period: from 01/01/2017 to 01/22/2017
 Title	Barcode	Email	Library	RBID	Checkouts	Time Period	Current Issue Default	Status
-Angel: Lorne				RBC0387445	0	Monthly	25	Active
-Mars Attacks, Vol. 1: Attack From Space				RBC0387513	0	Monthly	25	Active
-Angel: Old Friends				RBC0387451	0	Monthly	25	Active
-Rocketeer Adventures, Vol. 1				RBC0387917	0	Monthly	25	Active
-Angel: Spotlight				RBC0387453	0	Monthly	25	Active
-Parker: The Hunter				RBC0387524	0	Monthly	25	Active
-Parker: The Score				RBC0455711	0	Monthly	25	Active
-Pinky and Stinky				RBC0387526	0	Monthly	25	Active
-Popeye: Classics, Vol. 2				RBC0388030	0	Monthly	25	Active
-Popeye: Classics, Vol. 1				RBC0388153	0	Monthly	25	Active
-Angel: The Curse				RBC0387455	0	Monthly	25	Active
-Samurai Jack, Vol. 4: The Warrior-King				RBC0387746	0	Monthly	25	Active
-Samurai Jack, Vol. 3: Quest For The Broken Blade				RBC0387745	0	Monthly	25	Active
-Samurai Jack, Vol. 2: The Scotsman's Curse				RBC0387744	0	Monthly	25	Active
-Samurai Jack, Vol. 1: The Threads of Time				RBC0387743	0	Monthly	25	Active
-Shadow Show: Stories In Celebration of Ray Bradbury				RBC0387531	0	Monthly	25	Active
-Shockrockets				RBC0387532	0	Monthly	25	Active
-Silent Hill: Dying Inside				RBC0387533	0	Monthly	25	Active
+Army of Two, Vol. 1: Across The Border				RBC0389796	0	Monthly	25	Active
+Black Dynamite				RBC0389797	0	Monthly	25	Active
+Crysis				RBC0389798	0	Monthly	25	Active
+Angel: Masks				RBC0387444	0	Monthly	25	Active
+Angel: Only Human				RBC0387452	0	Monthly	25	Active
+Night Mary				RBC0387519	0	Monthly	25	Active
+Danger Girl: Revolver				RBC0387468	0	Monthly	25	Active
+Gate-way, Vol. 1: A New World				RBC0389801	0	Monthly	25	Active
+James Patterson's The Murder of King Tut				RBC0389802	0	Monthly	25	Active
+James Patterson's Witch & Wizard, Vol. 1: Battle for Shadowland				RBC0389803	0	Monthly	25	Active
+Jurassic Park: Dangerous Games				RBC0389842	0	Monthly	25	Active
+Magic the Gathering, Vol. 3: Path of Vengeance				RBC0389876	0	Monthly	25	Active
+Minisulk				RBC0389843	0	Monthly	25	Active
+Rot & Ruin: Warrior Smart				RBC0389844	0	Monthly	25	Active
+Silent Hill: Dead/Alive				RBC0389685	0	Monthly	25	Active
+Silent Hill: Downpour - Anne's Story				RBC0389873	0	Monthly	25	Active
+Silent Hill: Sinner's Reward				RBC0389774	0	Monthly	25	Active
+The High Ways				RBC0389775	0	Monthly	25	Active

@@ -1,5 +1,6 @@
 package Gateway;
 
+import Gateway.Steps.CommonSteps;
 import Gateway.pages.*;
 import org.apache.tools.ant.types.resources.selectors.Compare;
 import org.openqa.selenium.By;
@@ -29,6 +30,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     ReadingPage readingPage;
     CollectionPage collectionPage;
     AdminPage adminPage;
+    CommonSteps commonSteps;
     String comicsUrl2;
     String magazineUrl2;
     String magazineUrl3;
@@ -59,6 +61,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         readingPage = new ReadingPage(driver);
         collectionPage = new CollectionPage(driver);
         adminPage = new AdminPage(driver);
+        commonSteps = new CommonSteps(driver);
     }
 
     @BeforeMethod
@@ -119,39 +122,63 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     }
 
     @Test
-    void test_06_MagazineCheckoutRead() throws InterruptedException {
+    void test_06_MagazineCheckoutAndReadAreAvailable() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
-        magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='4 Wheel & Off Road']");
-        magazinePage.PressCheckoutBtn();
-        magazinePage.PressStartReadingBtn();
-        String actualUrl1 = getCurrentUrl();
-        magazinePage.openMagazineReadingPage(431807);
+        magazinePage.OpenMagazinesPage()
+                .SelectMagazine("//img[@alt='4 Wheel & Off Road']")
+                .PressCheckoutBtn()
+                .PressStartReadingBtn()
+                .openMagazineReadingPage(431807);
         magazineUrl2 = getCurrentUrl();
         readingPage.openMagazinePageFromTableOfContents(431807, 4);
-        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=347");
+
         checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/431807/Cover");
     }
 
     @Test
-    void test_07_ComicCheckoutRead() throws InterruptedException {
+    void test_06_1_MagazineCheckoutAndReturnAreAvailable() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
-        comicPage.OpenComicsPage();
-        comicPage.SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']");
-        comicPage.PressCheckoutBtn();
-        comicPage.PressStartReadingBtn();
-        String actualUrl1 = getCurrentUrl();
-        comicPage.openComicsReadingPage(389796);
+        magazinePage.OpenMagazinesPage()
+                .SelectMagazine("//img[@alt='4 Wheel & Off Road']")
+                .PressCheckoutBtn()
+                .pressKeepBrowsingBtn()
+                .OpenMyCollection();
+        collectionPage.returnMagazineOrComics();
+
+        commonSteps.thenIshouldnotsee("//img[@alt='4 Wheel & Off Road']");
+    }
+
+    @Test
+    void test_07_ComicCheckoutAndReadIsAvailable() throws InterruptedException {
+        mainPage.Login("oct29@gmail.com", "12345qw");
+        comicPage.OpenComicsPage()
+                .SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']")
+                .PressCheckoutBtn()
+                .PressStartReadingBtn()
+                .openComicsReadingPage(389796);
         comicsUrl2 = getCurrentUrl();
         readingPage.openComicsPageFromTableOfContents(389796, 4);
         readingPage.openBookmarks();
         String actualText = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
-        checkUrlContains(actualUrl1, "/test51/service/comics/landing?mag_id=1393");
+
         checkUrlContains(comicsUrl2, "com/reader.php#/reader/readsvg/389796/Cover");
         checkTextContains(actualText, "Select the page you want to bookmark");
     }
 
     @Test
+    void test_07_1_ComicCheckoutAndReturnAreAvailable() throws InterruptedException {
+        mainPage.Login("oct29@gmail.com", "12345qw");
+        comicPage.OpenComicsPage()
+                .SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']")
+                .PressCheckoutBtn()
+                .pressKeepBrowsingBtn()
+                .OpenMyCollection();
+        collectionPage.returnMagazineOrComics();
+
+        commonSteps.thenIshouldnotsee("//img[@alt='Army of Two, Vol. 1: Across The Border']");
+    }
+
+    @Test(enabled = false)
     void test_08_ComicReturn() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         comicPage.OpenComicsPage();
@@ -165,7 +192,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         Assert.assertFalse(driver.findElements(By.cssSelector("a[href*='/magazines/proxy/test51/magazine-reader/" + comicsId + "']")).size() != 0);
     }
 
-    @Test
+    @Test(enabled = false)
     void test_09_MagazineReturn() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
@@ -191,14 +218,15 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         //mainPage.Login("jun5@gmail.com", "12345qw");//new checkout new accaount_expectedAccesCheckout
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
         mainPage.Login("qauser", "password1");
-        magazinePage.OpenMagazinesPage();
-        magazinePage.SelectMagazine("//img[@alt='0024 Horloges']");
-        magazinePage.PressCheckoutBtn();
-        magazinePage.PressStartReadingBtn();
+        magazinePage.OpenMagazinesPage()
+                .SelectMagazine("//img[@alt='0024 Horloges']")
+                .PressCheckoutBtn()
+                .PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
         magazinePage.openMagazineReadingPage(420020);
         magazineUrl3 = getCurrentUrl();
         readingPage.openMagazinePageFromTableOfContents(420020, 4);
+
         checkUrlContains(actualUrl1, "service/magazines/landing?mag_id=2882");
         checkUrlContains(magazineUrl3, "com/reader.php#/reader/readsvg/420020/Cover");
     }
@@ -211,10 +239,10 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
             mainPage.Logout();
         }
         mainPage.Login("qauser", "password1");
-        comicPage.OpenComicsPageRbdigitalinternal();
-        comicPage.SelectComics("//img[@alt='CAPTAIN MARVEL VOL. 1: HIGHER, FURTHER, FASTER, MORE - Special']");
-        comicPage.PressCheckoutBtn();
-        comicPage.PressStartReadingBtn();
+        comicPage.OpenComicsPageRbdigitalinternal()
+                .SelectComics("//img[@alt='CAPTAIN MARVEL VOL. 1: HIGHER, FURTHER, FASTER, MORE - Special']")
+                .PressCheckoutBtn()
+                .PressStartReadingBtn();
         String actualUrl1 = getCurrentUrl();
         comicPage.openComicsReadingPage(424456);
         comicsUrl3 = getCurrentUrl();
@@ -256,38 +284,34 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     }
 
     @Test
-    void test_15_SearchMagazineCheckoutReadArrowNext() throws InterruptedException {
+    void test_15_SearchMagazineCheckoutReadArrowNextIsAvailable() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
-        magazinePage.OpenMagazinesPage();
-        magazinePage.SearchMagazine("Zen et bien dans ma vie");
-        magazinePage.PressCheckoutBtn();
-        magazinePage.PressStartReadingBtn();
-        String actualUrl1 = getCurrentUrl();
-        magazinePage.openMagazineReadingPage(453469);
+        magazinePage.OpenMagazinesPage()
+                .SearchMagazine("Zen et bien dans ma vie")
+                .PressCheckoutBtn()
+                .PressStartReadingBtn()
+                .openMagazineReadingPage(453469);
         magazineUrl4 = getCurrentUrl();
         readingPage.openMagazinePageFromTableOfContents(453469, 4);
         openMagazineComicsPage(6);
         pressArrowNextFromPage(6);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
-        checkUrlContains(actualUrl1, "/test51/service/magazines/landing?mag_id=10284");
         checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/453469/Cover");
     }
 
     @Test
-    void test_16_SearchComicCheckoutReadArrowNext() throws InterruptedException {
+    void test_16_SearchComicCheckoutReadArrowNextIsAvailable() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
-        comicPage.OpenComicsPage();
-        comicPage.SearchComic("Black Dynamite");
-        comicPage.PressCheckoutBtn();
-        comicPage.PressStartReadingBtn();
-        String actualUrl1 = getCurrentUrl();
-        comicPage.openComicsReadingPage(389797);
+        comicPage.OpenComicsPage()
+                .SearchComic("Black Dynamite")
+                .PressCheckoutBtn()
+                .PressStartReadingBtn()
+                .openComicsReadingPage(389797);
         comicsUrl4 = getCurrentUrl();
         readingPage.openComicsPageFromTableOfContents(389797, 2);
         openMagazineComicsPage(4);
         pressArrowNextFromPage(4);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
-        checkUrlContains(actualUrl1, "/test51/service/comics/landing?mag_id=1394");
         checkUrlContains(comicsUrl4, "com/reader.php#/reader/readsvg/389797/Cover");
     }
 
@@ -331,17 +355,17 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='cycling']")));
         SelectFromSelectByIdAndValue("genre_search_line", "cycling");
-        magazinePage.SelectMagazine("//img[@alt='Big Bike']");
+        magazinePage.SelectMagazine("//img[@alt='Bike']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Cycling')]")));
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='architecture']")));
         SelectFromSelectByIdAndValue("genre_search_line", "architecture");
-        magazinePage.SelectMagazine("//img[@alt='Stadswerk Magazine']");
+        magazinePage.SelectMagazine("//img[@alt='AD France']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Architecture')]")));
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='art-photo']")));
         SelectFromSelectByIdAndValue("genre_search_line", "art-photo");
-        magazinePage.SelectMagazine("//img[@alt='Photo Editing']");
+        magazinePage.SelectMagazine("//img[@alt='3D Artist']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Art & Photo')]")));
 
         List<String> actualReport = adminPage.GetActualDatadef("//div[@class='magazine_detail_content']", "TestRBDigital_Gateway/Test_18_OpenMagazinesCheckGenresCheckDetailPage/actual.txt");

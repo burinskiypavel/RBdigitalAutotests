@@ -44,6 +44,7 @@ public class MagazinePage {
     WebElement firstPageBtnPagination;
 
 
+
     public void UsePageObj(){
         pageObj = new PageObj(driver);
     }
@@ -52,7 +53,7 @@ public class MagazinePage {
         mainPage = new MainPage(driver);
     }
 
-    public void OpenMagazinesPage() throws InterruptedException {
+    public MagazinePage OpenMagazinesPage() throws InterruptedException {
         //driver.findElement(By.xpath("//a[contains(@href, 'com/test51/service/magazines')]")).click()
         Thread.sleep(1500);
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
@@ -67,31 +68,42 @@ public class MagazinePage {
 
         driver.findElement(By.xpath("//a[contains(text(), 'Browse Magazines')]")).click();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("title_search_line")));
+        return this;
     }
 
-    public void SelectMagazine(String xpath) {
+    public MagazinePage SelectMagazine(String xpath) {
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath(xpath)));
         wait.until(ExpectedConditions.elementToBeClickable(By.xpath(xpath)));
         driver.findElement(By.xpath(xpath)).click();
+        return this;
     }
 
-    public void PressCheckoutBtn(){
+    public MagazinePage PressCheckoutBtn(){
         driver.findElement(By.xpath("//a[@class='button'][@title='Checkout Now']")).click();
+        return this;
     }
 
-    public void PressStartReadingBtn(){
+    public MagazinePage PressStartReadingBtn(){
         Wait<WebDriver> wait = new WebDriverWait(driver, 80);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//span[contains(text(), 'Start Reading')]")));
         //wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[contains(text(), 'yoursupport@recordedbooks.com')]")));
         driver.findElement(By.xpath("//span[contains(text(), 'Start Reading')]")).click();
+        return this;
+    }
+
+    public MagazinePage pressKeepBrowsingBtn(){
+        Wait<WebDriver> wait = new WebDriverWait(driver, 80);
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//a[contains(text(), 'Keep Browsing')]")));
+        //wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[contains(text(), 'yoursupport@recordedbooks.com')]")));
+        driver.findElement(By.xpath("//a[contains(text(), 'Keep Browsing')]")).click();
+        return this;
     }
 
     public void SwitchToSecondTab(){
         ArrayList<String> tabs = new ArrayList<String>(driver.getWindowHandles());
         driver.switchTo().window(tabs.get(1));
     }
-
 
     public void SwitchToTab(){
         ArrayList<String> tabs = new ArrayList<String>(driver.getWindowHandles());
@@ -112,10 +124,12 @@ public class MagazinePage {
         wait2.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("div[title = 'Bookmarks']")));
     }
 
-    public void OpenMyCollection(){
+    public MagazinePage OpenMyCollection(){
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("a[class*='my_collection_link']")));
         driver.findElement(By.cssSelector("a[class*='my_collection_link']")).click();
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("span[class = 'image trash']")));
+        return this;
     }
 
     //public void OpenMagazinePageFromListWaitForSpinnerLoading(int magazineID, int pageNumber){
@@ -126,7 +140,7 @@ public class MagazinePage {
 
     //}
 
-    public void SearchMagazine(String magazineName) throws InterruptedException {
+    public MagazinePage SearchMagazine(String magazineName) throws InterruptedException {
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("title_search_line")));
         WebElement search = driver.findElement(By.id("title_search_line"));
@@ -137,6 +151,7 @@ public class MagazinePage {
         search.sendKeys(Keys.ENTER);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("img[alt = '"+magazineName+"']")));
         driver.findElement(By.cssSelector("img[alt = '"+magazineName+"']")).click();
+        return this;
     }
 
     public void GoToPagePagination(int page){
@@ -176,9 +191,10 @@ public class MagazinePage {
         }
     }
 
-    public void openMagazineReadingPage(int magazineID) throws InterruptedException {
+    public MagazinePage openMagazineReadingPage(int magazineID) throws InterruptedException {
         SwitchToTab();
         SwitchToIFrameOpenMagazineReadingPage(magazineID);
+        return this;
     }
 
 
