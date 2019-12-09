@@ -90,11 +90,9 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     }
 
     @Test
-    void test_02_3_Registration_Rbdigitalinternal() throws InterruptedException {
-        driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
-        String timeStamp = GetTimeStamp();
-        mainPage.Register("pointbreak", "6794", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
-        mainPage.CheckWelcomeText("");
+    void test_02_3_ForgotPassword() throws InterruptedException {
+        driver.navigate().to("https://www.rbdigitalqa.com/test51/");
+        mainPage.forgotPassword("oct29@gmail.com");
     }
 
     @Test
@@ -368,28 +366,31 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         magazinePage.SelectMagazine("//img[@alt='01net']");
 
         softAssert.assertFalse(driver.findElements(By.xpath("//p[contains(text(), 'language: French')]")).size() == 0, "ERROR - language: Afrikaans is not present");
-        softAssert.assertAll();
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='english']")));
         SelectFromSelectByIdAndValue("language_search_line", "english");
         magazinePage.SelectMagazine("//img[@alt='net']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: English')]")));
 
+        softAssert.assertFalse(driver.findElements(By.xpath("//p[contains(text(), 'language: English')]")).size() == 0, "ERROR - language: Afrikaans is not present");
 
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='danish']")));
-        SelectFromSelectByIdAndValue("language_search_line", "danish");
-        magazinePage.SelectMagazine("//img[@alt='Datatid']");
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: Danish')]")));
+        softAssert.assertAll();
 
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='dutch']")));
-        SelectFromSelectByIdAndValue("language_search_line", "german");
-        magazinePage.SelectMagazine("//img[@alt='Eltern Family']");
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: German')]")));
 
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='french']")));
-        SelectFromSelectByIdAndValue("language_search_line", "french");
-        magazinePage.SelectMagazine("//img[@alt='01net']");
-        Assert.assertTrue(driver.findElement(By.xpath("//p[contains(text(), 'language: French')]")).isDisplayed());
+        //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='danish']")));
+        //SelectFromSelectByIdAndValue("language_search_line", "danish");
+        //magazinePage.SelectMagazine("//img[@alt='Datatid']");
+        //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: Danish')]")));
+
+        //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='dutch']")));
+        //SelectFromSelectByIdAndValue("language_search_line", "german");
+        //magazinePage.SelectMagazine("//img[@alt='Eltern Family']");
+        //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: German')]")));
+
+        //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='french']")));
+        //SelectFromSelectByIdAndValue("language_search_line", "french");
+        //magazinePage.SelectMagazine("//img[@alt='01net']");
+        //Assert.assertTrue(driver.findElement(By.xpath("//p[contains(text(), 'language: French')]")).isDisplayed());
     }
 
     @Test

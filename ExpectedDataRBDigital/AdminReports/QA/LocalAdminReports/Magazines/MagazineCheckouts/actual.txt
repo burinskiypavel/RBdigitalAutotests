@@ -57,7 +57,7 @@ Cruising World				RBZ0000268	0	Monthly	2500	Active
 Cycle World				RBZ0000273	0	Monthly	2500	Active		
 Cycling Plus				RBZ0000276	0	Monthly	2500	Active		
 Decanter				RBZ0000278	0	Monthly	2500	Active		
-DerniÃ¨re Heure				RBZ0000283	0	Weekly	2500	Active		
+Dernière Heure				RBZ0000283	0	Weekly	2500	Active		
 DESIGNLINES				RBZ0000284	0	Monthly	2500	Active		
 Digital Camera World				RBZ0000294	0	Monthly	500	Active		
 Digital Photo Pro				RBZ0000296	0	Monthly	2500	Active		
@@ -69,7 +69,7 @@ Electronic Musician				RBZ0000335	0	Monthly	2500	Active
 Elle				RBZ0000337	0	Monthly	500	Active		
 Elle Canada				RBZ0000338	0	Monthly	2500	Active		
 ELLE DECOR				RBZ0000339	0	Monthly	500	Active		
-ELLE QUÃ‰BEC				RBZ0000341	0	Monthly	2500	Active		
+ELLE QUÉBEC				RBZ0000341	0	Monthly	2500	Active		
 Esquire				RBZ0000347	0	Monthly	500	Active		
 Esquire UK				RBZ0000349	0	Monthly	2500	Active		
 Evo				RBZ0000356	0	Monthly	2500	Active		
@@ -117,7 +117,7 @@ Knitscene				RBZ0000521	0	Monthly	2500	Active
 Kung Fu Tai Chi				RBZ0000523	0	Monthly	2500	Active		
 Lapidary Journal Jewelry Artist				RBZ0000530	0	Monthly	2500	Active		
 Les Affaires				RBZ0000535	0	Weekly	2500	Active		
-Les IdÃ©es de ma maison				RBZ0000536	0	Monthly	2500	Active		
+Les Idées de ma maison				RBZ0000536	0	Monthly	2500	Active		
 Lonely Planet Traveller				RBZ0006756	0	Monthly	2500	Active		
 MacFormat				RBZ0000552	0	Monthly	500	Active		
 Macworld				RBZ0000556	0	Monthly	2500	Active		
@@ -163,7 +163,7 @@ Rotman Management				RBZ0000731	0	Monthly	2500	Active
 Runner's World				RBZ0000732	0	Monthly	2500	Active		
 Saveur				RBZ0000736	0	Monthly	2500	Active		
 Scuba Diving				RBZ0000744	0	Monthly	2500	Active		
-SÃ©lection du Reader's Digest				RBZ0000747	0	Monthly	2500	Active		
+Sélection du Reader's Digest				RBZ0000747	0	Monthly	2500	Active		
 Ski Magazine				RBZ0000760	0	Monthly	2500	Active		
 Smithsonian Magazine				RBZ0000770	0	Monthly	2500	Active		
 Sound & Vision				RBZ0000773	0	Monthly	2500	Active		
@@ -271,7 +271,7 @@ Le fana de l'aviation				RBZ0001870	0	Monthly	2500	Active
 Armes de chasse				RBZ0001871	0	Monthly	2500	Active		
 MilK				RBZ0001922	0	Monthly	100	Active		
 MilK Decoration				RBZ0001928	0	Monthly	100	Active		
-Rolling Stone Hors-SÃ©rie				RBZ0001930	0	Monthly	2500	Active		
+Rolling Stone Hors-Série				RBZ0001930	0	Monthly	2500	Active		
 Cosmopolitan FR				RBZ0002039	0	Monthly	200	Active		
 Classica				RBZ0002147	0	Monthly	2500	Active		
 Images du monde				RBZ0002267	0	Annually	Unlimited	Active		
@@ -305,15 +305,15 @@ Computer Arts				RBZ0002828	0	Monthly	500	Active
 Vogue hommes English Version				RBZ0002836	0	Monthly	2500	Active		
 Cuisine et Vins de France				RBZ0002909	0	Monthly	200	Active		
 La Revue du Vin de France				RBZ0002910	0	Monthly	200	Active		
-Marie Claire IdÃ©es				RBZ0002911	0	Monthly	200	Active		
+Marie Claire Idées				RBZ0002911	0	Monthly	200	Active		
 L'Officiel Hommes Paris				RBZ0002933	0	Monthly	2500	Active		
-L'Officiel 1000 ModÃ¨les				RBZ0002941	0	Monthly	2500	Active		
+L'Officiel 1000 Modèles				RBZ0002941	0	Monthly	2500	Active		
 La Revue des Montres - l'Horoguide				RBZ0002947	0	Monthly	2500	Active		
 Avantages				RBZ0003020	0	Monthly	200	Active		
 Windows 7 Help & Advice				RBZ0003196	0	Monthly	500	Active		
 Mollie Makes				RBZ0003271	0	Monthly	2500	Active		
 Taste&Travel International				RBZ0003299	0	Monthly	500	Active		
-CompÃ©tence Mac				RBZ0003386	0	Monthly	2500	Active		
+Compétence Mac				RBZ0003386	0	Monthly	2500	Active		
 ASIAN Geographic				RBZ0003777	0	Monthly	2500	Active		
 HGTV Magazine				RBZ0003848	0	Monthly	500	Active		
 The Good Life				RBZ0003944	0	Monthly	2500	Active		
@@ -330,24 +330,24 @@ Digital Photographer				RBZ0004544	0	Monthly	1000	Active
 Biba				RBZ0004640	0	Monthly	2500	Active		
 Closer				RBZ0004641	0	Monthly	2500	Active		
 Grazia France				RBZ0004642	0	Monthly	2500	Active		
-Top SantÃ©				RBZ0004643	0	Monthly	2500	Active		
+Top Santé				RBZ0004643	0	Monthly	2500	Active		
 L'auto-Journal				RBZ0004645	0	Monthly	2500	Active		
 Sport Auto France				RBZ0004646	0	Monthly	2500	Active		
 Science & Vie				RBZ0004648	0	Monthly	2500	Active		
-Science & Vie Hors SÃ©rie				RBZ0004649	0	Monthly	2500	Active		
+Science & Vie Hors Série				RBZ0004649	0	Monthly	2500	Active		
 Vintage Rock				RBZ0004657	0	Monthly	2500	Active		
-Surfing Magazineâ€™s Swimsuit Issue				RBZ0004668	0	Monthly	2500	Active		
+Surfing Magazine’s Swimsuit Issue				RBZ0004668	0	Monthly	2500	Active		
 50 Greatest Mysteries in the Universe				RBZ0004669	0	Monthly	500	Active		
 Better Nutrition				RBZ0004675	0	Monthly	500	Active		
-RÃ©ponses Photo				RBZ0004702	0	Monthly	2500	Active		
+Réponses Photo				RBZ0004702	0	Monthly	2500	Active		
 Pleine Vie				RBZ0004710	0	Monthly	2500	Active		
 L'auto-journal acheteur				RBZ0004713	0	Monthly	2500	Active		
-Le Chasseur FranÃ§ais Hors SÃ©rie				RBZ0004717	0	Monthly	2500	Active		
+Le Chasseur Français Hors Série				RBZ0004717	0	Monthly	2500	Active		
 Diapason				RBZ0004718	0	Monthly	2500	Active		
 Les Cahiers de Science & Vie				RBZ0004719	0	Monthly	2500	Active		
-Science & Vie DÃ©couvertes				RBZ0004721	0	Monthly	2500	Active		
+Science & Vie Découvertes				RBZ0004721	0	Monthly	2500	Active		
 Science & Vie Junior				RBZ0004722	0	Monthly	2500	Active		
-Science & Vie Junior Hors SÃ©rie				RBZ0004723	0	Monthly	2500	Active		
+Science & Vie Junior Hors Série				RBZ0004723	0	Monthly	2500	Active		
 Guerres & Histoires				RBZ0004724	0	Monthly	2500	Active		
 L'Officiel Art				RBZ0004772	0	Monthly	2500	Active		
 Mustang Monthly				RBZ0004793	0	Monthly	2500	Active		
@@ -358,10 +358,10 @@ Closer - C'est leur histoire				RBZ0005043	0	Monthly	2500	Active
 MacLife				RBZ0005068	0	Monthly	500	Active		
 PC Gamer (US Edition)				RBZ0005070	0	Monthly	500	Active		
 Official Xbox Magazine				RBZ0005071	0	Monthly	500	Active		
-Lionâ€™s Roar				RBZ0005077	0	Monthly	500	Active		
-Ã‰chos Vedettes				RBZ0005172	0	Weekly	2500	Active		
+Lion’s Roar				RBZ0005077	0	Monthly	500	Active		
+Échos Vedettes				RBZ0005172	0	Weekly	2500	Active		
 The Simple Things				RBZ0005224	0	Monthly	500	Active		
-Star SystÃ¨me				RBZ0005235	0	Weekly	2500	Active		
+Star Système				RBZ0005235	0	Weekly	2500	Active		
 Intramuros-Paris Design Guide				RBZ0005264	0	Monthly	2500	Active		
 Fast Company				RBZ0005301	0	Monthly	500	Active		
 Inc. Magazine				RBZ0005327	0	Monthly	500	Active		
@@ -371,7 +371,7 @@ GQ L'essentiel du style				RBZ0005413	0	Monthly	2500	Active
 Best of AD				RBZ0005463	0	Monthly	2500	Active		
 Log Home Living				RBZ0005469	0	Monthly	2500	Active		
 Old House Journal				RBZ0005470	0	Monthly	2500	Active		
-Diapason Hors-SÃ©rie				RBZ0005488	0	Monthly	2500	Active		
+Diapason Hors-Série				RBZ0005488	0	Monthly	2500	Active		
 Cook's Illustrated				RBZ0005493	0	Monthly	2500	Active		
 Cook's Country				RBZ0005495	0	Monthly	2500	Active		
 WIRED				RBZ0005574	0	Monthly	500	Active		
@@ -387,7 +387,7 @@ Allure				RBZ0005641	0	Monthly	500	Active
 Mindful				RBZ0005642	0	Monthly	500	Active		
 Avantages HS				RBZ0005651	0	Monthly	200	Active		
 Women's Running				RBZ0005718	0	Monthly	500	Active		
-Le franÃ§ais dans le monde				RBZ0005719	0	Monthly	2500	Active		
+Le français dans le monde				RBZ0005719	0	Monthly	2500	Active		
 Women's Health UK				RBZ0005735	0	Monthly	2500	Active		
 Adirondack Life				RBZ0005788	0	Monthly	2500	Active		
 Computeractive				RBZ0005952	0	Weekly	2500	Active		
@@ -401,10 +401,10 @@ Cross Stitch Gold				RBZ0006036	0	Monthly	2500	Active
 The World of Cross Stitching				RBZ0006041	0	Monthly	2500	Active		
 Vital				RBZ0006051	0	Monthly	2500	Active		
 Einstein's Universe				RBZ0006126	0	Monthly	500	Active		
-Art & DÃ©coration				RBZ0006171	0	Monthly	2500	Active		
+Art & Décoration				RBZ0006171	0	Monthly	2500	Active		
 ELLE France				RBZ0006176	0	Monthly	2500	Active		
-ELLE Ã  Table				RBZ0006177	0	Monthly	2500	Active		
-ELLE DÃ©coration France				RBZ0006178	0	Monthly	2500	Active		
+ELLE à Table				RBZ0006177	0	Monthly	2500	Active		
+ELLE Décoration France				RBZ0006178	0	Monthly	2500	Active		
 Paris Match				RBZ0006187	0	Monthly	2500	Active		
 Public				RBZ0006190	0	Monthly	2500	Active		
 The New Yorker				RBZ0006233	0	Weekly	500	Active		
@@ -463,7 +463,7 @@ InStyle Australia Magazine				RBZ0008928	0	Monthly	2500	Active
 Women's Health Australia				RBZ0009174	0	Monthly	2500	Active		
 Muscle & Fitness Hers				RBZ0009202	0	Monthly	2500	Active		
 International Traveller				RBZ0009262	0	Monthly	2500	Active		
-Menâ€™s Fitness Quick Fix Fat Loss				RBZ0009297	0	Annually	Unlimited	Active		
+Men’s Fitness Quick Fix Fat Loss				RBZ0009297	0	Annually	Unlimited	Active		
 International Artist				RBZ0009325	0	Monthly	500	Active		
 Afrique Magazine				RBZ0009612	0	Monthly	2500	Active		
 Chasseur d'images				RBZ0009637	0	Annually	Unlimited	Active		
@@ -510,7 +510,7 @@ Interstation Magazine				RBZ0010142	0	Monthly	2500	Active
 Dr Good ! C'est bon !				RBZ0010143	0	Monthly	2500	Active		
 All Natura				RBZ0010150	0	Monthly	2500	Active		
 Heritage & Co				RBZ0010151	0	Monthly	2500	Active		
-MÃ©thode 80-20				RBZ0010152	0	Monthly	2500	Active		
+Méthode 80-20				RBZ0010152	0	Monthly	2500	Active		
 New art time				RBZ0010153	0	Monthly	2500	Active		
 MoneyWeek				RBZ0010159	0	Monthly	2500	Active		
 Bass Player				RBZ0010161	0	Monthly	2500	Active		
@@ -544,6 +544,6 @@ Christmas & Electric Trains				RBZ0010220	0	Monthly	500	Active
 Great War Scale Modeling				RBZ0010222	0	Monthly	500	Active		
 Garden & Gun				RBZ0010228	0	Annually	Unlimited	Active		
 Ultimate Adventure Bike				RBZ0010230	0	Annually	Unlimited	Active		
-Super pÃ¢tisserie & dessert				RBZ0010231	0	Annually	Unlimited	Active		
+Super pâtisserie & dessert				RBZ0010231	0	Annually	Unlimited	Active		
 Sur la Route des Chefs				RBZ0010232	0	Annually	Unlimited	Active		
 Total	0					

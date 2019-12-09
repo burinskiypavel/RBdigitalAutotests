@@ -42,6 +42,9 @@ public class MainPage {
     @FindBy(xpath = "//div[contains(text(), 'Welcome')]")
     public WebElement welcome;
 
+    @FindBy(xpath = "//*[contains(text(), 'Forgot password?')]")
+    public WebElement forgotPasswordBtn;
+
     //public MainPage(WebDriver driver2001) {
     //   this.driver = driver2001;
     //}
@@ -202,6 +205,15 @@ public class MainPage {
     public String GetTimeStamp() {
         String timeStamp = new SimpleDateFormat("MM_dd_yyyy_HH_mm").format(Calendar.getInstance().getTime());
         return timeStamp;
+    }
+
+    public void forgotPassword(String username) {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 30);
+        loginBtn.click();
+        forgotPasswordBtn.click();
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("username_reset")));
+        driver.findElement(By.id("username_reset")).sendKeys(username);
+        driver.findElement(By.id("pl_forgot_p")).click();
     }
 
 }
