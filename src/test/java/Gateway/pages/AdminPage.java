@@ -170,13 +170,14 @@ public class AdminPage {
         reportsTab.click();
     }
 
-    public void ClickOnCalendarIcon() {
+    public AdminPage ClickOnCalendarIcon() {
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("a[title='Calendar'][href='#']")));
         //WebElement a = driver.findElement(By.cssSelector("a[title='Calendar'][href='#']"));
         calendarBtn.click();
         WebElement firstDayOfMonthInCalendar = driver.findElement(By.cssSelector("a[class='ui-state-default'][href='#']"));
         Assert.assertTrue(firstDayOfMonthInCalendar.isDisplayed());
+        return this;
         //Wait<WebDriver> wait0 = new WebDriverWait(driver, 30);
         //wait0.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("a[class='ui-state-default ui-state-highlight']")));
     }

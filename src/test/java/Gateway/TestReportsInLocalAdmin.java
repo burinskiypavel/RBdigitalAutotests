@@ -74,8 +74,8 @@ public class TestReportsInLocalAdmin{
     void Test_01_AllServices_NewPatronReportCheckCalendar() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "all");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//h3[contains(text(), 'New Patrons Report')]")));
-        adminPage.ClickOnCalendarIcon();
-        adminPage.SetDatesInRepot("01/01/2019", "06/01/2019");
+        adminPage.ClickOnCalendarIcon()
+                .SetDatesInRepot("01/01/2019", "06/01/2019");
         adminPage.includeLibraryCheckbox.click();
         adminPage.createReport("//table[@class='report_table']");
         List<String> actualReport = adminPage.GetActualData("//table[@class='report_table']", "LocalAdminReports/AllServices/NewPatronReport/actual.txt");

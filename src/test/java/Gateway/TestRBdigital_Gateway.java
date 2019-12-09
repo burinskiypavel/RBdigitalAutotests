@@ -31,8 +31,6 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     CollectionPage collectionPage;
     AdminPage adminPage;
     CommonSteps commonSteps;
-    String comicsUrl2;
-    String magazineUrl2;
     String magazineUrl3;
     String comicsUrl3;
     String magazineUrl4;
@@ -129,14 +127,14 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
                 .openMagazineReadingPage(431807);
-        magazineUrl2 = getCurrentUrl();
+        String magazineUrl2 = getCurrentUrl();
         readingPage.openMagazinePageFromTableOfContents(431807, 4);
 
         checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/431807/Cover");
     }
 
     @Test
-    void test_06_1_MagazineCheckoutAndReturnAreAvailable() throws InterruptedException {
+    void test_07_MagazineCheckoutAndReturnAreAvailable() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
                 .SelectMagazine("//img[@alt='4 Wheel & Off Road']")
@@ -145,18 +143,18 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
                 .OpenMyCollection();
         collectionPage.returnMagazineOrComics();
 
-        commonSteps.thenIshouldnotsee("//img[@alt='4 Wheel & Off Road']");
+        commonSteps.thenIShouldNotSee("//img[@alt='4 Wheel & Off Road']");
     }
 
     @Test
-    void test_07_ComicCheckoutAndReadIsAvailable() throws InterruptedException {
+    void test_08_ComicCheckoutAndReadIsAvailable() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         comicPage.OpenComicsPage()
                 .SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
                 .openComicsReadingPage(389796);
-        comicsUrl2 = getCurrentUrl();
+        String comicsUrl2 = getCurrentUrl();
         readingPage.openComicsPageFromTableOfContents(389796, 4);
         readingPage.openBookmarks();
         String actualText = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
@@ -166,7 +164,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     }
 
     @Test
-    void test_07_1_ComicCheckoutAndReturnAreAvailable() throws InterruptedException {
+    void test_09_ComicCheckoutAndReturnAreAvailable() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         comicPage.OpenComicsPage()
                 .SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']")
@@ -175,35 +173,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
                 .OpenMyCollection();
         collectionPage.returnMagazineOrComics();
 
-        commonSteps.thenIshouldnotsee("//img[@alt='Army of Two, Vol. 1: Across The Border']");
-    }
-
-    @Test(enabled = false)
-    void test_08_ComicReturn() throws InterruptedException {
-        mainPage.Login("oct29@gmail.com", "12345qw");
-        comicPage.OpenComicsPage();
-        comicPage.OpenMyCollection();
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("span[class = 'image trash']")));
-        //String com = driver.findElement(By.xpath("//a[contains(text(), '"+comicsName+"')]")).getText();
-        String comicsId = comicsUrl2.substring(56, 61);
-        collectionPage.clickTrashBtn();
-        checkAlert("Are you sure?\nYou want to remove issue from your reading collection");
-        wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("a[href*='/magazines/proxy/test51/magazine-reader/" + comicsId + "']")));
-        Assert.assertFalse(driver.findElements(By.cssSelector("a[href*='/magazines/proxy/test51/magazine-reader/" + comicsId + "']")).size() != 0);
-    }
-
-    @Test(enabled = false)
-    void test_09_MagazineReturn() throws InterruptedException {
-        mainPage.Login("oct29@gmail.com", "12345qw");
-        magazinePage.OpenMagazinesPage();
-        magazinePage.OpenMyCollection();
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("span[class = 'image trash']")));
-        //String com = driver.findElement(By.xpath("//a[contains(text(), '"+comicsName+"')]")).getText();
-        String magazineId = magazineUrl2.substring(55, 61);
-        collectionPage.clickTrashBtn();
-        checkAlert("Are you sure?\nYou want to remove issue from your reading collection");
-        wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("a[href*='/magazines/proxy/test51/magazine-reader/" + magazineId + "']")));
-        Assert.assertFalse(driver.findElements(By.cssSelector("a[href*='/magazines/proxy/test51/magazine-reader/" + magazineId + "']")).size() != 0);
+        commonSteps.thenIShouldNotSee("//img[@alt='Army of Two, Vol. 1: Across The Border']");
     }
 
     @Test(enabled = false)
@@ -214,26 +184,21 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     }
 
     @Test
-    void test_11_MagazineCheckoutRead_Rbdigitalinternal() throws InterruptedException {
-        //mainPage.Login("jun5@gmail.com", "12345qw");//new checkout new accaount_expectedAccesCheckout
+    void test_11_MagazineCheckoutAndReturnAreAvailable_Rbdigitalinternal() throws InterruptedException {
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
         mainPage.Login("qauser", "password1");
         magazinePage.OpenMagazinesPage()
                 .SelectMagazine("//img[@alt='0024 Horloges']")
                 .PressCheckoutBtn()
-                .PressStartReadingBtn();
-        String actualUrl1 = getCurrentUrl();
-        magazinePage.openMagazineReadingPage(420020);
-        magazineUrl3 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(420020, 4);
+                .pressKeepBrowsingBtn()
+                .OpenMyCollection();
+        collectionPage.returnMagazineOrComics();
 
-        checkUrlContains(actualUrl1, "service/magazines/landing?mag_id=2882");
-        checkUrlContains(magazineUrl3, "com/reader.php#/reader/readsvg/420020/Cover");
+        commonSteps.thenIShouldNotSee("//img[@alt='0024 Horloges']");
     }
 
     @Test
     void test_12_ComicCheckoutRead_Rbdigitalinternal() throws InterruptedException {
-        //mainPage.Login("jun5@gmail.com", "12345qw");
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
@@ -242,34 +207,18 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         comicPage.OpenComicsPageRbdigitalinternal()
                 .SelectComics("//img[@alt='CAPTAIN MARVEL VOL. 1: HIGHER, FURTHER, FASTER, MORE - Special']")
                 .PressCheckoutBtn()
-                .PressStartReadingBtn();
-        String actualUrl1 = getCurrentUrl();
-        comicPage.openComicsReadingPage(424456);
+                .PressStartReadingBtn()
+                .openComicsReadingPage(424456);
         comicsUrl3 = getCurrentUrl();
         readingPage.openComicsPageFromTableOfContents(424456, 4);
         readingPage.openBookmarks();
         String actualText = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
-        checkUrlContains(actualUrl1, "service/comics/landing?mag_id=1878");
+
         checkUrlContains(comicsUrl3, "com/reader.php#/reader/readsvg/424456/Cover");
         checkTextContains(actualText, "Select the page you want to bookmark");
     }
 
-    @Test
-    void test_13_MagazineReturn_Rbdigitalinternal() throws InterruptedException {
-        driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
-        //mainPage.Login("jul25@gmail.com", "12345qw");
-        magazinePage.OpenMagazinesPage();
-        magazinePage.OpenMyCollection();
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("span[class = 'image trash']")));
-        //String com = driver.findElement(By.xpath("//a[contains(text(), '"+comicsName+"')]")).getText();
-        String magazineId = magazineUrl3.substring(55, 61);
-        collectionPage.clickTrashBtn();
-        checkAlert("Are you sure?\nYou want to remove issue from your reading collection");
-        wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("a[href*='/magazines/proxy/rbdigitalinternal/magazine-reader/" + magazineId + "']")));
-        Assert.assertFalse(driver.findElements(By.cssSelector("a[href*='/magazines/proxy/test51/magazine-reader/" + magazineId + "']")).size() != 0);
-    }
-
-    @Test
+    @Test(enabled = false)
     void test_14_ComicReturn_Rbdigitalinternal() throws InterruptedException {
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
         comicPage.OpenComicsPageRbdigitalinternal();

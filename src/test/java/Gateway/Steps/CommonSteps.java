@@ -19,7 +19,7 @@ public class CommonSteps {
         Assert.assertEquals(alertText,  expectedAlertText);
     }
 
-    public void thenIshouldnotsee(String item){
+    public void thenIShouldNotSee(String item){
         WebDriverWait wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("img[alt*='"+"4 Wheel & Off Road"+"'")));
         Assert.assertFalse(driver.findElements(By.cssSelector("img[alt*='"+"4 Wheel & Off Road"+"'")).size() != 0);
