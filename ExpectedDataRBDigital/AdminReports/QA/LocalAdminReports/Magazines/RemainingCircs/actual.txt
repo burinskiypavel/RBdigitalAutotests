@@ -4,7 +4,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	25 Beautiful Homes	RBZ0000011	11/30/2019	2499	1
 8080 Test Library	3D Artist	RBZ0004471	01/31/2020	999	1
 8080 Test Library	3D World	RBZ0000014	10/29/2019	500	1
-8080 Test Library	4 Wheel & Off Road	RBZ0000015	01/31/2020	2499	2
+8080 Test Library	4 Wheel & Off Road	RBZ0000015	01/31/2020	2500	2
 8080 Test Library	4x4 magazine	RBZ0001787	11/09/2019	2500	2
 8080 Test Library	50 Greatest Mysteries in the Universe	RBZ0004669	10/16/2018	500	1
 8080 Test Library	5280 Magazine	RBZ0000021	10/31/2019	2499	1
@@ -28,7 +28,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	American Farmhouse Style	RBZ0009827	11/30/2019	2500	1
 8080 Test Library	American Frontiersman	RBZ0010185	08/31/2019	500	1
 8080 Test Library	Android Advisor	RBZ0006925	10/31/2019	2500	1
-8080 Test Library	Antique Trader	RBZ0010198	11/19/2019	500	1
+8080 Test Library	Antique Trader	RBZ0010198	12/03/2019	500	2
 8080 Test Library	APC	RBZ0010085	11/30/2019	2500	1
 8080 Test Library	Aperture	RBZ0000057	08/19/2019	2500	1
 8080 Test Library	AppleMagazine	RBZ0000059	11/21/2019	2500	4
@@ -172,7 +172,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	ELLE DECOR	RBZ0000339	11/30/2019	500	2
 8080 Test Library	ELLE Décoration France	RBZ0006178	11/30/2019	2500	2
 8080 Test Library	Elle Decoration UK	RBZ0006993	11/30/2019	2500	1
-8080 Test Library	ELLE France	RBZ0006176	11/14/2019	2500	2
+8080 Test Library	ELLE France	RBZ0006176	11/22/2019	2500	3
 8080 Test Library	ELLE QUÉBEC	RBZ0000341	11/30/2019	2500	1
 8080 Test Library	Elle UK	RBZ0006990	11/30/2019	2500	1
 8080 Test Library	Entrepreneur Magazine	RBZ0007827	11/30/2019	2500	2
@@ -366,7 +366,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	National Geographic Kids	RBZ0008817	11/30/2019	200	2
 8080 Test Library	National Geographic Little Kids	RBZ0008818	10/31/2019	200	1
 8080 Test Library	Neptune Yachting Moteur	RBZ0001765	10/31/2019	2500	1
-8080 Test Library	net	RBZ0000002	11/30/2019	500	1
+8080 Test Library	net	RBZ0000002	11/30/2019	499	11
 8080 Test Library	New art time	RBZ0010153	04/21/2019	2500	1
 8080 Test Library	New Philosopher	RBZ0008618	10/31/2019	2500	1
 8080 Test Library	The New Pioneer	RBZ0010187	09/30/2019	500	1
@@ -483,7 +483,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Tech Advisor	RBZ0007017	12/31/2019	2500	1
 8080 Test Library	TechLife	RBZ0010090	12/01/2019	2500	1
 8080 Test Library	Tennishead	RBZ0007093	05/31/2019	2500	1
-8080 Test Library	Timber Home Living	RBZ0007590	10/31/2019	2500	1
+8080 Test Library	Timber Home Living	RBZ0007590	11/04/2019	2500	2
 8080 Test Library	Today's Quilter	RBZ0008924	11/30/2019	2500	1
 8080 Test Library	Top Santé	RBZ0004643	10/14/2019	2500	1
 8080 Test Library	Total 911	RBZ0004481	11/30/2019	1000	2
@@ -533,17 +533,17 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Women's Health Australia	RBZ0009174	11/30/2019	2500	1
 8080 Test Library	Women's Health UK	RBZ0005735	11/30/2019	2500	1
 8080 Test Library	Women's Running	RBZ0005718	10/31/2019	500	1
-8080 Test Library	Woodcraft Magazine	RBZ0000882	11/30/2019	2500	1
+8080 Test Library	Woodcraft Magazine	RBZ0000882	11/30/2019	2499	1
 8080 Test Library	Woodworker's Journal	RBZ0000883	11/30/2019	2500	1
 8080 Test Library	Woolworths TASTE	RBZ0010095	11/30/2019	2500	2
-8080 Test Library	Working Mother	RBZ0000884	09/30/2019	2500	1
+8080 Test Library	Working Mother	RBZ0000884	09/30/2019	2499	1
 8080 Test Library	World Coin News	RBZ0010214	11/30/2019	500	1
 8080 Test Library	The World of Cross Stitching	RBZ0006041	10/16/2019	2500	1
-8080 Test Library	World Soccer	RBZ0000912	10/31/2019	2500	1
+8080 Test Library	World Soccer	RBZ0000912	10/31/2019	2499	1
 8080 Test Library	The Writer	RBZ0000886	12/31/2019	2500	1
-8080 Test Library	Xbox: The Official Magazine	RBZ0006989	12/01/2019	500	1
+8080 Test Library	Xbox: The Official Magazine	RBZ0006989	12/01/2019	499	1
 8080 Test Library	Yoga Journal	RBZ0000890	10/31/2019	2500	1
 8080 Test Library	Your Home and Garden	RBZ0008877	11/30/2019	2499	1
 8080 Test Library	Zen et bien dans ma vie	RBZ0010041	06/30/2019	2499	1
 8080 Test Library	Zoomer Magazine	RBZ0000895	12/31/2019	2500	2
-Total	1034913	760
+Total	1034909	773

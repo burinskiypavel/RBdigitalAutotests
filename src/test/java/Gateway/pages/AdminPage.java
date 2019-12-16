@@ -508,7 +508,7 @@ public class AdminPage {
         return timeStamp;
     }
 
-    public void searchPatron(String patron) throws InterruptedException {
+    public AdminPage searchPatron(String patron) throws InterruptedException {
         Thread.sleep(300);
         Wait<WebDriver> wait = new WebDriverWait(driver, 39);
         wait.until(ExpectedConditions.elementToBeClickable(By.id("search_line")));
@@ -517,12 +517,14 @@ public class AdminPage {
         driver.findElement(By.id("search_line")).sendKeys(patron);
         driver.findElement(By.id("search_button")).click();
         Thread.sleep(300);
+        return this;
     }
 
-    public void showInactiveUsers(){
+    public AdminPage showInactiveUsers(){
         Wait<WebDriver> wait = new WebDriverWait(driver, 20);
         driver.findElement(By.cssSelector("a[title='Show Inactive Users']")).click();
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("a[title='Hide Inactive Users']")));
+        return this;
     }
 
     public void fillTheFieldToCreateAPatron(String email, String firstName, String lastName, String username, String password) {
@@ -559,21 +561,23 @@ public class AdminPage {
         driver.findElement(By.id("logout")).click();
     }
 
-    public void openPatronTab() throws InterruptedException {
+    public AdminPage openPatronTab() throws InterruptedException {
         Wait<WebDriver> wait = new WebDriverWait(driver, 20);
         patron.click();
         wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[@title='New Patron']")));
         wait.until(ExpectedConditions.elementToBeClickable(By.id("search_line")));
         Thread.sleep(700);
+        return this;
     }
 
-    public void pressModify() {
+    public AdminPage pressModify() {
         Wait<WebDriver> wait = new WebDriverWait(driver, 20);
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("span[title='Modify']")));
         driver.findElement(By.cssSelector("span[title='Modify']")).click();
+        return this;
     }
 
-    public void updatePatronPassword(String password) throws InterruptedException {
+    public AdminPage updatePatronPassword(String password) throws InterruptedException {
         Wait<WebDriver> wait = new WebDriverWait(driver, 20);
         wait.until(ExpectedConditions.elementToBeClickable(By.id("password")));
         driver.findElement(By.id("password")).sendKeys(password);
@@ -583,6 +587,7 @@ public class AdminPage {
         driver.findElement(By.id("submitButton")).click();
         Thread.sleep(1500);
         wait.until(ExpectedConditions.elementToBeClickable(By.id("search_button")));
+        return this;
     }
 
     public void SwitchToTab(){

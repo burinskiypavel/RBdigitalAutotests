@@ -14,6 +14,7 @@ import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.*;
+import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -81,7 +82,8 @@ public class TestLocalAdmin {
 
 
     @Test
-    public void test_01_licenses_OpenLicensesTabCheckText() {
+    public void test_01_licenses_OpenLicensesTabCheckTextisPresent() {
+        SoftAssert softAssert = new SoftAssert();
         adminPage.licensesTab.click();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//a[contains(text(), 'License Manager')]")));
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//label[contains(text(), 'Weekly Overall Patron Cap:')]")));
@@ -91,19 +93,20 @@ public class TestLocalAdmin {
         String text2 = driver.findElement(By.cssSelector("div[class='group-cap']")).getText();
         String text3 = driver.findElement(By.cssSelector("div[class='patron-cap']")).getText();
 
-        Assert.assertTrue(text1.contains("Group:"));
-        Assert.assertTrue(text2.contains("Weekly Group Cap:"));
-        Assert.assertTrue(text3.contains("Weekly Group Patron Cap:"));
-        Assert.assertTrue(driver.findElement(By.xpath("//span[contains(text(), 'Add New Group')]")).isDisplayed());
-        Assert.assertTrue(driver.findElement(By.id("save")).isEnabled());
+        softAssert.assertTrue(text1.contains("Group:"), "ERROR - Group not found");
+        softAssert.assertTrue(text2.contains("Weekly Group Cap:"), "ERROR - Weekly Group Cap not found");
+        softAssert.assertTrue(text3.contains("Weekly Group Patron Cap:"), "ERROR - Weekly Group Patron Cap not found");
+        softAssert.assertTrue(driver.findElements(By.xpath("//span[contains(text(), 'Add New Groups')]")).size() == 0, "ERROR - Add New Groups not found");
+        softAssert.assertTrue(driver.findElement(By.id("save")).isEnabled(), "ERROR - Save button not found");
+        softAssert.assertAll();
     }
 
     @Test
     public void test_02_licenses_updateWeeklyOverallPatronCap() throws InterruptedException {
         adminPage.updateWeeklyOverallPatronCap("0");
         driver.navigate().to("https://www.rbdigitalqa.com/test51");
-        mainPage.Login("sep18b@gmail.com", "12345qw");
-        mainPage.goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/indieflix']");
+        mainPage.Login("sep18b@gmail.com", "12345qw")
+                .goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/indieflix']");
         servicePage.pressGetStartedButton();
         adminPage.checkAlertModal("You have exceeded the number of services that you can access through your library this week.");
     }
@@ -114,8 +117,8 @@ public class TestLocalAdmin {
         driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
         adminPage.updateMonthlyOverallPatronCap("0");
         driver.navigate().to("https://www.rbdigitalqa.com/test51");
-        mainPage.Login("sep18b@gmail.com", "12345qw");
-        mainPage.goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/indieflix']");
+        mainPage.Login("sep18b@gmail.com", "12345qw")
+                .goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/indieflix']");
         servicePage.pressGetStartedButton();
         adminPage.checkAlertModal("You have exceeded the number of services that you can access through your library this month.");
     }
@@ -140,7 +143,6 @@ public class TestLocalAdmin {
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//li[contains(text(), 'Subscription was successfully updated')]")));
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         Assert.assertTrue(driver.findElement(By.xpath("//a[@href='//www.rbdigitalqa.com/test51/service/rbtestprep']")).isDisplayed());
-
     }
 
     @Test
@@ -179,10 +181,10 @@ public class TestLocalAdmin {
 
     @Test
     public void test_07_updatePatronPassword() throws InterruptedException {
-        adminPage.openPatronTab();
-        adminPage.searchPatron("d@mail.ru");
-        adminPage.pressModify();
-        adminPage.updatePatronPassword("12345qw");
+        adminPage = new AdminPage(driver).openPatronTab()
+                .searchPatron("d@mail.ru")
+                .pressModify()
+                .updatePatronPassword("12345qw");
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
@@ -194,10 +196,10 @@ public class TestLocalAdmin {
 
     @Test
     public void test_08_updatePatronPasswordBack() throws InterruptedException {
-        adminPage.openPatronTab();
-        adminPage.searchPatron("d@mail.ru");
-        adminPage.pressModify();
-        adminPage.updatePatronPassword("qw12345");
+        adminPage = new AdminPage(driver).openPatronTab()
+                .searchPatron("d@mail.ru")
+                .pressModify()
+                .updatePatronPassword("qw12345");
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
@@ -227,9 +229,9 @@ public class TestLocalAdmin {
 
     @Test
     public void test_10_imposibleLoginWithInactiveUser() throws InterruptedException {
-        adminPage.openPatronTab();
-        adminPage.searchPatron("11_27_2019_16_08@gmail.com");
-        adminPage.showInactiveUsers();
+        adminPage = new AdminPage(driver).openPatronTab()
+                .searchPatron("11_27_2019_16_08@gmail.com")
+                .showInactiveUsers();
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("input[type='checkbox']")));
         driver.findElement(By.cssSelector("input[type='checkbox']")).click();
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
@@ -241,9 +243,9 @@ public class TestLocalAdmin {
 
     @Test
     public void test_11_posibleLoginWithActiveUser() throws InterruptedException {
-        adminPage.openPatronTab();
-        adminPage.searchPatron("11_27_2019_16_08@gmail.com");
-        adminPage.showInactiveUsers();
+        adminPage = new AdminPage(driver).openPatronTab()
+                .searchPatron("11_27_2019_16_08@gmail.com")
+                .showInactiveUsers();
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("input[type='checkbox']")));
         driver.findElement(By.cssSelector("input[type='checkbox']")).click();
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");

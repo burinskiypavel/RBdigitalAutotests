@@ -20,4 +20,4 @@ language: English
 
 no. of issues: n/a
 
- Checkout  Email me when the next issue is available
+ Checkout  Automatically checkout the next issue

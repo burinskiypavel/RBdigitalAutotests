@@ -2,7 +2,6 @@ Libraries that were subscribed to comics on 11/30/2019
 Library Nickname	Official Name	State	Country	Child Library Name
 test51	8080 Test Library	Alabama	US	fixed format goodness
 test51	8080 Test Library	Alabama	US	test
-test51	8080 Test Library	Alabama	US	test_2
 dachshund	The Dachshund Test Library	Maryland	US	Long
 dachshund	The Dachshund Test Library	Maryland	US	Short
 dachshund	The Dachshund Test Library	Maryland	US	Tweenie
@@ -18,3 +17,4 @@ britishcouncil	British Council Libraries	India	IN	Myanmar
 britishcouncil	British Council Libraries	India	IN	Nepal
 britishcouncil	British Council Libraries	India	IN	Pakistan
 britishcouncil	British Council Libraries	India	IN	Sri Lanka
+britishcouncil	British Council Libraries	India	IN	Zimbabwe

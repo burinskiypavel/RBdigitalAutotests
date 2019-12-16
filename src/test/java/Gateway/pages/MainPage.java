@@ -121,7 +121,7 @@ public class MainPage {
         pageObj.ClickOnButtonById("pl_ok");
     }
 
-    public void Login(String username, String password) {
+    public MainPage Login(String username, String password) {
         UsePageObj();
         //driver.findElement(By.xpath("//a[contains(text(), 'Login')]")).click();
         loginBtn.click();
@@ -134,6 +134,7 @@ public class MainPage {
         pageObj.TypeInFieldByName("password", password);
         pageObj.ClickOnButtonByName("pl_login");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//div[contains(text(), 'Welcome')]")));
+        return this;
     }
 
     public void LoginUnsuccessful(String username, String password) {
@@ -153,10 +154,11 @@ public class MainPage {
 
     public void Logout() {
         UsePageObj();
+        Wait<WebDriver> wait = new WebDriverWait(driver, 30);
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("profile")));
         profileDropdown.click();
         logoutBtn.click();
-        Wait<WebDriver> wait7 = new WebDriverWait(driver, 30);
-        wait7.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//a[contains(text(), 'Create New Account')]")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//a[contains(text(), 'Create New Account')]")));
     }
 
     public void selectServiceByPictureByXpath(String serviceXpath) {
@@ -165,7 +167,7 @@ public class MainPage {
         pageObj.ClickInFieldByXpath(serviceXpath);
     }
 
-    public void goIntoServiceByButtonByXpath(String serviceXpath) throws InterruptedException {
+    public MainPage goIntoServiceByButtonByXpath(String serviceXpath) throws InterruptedException {
         Thread.sleep(900);
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.elementToBeClickable(By.xpath(serviceXpath)));
@@ -180,7 +182,7 @@ public class MainPage {
        //     count1++;
         //}
             pageObj.ClickInFieldByXpath(serviceXpath);
-
+            return this;
     }
 
     public void CheckWelcomeText(String patron) {
@@ -210,8 +212,10 @@ public class MainPage {
     public void forgotPassword(String username) {
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         loginBtn.click();
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//*[contains(text(), 'Forgot password?')]")));
         forgotPasswordBtn.click();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("username_reset")));
+        driver.findElement(By.id("username_reset")).clear();
         driver.findElement(By.id("username_reset")).sendKeys(username);
         driver.findElement(By.id("pl_forgot_p")).click();
     }

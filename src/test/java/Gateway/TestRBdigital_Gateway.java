@@ -92,7 +92,12 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     @Test
     void test_02_3_ForgotPassword() throws InterruptedException {
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
-        mainPage.forgotPassword("oct29@gmail.com");
+        String timeStamp = GetTimeStamp();
+        mainPage.Register("hotdog", "6659", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
+        mainPage.Logout();
+        mainPage.forgotPassword( timeStamp+"@gmail.com");
+
+        commonSteps.thenIShouldSee("We've sent an email to");
     }
 
     @Test
@@ -121,31 +126,31 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_06_MagazineCheckoutAndReadAreAvailable() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
-                .SelectMagazine("//img[@alt='4 Wheel & Off Road']")
+                .SelectMagazine("//img[@alt='Xbox: The Official Magazine']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPage(431807);
+                .openMagazineReadingPage(438088);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(431807, 4);
+        readingPage.openMagazinePageFromTableOfContents(438088, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/431807/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/438088/Cover");
     }
 
     @Test
     void test_07_MagazineCheckoutAndReturnAreAvailable() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
-                .SelectMagazine("//img[@alt='4 Wheel & Off Road']")
+                .SelectMagazine("//img[@alt='Working Mother']")
                 .PressCheckoutBtn()
                 .pressKeepBrowsingBtn()
                 .OpenMyCollection();
         collectionPage.returnMagazineOrComics();
 
-        commonSteps.thenIShouldNotSee("//img[@alt='4 Wheel & Off Road']");
+        commonSteps.thenIShouldNotSee("Working Mother");
     }
 
     @Test
-    void test_08_ComicCheckoutAndReadIsAvailable() throws InterruptedException {
+    void test_08_ComicCheckoutAndReadAreAvailable() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         comicPage.OpenComicsPage()
                 .SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']")
@@ -171,7 +176,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
                 .OpenMyCollection();
         collectionPage.returnMagazineOrComics();
 
-        commonSteps.thenIShouldNotSee("//img[@alt='Army of Two, Vol. 1: Across The Border']");
+        commonSteps.thenIShouldNotSee("Army of Two, Vol. 1: Across The Border");
     }
 
     @Test(enabled = false)
@@ -192,7 +197,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
                 .OpenMyCollection();
         collectionPage.returnMagazineOrComics();
 
-        commonSteps.thenIShouldNotSee("//img[@alt='0024 Horloges']");
+        commonSteps.thenIShouldNotSee("0024 Horloges");
     }
 
     @Test
@@ -243,6 +248,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         openMagazineComicsPage(6);
         pressArrowNextFromPage(6);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
+
         checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/453469/Cover");
     }
 
@@ -259,6 +265,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         openMagazineComicsPage(4);
         pressArrowNextFromPage(4);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
+
         checkUrlContains(comicsUrl4, "com/reader.php#/reader/readsvg/389797/Cover");
     }
 
@@ -317,6 +324,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
 
         List<String> actualReport = adminPage.GetActualDatadef("//div[@class='magazine_detail_content']", "TestRBDigital_Gateway/Test_18_OpenMagazinesCheckGenresCheckDetailPage/actual.txt");
         List<String> expectedReport = adminPage.GetDateFromFiledef("TestRBDigital_Gateway/Test_18_OpenMagazinesCheckGenresCheckDetailPage/expected.txt");
+
         Assert.assertEquals(actualReport, expectedReport);
     }
 
@@ -350,6 +358,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         List<String> actualReport = adminPage.GetActualDatadef("//div[@class='magazine_detail_content']", "TestRBDigital_Gateway/Test_19_OpenComicsCheckGenresCheckDetailPage/actual.txt");
         List<String> expectedReport = adminPage.GetDateFromFiledef("TestRBDigital_Gateway/Test_19_OpenComicsCheckGenresCheckDetailPage/expected.txt");
         softAssert.assertAll();
+
         Assert.assertEquals(actualReport, expectedReport);
     }
 
@@ -402,6 +411,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         SelectFromSelectByIdAndValue("language_search_line", "english");
         magazinePage.SelectMagazine("//img[@alt='Judge Dredd, Vol. 2']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: English')]")));
+
         Assert.assertTrue(driver.findElement(By.xpath("//p[contains(text(), 'language: English')]")).isDisplayed());
     }
 
