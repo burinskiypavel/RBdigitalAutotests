@@ -27,7 +27,12 @@ public class CommonSteps {
 
     public void thenIShouldSee(String item){
         WebDriverWait wait = new WebDriverWait(driver, 30);
-        wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("img[alt*='"+item+"'")));
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("img[alt*='"+item+"'")));
         Assert.assertTrue(driver.findElements(By.cssSelector("img[alt*='"+item+"'")).size() != 0);
+    }
+    public void thenIShouldSeeText(String item){
+        WebDriverWait wait = new WebDriverWait(driver, 30);
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//*[contains(text(), '"+item+"')]")));
+        Assert.assertTrue(driver.findElements(By.xpath("//*[contains(text(), '"+item+"')]")).size() != 0);
     }
 }

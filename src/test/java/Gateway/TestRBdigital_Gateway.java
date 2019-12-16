@@ -90,17 +90,6 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     }
 
     @Test
-    void test_02_3_ForgotPassword() throws InterruptedException {
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/");
-        String timeStamp = GetTimeStamp();
-        mainPage.Register("hotdog", "6659", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
-        mainPage.Logout();
-        mainPage.forgotPassword( timeStamp+"@gmail.com");
-
-        commonSteps.thenIShouldSee("We've sent an email to");
-    }
-
-    @Test
     void test_02_1_CheckTitle() {
         String actualTitle = driver.getTitle();
         String actualUrl = driver.getCurrentUrl();
@@ -413,6 +402,17 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: English')]")));
 
         Assert.assertTrue(driver.findElement(By.xpath("//p[contains(text(), 'language: English')]")).isDisplayed());
+    }
+
+    @Test
+    void test_22_ForgotPassword() throws InterruptedException {
+        driver.navigate().to("https://www.rbdigitalqa.com/test51/");
+        String timeStamp = GetTimeStamp();
+        mainPage.Register("hotdog", "6659", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
+        mainPage.Logout();
+        mainPage.forgotPassword( timeStamp+"@gmail.com");
+
+        commonSteps.thenIShouldSeeText("sent an email to " + timeStamp);
     }
 
 }
