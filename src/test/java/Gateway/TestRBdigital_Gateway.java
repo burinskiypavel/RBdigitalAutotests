@@ -115,27 +115,27 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
     void test_06_MagazineCheckoutAndReadAreAvailable() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
-                .SelectMagazine("//img[@alt='Xbox: The Official Magazine']")
+                .SelectMagazine("//img[@alt='Canadian Running']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPage(438088);
+                .openMagazineReadingPage(442741);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(438088, 4);
+        readingPage.openMagazinePageFromTableOfContents(442741, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/438088/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/442741/Cover");
     }
 
     @Test
     void test_07_MagazineCheckoutAndReturnAreAvailable() throws InterruptedException {
         mainPage.Login("oct29@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
-                .SelectMagazine("//img[@alt='Working Mother']")
+                .SelectMagazine("//img[@alt='Shop Talk!']")
                 .PressCheckoutBtn()
                 .pressKeepBrowsingBtn()
                 .OpenMyCollection();
         collectionPage.returnMagazineOrComics();
 
-        commonSteps.thenIShouldNotSee("Working Mother");
+        commonSteps.thenIShouldNotSee("Shop Talk!");
     }
 
     @Test
@@ -361,7 +361,7 @@ public class TestRBdigital_Gateway extends BaseClass_TestRBDigital_Gateway {
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='french']")));
         SelectFromSelectByIdAndValue("language_search_line", "french");
-        magazinePage.SelectMagazine("//img[@alt='01net']");
+        magazinePage.SelectMagazine("//img[@alt='All Natura']");
 
         softAssert.assertFalse(driver.findElements(By.xpath("//p[contains(text(), 'language: French')]")).size() == 0, "ERROR - language: Afrikaans is not present");
 

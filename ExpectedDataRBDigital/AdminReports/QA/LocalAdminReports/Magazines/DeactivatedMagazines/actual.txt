@@ -1,2 +1,4 @@
 Library Name	Title	RBID	Zenith Issue Id	Issue Date
-Total	0
+8080 Test Library	Minecraft Mayhem	RBZ0009314	383962	05/01/2017
+8080 Test Library	The Complete Guide to Kodi	RBZ0009295	386091	04/01/2017
+Total	2
