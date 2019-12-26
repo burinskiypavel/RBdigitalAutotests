@@ -8,4 +8,5 @@ public class Wi {
     public String id;
     public List<Re> keyword;
     public List<Wi> widgets;
+    //public List<Tim> request;
 }

@@ -18,14 +18,13 @@ public class GoogleMain2 {
 
                for (int i = 0; i < wi2.formattedValue.length; i++){
                    String formValue = wi2.formattedValue[i];
-                   System.out.println(formValue);
+                   System.out.println("formattedValue : " + formValue);
 
                }
 
                 //System.out.println(" time: " + wi2.time);
                 //System.out.println(" value: " + wi2.value);
             //}
-
 
         }
     }

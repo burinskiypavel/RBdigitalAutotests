@@ -2,7 +2,7 @@ package Gson;
 
 import com.google.gson.Gson;
 
-public class GoogleMain {
+public class GoogleMain3 {
 
     public static void main(String[] args) {
         String jsonString = "{\n" +
@@ -382,21 +382,16 @@ public class GoogleMain {
 
         Gson g = new Gson();
 
-        Wi request = g.fromJson(jsonString, Wi.class);
+        Wi3 request = g.fromJson(jsonString, Wi3.class);
 
 
-        for (Wi wi : request.widgets) {
+        //for (Wi3 wi : request.response) {
 
-              System.out.println(" token: " + wi.token);
-              System.out.println(" id: " + wi.id);
+        //    System.out.println(" token: " + wi.token);
+        //    System.out.println(" id: " + wi.id);
 
-               // for(Re reques : wi.bullets){
-               //    System.out.println(" value: " + reques.value);
-               //}
-                //for(Re reques : wi.keyword){
-                //    System.out.println(" time: " + reques.type);
-                //}
 
-       }
+
+        }
     }
-}
+//}
