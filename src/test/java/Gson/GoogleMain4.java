@@ -10,6 +10,11 @@ import org.testng.annotations.*;
 import com.google.gson.Gson;
 import org.testng.annotations.Test;
 
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+
 
 public class GoogleMain4 {
     String token = null;
@@ -21,7 +26,6 @@ public class GoogleMain4 {
         String body = Unirest.get(getApi)
 
         //HttpResponse<String> jsonResponse = Unirest.get(getApi)
-
 
                 .header("hl", "ru")
                 .header("tz", "-120")
@@ -53,14 +57,12 @@ public class GoogleMain4 {
                     token = wi.token;
                 }
             }
-
         }
         Assert.assertNotNull(request);
         //Assert.assertEquals("en-US", body.getObject());
-
     }
         @Test
-        public void Test_GoogleAPIRequest2() throws UnirestException {
+        public void Test_GoogleAPIRequest2() throws UnirestException, IOException {
 
             String postApi2 = "https://trends.google.com/trends/api/widgetdata/multiline?tz=-120&req=%7B%22time%22:%222014-12-26+2019-12-26%22,%22resolution%22:%22WEEK%22,%22locale%22:%22en-US%22,%22comparisonItem%22:%5B%7B%22geo%22:%7B%22country%22:%22US%22%7D,%22complexKeywordsRestriction%22:%7B%22keyword%22:%5B%7B%22type%22:%22BROAD%22,%22value%22:%22food%22%7D%5D%7D%7D%5D,%22requestOptions%22:%7B%22property%22:%22%22,%22backend%22:%22IZG%22,%22category%22:0%7D%7D&token="+token+"&tz=-120";
             String body2 = Unirest.get(postApi2)
@@ -92,6 +94,8 @@ public class GoogleMain4 {
             Gson g2 = new Gson();
             Wi2 request2 = g2.fromJson(jsonString2, Wi2.class);
 
+            List<String> valueAndTime = new ArrayList <>();
+
             for (Wi2 wi2 : request2.timelineData) {
 
                 for (int i = 0; i < wi2.formattedValue.length; i++) {
@@ -100,10 +104,20 @@ public class GoogleMain4 {
 
                     System.out.println(wi2.formattedTime);
                     System.out.println("formattedValue :" + formValue);
+
+                    valueAndTime.add(wi2.formattedTime);
+                    valueAndTime.add("formattedValue :" + formValue);
                 }
 
             }
 
+            FileWriter writer = new FileWriter("C:\\demo\\ab.txt");
+            for(String str: valueAndTime) {
+                writer.write(str);
+                writer.write("\n");
+
+            }
+            writer.close();
 
         }
 
