@@ -1,4 +1,4 @@
-package Gateway;
+package API_tests;
 
 import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.JsonNode;
@@ -40,11 +40,23 @@ public class Tests_API_NA_PROD_Platform {
         System.out.println(postResponse.getBody());
         Assert.assertEquals (postResponse.getStatus(), 200);
         Assert.assertNotNull(postResponse.getBody());
-        //Assert.assertEquals("zenithUserId", postResponse.getBody().getObject().getString("2108926376017920873"));
+
+        //magazine return
+        HttpResponse<String> postResponse2 = Unirest.delete("https://api.rbdigital.com/v2/patron-magazines/447063")
+                .header("authorization", "bearer "+bearer+"")
+                .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
+                //.body("{\"PatronIdentifier\": \"qauser\", \"PatronSecret\" : \"password1\", \"LibraryId\": 1062, \"Source\": \"OneClick\", \"authState\": \"auth_internal\"}")
+                //.asJson();
+                .asString();
+        //.getBody();
+        System.out.println(postResponse2.getBody());
+        //Assert.assertEquals (postResponse2.getStatus(), 202);
+        Assert.assertNotNull(postResponse2.getBody());
     }
 
     @Test
-    public void test_comicCheckout() throws UnirestException {
+    public void test_comicCheckout_Return() throws UnirestException {
+        //checkout
         HttpResponse<JsonNode> postResponse = Unirest.post("https://api.rbdigital.com/v1/patron-comics/424458")
                 .header("authorization", "bearer "+bearer+"")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
@@ -55,7 +67,19 @@ public class Tests_API_NA_PROD_Platform {
         System.out.println(postResponse.getBody());
         Assert.assertNotNull(postResponse.getBody());
         Assert.assertEquals (postResponse.getStatus(), 200);
-        //Assert.assertEquals("zenithUserId", postResponse.getBody().getObject().getString("2108926376017920873"));
+
+        //return
+        //return
+        HttpResponse<String> postResponse2 = Unirest.delete("https://api.rbdigital.com/v1/patron-comics/424458")
+                .header("authorization", "bearer "+bearer+"")
+                .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
+                //.body("{\"PatronIdentifier\": \"qauser\", \"PatronSecret\" : \"password1\", \"LibraryId\": 1062, \"Source\": \"OneClick\", \"authState\": \"auth_internal\"}")
+                //.asJson();
+                .asString();
+        //.getBody();
+        System.out.println(postResponse2.getBody());
+        Assert.assertNotNull(postResponse2.getBody());
+        //Assert.assertEquals (postResponse2.getStatus(), 200);
     }
 
     @Test
