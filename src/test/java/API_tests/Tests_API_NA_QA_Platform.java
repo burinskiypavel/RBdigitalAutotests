@@ -14,7 +14,7 @@ public class Tests_API_NA_QA_Platform {
     String bearer;
 
     @Test(priority = -1)
-    public void test_Login() throws UnirestException {
+    public void test_login() throws UnirestException {
         HttpResponse <JsonNode> postResponse = Unirest.post("https://auth.rbdigitalqa.com/v2/authenticate")
                 .header("authorization", "basic AAAC96E1-E6C8-447E-B61F-BB0CE4A24786")
                 .header("content-type", "application/json")
@@ -32,16 +32,19 @@ public class Tests_API_NA_QA_Platform {
 
     @Test
     public void test_magazineCheckout_Return() throws UnirestException {
+        SoftAssert softAssert = new SoftAssert();
         //magazine checkout
-        HttpResponse <JsonNode> postResponse = Unirest.post("https://api.rbdigitalqa.com/v2/patron-magazines/345089")
+        HttpResponse <JsonNode> response = Unirest.post("https://api.rbdigitalqa.com/v2/patron-magazines/345089")
                 .header("authorization", "bearer " + bearer + "")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
                 .asJson();
         //.asString();
         //.getBody();
-        System.out.println(postResponse.getBody());
-        Assert.assertNotNull(postResponse.getBody());
-
+        System.out.println(response.getBody());
+        //Assert.assertNotNull(postResponse.getBody());
+        //Assert.assertEquals (postResponse.getStatus(), 202);
+        softAssert.assertNotNull(response.getBody(), "ERROR - response is empty");
+        softAssert.assertEquals(response.getStatus(), 200, "ERROR - status is not 200");
 
         //magazine return
         HttpResponse <String> postResponse2 = Unirest.delete("https://api.rbdigitalqa.com/v2/patron-magazines/345089")
@@ -52,57 +55,73 @@ public class Tests_API_NA_QA_Platform {
         //.getBody();
         System.out.println(postResponse2.getBody());
         //Assert.assertEquals (postResponse2.getStatus(), 202);
-        Assert.assertNotNull(postResponse2.getBody());
+        //Assert.assertNotNull(postResponse2.getBody());
+        softAssert.assertNotNull(response.getBody(), "ERROR - response is empty");
+        softAssert.assertEquals(response.getStatus(), 200, "ERROR - status is not 200");
+        softAssert.assertAll();
     }
 
     @Test
     public void test_comicCheckout_Return() throws UnirestException {
+        SoftAssert softAssert = new SoftAssert();
         //checkout
-        HttpResponse <JsonNode> postResponse = Unirest.post("https://api.rbdigitalqa.com/v1/patron-comics/424458")
+        HttpResponse <JsonNode> response = Unirest.post("https://api.rbdigitalqa.com/v1/patron-comics/424458")
                 .header("authorization", "bearer " + bearer + "")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
                 .asJson();
         //.asString();
         //.getBody();
-        System.out.println(postResponse.getBody());
-        Assert.assertNotNull(postResponse.getBody());
-        Assert.assertEquals(postResponse.getStatus(), 200);
+        System.out.println(response.getBody());
+        //Assert.assertNotNull(postResponse.getBody());
+        //Assert.assertEquals(postResponse.getStatus(), 200);
+        softAssert.assertNotNull(response.getBody(), "ERROR - response is empty");
+        softAssert.assertEquals(response.getStatus(), 200, "ERROR - status is not 200");
 
         //return
-        HttpResponse <String> postResponse2 = Unirest.delete("https://api.rbdigitalqa.com/v1/patron-comics/424458")
+        HttpResponse <String> response2 = Unirest.delete("https://api.rbdigitalqa.com/v1/patron-comics/424458")
                 .header("authorization", "bearer " + bearer + "")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
                 //.asJson();
                 .asString();
         //.getBody();
-        System.out.println(postResponse2.getBody());
-        Assert.assertNotNull(postResponse2.getBody());
+        System.out.println(response2.getBody());
+        //Assert.assertNotNull(postResponse2.getBody());
         //Assert.assertEquals (postResponse2.getStatus(), 200);
+        softAssert.assertNotNull(response2.getBody(), "ERROR - response is empty");
+        softAssert.assertEquals(response2.getStatus(), 200, "ERROR - status is not 200");
+        softAssert.assertAll();
     }
 
     @Test
     public void test_audiobookCheckout_Renew_ReturnCheckout() throws UnirestException {
+        SoftAssert softAssert = new SoftAssert();
         //checkout
-        HttpResponse <JsonNode> postResponse = Unirest.post("https://api.rbdigitalqa.com/v1/patron-books/checkouts/9780525633709?days=14")
+        HttpResponse <JsonNode> response = Unirest.post("https://api.rbdigitalqa.com/v1/patron-books/checkouts/9780525633709?days=14")
                 .header("authorization", "bearer " + bearer + "")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
                 .asJson();
         //.asString();
         //.getBody();
-        System.out.println(postResponse.getBody());
-        Assert.assertNotNull(postResponse.getBody());
-        Assert.assertEquals(postResponse.getStatus(), 200);
+        System.out.println(response.getBody());
+        //Assert.assertNotNull(postResponse.getBody());
+        //Assert.assertEquals(postResponse.getStatus(), 200);
+        softAssert.assertNotNull(response.getBody(), "ERROR - response is empty");
+        softAssert.assertEquals(response.getStatus(), 200, "ERROR - status is not 200");
+        softAssert.assertEquals("success", response.getBody().getObject().getString("message"), "ERROR - message is not success");
 
         //renew
-        HttpResponse <JsonNode> postResponse2 = Unirest.put("https://api.rbdigitalqa.com/v1/patron-books/checkouts/9780525633709?days=14")
+        HttpResponse <JsonNode> response2 = Unirest.put("https://api.rbdigitalqa.com/v1/patron-books/checkouts/9780525633709?days=14")
                 .header("authorization", "bearer " + bearer + "")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
                 .asJson();
         //.asString();
         //.getBody();
-        System.out.println(postResponse2.getBody());
-        Assert.assertNotNull(postResponse2.getBody());
-        Assert.assertEquals(postResponse2.getStatus(), 200);
+        System.out.println(response2.getBody());
+        //Assert.assertNotNull(response2.getBody());
+        //Assert.assertEquals(response2.getStatus(), 200);
+        softAssert.assertNotNull(response2.getBody(), "ERROR - response is empty");
+        softAssert.assertEquals(response2.getStatus(), 200, "ERROR - status is not 200");
+        softAssert.assertEquals("SUCCESS", response2.getBody().getObject().getString("output"), "ERROR - output is not success");
 
         //delete
         HttpResponse <JsonNode> deleteResponse3 = Unirest.delete("https://api.rbdigitalqa.com/v1/patron-books/checkouts/9780525633709")
@@ -111,21 +130,31 @@ public class Tests_API_NA_QA_Platform {
                 .asJson();
         //.asString();
         //.getBody();
-        System.out.println(postResponse.getBody());
-        Assert.assertNotNull(deleteResponse3.getBody());
-        Assert.assertEquals(deleteResponse3.getStatus(), 200);
+        System.out.println(deleteResponse3.getBody());
+        //Assert.assertNotNull(deleteResponse3.getBody());
+        //Assert.assertEquals(deleteResponse3.getStatus(), 200);
+        softAssert.assertNotNull(deleteResponse3.getBody(), "ERROR - response is empty");
+        softAssert.assertEquals(deleteResponse3.getStatus(), 200, "ERROR - status is not 200");
+        softAssert.assertEquals("success", deleteResponse3.getBody().getObject().getString("message"), "ERROR - message is not success");
+        softAssert.assertAll();
     }
 
     @Test
     public void test_ebookCheckout_Renew_ReturnCheckout() throws UnirestException {
+        SoftAssert softAssert = new SoftAssert();
         //checkout
-        HttpResponse <JsonNode> postResponse = Unirest.post("https://api.rbdigitalqa.com/v1/patron-books/checkouts/9781414373737?days=14")
+        HttpResponse <JsonNode> response = Unirest.post("https://api.rbdigitalqa.com/v1/patron-books/checkouts/9781414373737?days=14")
                 .header("authorization", "bearer " + bearer + "")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
                 .asJson();
-        System.out.println(postResponse.getBody());
-        Assert.assertNotNull(postResponse.getBody());
-        Assert.assertEquals(postResponse.getStatus(), 200);
+        //.asString();
+        //.getBody();
+        System.out.println(response.getBody());
+        //Assert.assertNotNull(postResponse.getBody());
+        //Assert.assertEquals(postResponse.getStatus(), 200);
+        softAssert.assertNotNull(response.getBody(), "ERROR - response is empty");
+        softAssert.assertEquals(response.getStatus(), 200, "ERROR - status is not 200");
+        softAssert.assertEquals("success", response.getBody().getObject().getString("message"), "ERROR - message is not success");
 
         //renew
         HttpResponse <JsonNode> postResponse2 = Unirest.put("https://api.rbdigitalqa.com/v1/patron-books/checkouts/9781414373737")
@@ -139,15 +168,19 @@ public class Tests_API_NA_QA_Platform {
         Assert.assertEquals(postResponse2.getStatus(), 200);
 
         //delete
-        HttpResponse <JsonNode> deleteResponse3 = Unirest.delete("https://api.rbdigitalqa.com/v1/patron-books/checkouts/9781414373737")
+        HttpResponse <JsonNode> response3 = Unirest.delete("https://api.rbdigitalqa.com/v1/patron-books/checkouts/9781414373737")
                 .header("authorization", "bearer " + bearer + "")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
                 .asJson();
         //.asString();
         //.getBody();
-        System.out.println(deleteResponse3.getBody());
-        Assert.assertNotNull(deleteResponse3.getBody());
-        Assert.assertEquals(deleteResponse3.getStatus(), 200);
+        System.out.println(response3.getBody());
+        //Assert.assertNotNull(deleteResponse3.getBody());
+        //Assert.assertEquals(deleteResponse3.getStatus(), 200);
+        softAssert.assertNotNull(response3.getBody(), "ERROR - response is empty");
+        softAssert.assertEquals(response3.getStatus(), 200, "ERROR - status is not 200");
+        softAssert.assertEquals("success", response3.getBody().getObject().getString("message"), "ERROR - message is not success");
+        softAssert.assertAll();
     }
 
     @Test
