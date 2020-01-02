@@ -144,7 +144,7 @@ public class Tests_API_NA_QA_Platform {
                 .asJson();
         //.asString();
         //.getBody();
-        System.out.println(postResponse.getBody());
+        System.out.println(deleteResponse3.getBody());
         Assert.assertNotNull(deleteResponse3.getBody());
         Assert.assertEquals (deleteResponse3.getStatus(), 200);
     }
