@@ -8,6 +8,9 @@
          <class name="Gateway.TestReportsInLocalAdmin" />
          <class name="Gateway.TestLocalAdmin" />
          <class name="Gateway.TestServicesCheckouts" />
+         <class name="API_tests.Tests_API_NA_PROD_Platform" />
+         <class name="API_tests.Tests_API_NA_QA_Platform" />
+
 
      </classes>
 
