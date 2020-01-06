@@ -1164,8 +1164,8 @@ public class TestReportsInGlobalAdmin {
         wait.until(ExpectedConditions.elementToBeClickable(By.id("name")));
         wait.until(ExpectedConditions.elementToBeClickable(By.id("off_name")));
         String timeStamp = adminPage.GetTimeStamp();
-        driver.findElement(By.id("name")).sendKeys(timeStamp);
-        driver.findElement(By.id("off_name")).sendKeys(timeStamp);
+        driver.findElement(By.id("name")).sendKeys("z_"+timeStamp);
+        driver.findElement(By.id("off_name")).sendKeys("z_"+timeStamp);
         wait.until(ExpectedConditions.elementToBeClickable(By.id("total_filial")));
         driver.findElement(By.id("total_filial")).sendKeys("3");
         driver.findElement(By.id("address_l1")).sendKeys("Washington street");
@@ -1174,10 +1174,11 @@ public class TestReportsInGlobalAdmin {
         driver.findElement(By.id("phone")).sendKeys("12345");
         driver.findElement(By.id("submitButton")).click();
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("span[title='Stop']")));
-        driver.findElement(By.xpath("//a[contains(text(), '"+timeStamp+"')]")).click();
+        driver.findElement(By.xpath("//a[contains(text(), '"+"z_"+timeStamp+"')]")).click();
         adminPage.SwitchToTab();
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[@class='withfields']")));
         String text = driver.findElement(By.xpath("//div[@class='content']")).getText();
         Assert.assertEquals(text, "There are no services currently available. Please contact your library.");
+        Assert.assertTrue(driver.findElement(By.xpath("//*[contains(text(), '"+"z_"+timeStamp+"')]")).isDisplayed() );
     }
 }
