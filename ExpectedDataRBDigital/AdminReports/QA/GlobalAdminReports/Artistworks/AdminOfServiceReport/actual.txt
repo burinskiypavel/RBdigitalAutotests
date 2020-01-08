@@ -1,6 +1,2 @@
 Screen Name	Email	Library	AccountId	Country	State	System Name
-Jessica Cammer	jcammer@reginalibrary.ca	Regina Public Library	7220590	CA	Saskatchewan	
-Pam Fingas	pfingas@reginalibrary.ca	Regina Public Library	7220590	CA	Saskatchewan	
-Jack Ma	jack.ma@gov.sk.ca	Regina Public Library	7220590	CA	Saskatchewan	
-Cerys Gordon	cgordon@reginalibrary.ca	Regina Public Library	7220590	CA	Saskatchewan	
-Total	4
+Total	0

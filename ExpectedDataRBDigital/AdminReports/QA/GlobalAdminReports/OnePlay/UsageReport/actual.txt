@@ -8,7 +8,7 @@ Barcode	Email	Library	Game Title	PEGI Rating	Publisher	Pin Code Activation Date	
 	dmetd4fl@aol.com		Hoyle Official Card Games (PC)	PEGI 12	Encore	01/20/2017	168-8c52e	8
 	raysanti1120@gmail.com		IHF Handball Challenge 2012 (PC)	PEGI 3	Libredia	01/10/2017	170-90cf5	8
 	dmistretta@ebrpl.com		Mortimer Beckett and the Crimson Thief (PC)	PEGI 3	GameHouse	11/17/2016	160-45f2c	7
-	dmetd4fl@aol.com		Alicia Griffith – LakesideMurder (PC)	PEGI 3	Libredia	01/20/2017	168-8c52e	6
+	dmetd4fl@aol.com		Alicia Griffith â€“ LakesideMurder (PC)	PEGI 3	Libredia	01/20/2017	168-8c52e	6
 	dmistretta@ebrpl.com		Hidden Memories of a Bright Summer (PC)	PEGI 3	Anuman Interactive	11/17/2016	160-45f2c	6
 	dprobst@pct.edu		Monster Jam Battlegrounds (PC)	PEGI 7	Encore	12/21/2016	170-f7b09	6
 	dmistretta@ebrpl.com		Sharpe Investigations Death on the Seine (PC)	PEGI 3	Libredia	11/17/2016	160-45f2c	6
@@ -85,7 +85,7 @@ Barcode	Email	Library	Game Title	PEGI Rating	Publisher	Pin Code Activation Date	
 21221021916025	ivanbm72@gmail.com		Beyond Space (PC)	PEGI 7	To Be Announced	12/13/2016	131-86a12	2
 21221021916025	ivanbm72@gmail.com		F.E.A.R. 2 Reborn (PC)	PEGI 18	Warner Bros. Interactive	12/13/2016	131-86a12	2
 21221022006891	annrich@telus.net		The Dreamatorium of Dr. Magnus (PC)	PEGI 7	Immanitas Entertainment	11/14/2016	131-3cc80	10
-21221022006891	annrich@telus.net		Alicia Griffith – LakesideMurder (PC)	PEGI 3	Libredia	11/14/2016	131-3cc80	6
+21221022006891	annrich@telus.net		Alicia Griffith â€“ LakesideMurder (PC)	PEGI 3	Libredia	11/14/2016	131-3cc80	6
 21221022006891	annrich@telus.net		Dream Day Wedding Viva Las Vegas (PC)	PEGI 12	iWin	11/14/2016	131-3cc80	5
 21221022006891	annrich@telus.net		Inbetween Land (PC)	PEGI 3	Immanitas Entertainment	11/14/2016	131-3cc80	4
 21221022006891	annrich@telus.net		Laura Jones and the Secret Legacy of Nikola Tesla (PC)	PEGI 7	Licensed 4U	11/14/2016	131-3cc80	3
@@ -108,7 +108,7 @@ Barcode	Email	Library	Game Title	PEGI Rating	Publisher	Pin Code Activation Date	
 21221024498674	jeff.m.d.h84@gmail.com		Curse The Eye of Isis (PC)	PEGI 16	Anuman Interactive	08/09/2016	131-95197	2
 21221024498674	jeff.m.d.h84@gmail.com		The Sanctuary	PEGI 12	Knight Mobile	08/09/2016	131-95197	1
 21221024501949	jeashworth@live.ca		IGT Slots 100 Pandas (PC)	PEGI 12	Encore	11/28/2016	131-6c995	2
-21221024565852	oj_la@hotmail.com		Set Sail – Caribbean (PC)	PEGI 3	iWin	07/08/2016	131-7e997	2
+21221024565852	oj_la@hotmail.com		Set Sail â€“ Caribbean (PC)	PEGI 3	iWin	07/08/2016	131-7e997	2
 21221024650555	mikepepin1281@hotmail.com		Trapped Dead (PC)	PEGI 18	Iceberg Interactive	08/22/2016	131-b9b67	10
 21221024650555	mikepepin1281@hotmail.com		F.E.A.R. 2 Reborn (PC)	PEGI 18	Warner Bros. Interactive	08/22/2016	131-b9b67	5
 21221024650555	mikepepin1281@hotmail.com		Hatred (PC)	PEGI 18	Destructive Creations	08/22/2016	131-b9b67	2
@@ -139,7 +139,7 @@ Barcode	Email	Library	Game Title	PEGI Rating	Publisher	Pin Code Activation Date	
 21297010313853	dkl506@yahoo.com		Jewel Quest 4 Heritage (PC)	PEGI 3	iWin	09/03/2016	120-4565b	1
 21298002863905	randall.redburn@att.net		Commandos 3 Destination Berlin (PC)	PEGI 7	Digital Game Factory	01/10/2017	120-97eff	13
 21298002863905	randall.redburn@att.net		Brigade E5 New Jagged Union (PC)	PEGI 12	IMG Publishing	01/10/2017	120-97eff	4
-21298004326042	g_hoekema1071@comcast.net		Alicia Griffith – LakesideMurder (PC)	PEGI 3	Libredia	10/23/2016	120-a327d	4
+21298004326042	g_hoekema1071@comcast.net		Alicia Griffith â€“ LakesideMurder (PC)	PEGI 3	Libredia	10/23/2016	120-a327d	4
 21298004326042	g_hoekema1071@comcast.net		Jack The Ripper Extended Edition (PC)	PEGI 12	Anuman Interactive	10/23/2016	120-a327d	3
 21298004326042	g_hoekema1071@comcast.net		The Lost Kingdom Prophecy (PC)	PEGI 3	Immanitas Entertainment	10/23/2016	120-a327d	3
 21298007423036	com_man@msn.com		Mini Metro (PC)	PEGI 7	Plug In Digital	05/12/2016	120-f1da6	5
@@ -165,7 +165,7 @@ Barcode	Email	Library	Game Title	PEGI Rating	Publisher	Pin Code Activation Date	
 21393007297587	admobadmo@hotmail.com		IL-2 Sturmovik 1946 (PC)	PEGI 12	1C Publishing	01/07/2017	181-76857	3
 21393008071486	gtrplyrib93@gmail.com		Aragami (PC)	PEGI 16	MergeGames	01/10/2017	181-28e18	4
 21393008071486	gtrplyrib93@gmail.com		Fossil Echo (PC)	PEGI 12	Plug In Digital	01/10/2017	181-28e18	3
-21393008071486	gtrplyrib93@gmail.com		Safety Driving – The Motorbike Simulation (PC)	PEGI 18	UIEG	01/10/2017	181-28e18	2
+21393008071486	gtrplyrib93@gmail.com		Safety Driving â€“ The Motorbike Simulation (PC)	PEGI 18	UIEG	01/10/2017	181-28e18	2
 21393008071486	gtrplyrib93@gmail.com		Typoman Revised (PC)	PEGI 7	Brainseed Factory	01/10/2017	181-28e18	2
 21393008618187	mandmnor@yahoo.com		Passage 4	PEGI 3	Libredia	12/28/2016	181-07dd1	24
 21659009236595	san-d@cox.net		Delicious Emilys Message in a Bottle Collectors Edition (PC)	PEGI 3	GameHouse	01/02/2017	160-e111e	28

@@ -165,7 +165,7 @@ public class TestLocalAdmin {
         driver.findElement(By.cssSelector("input[type='button'][value='Save as new']")).click();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//li[contains(text(), 'Subscription was successfully created')]")));
         WebElement parent = driver.findElement(By.id("right_col"));
-        String actualText = parent.findElements(By.xpath("//label[@class='medium']")).get(6).getText();
+        String actualText = parent.findElements(By.xpath("//label[@class='medium']")).get(5).getText();
         Assert.assertTrue(actualText.contains("05/01/2025 — 10/31/2026"));
     }
 
@@ -173,7 +173,7 @@ public class TestLocalAdmin {
     public void test_06_3_deleteSubscriptionPeriodsForAcornTV() {
         adminPage.serviceSubscriptions.click();
         driver.findElement(By.xpath("//a[contains(text(), 'ACORN TV')]")).click();
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//label[contains(text(), '05/01/2025 — 10/31/2026')]")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//strong[contains(text(), '05/01/2025 — 10/31/2026')]")));
         driver.findElements(By.cssSelector("a[title='Remove subscription']")).get(1).click();
         adminPage.checkAlert("Are you sure?\nYou want to delete service subscription.");
         wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//label[contains(text(), '05/01/2025 — 10/31/2026')]")));

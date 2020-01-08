@@ -1,6 +1,4 @@
 For Period: from 07/01/2017 to 07/01/2017
 Region: Asia
 Library ID	Account #	Library Name	State / Province	Country	Active Patrons	Checkouts / Views / Downloads / Sessions	Service
-qatar	7050317	Qatar National Library	Qatar	QA	1	2	magazines
 britishcouncil	BRI059	British Council Libraries	India	IN	35	54	magazines
-kaust	7133000	KAUST Community Library	Thuwal	SA	4	9	magazines

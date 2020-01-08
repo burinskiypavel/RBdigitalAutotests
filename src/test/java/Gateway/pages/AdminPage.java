@@ -425,7 +425,7 @@ public class AdminPage {
       //globalAdminPage.gatewayServiceUsageReport.click();
   }
   public void createReport(String xpath){
-      Wait<WebDriver> wait = new WebDriverWait(driver, 70);
+      Wait<WebDriver> wait = new WebDriverWait(driver, 80);
       createReportBtn.click();
       wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath(xpath)));
   }
