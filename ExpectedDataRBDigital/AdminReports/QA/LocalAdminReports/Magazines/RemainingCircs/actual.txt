@@ -30,7 +30,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The 2014 Tour de France in Britain	RBZ0007312	04/01/2014	99000	1
 8080 Test Library	220 Triathlon	RBZ0006019	11/30/2019	495000	11
 8080 Test Library	220 Triathlon presents the Beginner's Guide to Triathlon	RBZ0008333	10/01/2014	495000	1
-8080 Test Library	25 Beautiful Homes	RBZ0000011	11/30/2019	494999	11
+8080 Test Library	25 Beautiful Homes	RBZ0000011	11/30/2019	495000	11
 8080 Test Library	25 Years of the Hubble Space Telescope - from BBC Sky at Night Magazine	RBZ0007978	04/01/2015	495000	1
 8080 Test Library	273 Papercraft & Card Ideas	RBZ0008728	06/01/2016	495000	1
 8080 Test Library	2nd ????	RBZ0006985	11/20/2019	Unlimited	11
@@ -3721,4 +3721,4 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	??????	RBZ0007009	09/05/2019	Unlimited	3
 8080 Test Library	????????	RBZ0002669	11/24/2019	495000	41
 8080 Test Library	??????	RBZ0004151	11/24/2019	495000	45
-Total	1375882105	18409
+Total	1375882106	18409

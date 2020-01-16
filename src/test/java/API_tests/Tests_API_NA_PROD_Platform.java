@@ -70,7 +70,7 @@ public class Tests_API_NA_PROD_Platform {
         //.asString();
         //.getBody();
         System.out.println(response.getBody());
-        //Assert.assertNotNull(postResponse.getBody());
+        //Assert.assertNotNull(response.getBody());
         //Assert.assertEquals(postResponse.getStatus(), 200);
         softAssert.assertNotNull(response.getBody(), "ERROR - response is empty");
         softAssert.assertEquals(response.getStatus(), 200, "ERROR - status is not 200");
@@ -85,8 +85,8 @@ public class Tests_API_NA_PROD_Platform {
         //.getBody();
         System.out.println(deleteResponse2.getBody());
         //Assert.assertNotNull(deleteResponse2.getBody());
-        softAssert.assertNotNull(response.getBody(), "ERROR - response is empty");
-        softAssert.assertEquals(response.getStatus(), 200, "ERROR - status is not 200");
+        softAssert.assertNotNull(deleteResponse2.getBody(), "ERROR - response is empty");
+        softAssert.assertEquals(deleteResponse2.getStatus(), 200, "ERROR - status is not 200");
         softAssert.assertAll();
         //Assert.assertEquals (postResponse2.getStatus(), 200);
     }

@@ -60,7 +60,7 @@ public class MagazinePage {
         wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[contains(text(), 'Learn more')]")));
 
 
-        WebElement learnMore = driver.findElements(By.xpath("//a[contains(text(), 'Learn more')]")).get(1);
+        WebElement learnMore = driver.findElements(By.xpath("//a[contains(text(), 'Learn more')]")).get(0);
         learnMore.click();
         //Actions actions = new Actions(driver);
         //actions.moveToElement(learnMore).click().build().perform();

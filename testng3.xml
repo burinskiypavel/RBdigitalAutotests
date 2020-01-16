@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestAll">
+    <test name="order">
+        <classes>
+
+            <class name="Gson.Tests.TesstCrocs" />
+            <class name="Gson.Tests.TesstUnderArmour" />
+
+
+
+
+        </classes>
+
+    </test>>
+
+</suite>
