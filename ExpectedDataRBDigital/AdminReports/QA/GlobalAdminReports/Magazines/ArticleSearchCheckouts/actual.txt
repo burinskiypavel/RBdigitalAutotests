@@ -16,5 +16,5 @@ American History	RBZ0005968	1	10/01/2016	rbdigitalgatewaytrial
 American Patchwork & Quilting	RBZ0000046	8	02/01/2017	mainincnj
 AppleMagazine	RBZ0000059	9	07/15/2016	cinhamiltonoh
 Architectural Digest	RBZ0005581	8	01/01/2017	mainincnj
-Art & Décoration	RBZ0006171	2	12/01/2016	rbdigitaltrial
+Art & DÃ©coration	RBZ0006171	2	12/01/2016	rbdigitaltrial
 Art Almanac	RBZ0005834	3	09/01/2016	wapldmc
