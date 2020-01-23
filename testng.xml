@@ -3,13 +3,14 @@
  <test name = "testngTest">
      <classes>
 
-         <class name="Gateway.TestRBdigital_Gateway" />
-         <class name="Gateway.TestReportsInGlobalAdmin" />
-         <class name="Gateway.TestReportsInLocalAdmin" />
-         <class name="Gateway.TestLocalAdmin" />
-         <class name="Gateway.TestServicesCheckouts" />
+         <class name="Gateway.TestRBdigital_Gateway_QA" />
+         <class name="Gateway.TestReportsInGlobalAdmin_QA" />
+         <class name="Gateway.TestReportsInLocalAdmin_QA" />
+         <class name="Gateway.TestLocalAdmin_QA" />
+         <class name="Gateway.TestServicesCheckouts_QA" />
          <class name="API_tests.Tests_API_NA_PROD_Platform" />
          <class name="API_tests.Tests_API_NA_QA_Platform" />
+         <class name="Gateway.PROD.TestRBdigital_Gateway_PROD" />
 
 
      </classes>

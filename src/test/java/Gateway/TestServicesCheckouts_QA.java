@@ -62,7 +62,16 @@ public class TestServicesCheckouts_QA extends BaseClass_TestServiceCheckout {
     }
 
     @Test
-    void test_06_transparentLanguage_rbdigitalinternal() throws InterruptedException {
+    void test_06_pongalo_test51() throws InterruptedException {
+        login("jan16@gmail.com", "12345qw");
+        goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/pongalo']");
+        pressGetStartedButton();
+        checkURLcontains("https://frontend-dev.pongalo.com/recorded-books/");
+        checkText("PONGALO está disponible en tu teléfono móvil, tableta, computador y TV.");
+    }
+
+    @Test
+    void test_07_transparentLanguage_rbdigitalinternal() throws InterruptedException {
         navigate("https://www.rbdigitalqa.com/rbdigitalinternal/");
         login("qauser", "password1");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/transparent_language']");
@@ -74,7 +83,7 @@ public class TestServicesCheckouts_QA extends BaseClass_TestServiceCheckout {
     }
 
     @Test
-    void test_07_artistWorksService_rbdigitalinternal() throws InterruptedException {
+    void test_08_artistWorksService_rbdigitalinternal() throws InterruptedException {
         navigate("https://www.rbdigitalqa.com/rbdigitalinternal/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
@@ -87,7 +96,7 @@ public class TestServicesCheckouts_QA extends BaseClass_TestServiceCheckout {
     }
 
     @Test
-    void test_08_hoonuit_rbdigitalinternal() throws InterruptedException {
+    void test_09_hoonuit_rbdigitalinternal() throws InterruptedException {
         navigate("https://www.rbdigitalqa.com/rbdigitalinternal/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
@@ -101,7 +110,7 @@ public class TestServicesCheckouts_QA extends BaseClass_TestServiceCheckout {
     }
 
     @Test
-    void test_09_lawdepot_rbdigitalinternal() throws InterruptedException {
+    void test_10_lawdepot_rbdigitalinternal() throws InterruptedException {
         navigate("https://www.rbdigitalqa.com/rbdigitalinternal/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
@@ -114,7 +123,7 @@ public class TestServicesCheckouts_QA extends BaseClass_TestServiceCheckout {
     }
 
     @Test
-    void test_10_newspapers_rbdigitalinternal() throws InterruptedException {
+    void test_11_newspapers_rbdigitalinternal() throws InterruptedException {
         wait = new WebDriverWait(driver, 35);
         navigate("https://www.rbdigitalqa.com/rbdigitalinternal/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
@@ -129,7 +138,7 @@ public class TestServicesCheckouts_QA extends BaseClass_TestServiceCheckout {
     }
 
     @Test
-    void test_11_AcornTV_rbdigitalinternal() throws InterruptedException {
+    void test_12_AcornTV_rbdigitalinternal() throws InterruptedException {
         navigate("https://www.rbdigitalqa.com/rbdigitalinternal/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             logout();
@@ -139,19 +148,6 @@ public class TestServicesCheckouts_QA extends BaseClass_TestServiceCheckout {
         pressGetStartedButton();
         checkURLcontains("https://signup-qa.acorn.tv/extendsubscription.html?sessionid=");
         checkText("Welcome back to Acorn TV");
-    }
-
-    @Test
-    void test_12_pongalo_rbdigitalinternal() throws InterruptedException {
-        navigate("https://www.rbdigitalqa.com/rbdigitalinternal/");
-        if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
-            logout();
-        }
-        login("qauser", "password1");
-        goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/pongalo']");
-        pressGetStartedButton();
-        checkURLcontains("https://frontend-dev.pongalo.com/recorded-books/");
-        checkText("PONGALO está disponible en tu teléfono móvil, tableta, computador y TV.");
     }
 
     @Test
