@@ -17,7 +17,7 @@ import java.util.Calendar;
 
 public class BaseClass_TestRBDigital_Gateway  {
     //public WebDriver driver;
-    WebDriver driver;
+    public WebDriver driver;
 
     @AfterClass
     void afterClass() {

@@ -19,7 +19,7 @@ import java.io.IOException;
 import java.util.List;
 
 @Test
-public class TestReportsInLocalAdmin{
+public class TestReportsInLocalAdmin_QA {
 
     WebDriver driver;
     PageObj pageObj;

@@ -124,6 +124,19 @@ public class MagazinePage {
         wait2.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("div[title = 'Bookmarks']")));
     }
 
+    public void SwitchToIFrameOpenMagazineReadingPageProd(int magazinID) throws InterruptedException {
+        Thread.sleep(5000);
+        int size = driver.findElements(By.tagName("iframe")).size();
+        //driver.switchTo().frame(0);
+        Thread.sleep(4000);
+        driver.switchTo().frame(driver.findElement(By.cssSelector("iframe[src = 'https://rb_reader.zinioapps.com/#/reader/readsvg/"+magazinID+"']")));
+        //driver.switchTo().frame(driver.findElement(By.tagName("iframe")));
+        //wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.cssSelector("iframe[src = 'https://rb_reader.sbx.zinioapps.com/#/reader/readsvg/438090']")));
+        Wait<WebDriver> wait2 = new WebDriverWait(driver, 30);
+        //Thread.sleep(1000);
+        wait2.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("div[title = 'Bookmarks']")));
+    }
+
     public MagazinePage OpenMyCollection(){
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("a[class*='my_collection_link']")));
@@ -194,6 +207,12 @@ public class MagazinePage {
     public MagazinePage openMagazineReadingPage(int magazineID) throws InterruptedException {
         SwitchToTab();
         SwitchToIFrameOpenMagazineReadingPage(magazineID);
+        return this;
+    }
+
+    public MagazinePage openMagazineReadingPageProd(int magazineID) throws InterruptedException {
+        SwitchToTab();
+        SwitchToIFrameOpenMagazineReadingPageProd(magazineID);
         return this;
     }
 

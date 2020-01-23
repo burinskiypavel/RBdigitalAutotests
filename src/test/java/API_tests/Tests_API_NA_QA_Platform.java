@@ -34,7 +34,7 @@ public class Tests_API_NA_QA_Platform {
     public void test_magazineCheckout_Return() throws UnirestException {
         SoftAssert softAssert = new SoftAssert();
         //magazine checkout
-        HttpResponse <JsonNode> response = Unirest.post("https://api.rbdigitalqa.com/v2/patron-magazines/345089")
+        HttpResponse <JsonNode> response = Unirest.post("https://api.rbdigitalqa.com/v2/patron-magazines/382615")
                 .header("authorization", "bearer " + bearer + "")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
                 .asJson();
@@ -44,10 +44,10 @@ public class Tests_API_NA_QA_Platform {
         //Assert.assertNotNull(postResponse.getBody());
         //Assert.assertEquals (postResponse.getStatus(), 202);
         softAssert.assertNotNull(response.getBody(), "ERROR - response is empty");
-        softAssert.assertEquals(response.getStatus(), 200, "ERROR - status is not 200");
+        softAssert.assertEquals(response.getStatus(), 200, "Checkout ERROR - status is not 200");
 
         //magazine return
-        HttpResponse <String> postResponse2 = Unirest.delete("https://api.rbdigitalqa.com/v2/patron-magazines/345089")
+        HttpResponse <String> postResponse2 = Unirest.delete("https://api.rbdigitalqa.com/v2/patron-magazines/382615")
                 .header("authorization", "bearer " + bearer + "")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
                 //.asJson();
@@ -56,8 +56,8 @@ public class Tests_API_NA_QA_Platform {
         System.out.println(postResponse2.getBody());
         //Assert.assertEquals (postResponse2.getStatus(), 202);
         //Assert.assertNotNull(postResponse2.getBody());
-        softAssert.assertNotNull(response.getBody(), "ERROR - response is empty");
-        softAssert.assertEquals(response.getStatus(), 200, "ERROR - status is not 200");
+        softAssert.assertNotNull(postResponse2.getBody(), "Return ERROR - response is empty");
+        softAssert.assertEquals(postResponse2.getStatus(), 200, "ERROR - status is not 200");
         softAssert.assertAll();
     }
 
@@ -219,7 +219,6 @@ public class Tests_API_NA_QA_Platform {
         Assert.assertEquals(actualMediaType, "eComic");
     }
 
-
     @Test
     public void test_audiobookHold_ReturnHold() throws UnirestException {
         SoftAssert softAssert = new SoftAssert();
@@ -247,9 +246,9 @@ public class Tests_API_NA_QA_Platform {
         //Assert.assertNotNull(deleteResponse.getBody());
         //Assert.assertEquals(deleteResponse.getStatus(), 200);
         //Assert.assertEquals("success", deleteResponse.getBody().getObject().getString("message"));
-        softAssert.assertNotNull(postResponse.getBody(), "ERROR - response is empty");
-        softAssert.assertEquals(postResponse.getStatus(), 200, "ERROR - status is not 200");
-        softAssert.assertEquals("success", postResponse.getBody().getObject().getString("message"), "ERROR - message is not success");
+        softAssert.assertNotNull(deleteResponse.getBody(), "ERROR - response is empty");
+        softAssert.assertEquals(deleteResponse.getStatus(), 200, "ERROR - status is not 200");
+        softAssert.assertEquals("success", deleteResponse.getBody().getObject().getString("message"), "ERROR - message is not success");
         softAssert.assertAll();
     }
 }

@@ -2,7 +2,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	$10 DINNERS (OR LESS!)	RBZ0000001	02/01/2012	99000	1
 8080 Test Library	(inside) interior design review	RBZ0002688	08/31/2019	495000	3
 8080 Test Library	.net CSS Design Essentials	RBZ0003796	09/01/2011	99000	1
-8080 Test Library	0024 Horloges	RBZ0002360	11/30/2018	495000	1
+8080 Test Library	0024 Horloges	RBZ0002360	11/30/2018	494999	1
 8080 Test Library	01net	RBZ0001638			0
 8080 Test Library	10 Minute Pilates	RBZ0007447	05/01/2014	495000	1
 8080 Test Library	10 Minute Yoga Calm	RBZ0008908	07/01/2016	495000	1
@@ -20,7 +20,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The 100 Greatest TV Shows of All Time	RBZ0008020	05/01/2015	99000	1
 8080 Test Library	101 Home Sewing Ideas	RBZ0008834	06/01/2016	495000	1
 8080 Test Library	101 Quick & Easy Crochet Makes	RBZ0007626	06/01/2016	495000	1
-8080 Test Library	11 Freunde	RBZ0009106	11/30/2019	495000	11
+8080 Test Library	11 Freunde	RBZ0009106	11/30/2019	494999	11
 8080 Test Library	1116 Design Tips	RBZ0007608	09/01/2014	99000	1
 8080 Test Library	15 Minute Fitness: Busy Girls Guide	RBZ0008914	07/01/2016	495000	1
 8080 Test Library	150 Thrifty Knits	RBZ0007697	05/01/2016	495000	1
@@ -33,7 +33,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	25 Beautiful Homes	RBZ0000011	11/30/2019	495000	11
 8080 Test Library	25 Years of the Hubble Space Telescope - from BBC Sky at Night Magazine	RBZ0007978	04/01/2015	495000	1
 8080 Test Library	273 Papercraft & Card Ideas	RBZ0008728	06/01/2016	495000	1
-8080 Test Library	2nd セカンド	RBZ0006985	11/20/2019	Unlimited	11
+8080 Test Library	2nd ????	RBZ0006985	11/20/2019	Unlimited	11
 8080 Test Library	The 3D Art & Design Annual Volume 1	RBZ0008248	01/01/2018	198000	1
 8080 Test Library	The 3D Art & Design Book	RBZ0004876	04/01/2015	198000	1
 8080 Test Library	The 3D Art & Design Book	RBZ0004687	04/15/2012	198000	1
@@ -74,11 +74,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	A Year of Plants - from the makers of Gardens Illustrated magazine	RBZ0008325	09/01/2014	495000	1
 8080 Test Library	A&W ARCHITEKTUR & WOHNEN	RBZ0009059	11/30/2019	495000	6
 8080 Test Library	a+t	RBZ0004758	11/30/2016	495000	1
-8080 Test Library	a+u Architecture and Urbanism a+u 建築と都市　	RBZ0009329	01/31/2019	Unlimited	9
+8080 Test Library	a+u Architecture and Urbanism a+u ??????	RBZ0009329	01/31/2019	Unlimited	9
 8080 Test Library	ABC Organic Gardener Magazine	RBZ0005129	12/31/2019	39600	7
 8080 Test Library	ABC Organic Gardener Magazine Essential Guides	RBZ0005223	04/01/2016	39600	1
 8080 Test Library	ABC Soaps In Depth	RBZ0001850	12/01/2019	99000	23
-8080 Test Library	ABC 互動英語	RBZ0010176	11/22/2019	495000	11
+8080 Test Library	ABC ????	RBZ0010176	11/22/2019	495000	11
 8080 Test Library	Accion Cine-Video	RBZ0002375	10/31/2019	495000	10
 8080 Test Library	Aces: Discovering Guitar's First Heroes	RBZ0008502	01/01/2016	495000	1
 8080 Test Library	Acoustic Sprint 2015 - The Fingerstyle Issue	RBZ0007951	04/01/2015	99000	1
@@ -87,13 +87,13 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Action Photography	RBZ0009822	07/01/2017	495000	1
 8080 Test Library	AD Choice	RBZ0004619	06/26/2019	19800	1
 8080 Test Library	AD Collector	RBZ0001829	04/01/2017	495000	1
-8080 Test Library	AD España	RBZ0004665	11/30/2019	495000	10
+8080 Test Library	AD Espa�a	RBZ0004665	11/30/2019	495000	10
 8080 Test Library	AD France	RBZ0001804	10/31/2019	495000	8
 8080 Test Library	AD Inspirations	RBZ0008939	07/01/2017	495000	1
 8080 Test Library	AD Italia	RBZ0003251	10/31/2019	39600	11
 8080 Test Library	AD Magazin (D)	RBZ0004531	11/30/2019	19800	10
 8080 Test Library	AD Russia	RBZ0002263	11/30/2019	495000	12
-8080 Test Library	AD 安邸	RBZ0005126	10/31/2019	495000	11
+8080 Test Library	AD ??	RBZ0005126	10/31/2019	495000	11
 8080 Test Library	Adega	RBZ0005975	11/30/2019	495000	11
 8080 Test Library	Adirondack Explorer	RBZ0003021	10/31/2019	99000	6
 8080 Test Library	Adirondack Life	RBZ0005788	10/31/2019	495000	7
@@ -117,11 +117,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Advanced Photography Skills	RBZ0008341	04/01/2013	495000	1
 8080 Test Library	Advanced Photography Software Skills	RBZ0006691	10/01/2013	495000	1
 8080 Test Library	Advanced Photoshop: The Premium Collection	RBZ0004689	08/01/2015	198000	1
-8080 Test Library	Advanced 彭蒙惠英語	RBZ0001171	11/18/2019	495000	11
+8080 Test Library	Advanced ?????	RBZ0001171	11/18/2019	495000	11
 8080 Test Library	The Advocate	RBZ0000028			0
 8080 Test Library	Adweek	RBZ0002643	11/24/2019	49500	30
 8080 Test Library	AERO Magazine	RBZ0005976	10/31/2019	495000	11
-8080 Test Library	AERO Magazine América Latina	RBZ0008613	09/30/2019	495000	5
+8080 Test Library	AERO Magazine Am�rica Latina	RBZ0008613	09/30/2019	495000	5
 8080 Test Library	Aero Magazine International	RBZ0010092	09/30/2019	495000	5
 8080 Test Library	AFAR	RBZ0003187	10/31/2019	99000	5
 8080 Test Library	Affaires Plus (A+)	RBZ0000023	11/12/2019	495000	3
@@ -129,11 +129,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	African Hunting Gazette	RBZ0008294	09/30/2019	495000	4
 8080 Test Library	Afrique Magazine	RBZ0009612	10/31/2019	495000	10
 8080 Test Library	Air & Space	RBZ0010076	11/30/2019	495000	7
-8080 Test Library	ALBA TROSS-VIEW 阿路巴高爾夫 國際中文版	RBZ0010177	11/11/2019	495000	11
+8080 Test Library	ALBA TROSS-VIEW ?????? ?????	RBZ0010177	11/11/2019	495000	11
 8080 Test Library	Alberta Views Magazine	RBZ0010073	11/30/2019	99000	9
-8080 Test Library	Algarabía	RBZ0000035	10/31/2019	495000	11
-8080 Test Library	Algarabía Niños	RBZ0006474	10/31/2019	495000	6
-8080 Test Library	Algarabía Tópicos	RBZ0000037	06/01/2013	495000	1
+8080 Test Library	Algarab�a	RBZ0000035	10/31/2019	495000	11
+8080 Test Library	Algarab�a Ni�os	RBZ0006474	10/31/2019	495000	6
+8080 Test Library	Algarab�a T�picos	RBZ0000037	06/01/2013	495000	1
 8080 Test Library	All About History	RBZ0006251	12/31/2019	197999	12
 8080 Test Library	All About History 1066 & The Battle Of Hastings	RBZ0009221	03/01/2017	99000	1
 8080 Test Library	All About History Annual	RBZ0007623	01/01/2018	198000	1
@@ -195,7 +195,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Amgen Tour of California Official 2011 Tour Program	RBZ0003416	05/01/2011	99000	1
 8080 Test Library	The Amiga Book	RBZ0007804	03/01/2016	198000	1
 8080 Test Library	Amigurumi Collection	RBZ0008063	01/01/2019	495000	1
-8080 Test Library	Amura Yachts & Lifestyle	RBZ0008721	09/30/2019	495000	6
+8080 Test Library	Amura Yachts & Lifestyle	RBZ0008721	09/30/2019	494999	6
 8080 Test Library	Anatomy Essentials	RBZ0007696	11/01/2014	99000	1
 8080 Test Library	Android Advisor	RBZ0006925	10/31/2019	495000	11
 8080 Test Library	Android App Directory Vol 1	RBZ0004849	05/20/2012	198000	1
@@ -214,11 +214,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Animals Volume 1, Celebration Edition	RBZ0008777	07/01/2016	495000	1
 8080 Test Library	Annabel Karmel Family Summer Cookbook	RBZ0002139	01/01/2009	495000	1
 8080 Test Library	Annabel Karmel Family Cookbook Winter and Christmas 2009	RBZ0002035	01/01/2009	495000	1
-8080 Test Library	Año/Cero	RBZ0004495	10/31/2019	495000	10
+8080 Test Library	A�o/Cero	RBZ0004495	10/31/2019	495000	10
 8080 Test Library	Answers To Life's Big Questions	RBZ0009315			0
 8080 Test Library	Antik & Auktion Denmark	RBZ0010116	10/31/2019	19800	8
 8080 Test Library	Antique Trader	RBZ0010198	12/03/2019	99000	23
-8080 Test Library	Anuario Astrológico 2016/17	RBZ0008236	10/14/2019	495000	1
+8080 Test Library	Anuario Astrol�gico 2016/17	RBZ0008236	10/14/2019	495000	1
 8080 Test Library	Apartments	RBZ0006024	04/01/2013	495000	1
 8080 Test Library	APC	RBZ0010085	11/30/2019	495000	11
 8080 Test Library	Aperture	RBZ0000057	08/19/2019	495000	3
@@ -234,15 +234,15 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	ARCHAEOLOGY	RBZ0005148			0
 8080 Test Library	Architectural Digest	RBZ0005581			0
 8080 Test Library	Architectural Digest India	RBZ0004296	10/31/2019	495000	7
-8080 Test Library	Architectural Digest Latinoamérica	RBZ0010173	08/31/2019	Unlimited	3
+8080 Test Library	Architectural Digest Latinoam�rica	RBZ0010173	08/31/2019	Unlimited	3
 8080 Test Library	Architectural Digest Mexico	RBZ0005157	10/31/2019	495000	10
 8080 Test Library	Architectural Review Asia Pacific	RBZ0002687	07/31/2019	495000	3
 8080 Test Library	Architecture Australia	RBZ0000062	10/31/2019	495000	6
 8080 Test Library	Armes de chasse	RBZ0001871	09/30/2019	495000	3
 8080 Test Library	Armes de chasse HS	RBZ0004420	11/01/2017	494995	1
-8080 Test Library	Arquitectura y Diseño	RBZ0004390	11/30/2019	495000	10
-8080 Test Library	Arquitectura y diseño de interiores	RBZ0009082	02/01/2018	495000	1
-8080 Test Library	Art & Décoration	RBZ0006171	10/31/2019	495000	8
+8080 Test Library	Arquitectura y Dise�o	RBZ0004390	11/30/2019	495000	10
+8080 Test Library	Arquitectura y dise�o de interiores	RBZ0009082	02/01/2018	495000	1
+8080 Test Library	Art & D�coration	RBZ0006171	10/31/2019	495000	8
 8080 Test Library	Art Almanac	RBZ0005834	11/30/2019	495000	11
 8080 Test Library	Art New Zealand	RBZ0007274	09/30/2019	495000	4
 8080 Test Library	Art Nouveau Birds: A Stress Relieving Adult Coloring Book	RBZ0008807	07/01/2016	495000	1
@@ -273,7 +273,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Atlas of the Stars: New Edition	RBZ0009903	09/01/2017	495000	1
 8080 Test Library	Atomic Ranch	RBZ0008131	10/31/2019	297000	5
 8080 Test Library	Attitude Magazine	RBZ0008113	11/30/2019	99000	12
-8080 Test Library	AUDIO ART MAGAZINE 音響論壇	RBZ0003284	10/29/2019	495000	11
+8080 Test Library	AUDIO ART MAGAZINE ????	RBZ0003284	10/29/2019	495000	11
 8080 Test Library	Audio Esoterica	RBZ0004905	08/18/2019	495000	1
 8080 Test Library	AUDIO Germany	RBZ0005772	11/30/2019	495000	11
 8080 Test Library	Audio Technology	RBZ0000073	08/31/2019	495000	4
@@ -322,15 +322,15 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Australian Stitches	RBZ0008850	07/31/2019	495000	2
 8080 Test Library	Australian Traveller	RBZ0009261	10/31/2019	495000	4
 8080 Test Library	The Australian Women's Weekly	RBZ0006978	12/01/2019	495000	12
-8080 Test Library	The Australian Women’s Weekly Food	RBZ0007862	08/31/2019	495000	10
-8080 Test Library	Australian Women’s Weekly NZ	RBZ0008903	11/01/2019	495000	12
+8080 Test Library	The Australian Women�s Weekly Food	RBZ0007862	08/31/2019	495000	10
+8080 Test Library	Australian Women�s Weekly NZ	RBZ0008903	11/01/2019	495000	12
 8080 Test Library	Australian Wood Review	RBZ0008270	11/30/2019	495000	4
 8080 Test Library	Australian Yoga Journal	RBZ0000095	10/31/2019	495000	7
 8080 Test Library	Auto Bild es	RBZ0002410	11/14/2019	495000	23
-8080 Test Library	Auto Bild México	RBZ0009139	10/31/2019	495000	11
+8080 Test Library	Auto Bild M�xico	RBZ0009139	10/31/2019	495000	11
 8080 Test Library	Auto Express	RBZ0000097	11/19/2019	495000	47
 8080 Test Library	Auto Plus Classique	RBZ0009625	10/30/2019	495000	6
-8080 Test Library	Auto Plus Classiques Hors Série	RBZ0009626	02/28/2019	495000	1
+8080 Test Library	Auto Plus Classiques Hors S�rie	RBZ0009626	02/28/2019	495000	1
 8080 Test Library	Auto Plus France	RBZ0004644	11/21/2019	495000	48
 8080 Test Library	Auto Plus Hors serie	RBZ0008544	06/30/2019	495000	3
 8080 Test Library	Auto Plus Occasion	RBZ0009627	08/31/2019	495000	3
@@ -344,9 +344,9 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Avantages	RBZ0003020	09/30/2019	39600	14
 8080 Test Library	Avantages HS	RBZ0005651	06/01/2018	39600	1
 8080 Test Library	Aviation History	RBZ0005969	12/31/2019	99000	6
-8080 Test Library	AXIS アクシス	RBZ0004954	10/31/2019	495000	5
+8080 Test Library	AXIS ????	RBZ0004954	10/31/2019	495000	5
 8080 Test Library	AZURE	RBZ0000103	10/31/2019	494999	7
-8080 Test Library	BABY & MOTHER 嬰兒與母親	RBZ0006354	11/04/2019	495000	11
+8080 Test Library	BABY & MOTHER ?????	RBZ0006354	11/04/2019	495000	11
 8080 Test Library	The Baby Craft Book	RBZ0008994	09/01/2016	495000	1
 8080 Test Library	Back Garden Astronomy	RBZ0008998	10/01/2016	495000	1
 8080 Test Library	Backpacker	RBZ0000105			0
@@ -395,7 +395,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Beginner's Guide to Quilting	RBZ0007311	01/23/2019	495000	1
 8080 Test Library	Beginner's Guide to Sewing	RBZ0007292	03/01/2014	495000	1
 8080 Test Library	Beginner's Guide to Triathlon 2015	RBZ0008731	05/01/2016	495000	1
-8080 Test Library	Beginners´ Guide to Crochet	RBZ0008316	10/01/2019	495000	1
+8080 Test Library	Beginners� Guide to Crochet	RBZ0008316	10/01/2019	495000	1
 8080 Test Library	Beginners Guide to Papercraft	RBZ0007805	12/01/2014	99000	1
 8080 Test Library	Beginners' guide to iPad	RBZ0007525	07/01/2014	99000	1
 8080 Test Library	Beijing Review	RBZ0002795	11/20/2019	495000	44
@@ -403,7 +403,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Berty Squiggles Colouring & Scribbles	RBZ0006628	09/01/2013	495000	1
 8080 Test Library	Bespoke the chic and the cool	RBZ0004146	07/23/2019	495000	1
 8080 Test Library	Best	RBZ0000128	12/02/2019	495000	47
-8080 Test Library	Best Buys – Audio & AV	RBZ0000129	07/21/2019	495000	1
+8080 Test Library	Best Buys � Audio & AV	RBZ0000129	07/21/2019	495000	1
 8080 Test Library	Best craft & cookery special 2014	RBZ0008396	10/01/2014	495000	1
 8080 Test Library	Best Homes	RBZ0008448	09/18/2019	495000	2
 8080 Test Library	Best Ideas for Christmas	RBZ0000132	10/01/2011	99000	1
@@ -419,17 +419,17 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Better Nutrition	RBZ0004675			0
 8080 Test Library	Better Shooting	RBZ0007743	12/01/2014	494999	1
 8080 Test Library	Biba	RBZ0004640	10/31/2019	495000	10
-8080 Test Library	BICYCLE CLUB　バイシクルクラブ	RBZ0004915	11/24/2019	Unlimited	11
+8080 Test Library	BICYCLE CLUB?????????	RBZ0004915	11/24/2019	Unlimited	11
 8080 Test Library	Bicycling	RBZ0000141			0
 8080 Test Library	Bicycling - Beginner's Guide to Mountain Biking	RBZ0006669	10/01/2013	495000	1
 8080 Test Library	Bicycling - Complete Cycle Tour Training Guide	RBZ0005475	11/01/2016	495000	1
 8080 Test Library	Bicycling Australia	RBZ0000142	10/31/2019	495000	5
 8080 Test Library	Bicycling Buyers' Guide	RBZ0000143	11/01/2012	495000	1
-8080 Test Library	Bicycling SA’s Beginner’s Guide to Cycling	RBZ0007541	07/01/2014	495000	1
+8080 Test Library	Bicycling SA�s Beginner�s Guide to Cycling	RBZ0007541	07/01/2014	495000	1
 8080 Test Library	Bicycling South Africa	RBZ0000938	10/31/2019	495000	6
 8080 Test Library	The Big Black Book	RBZ0000144	05/01/2016	495000	1
 8080 Test Library	The Big Black Book	RBZ0008398	10/01/2015	495000	1
-8080 Test Library	The Big Black Book-España	RBZ0007485	09/01/2016	495000	1
+8080 Test Library	The Big Black Book-Espa�a	RBZ0007485	09/01/2016	495000	1
 8080 Test Library	Big Book of Cardmaking Answers	RBZ0008732	06/01/2016	495000	1
 8080 Test Library	The Big Book of History Answers	RBZ0008672	01/01/2018	495000	1
 8080 Test Library	The Big Book of Why?	RBZ0008643	03/01/2016	495000	1
@@ -440,17 +440,17 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Big Steam is Back	RBZ0009894	05/01/2017	495000	1
 8080 Test Library	BIKE	RBZ0007870	12/31/2019	99000	11
 8080 Test Library	Bike	RBZ0000146	08/31/2019	495000	3
-8080 Test Library	Bike - España	RBZ0004467	11/30/2019	495000	11
+8080 Test Library	Bike - Espa�a	RBZ0004467	11/30/2019	495000	11
 8080 Test Library	Bike France	RBZ0001811	11/30/2019	495000	11
 8080 Test Library	BIKE India	RBZ0002186	10/31/2019	495000	11
 8080 Test Library	Bike Maintenance Tips, Tricks & Techniques	RBZ0007283	05/01/2016	198000	1
-8080 Test Library	BikeJIN／培倶人　バイクジン	RBZ0004883	11/05/2019	Unlimited	10
+8080 Test Library	BikeJIN??????????	RBZ0004883	11/05/2019	Unlimited	10
 8080 Test Library	Billboard Magazine	RBZ0000148			0
 8080 Test Library	Bird Watching	RBZ0007924	11/30/2019	99000	12
 8080 Test Library	Birds & Blooms	RBZ0006880			0
 8080 Test Library	Birds and Blooms Extra	RBZ0008592	10/31/2019	495000	5
 8080 Test Library	BirdWatching	RBZ0000149			0
-8080 Test Library	biz 互動英語	RBZ0010178	10/30/2019	495000	10
+8080 Test Library	biz ????	RBZ0010178	10/30/2019	495000	10
 8080 Test Library	The Black & White Photography Book	RBZ0004976	12/01/2016	198000	1
 8080 Test Library	Black & White Photography Made Easy	RBZ0003877	09/20/2011	99000	1
 8080 Test Library	Black Belt Magazine	RBZ0001176	11/30/2019	495000	6
@@ -459,7 +459,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Blackberry Tips, Tricks & Apps Vol 1	RBZ0005009	07/03/2012	198000	1
 8080 Test Library	Blackberry Tips, Tricks & Apps Vol 2	RBZ0004842	05/20/2012	198000	1
 8080 Test Library	Blade	RBZ0010195	11/30/2019	99000	11
-8080 Test Library	BLADES(ブレード)	RBZ0009580	10/21/2019	495000	3
+8080 Test Library	BLADES(????)	RBZ0009580	10/21/2019	495000	3
 8080 Test Library	Bleu & Blanc	RBZ0010135	10/31/2019	495000	9
 8080 Test Library	The Blogger's Book	RBZ0004885	05/25/2012	198000	1
 8080 Test Library	Blue Mountains Life	RBZ0000156	09/30/2019	495000	5
@@ -472,7 +472,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Boating	RBZ0000160			0
 8080 Test Library	Boating NZ	RBZ0001697	11/30/2019	495000	11
 8080 Test Library	Bodas	RBZ0003059	12/31/2018	495000	1
-8080 Test Library	Body Design 健身誌	RBZ0010023	11/03/2019	495000	3
+8080 Test Library	Body Design ???	RBZ0010023	11/03/2019	495000	3
 8080 Test Library	The Body Type Plan	RBZ0008366	10/01/2014	495000	1
 8080 Test Library	BOGA- Novias Magazine	RBZ0009204	12/01/2017	495000	1
 8080 Test Library	Bon Appetit	RBZ0005580			0
@@ -492,7 +492,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	BRITAIN - The 2015 Guide	RBZ0007477	05/01/2015	495000	1
 8080 Test Library	Britain in 2011	RBZ0002813	12/15/2010	495000	1
 8080 Test Library	Britain's Favourite Walks	RBZ0008890	07/01/2016	99000	1
-8080 Test Library	Britain’s greatest battles	RBZ0008831	07/01/2016	495000	1
+8080 Test Library	Britain�s greatest battles	RBZ0008831	07/01/2016	495000	1
 8080 Test Library	British Columbia History	RBZ0010077	08/31/2019	495000	3
 8080 Test Library	British GQ	RBZ0000429	11/30/2019	99000	10
 8080 Test Library	British GQ Style	RBZ0004514	09/09/2019	495000	2
@@ -510,14 +510,14 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Build Rock Hard Abs	RBZ0006459	08/01/2013	495000	1
 8080 Test Library	BuildHome	RBZ0000171	07/31/2019	495000	3
 8080 Test Library	BuildHome Victoria	RBZ0003892	09/10/2019	495000	3
-8080 Test Library	Burda Пэчворк	RBZ0010079	09/30/2019	495000	4
-8080 Test Library	Business Next 數位時代	RBZ0001055	11/04/2019	Unlimited	10
+8080 Test Library	Burda ???????	RBZ0010079	09/30/2019	495000	4
+8080 Test Library	Business Next ????	RBZ0001055	11/04/2019	Unlimited	10
 8080 Test Library	Business Punk	RBZ0009057	08/31/2019	495000	5
 8080 Test Library	Business Today	RBZ0002354	11/30/2019	495000	23
-8080 Test Library	Business Today 今周刊	RBZ0001111	11/24/2019	495000	46
+8080 Test Library	Business Today ???	RBZ0001111	11/24/2019	495000	46
 8080 Test Library	Business Traveller	RBZ0000172	10/31/2019	495000	9
 8080 Test Library	Business Traveller Asia-Pacific Edition	RBZ0002830	10/31/2019	495000	8
-8080 Test Library	Business Weekly 商業周刊	RBZ0001060			0
+8080 Test Library	Business Weekly ????	RBZ0001060			0
 8080 Test Library	Buy And Play The Acoustic Guitar	RBZ0008171	09/01/2015	99000	1
 8080 Test Library	C10 Builder Guide	RBZ0009826	11/11/2019	297000	4
 8080 Test Library	California	RBZ0008345	08/01/2014	495000	1
@@ -535,22 +535,22 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Canon The Complete Manual	RBZ0007613	10/01/2016	198000	1
 8080 Test Library	Capital	RBZ0009063	11/30/2019	495000	11
 8080 Test Library	Capital	RBZ0001107	10/31/2019	495000	10
-8080 Test Library	Capital CEO 資本才俊	RBZ0002887	11/07/2019	495000	11
-8080 Test Library	Capital Entrepreneur 資本企業家	RBZ0006161	11/07/2019	495000	11
+8080 Test Library	Capital CEO ????	RBZ0002887	11/07/2019	495000	11
+8080 Test Library	Capital Entrepreneur ?????	RBZ0006161	11/07/2019	495000	11
 8080 Test Library	Capital Extra	RBZ0004595	03/15/2012	495000	1
-8080 Test Library	Capital Week 證券市場週刊	RBZ0001061	11/25/2019	Unlimited	38
-8080 Test Library	CAPITAL 資本雜誌	RBZ0002905	11/07/2019	495000	11
+8080 Test Library	Capital Week ??????	RBZ0001061	11/25/2019	Unlimited	38
+8080 Test Library	CAPITAL ????	RBZ0002905	11/07/2019	495000	11
 8080 Test Library	Capture	RBZ0008272	10/31/2019	495000	5
 8080 Test Library	CAR	RBZ0002329	11/30/2019	495000	11
 8080 Test Library	CAR	RBZ0007871	11/30/2019	99000	11
-8080 Test Library	Car - España	RBZ0004396	10/31/2019	495000	8
+8080 Test Library	Car - Espa�a	RBZ0004396	10/31/2019	495000	8
 8080 Test Library	Car and Driver	RBZ0000191			0
 8080 Test Library	Car and Driver	RBZ0001090	11/30/2019	495000	10
 8080 Test Library	Car Craft	RBZ0001323	01/31/2020	495000	11
 8080 Test Library	Car India	RBZ0002185	10/31/2019	495000	11
 8080 Test Library	Car Mechanics	RBZ0008100	11/30/2019	99000	11
-8080 Test Library	Car Plus + HIM 車王	RBZ0002906	10/30/2019	495000	10
-8080 Test Library	Caras-México	RBZ0000194	10/31/2019	495000	13
+8080 Test Library	Car Plus + HIM ??	RBZ0002906	10/30/2019	495000	10
+8080 Test Library	Caras-M�xico	RBZ0000194	10/31/2019	495000	13
 8080 Test Library	The Caravan	RBZ0002484	10/31/2019	495000	11
 8080 Test Library	Caravan and Outdoor Life	RBZ0005840	11/30/2019	495000	11
 8080 Test Library	Caravan e Camper Granturismo	RBZ0002497	11/30/2019	495000	10
@@ -560,7 +560,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Cardmaking & Papercraft	RBZ0006032	12/31/2019	495000	12
 8080 Test Library	Cardmaking Stamping & Papercraft	RBZ0008936	07/31/2019	495000	2
 8080 Test Library	Caribbean Living	RBZ0001416	11/30/2019	99000	3
-8080 Test Library	Carnews Magazine 一手車訊	RBZ0010024	11/21/2019	495000	10
+8080 Test Library	Carnews Magazine ????	RBZ0010024	11/21/2019	495000	10
 8080 Test Library	Cars of Tomorrow	RBZ0008925	07/01/2016	495000	1
 8080 Test Library	Casa Diez	RBZ0001161	10/31/2019	495000	10
 8080 Test Library	Casa Viva	RBZ0001658	10/31/2019	495000	11
@@ -576,13 +576,13 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Chat It's Fate	RBZ0000896	12/31/2019	495000	12
 8080 Test Library	Chat Passion	RBZ0000897	11/30/2019	495000	11
 8080 Test Library	Cheek	RBZ0003359	09/22/2019	39600	9
-8080 Test Library	Cheers Magazine 快樂工作人	RBZ0001237	10/02/2019	495000	5
+8080 Test Library	Cheers Magazine ?????	RBZ0001237	10/02/2019	495000	5
 8080 Test Library	Chefkoch	RBZ0009064	11/14/2019	495000	11
 8080 Test Library	Chess for Beginners	RBZ0008400	09/01/2014	198000	1
 8080 Test Library	Chevy High Performance	RBZ0001360	01/31/2020	495000	11
 8080 Test Library	Chicago Magazine	RBZ0000199			0
 8080 Test Library	Chickens	RBZ0008864	12/31/2019	99000	4
-8080 Test Library	China Tourism 中國旅遊 (Chinese version)	RBZ0006843	10/31/2019	Unlimited	11
+8080 Test Library	China Tourism ???? (Chinese version)	RBZ0006843	10/31/2019	Unlimited	11
 8080 Test Library	Choosing a School for Your Child NSW	RBZ0007373	05/29/2018	495000	1
 8080 Test Library	Choosing a School for Your Child VIC	RBZ0007576	09/01/2017	495000	1
 8080 Test Library	Christmas & Electric Trains	RBZ0010220	10/02/2018	99000	1
@@ -593,7 +593,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Cine Premiere	RBZ0004941	10/31/2019	495000	11
 8080 Test Library	Cine Premiere Especial	RBZ0004942	10/31/2018	495000	1
 8080 Test Library	Cinema Scope	RBZ0000206	08/26/2019	495000	3
-8080 Test Library	CIO IT 經理人雜誌	RBZ0006924	11/04/2019	495000	11
+8080 Test Library	CIO IT ?????	RBZ0006924	11/04/2019	495000	11
 8080 Test Library	Civil War Times	RBZ0005971	01/31/2020	99000	6
 8080 Test Library	CKGSB Knowledge - China Business and Economy	RBZ0008151	10/31/2019	495000	4
 8080 Test Library	Clara	RBZ0006310	11/30/2019	495000	11
@@ -623,9 +623,9 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Classica	RBZ0002147	10/31/2019	495000	9
 8080 Test Library	Classics in Camera	RBZ0003494	06/01/2011	495000	1
 8080 Test Library	Classics Monthly	RBZ0000221	11/30/2019	99000	11
-8080 Test Library	Claves de la Razón Práctica	RBZ0004397	10/31/2019	495000	6
+8080 Test Library	Claves de la Raz�n Pr�ctica	RBZ0004397	10/31/2019	495000	6
 8080 Test Library	Clean Eating	RBZ0000222			0
-8080 Test Library	Clés pour le train miniature	RBZ0007318	10/31/2019	495000	6
+8080 Test Library	Cl�s pour le train miniature	RBZ0007318	10/31/2019	495000	6
 8080 Test Library	Climbing	RBZ0000223	11/30/2019	495000	6
 8080 Test Library	Clin d'oeil	RBZ0000224			0
 8080 Test Library	Clio	RBZ0001659	10/14/2019	495000	10
@@ -634,21 +634,21 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Closer	RBZ0007873	11/29/2019	99000	48
 8080 Test Library	Closer - C'est leur histoire	RBZ0005043	10/31/2019	495000	4
 8080 Test Library	Closer C'est leur Histoire HS	RBZ0008547	05/01/2017	495000	1
-8080 Test Library	Closer Hors Série Destin	RBZ0008847	07/01/2016	495000	1
-8080 Test Library	Closer Hors-série Jeux	RBZ0009641	10/31/2019	495000	5
+8080 Test Library	Closer Hors S�rie Destin	RBZ0008847	07/01/2016	495000	1
+8080 Test Library	Closer Hors-s�rie Jeux	RBZ0009641	10/31/2019	495000	5
 8080 Test Library	Closer Teen HS	RBZ0008548	10/01/2017	494999	1
 8080 Test Library	Closer to... Real Life	RBZ0008898	07/01/2016	99000	1
-8080 Test Library	Closer to…. diet & fitness	RBZ0008891	07/01/2016	99000	1
+8080 Test Library	Closer to�. diet & fitness	RBZ0008891	07/01/2016	99000	1
 8080 Test Library	Closer Weekly	RBZ0008600			0
 8080 Test Library	The Cloud Computing Book	RBZ0004873	09/30/2016	198000	1
 8080 Test Library	Club 4x4	RBZ0003795	10/31/2019	495000	8
-8080 Test Library	CLUB HARLEY　クラブ・ハーレー	RBZ0004914	11/18/2019	Unlimited	11
+8080 Test Library	CLUB HARLEY?????????	RBZ0004914	11/18/2019	Unlimited	11
 8080 Test Library	CLUTCH BOOKS	RBZ0009578	05/30/2019	Unlimited	6
-8080 Test Library	CLUTCH Magazine 日本語版	RBZ0006356	10/28/2019	Unlimited	5
-8080 Test Library	CNN 互動英語	RBZ0010179	10/30/2019	495000	10
+8080 Test Library	CLUTCH Magazine ????	RBZ0006356	10/28/2019	Unlimited	5
+8080 Test Library	CNN ????	RBZ0010179	10/30/2019	495000	10
 8080 Test Library	Coach - France	RBZ0004950	08/31/2019	495000	3
 8080 Test Library	COCINA DIEZ	RBZ0007967	10/31/2019	495000	10
-8080 Test Library	Cocina Fácil	RBZ0000228	10/31/2019	495000	11
+8080 Test Library	Cocina F�cil	RBZ0000228	10/31/2019	495000	11
 8080 Test Library	Cocina Vital	RBZ0010136	10/31/2019	495000	6
 8080 Test Library	Coding Academy 2015	RBZ0008382	05/01/2016	99000	1
 8080 Test Library	COINage	RBZ0010193	11/30/2019	99000	9
@@ -703,15 +703,15 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Columbia Journalism Review	RBZ0000230	11/12/2019	495000	3
 8080 Test Library	Comic Artist Volume 2	RBZ0007952	09/01/2016	99000	1
 8080 Test Library	Comic Mellten	RBZ0009319	07/13/2019	495000	3
-8080 Test Library	Common Health Magazine 康健	RBZ0001459	10/31/2019	495000	10
-8080 Test Library	Common Wealth Parenting 親子天下	RBZ0001460	11/04/2019	495000	6
-8080 Test Library	CommonWealth Magazine 天下雜誌	RBZ0001059	11/19/2019	495000	23
-8080 Test Library	CommonWealth special subject 天下雜誌封面故事+特別企劃版	RBZ0009147	11/20/2019	495000	45
+8080 Test Library	Common Health Magazine ??	RBZ0001459	10/31/2019	495000	10
+8080 Test Library	Common Wealth Parenting ????	RBZ0001460	11/04/2019	495000	6
+8080 Test Library	CommonWealth Magazine ????	RBZ0001059	11/19/2019	495000	23
+8080 Test Library	CommonWealth special subject ????????+?????	RBZ0009147	11/20/2019	495000	45
 8080 Test Library	Community Shield Manchester City v Chelsea	RBZ0005145	08/01/2012	198000	1
 8080 Test Library	Compact System Camera Guide	RBZ0009824	07/01/2017	495000	1
 8080 Test Library	Company Street Style Edit	RBZ0005155	08/01/2012	495000	1
-8080 Test Library	Compétence Mac	RBZ0003386	11/13/2019	495000	4
-8080 Test Library	Compétence Mac HS	RBZ0006772	11/01/2013	495000	1
+8080 Test Library	Comp�tence Mac	RBZ0003386	11/13/2019	495000	4
+8080 Test Library	Comp�tence Mac HS	RBZ0006772	11/01/2013	495000	1
 8080 Test Library	The Complete Bike Book Volume 1	RBZ0007779	01/01/2015	198000	1
 8080 Test Library	Complete Dog Care	RBZ0008488	12/01/2015	495000	1
 8080 Test Library	The Complete Guide to Android	RBZ0003405	05/01/2011	495000	1
@@ -723,7 +723,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Complete Guide to Jaguar XJ6	RBZ0008892	07/01/2016	99000	1
 8080 Test Library	The Complete Guide to Lion - Part 1	RBZ0004608	04/01/2012	99000	1
 8080 Test Library	The Complete Guide to Mountain Lion	RBZ0005797	02/01/2013	99000	1
-8080 Test Library	The Complete Guide to Pokémon Go	RBZ0008820	07/01/2016	495000	1
+8080 Test Library	The Complete Guide to Pok�mon Go	RBZ0008820	07/01/2016	495000	1
 8080 Test Library	Complete Guide to the 3 Peaks	RBZ0008893	07/01/2016	99000	1
 8080 Test Library	The Complete Guide to the iPad 2	RBZ0003186	04/01/2011	495000	1
 8080 Test Library	The Complete Guide to the iPad 3	RBZ0004606	04/10/2012	495000	1
@@ -751,7 +751,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Computer Arts	RBZ0002828	11/30/2019	99000	12
 8080 Test Library	The Computer Arts Book of Inspiration	RBZ0002163	01/01/2010	99000	1
 8080 Test Library	The Computer Arts Book of Inspiration Volume II	RBZ0003794	09/01/2011	99000	1
-8080 Test Library	Computer Arts Presents 20 - The Portfolios Handbook	RBZ0007577	07/01/2014	99000	1
+8080 Test Library	Computer Arts Presents 20 -�The Portfolios Handbook	RBZ0007577	07/01/2014	99000	1
 8080 Test Library	Computer Arts Presents iPad - The creative pro's guide	RBZ0002380	01/01/2010	99000	1
 8080 Test Library	Computer Arts Presents: The Design Student Handbook	RBZ0005661	01/01/2013	99000	1
 8080 Test Library	Computer Arts Presents: The Freelance Handbook	RBZ0005662	01/01/2013	99000	1
@@ -765,16 +765,16 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Computer Shopper	RBZ0000234	12/31/2019	495000	11
 8080 Test Library	Computeractive	RBZ0005952	11/19/2019	495000	24
 8080 Test Library	Conceal & Carry	RBZ0008122	10/31/2019	297000	4
-8080 Test Library	Condé Nast House & Garden	RBZ0005948	11/30/2019	495000	11
-8080 Test Library	Condé Nast House & Garden Design Directory	RBZ0008718	10/27/2019	495000	1
+8080 Test Library	Cond� Nast House & Garden	RBZ0005948	11/30/2019	495000	11
+8080 Test Library	Cond� Nast House & Garden Design Directory	RBZ0008718	10/27/2019	495000	1
 8080 Test Library	Conde Nast Traveler	RBZ0005577			0
-8080 Test Library	Condé Nast Traveler España	RBZ0004666	11/30/2019	495000	10
-8080 Test Library	Condé Nast Traveler España (Guía Monográfica)	RBZ0005880	02/01/2018	495000	1
-8080 Test Library	Condé Nast Traveler. GUIA DE VINOS 2016	RBZ0008242	10/01/2016	495000	1
-8080 Test Library	Condé Nast Traveler. GUIA GASTRONOMICA	RBZ0008529	10/14/2019	495000	1
+8080 Test Library	Cond� Nast Traveler Espa�a	RBZ0004666	11/30/2019	495000	10
+8080 Test Library	Cond� Nast Traveler Espa�a (Gu�a Monogr�fica)	RBZ0005880	02/01/2018	495000	1
+8080 Test Library	Cond� Nast Traveler. GUIA DE VINOS 2016	RBZ0008242	10/01/2016	495000	1
+8080 Test Library	Cond� Nast Traveler. GUIA GASTRONOMICA	RBZ0008529	10/14/2019	495000	1
 8080 Test Library	Conde Nast Traveller India	RBZ0002565	09/30/2019	495000	5
 8080 Test Library	Conde Nast Traveller India - Swiss Special Issue	RBZ0006123	04/01/2013	495000	1
-8080 Test Library	Condé Nast Traveller Italia	RBZ0005064	09/30/2019	39600	3
+8080 Test Library	Cond� Nast Traveller Italia	RBZ0005064	09/30/2019	39600	3
 8080 Test Library	Conde Nast Traveller UK	RBZ0000235	11/30/2019	99000	9
 8080 Test Library	connect	RBZ0005775	11/30/2019	495000	11
 8080 Test Library	Conspiracy Theories	RBZ0008310	08/01/2015	198000	1
@@ -790,7 +790,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Cosmo Body	RBZ0006167	04/01/2015	495000	1
 8080 Test Library	Cosmo on Campus	RBZ0006663	10/01/2014	495000	1
 8080 Test Library	Cosmopolitan	RBZ0000242			0
-8080 Test Library	Cosmopolitan - España	RBZ0001148	11/30/2019	495000	11
+8080 Test Library	Cosmopolitan - Espa�a	RBZ0001148	11/30/2019	495000	11
 8080 Test Library	Cosmopolitan Body	RBZ0000243	01/15/2012	495000	1
 8080 Test Library	Cosmopolitan Body 5	RBZ0006920	01/01/2014	495000	1
 8080 Test Library	Cosmopolitan Body Special 2	RBZ0004898	06/01/2012	495000	1
@@ -804,13 +804,13 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Cosmopolitan UK	RBZ0000247	11/30/2019	495000	11
 8080 Test Library	Cosmos Magazine	RBZ0008086	08/31/2019	495000	3
 8080 Test Library	The Cosplay Book	RBZ0008651	04/01/2016	198000	1
-8080 Test Library	Côté Est	RBZ0002156	06/30/2019	495000	1
-8080 Test Library	Côté Ouest	RBZ0002077	09/30/2019	495000	5
-8080 Test Library	Côté Paris	RBZ0002142	09/30/2019	495000	5
-8080 Test Library	Côté Sud	RBZ0002076	09/30/2019	495000	5
-8080 Test Library	Côté Sud / Est / Ouest / Paris	RBZ0002395	10/01/2013	495000	1
-8080 Test Library	Coté Sud hors-série	RBZ0002394	05/01/2013	494999	1
-8080 Test Library	Côté Terrasses et Jardins	RBZ0002396	06/01/2011	494999	1
+8080 Test Library	C�t� Est	RBZ0002156	06/30/2019	495000	1
+8080 Test Library	C�t� Ouest	RBZ0002077	09/30/2019	495000	5
+8080 Test Library	C�t� Paris	RBZ0002142	09/30/2019	495000	5
+8080 Test Library	C�t� Sud	RBZ0002076	09/30/2019	495000	5
+8080 Test Library	C�t� Sud / Est / Ouest / Paris	RBZ0002395	10/01/2013	495000	1
+8080 Test Library	Cot� Sud hors-s�rie	RBZ0002394	05/01/2013	494999	1
+8080 Test Library	C�t� Terrasses et Jardins	RBZ0002396	06/01/2011	494999	1
 8080 Test Library	The Cottage Journal	RBZ0007829	11/18/2019	495000	14
 8080 Test Library	Cottage Life	RBZ0010194	10/29/2019	99000	6
 8080 Test Library	Cottages and Bungalows	RBZ0008119	11/30/2019	297000	5
@@ -826,7 +826,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Country Style	RBZ0004004	11/30/2019	495000	12
 8080 Test Library	Country Walking	RBZ0007874	11/30/2019	99000	12
 8080 Test Library	Country Woman	RBZ0008587	11/30/2019	495000	6
-8080 Test Library	CountryRoad 鄉間小路	RBZ0009952	11/11/2019	495000	10
+8080 Test Library	CountryRoad ????	RBZ0009952	11/11/2019	495000	10
 8080 Test Library	Coup de Pouce	RBZ0000259			0
 8080 Test Library	Cowboys & Indians	RBZ0000261	10/31/2019	495000	7
 8080 Test Library	CQ Amateur Radio	RBZ0000262	10/31/2019	495000	11
@@ -858,12 +858,12 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Cross Stitch Crazy	RBZ0006035	12/31/2019	495000	12
 8080 Test Library	Cross Stitch Favourites	RBZ0008454	08/19/2019	495000	2
 8080 Test Library	Cross Stitch Gold	RBZ0006036	10/31/2019	495000	8
-8080 Test Library	Crossing Quarterly 換日線季刊	RBZ0010033	11/19/2019	495000	4
+8080 Test Library	Crossing Quarterly ?????	RBZ0010033	11/19/2019	495000	4
 8080 Test Library	CrossStitcher	RBZ0000266			0
 8080 Test Library	Cruise International	RBZ0000267	11/30/2019	495000	6
 8080 Test Library	Cruising Helmsman	RBZ0008273	11/30/2019	495000	11
 8080 Test Library	Cruising World	RBZ0000268	10/31/2019	495000	8
-8080 Test Library	CTimes 零組件雜誌	RBZ0004245	11/05/2019	495000	11
+8080 Test Library	CTimes ?????	RBZ0004245	11/05/2019	495000	11
 8080 Test Library	Cuerpomente	RBZ0006312	11/30/2019	495000	11
 8080 Test Library	Cuisine A&D	RBZ0007336	06/30/2019	495000	4
 8080 Test Library	Cuisine at home	RBZ0010016	10/31/2019	495000	5
@@ -886,7 +886,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Da Man	RBZ0002958	10/21/2019	495000	8
 8080 Test Library	Damaged	RBZ0010221	08/01/2019	99000	4
 8080 Test Library	Dance Australia	RBZ0008607	11/30/2019	495000	6
-8080 Test Library	dancyu ダンチュウ	RBZ0009978	11/09/2019	495000	11
+8080 Test Library	dancyu ?????	RBZ0009978	11/09/2019	495000	11
 8080 Test Library	David Bowie	RBZ0006076	04/01/2013	495000	1
 8080 Test Library	De Viajes	RBZ0001139	11/30/2019	495000	10
 8080 Test Library	Deals On Wheels Australia	RBZ0008140	11/30/2019	495000	12
@@ -898,7 +898,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Decanter World Wine Awards 2015	RBZ0008088	07/01/2015	495000	1
 8080 Test Library	Decanter-New Zealand 2011	RBZ0002961	01/01/2011	495000	1
 8080 Test Library	Decks, Pergolas & Patios	RBZ0005334	06/13/2017	495000	1
-8080 Test Library	Décor Ideas	RBZ0008926	09/01/2016	495000	1
+8080 Test Library	D�cor Ideas	RBZ0008926	09/01/2016	495000	1
 8080 Test Library	Deer & Deer Hunting	RBZ0005888	11/30/2019	99000	10
 8080 Test Library	The Definitive Guide to Android	RBZ0007562	01/01/2016	495000	1
 8080 Test Library	The Definitive Guide to Free Software	RBZ0008053	06/01/2015	495000	1
@@ -909,7 +909,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Delicious UK	RBZ0008266	10/31/2019	99000	10
 8080 Test Library	Depeche Mode - The Ultimate Music Guide	RBZ0006425	08/01/2013	495000	1
 8080 Test Library	DER FEINSCHMECKER	RBZ0009073	11/30/2019	495000	11
-8080 Test Library	Dernière Heure	RBZ0000283			0
+8080 Test Library	Derni�re Heure	RBZ0000283			0
 8080 Test Library	Design Anthology	RBZ0008471	09/30/2019	495000	3
 8080 Test Library	Design Hunter Mexico	RBZ0010040	10/31/2019	495000	9
 8080 Test Library	Designer Collection Faye Whittaker	RBZ0008323	09/01/2014	495000	1
@@ -922,7 +922,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Diabetic Living Australia	RBZ0000289	10/31/2019	495000	5
 8080 Test Library	Diana - Her Legacy of Love	RBZ0009845	07/01/2017	495000	1
 8080 Test Library	Diapason	RBZ0004718	11/30/2019	495000	11
-8080 Test Library	Diapason Hors-Série	RBZ0005488	11/01/2018	495000	1
+8080 Test Library	Diapason Hors-S�rie	RBZ0005488	11/01/2018	495000	1
 8080 Test Library	Die GROOT 4x4 Gids	RBZ0008812	07/01/2016	495000	1
 8080 Test Library	Die Tuinier Tydskrif	RBZ0006327	11/30/2019	495000	11
 8080 Test Library	Diesel Power	RBZ0001361	12/31/2019	495000	11
@@ -957,12 +957,12 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	dogs	RBZ0009112	10/31/2019	495000	6
 8080 Test Library	Dolls Bears & Collectables	RBZ0007651	12/01/2017	495000	1
 8080 Test Library	Domus	RBZ0004366	09/30/2019	495000	9
-8080 Test Library	Dónde Ir	RBZ0010137	10/31/2019	495000	11
+8080 Test Library	D�nde Ir	RBZ0010137	10/31/2019	495000	11
 8080 Test Library	Doodle Emporium: A Stress Relieving Adult Coloring Book	RBZ0008796	07/01/2016	495000	1
 8080 Test Library	Dr Good ! C'est bon !	RBZ0010143	09/30/2019	495000	3
 8080 Test Library	Drawing with Brett A Jones	RBZ0008453	09/01/2015	495000	1
 8080 Test Library	Dream Christmas	RBZ0006549	09/01/2013	495000	1
-8080 Test Library	Dream Life 夢想誌	RBZ0010180	10/08/2019	495000	4
+8080 Test Library	Dream Life ???	RBZ0010180	10/08/2019	495000	4
 8080 Test Library	Dreams	RBZ0009656	09/30/2019	495000	3
 8080 Test Library	Dreamscapes Travel & Lifestyle Magazine	RBZ0000316	10/17/2019	495000	5
 8080 Test Library	Drive Out	RBZ0000939	11/30/2019	495000	11
@@ -970,7 +970,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Drive Out 4x4 trail guide	RBZ0003554	09/01/2012	495000	1
 8080 Test Library	The Drones Book	RBZ0008180	12/01/2016	198000	1
 8080 Test Library	Drones The Complete Manual	RBZ0008725	11/01/2016	198000	1
-8080 Test Library	Drum - Nelson Mandela – Man of History	RBZ0005648	12/01/2013	495000	1
+8080 Test Library	Drum - Nelson Mandela � Man of History	RBZ0005648	12/01/2013	495000	1
 8080 Test Library	DRUM 60th	RBZ0004097	12/01/2011	495000	1
 8080 Test Library	DRUM Best Diets	RBZ0009151	01/01/2017	495000	1
 8080 Test Library	Drum Best Recipes	RBZ0005297	11/01/2013	495000	1
@@ -978,7 +978,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	DRUM Hair	RBZ0005144	08/20/2019	495000	1
 8080 Test Library	DRUM Supermom	RBZ0009274	03/01/2017	495000	1
 8080 Test Library	Drum Weddings	RBZ0005213	07/01/2016	495000	1
-8080 Test Library	DRUM: Hope’s Food	RBZ0009087	11/01/2016	495000	1
+8080 Test Library	DRUM: Hope�s Food	RBZ0009087	11/01/2016	495000	1
 8080 Test Library	DUCATI Magazine	RBZ0005497	09/26/2019	495000	3
 8080 Test Library	Dumbo Feather	RBZ0004340	09/30/2019	495000	4
 8080 Test Library	duPont REGISTRY	RBZ0002332	11/30/2019	99000	12
@@ -998,22 +998,22 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Eating Smart Christmas. Gluten Free	RBZ0008353	10/01/2014	495000	1
 8080 Test Library	Eating Smart Christmas. Vegetarian	RBZ0008354	10/01/2014	495000	1
 8080 Test Library	eBay The Complete Manual	RBZ0008179	07/01/2015	198000	1
-8080 Test Library	Échos Vedettes	RBZ0005172			0
+8080 Test Library	�chos Vedettes	RBZ0005172			0
 8080 Test Library	The Eco Living Book	RBZ0007661	08/01/2014	198000	1
 8080 Test Library	Edge	RBZ0002740	10/30/2019	99000	12
 8080 Test Library	Edge Special Edition: The 100 Greatest Videogames (2016 edition)	RBZ0008980	10/01/2016	494999	1
 8080 Test Library	Edge Special Edition: The Art Of The Pixel	RBZ0008874	08/01/2016	495000	1
-8080 Test Library	Edge Special Edition: The Making Of…	RBZ0008814	07/01/2016	495000	1
+8080 Test Library	Edge Special Edition: The Making Of�	RBZ0008814	07/01/2016	495000	1
 8080 Test Library	Einstein's Universe	RBZ0006126	10/16/2018	99000	1
 8080 Test Library	El Croquis	RBZ0001402	09/29/2019	495000	5
 8080 Test Library	El Jueves	RBZ0004386	11/26/2019	495000	48
 8080 Test Library	El Mueble	RBZ0004384	11/30/2019	495000	11
 8080 Test Library	Electronic Musician	RBZ0000335	12/31/2019	495000	11
-8080 Test Library	Elegant BEAUTY 大美人	RBZ0003866	11/06/2019	495000	11
+8080 Test Library	Elegant BEAUTY ???	RBZ0003866	11/06/2019	495000	11
 8080 Test Library	elGourmet.com - Mexico	RBZ0000921	10/31/2019	495000	11
 8080 Test Library	Elizabeth The Queen: Diamond Jubilee Souvenir	RBZ0000922	03/23/2012	495000	1
 8080 Test Library	Elle	RBZ0000337			0
-8080 Test Library	ELLE à Table	RBZ0006177	10/31/2019	495000	6
+8080 Test Library	ELLE � Table	RBZ0006177	10/31/2019	495000	6
 8080 Test Library	ELLE ACCESSORIES Taiwan	RBZ0008557	10/15/2019	495000	2
 8080 Test Library	ELLE Australia	RBZ0007665	11/30/2019	495000	9
 8080 Test Library	Elle Canada	RBZ0000338			0
@@ -1023,19 +1023,19 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Elle Decoration	RBZ0001886	11/30/2019	495000	10
 8080 Test Library	Elle Decoration Country	RBZ0006166	10/31/2019	495000	2
 8080 Test Library	ELLE Decoration Espana	RBZ0007968	11/30/2019	495000	10
-8080 Test Library	ELLE Décoration France	RBZ0006178	11/30/2019	495000	9
-8080 Test Library	Elle Décoration Hors Série	RBZ0009658	01/01/2018	495000	1
+8080 Test Library	ELLE D�coration France	RBZ0006178	11/30/2019	495000	9
+8080 Test Library	Elle D�coration Hors S�rie	RBZ0009658	01/01/2018	495000	1
 8080 Test Library	Elle Decoration UK	RBZ0006993	11/30/2019	495000	11
 8080 Test Library	Elle Decoration UK Autumn/Winter 2012 Pattern Book	RBZ0005917	03/01/2013	495000	1
-8080 Test Library	Elle España	RBZ0001150	11/30/2019	495000	11
+8080 Test Library	Elle Espa�a	RBZ0001150	11/30/2019	495000	11
 8080 Test Library	ELLE France	RBZ0006176			0
 8080 Test Library	ELLE GOURMET	RBZ0007969	10/31/2019	495000	4
 8080 Test Library	Elle Italia	RBZ0005979	11/29/2019	39600	44
-8080 Test Library	ELLE México	RBZ0000340	10/31/2019	495000	11
-8080 Test Library	ELLE QUÉBEC	RBZ0000341	11/30/2019	495000	9
+8080 Test Library	ELLE M�xico	RBZ0000340	10/31/2019	495000	11
+8080 Test Library	ELLE QU�BEC	RBZ0000341	11/30/2019	495000	9
 8080 Test Library	Elle Russia	RBZ0001888	11/30/2019	495000	11
 8080 Test Library	Elle UK	RBZ0006990	11/30/2019	495000	11
-8080 Test Library	ELLE 她雜誌	RBZ0003404	11/19/2019	495000	11
+8080 Test Library	ELLE ???	RBZ0003404	11/19/2019	495000	11
 8080 Test Library	Eltern	RBZ0009065	11/30/2019	495000	11
 8080 Test Library	Eltern Family	RBZ0009127	11/30/2019	495000	11
 8080 Test Library	Elvis Costello - The Ultimate Music Guide	RBZ0007617	09/01/2014	495000	1
@@ -1049,10 +1049,10 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	England vs San Marino Matchday Programme	RBZ0005389	10/01/2012	198000	1
 8080 Test Library	The English Garden	RBZ0007918	11/30/2019	495000	13
 8080 Test Library	The English Home	RBZ0007917	11/30/2019	495000	11
-8080 Test Library	English Island 英語島	RBZ0007616	10/31/2019	495000	10
+8080 Test Library	English Island ???	RBZ0007616	10/31/2019	495000	10
 8080 Test Library	Entertaining Dish	RBZ0007629	10/01/2014	495000	1
 8080 Test Library	Entertainment Ideas	RBZ0003452	01/01/2011	495000	1
-8080 Test Library	Entrepreneur en Español	RBZ0004936	09/30/2019	495000	8
+8080 Test Library	Entrepreneur en Espa�ol	RBZ0004936	09/30/2019	495000	8
 8080 Test Library	Entrepreneur Especial	RBZ0004943	12/01/2015	495000	1
 8080 Test Library	Entrepreneur Magazine	RBZ0007827			0
 8080 Test Library	Enzo	RBZ0010083	10/16/2019	495000	4
@@ -1062,15 +1062,15 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Especial Jenni Rivera la diva de la banda	RBZ0005655	01/01/2013	495000	1
 8080 Test Library	Esprit Bonsai	RBZ0002427	11/30/2019	495000	6
 8080 Test Library	Esquire	RBZ0000347			0
-8080 Test Library	Esquire - España	RBZ0001640	11/30/2019	495000	11
+8080 Test Library	Esquire - Espa�a	RBZ0001640	11/30/2019	495000	11
 8080 Test Library	Esquire - Mexico	RBZ0000348	10/31/2019	495000	9
 8080 Test Library	Esquire Summer Style Guide 2013	RBZ0006206	06/01/2013	495000	1
-8080 Test Library	Esquire Taiwan 君子時代雜誌	RBZ0005080	11/12/2019	494999	11
+8080 Test Library	Esquire Taiwan ??????	RBZ0005080	11/12/2019	494999	11
 8080 Test Library	Esquire UK	RBZ0000349	10/31/2019	495000	5
 8080 Test Library	Esquire: The Big Black Book	RBZ0005937	03/01/2016	495000	1
 8080 Test Library	Esquire: The Big Watch Book	RBZ0000350	09/30/2018	495000	1
 8080 Test Library	essen&trinken	RBZ0009066	11/30/2019	495000	11
-8080 Test Library	essen&trinken für jeden Tag	RBZ0009067	11/30/2019	495000	11
+8080 Test Library	essen&trinken f�r jeden Tag	RBZ0009067	11/30/2019	495000	11
 8080 Test Library	The Essential Apps Guide	RBZ0006080	04/01/2013	495000	1
 8080 Test Library	The Essential Guide to Advanced Photography	RBZ0007687	10/01/2014	495000	1
 8080 Test Library	The Essential Guide to Close up Photography	RBZ0008490	04/01/2015	495000	1
@@ -1090,8 +1090,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Essential Maintenance Guide	RBZ0004599	06/01/2012	495000	1
 8080 Test Library	Essentials South Africa	RBZ0000923	11/30/2019	495000	11
 8080 Test Library	The European Business Review	RBZ0004527	08/31/2019	495000	5
-8080 Test Library	EVEN　イーブン	RBZ0006494	11/06/2019	495000	11
-8080 Test Library	Evergreen 常春	RBZ0001456	11/01/2019	495000	10
+8080 Test Library	EVEN?????	RBZ0006494	11/06/2019	495000	11
+8080 Test Library	Evergreen ??	RBZ0001456	11/01/2019	495000	10
 8080 Test Library	Everyday Dish	RBZ0004147	10/01/2015	495000	1
 8080 Test Library	Everyday Style	RBZ0006967	03/01/2014	495000	1
 8080 Test Library	Evo	RBZ0000356	12/31/2019	495000	11
@@ -1099,13 +1099,13 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	evo Photo	RBZ0003139	04/01/2011	495000	1
 8080 Test Library	Evo Supercars Directory	RBZ0004516	03/20/2012	495000	1
 8080 Test Library	Excel For Beginners	RBZ0005544	11/01/2013	198000	1
-8080 Test Library	Expansión	RBZ0000357	10/31/2019	495000	14
+8080 Test Library	Expansi�n	RBZ0000357	10/31/2019	495000	14
 8080 Test Library	Expert Android Volume 1	RBZ0006325	06/01/2014	198000	1
 8080 Test Library	Expert iPad Volume 1	RBZ0006893	12/01/2013	198000	1
-8080 Test Library	Extra Top Gear España	RBZ0009810	07/01/2017	495000	1
+8080 Test Library	Extra Top Gear Espa�a	RBZ0009810	07/01/2017	495000	1
 8080 Test Library	Eye Health	RBZ0004733	05/01/2012	495000	1
 8080 Test Library	EYEREPUBLIC	RBZ0009583	09/14/2019	495000	3
-8080 Test Library	EyesCream 一張圖搞懂	RBZ0010025	10/31/2019	495000	10
+8080 Test Library	EyesCream ?????	RBZ0010025	10/31/2019	495000	10
 8080 Test Library	F-111	RBZ0006423	09/01/2013	495000	1
 8080 Test Library	F1 Racing UK	RBZ0000359	11/30/2019	198000	11
 8080 Test Library	The FA Cup Final 2011 Official Programme	RBZ0003303	05/01/2011	198000	1
@@ -1143,7 +1143,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Ferrari Supercars	RBZ0006896	12/01/2016	495000	1
 8080 Test Library	Ferrari Supercars The Third Edition	RBZ0000370	11/01/2011	495000	1
 8080 Test Library	Ferrovissime	RBZ0002425	10/31/2019	495000	5
-8080 Test Library	Fête	RBZ0008501	10/15/2019	495000	5
+8080 Test Library	F�te	RBZ0008501	10/15/2019	495000	5
 8080 Test Library	FHM Australia	RBZ0010160	10/31/2019	495000	10
 8080 Test Library	The Field	RBZ0001040	11/30/2019	495000	11
 8080 Test Library	Field & Stream	RBZ0000372			0
@@ -1166,7 +1166,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Flea Market Decor	RBZ0008121	11/30/2019	297000	6
 8080 Test Library	Fleurieu Living Magazine	RBZ0008977	08/29/2019	495000	3
 8080 Test Library	flick!	RBZ0002543	11/19/2019	495000	11
-8080 Test Library	flick!特別編集	RBZ0007012	09/08/2019	Unlimited	4
+8080 Test Library	flick!????	RBZ0007012	09/08/2019	Unlimited	4
 8080 Test Library	Florida Design	RBZ0000380	09/17/2019	495000	3
 8080 Test Library	Florida Sport Fishing	RBZ0001727	10/31/2019	99000	6
 8080 Test Library	Florida Sportsman	RBZ0009287	11/30/2019	99000	11
@@ -1176,7 +1176,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Flying	RBZ0000381			0
 8080 Test Library	Focus	RBZ0002495	11/30/2019	495000	13
 8080 Test Library	Focus - Italia	RBZ0001729	11/30/2019	39600	11
-8080 Test Library	Focus 360°	RBZ0003045	02/17/2011	39600	1
+8080 Test Library	Focus 360�	RBZ0003045	02/17/2011	39600	1
 8080 Test Library	Focus D&R	RBZ0008434	09/30/2019	495000	4
 8080 Test Library	Focus Extra	RBZ0004170	07/31/2019	39600	3
 8080 Test Library	Focus Guida Alimentazione	RBZ0007907	04/01/2015	39600	1
@@ -1197,10 +1197,10 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Food To Love	RBZ0009312	11/30/2019	495000	11
 8080 Test Library	FOODIE	RBZ0009079	11/30/2019	495000	4
 8080 Test Library	Football	RBZ0006426	07/01/2014	495000	1
-8080 Test Library	Forbes - España	RBZ0006010	10/31/2019	495000	9
+8080 Test Library	Forbes - Espa�a	RBZ0006010	10/31/2019	495000	9
 8080 Test Library	Forbes Africa	RBZ0005907	10/31/2019	495000	10
 8080 Test Library	Forbes Africa Nelson Mandela Tribute Issue	RBZ0006779	12/01/2013	495000	1
-8080 Test Library	Forbes México	RBZ0006275	10/31/2019	495000	11
+8080 Test Library	Forbes M�xico	RBZ0006275	10/31/2019	495000	11
 8080 Test Library	Forbes Russia	RBZ0002823	11/30/2019	495000	11
 8080 Test Library	Forbes Woman	RBZ0003030	11/30/2019	495000	6
 8080 Test Library	Form	RBZ0008808	06/01/2016	495000	1
@@ -1212,7 +1212,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Fortean Times: It Happened To Me Vol. 1	RBZ0002060	01/01/2010	495000	1
 8080 Test Library	Fortean Times: It Happened To Me Vol.3	RBZ0002578	10/01/2010	495000	1
 8080 Test Library	ForteanTimes: It Happened to Me vol.2	RBZ0003161	04/01/2011	495000	1
-8080 Test Library	Fortune México	RBZ0010035	10/31/2019	495000	11
+8080 Test Library	Fortune M�xico	RBZ0010035	10/31/2019	495000	11
 8080 Test Library	Fotogramas	RBZ0003837	11/30/2019	495000	11
 8080 Test Library	Four Wheeler	RBZ0000388	12/31/2019	495000	11
 8080 Test Library	FourFourTwo A-League Grand Final Programme	RBZ0006072	05/01/2015	495000	1
@@ -1221,7 +1221,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Foxtel Magazine	RBZ0009841	11/30/2019	495000	11
 8080 Test Library	Frame	RBZ0002912	10/31/2019	495000	5
 8080 Test Library	France Dimanche	RBZ0009665	11/21/2019	495000	48
-8080 Test Library	France Dimanche Hors-Série	RBZ0008771	02/28/2019	495000	1
+8080 Test Library	France Dimanche Hors-S�rie	RBZ0008771	02/28/2019	495000	1
 8080 Test Library	frankie Magazine	RBZ0001631	10/31/2019	495000	5
 8080 Test Library	Fred Dibnah's World of Steam	RBZ0002226	07/27/2010	495000	1
 8080 Test Library	Futbol Total	RBZ0010138	10/31/2019	495000	11
@@ -1234,8 +1234,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	GamesMaster Presents Sonic	RBZ0003626	07/01/2011	98999	1
 8080 Test Library	GamesMaster Presents: Mario 25th Anniversary	RBZ0003628	07/01/2011	99000	1
 8080 Test Library	GamesMaster Presents: Nintendo 3DS	RBZ0003629	07/01/2011	99000	1
-8080 Test Library	Ganoderma 健康靈芝	RBZ0001726	10/03/2019	495000	4
-8080 Test Library	GarageBand – The Ultimate Guide	RBZ0003746	08/01/2011	99000	1
+8080 Test Library	Ganoderma ????	RBZ0001726	10/03/2019	495000	4
+8080 Test Library	GarageBand � The Ultimate Guide	RBZ0003746	08/01/2011	99000	1
 8080 Test Library	Garden & Gun	RBZ0010228	11/30/2019	Unlimited	6
 8080 Test Library	Garden Gate	RBZ0010014	10/31/2019	495000	5
 8080 Test Library	Garden Railways	RBZ0000403	10/31/2019	495000	4
@@ -1247,7 +1247,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Gas Engine Magazine	RBZ0001879	11/30/2019	99000	6
 8080 Test Library	Gavroche	RBZ0009668	12/31/2018	495000	1
 8080 Test Library	Gente	RBZ0005984	11/27/2019	39600	46
-8080 Test Library	Gentleman España	RBZ0007641	10/31/2019	495000	10
+8080 Test Library	Gentleman Espa�a	RBZ0007641	10/31/2019	495000	10
 8080 Test Library	Gentlemen Drive	RBZ0001994	09/23/2019	495000	2
 8080 Test Library	GEO	RBZ0009115	11/30/2019	495000	11
 8080 Test Library	GEO EPOCHE	RBZ0009116	09/30/2019	495000	5
@@ -1277,8 +1277,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Giardini	RBZ0001495	02/28/2019	495000	3
 8080 Test Library	Girlfriend Australia	RBZ0000409	09/30/2019	495000	3
 8080 Test Library	Girls' World	RBZ0008601	12/31/2019	99000	7
-8080 Test Library	Giro d’Italia Official 2011 Guide	RBZ0003415	05/01/2011	99000	1
-8080 Test Library	Glamour España	RBZ0004658	11/30/2019	495000	11
+8080 Test Library	Giro d�Italia Official 2011 Guide	RBZ0003415	05/01/2011	99000	1
+8080 Test Library	Glamour Espa�a	RBZ0004658	11/30/2019	495000	11
 8080 Test Library	Glamour France	RBZ0001703	09/30/2019	495000	5
 8080 Test Library	Glamour Magazin (D)	RBZ0004532	11/30/2019	19800	11
 8080 Test Library	Glamour Russia	RBZ0002264	11/30/2019	495000	11
@@ -1293,9 +1293,9 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Gli speciali di Focus Storia: Medioevo	RBZ0004169	12/01/2011	39600	1
 8080 Test Library	Gli speciali di Focus Storia: Rinascimento	RBZ0005474	11/01/2012	39600	1
 8080 Test Library	Gli speciali di Focus Storia: Risorgimento	RBZ0006704	10/01/2013	39600	1
-8080 Test Library	Global Family Monthly 未來 Family	RBZ0009951	11/04/2019	495000	5
-8080 Test Library	Global Tourism Vision 旅@天下	RBZ0006293	11/15/2019	495000	10
-8080 Test Library	Global Views Monthly 遠見雜誌	RBZ0005191	10/31/2019	495000	10
+8080 Test Library	Global Family Monthly ?? Family	RBZ0009951	11/04/2019	495000	5
+8080 Test Library	Global Tourism Vision ?@??	RBZ0006293	11/15/2019	495000	10
+8080 Test Library	Global Views Monthly ????	RBZ0005191	10/31/2019	495000	10
 8080 Test Library	Globe	RBZ0005758			0
 8080 Test Library	Gluten-Free Living	RBZ0000412			0
 8080 Test Library	Go Classic	RBZ0008067	06/01/2015	495000	1
@@ -1311,12 +1311,12 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	go! Platteland	RBZ0006487	11/07/2019	495000	4
 8080 Test Library	go! Real Food	RBZ0006488	09/01/2014	495000	1
 8080 Test Library	Go! Take Better Photos	RBZ0008295	11/01/2015	495000	1
-8080 Test Library	GoGo XinTaiwan 走走系列	RBZ0010026	11/25/2019	495000	6
-8080 Test Library	Golden Bridge Monthly 台商月刊	RBZ0005332	11/07/2019	495000	11
+8080 Test Library	GoGo XinTaiwan ????	RBZ0010026	11/25/2019	495000	6
+8080 Test Library	Golden Bridge Monthly ????	RBZ0005332	11/07/2019	495000	11
 8080 Test Library	Goldmine	RBZ0010202	12/31/2019	99000	11
 8080 Test Library	Golf Australia	RBZ0000415	11/30/2019	495000	11
 8080 Test Library	Golf Digest	RBZ0005635			0
-8080 Test Library	Golf Digest 高爾夫文摘	RBZ0003543	11/05/2019	495000	10
+8080 Test Library	Golf Digest ?????	RBZ0003543	11/05/2019	495000	10
 8080 Test Library	Golf Magazine	RBZ0007438	11/30/2019	99000	11
 8080 Test Library	Golf Monthly	RBZ0000416	11/30/2019	495000	12
 8080 Test Library	Golf Tips	RBZ0000417	10/31/2019	495000	5
@@ -1340,7 +1340,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The Good Life Best Of Photos	RBZ0007669	10/01/2015	495000	1
 8080 Test Library	The Good Life HS Speciale Rio	RBZ0008824	12/01/2017	495000	1
 8080 Test Library	Good Organic Gardening	RBZ0000929	10/02/2019	495000	5
-8080 Test Library	GoodHomes : The Décor Alphabet	RBZ0005738	01/01/2013	99000	1
+8080 Test Library	GoodHomes : The D�cor Alphabet	RBZ0005738	01/01/2013	99000	1
 8080 Test Library	GoodHomes India	RBZ0003710	10/31/2019	99000	11
 8080 Test Library	GoodHomes India- Lighting Special	RBZ0005379	10/01/2012	99000	1
 8080 Test Library	Google Technology Tips Guide	RBZ0007955	05/01/2015	99000	1
@@ -1354,7 +1354,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	GP Racing	RBZ0005130	09/30/2019	495000	4
 8080 Test Library	GQ	RBZ0005575			0
 8080 Test Library	GQ Australia	RBZ0000427	08/31/2019	495000	5
-8080 Test Library	GQ España	RBZ0004663	11/30/2019	495000	10
+8080 Test Library	GQ Espa�a	RBZ0004663	11/30/2019	495000	10
 8080 Test Library	GQ France	RBZ0001704	10/31/2019	495000	9
 8080 Test Library	GQ India	RBZ0002617	10/31/2019	495000	11
 8080 Test Library	GQ India - The Watch Manual 2014	RBZ0008412	10/01/2014	495000	1
@@ -1370,18 +1370,18 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	GQ South Africa	RBZ0005947	10/31/2019	495000	9
 8080 Test Library	GQ Style	RBZ0008772	09/04/2019	99000	2
 8080 Test Library	GQ Style Germany	RBZ0005211	12/31/2018	19800	2
-8080 Test Library	GQ Style México	RBZ0010154	08/25/2019	495000	2
+8080 Test Library	GQ Style M�xico	RBZ0010154	08/25/2019	495000	2
 8080 Test Library	GQ Style Russia	RBZ0002265	08/31/2019	495000	2
 8080 Test Library	GQ Style South Africa	RBZ0006313	09/30/2019	495000	1
-8080 Test Library	GQ 智族	RBZ0005124	11/17/2019	495000	11
-8080 Test Library	GQ 瀟灑國際中文版	RBZ0004435	11/07/2019	495000	11
+8080 Test Library	GQ ??	RBZ0005124	11/17/2019	495000	11
+8080 Test Library	GQ ???????	RBZ0004435	11/07/2019	495000	11
 8080 Test Library	Gramophone Magazine	RBZ0000431	10/31/2019	495000	11
 8080 Test Library	Grand Designs Australia	RBZ0004746	09/30/2019	495000	6
 8080 Test Library	Grandes Espacios	RBZ0001218	09/30/2019	495000	9
 8080 Test Library	Granny Square Collection	RBZ0008829	07/01/2016	495000	1
 8080 Test Library	Grazia	RBZ0007879	12/01/2019	99000	48
 8080 Test Library	Grazia France	RBZ0004642	11/21/2019	495000	43
-8080 Test Library	Grazia Hors-Série Homme	RBZ0009038	09/01/2017	495000	1
+8080 Test Library	Grazia Hors-S�rie Homme	RBZ0009038	09/01/2017	495000	1
 8080 Test Library	Great Adventures	RBZ0008995	10/01/2016	495000	1
 8080 Test Library	Great Australian Quilts	RBZ0004168	09/30/2019	495000	1
 8080 Test Library	Great British Greenlanes	RBZ0008895	07/01/2016	99000	1
@@ -1403,8 +1403,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Grow to Eat	RBZ0008566	08/25/2019	495000	2
 8080 Test Library	Growing Vegetables is Fun	RBZ0001858	09/01/2009	495000	1
 8080 Test Library	Guerres & Histoires	RBZ0004724	09/30/2019	495000	5
-8080 Test Library	Guerres & Histoires Hors Série	RBZ0008846	11/05/2019	495000	2
-8080 Test Library	Guía Pueblos Mágicos	RBZ0005257	09/01/2012	495000	1
+8080 Test Library	Guerres & Histoires Hors S�rie	RBZ0008846	11/05/2019	495000	2
+8080 Test Library	Gu�a Pueblos M�gicos	RBZ0005257	09/01/2012	495000	1
 8080 Test Library	Guida Alle Aree di Sosta Italia	RBZ0003074	08/31/2019	495000	1
 8080 Test Library	Guide to Classic Land Rovers	RBZ0008900	07/01/2016	99000	1
 8080 Test Library	Guide to Commuting	RBZ0003014	05/04/2011	99000	1
@@ -1454,12 +1454,12 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Harper's BAZAAR Taiwan	RBZ0008556	11/19/2019	495000	11
 8080 Test Library	Harper's Bazaar UK	RBZ0000449	11/30/2019	495000	11
 8080 Test Library	Harper's Magazine	RBZ0000450			0
-8080 Test Library	Harper’s Bazaar España	RBZ0002608	11/30/2019	495000	11
-8080 Test Library	Harper’s Bazaar India-Iconic! Ideas & Inspirations Behind The World’s Biggest Brand	RBZ0009851	06/01/2017	495000	1
+8080 Test Library	Harper�s Bazaar Espa�a	RBZ0002608	11/30/2019	495000	11
+8080 Test Library	Harper�s Bazaar India-Iconic! Ideas & Inspirations Behind The World�s Biggest Brand	RBZ0009851	06/01/2017	495000	1
 8080 Test Library	Harrowsmith	RBZ0010001	10/31/2019	Unlimited	4
 8080 Test Library	Harvard Business Review Brasil	RBZ0007443	10/31/2019	495000	11
-8080 Test Library	Harvest 豐年雜誌	RBZ0009953	11/25/2019	495000	11
-8080 Test Library	Häuser	RBZ0009058	11/30/2019	495000	6
+8080 Test Library	Harvest ????	RBZ0009953	11/25/2019	495000	11
+8080 Test Library	H�user	RBZ0009058	11/30/2019	495000	6
 8080 Test Library	Hawaii Fishing News	RBZ0010215	10/31/2019	99000	10
 8080 Test Library	Health & Fitness	RBZ0000453			0
 8080 Test Library	Health & Fitness 10 Minute Yoga	RBZ0008359	10/01/2014	495000	1
@@ -1472,7 +1472,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Health & Fitness Tone up in 10 Minutes	RBZ0000455	03/01/2011	495000	1
 8080 Test Library	Health & Fitness Walk Slim	RBZ0004774	05/10/2012	495000	1
 8080 Test Library	Health & Fitness Women's Guide to Running	RBZ0000456	07/01/2014	495000	1
-8080 Test Library	Health&Fitness- La guía completa de los ABS	RBZ0005677	01/01/2013	495000	1
+8080 Test Library	Health&Fitness- La gu�a completa de los ABS	RBZ0005677	01/01/2013	495000	1
 8080 Test Library	Healthy Food Guide	RBZ0005551	11/30/2019	495000	11
 8080 Test Library	Healthy Food Guide UK	RBZ0008265	10/31/2019	99000	10
 8080 Test Library	Healthy Recipes from Around the World	RBZ0004465	09/01/2014	495000	1
@@ -1506,7 +1506,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	High Five Bilingue	RBZ0007849	12/31/2019	99000	12
 8080 Test Library	High Times	RBZ0001370	12/01/2019	99000	11
 8080 Test Library	Highlights for Children	RBZ0007847			0
-8080 Test Library	HIIT a Beginner’s Guide	RBZ0008157	08/01/2015	495000	1
+8080 Test Library	HIIT a Beginner�s Guide	RBZ0008157	08/01/2015	495000	1
 8080 Test Library	Himalayas Magazine	RBZ0004344	06/02/2019	495000	1
 8080 Test Library	hinge	RBZ0005186	10/23/2019	495000	9
 8080 Test Library	Historia de Iberia Vieja	RBZ0004496	11/30/2019	495000	11
@@ -1534,7 +1534,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Hola! Las mejores casas de Hola y sus protagonistas	RBZ0008175	05/01/2017	495000	1
 8080 Test Library	HOLA! MADE IN USA	RBZ0008872	11/30/2019	495000	7
 8080 Test Library	Hola! Mexico	RBZ0000465			0
-8080 Test Library	Hola! USA En Español	RBZ0008871	11/30/2019	495000	7
+8080 Test Library	Hola! USA En Espa�ol	RBZ0008871	11/30/2019	495000	7
 8080 Test Library	Holiday: 301 Recipes & Decorating Ideas	RBZ0000469	09/01/2011	99000	1
 8080 Test Library	Holidays for Couples	RBZ0000470	03/05/2019	495000	1
 8080 Test Library	Hollywood Histories Revealed	RBZ0009316			0
@@ -1601,8 +1601,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	House Beautiful Christmas Ideas	RBZ0000123	10/01/2013	495000	1
 8080 Test Library	House Beautiful UK	RBZ0000484	11/30/2019	495000	11
 8080 Test Library	House Beautiful Ultimate Guide to Kitchens sponsored by Kohler	RBZ0000485	07/03/2012	99000	1
-8080 Test Library	House Style 時尚家居	RBZ0006679	11/19/2019	495000	6
-8080 Test Library	HouseFun 好房網雜誌	RBZ0007570	11/04/2019	495000	10
+8080 Test Library	House Style ????	RBZ0006679	11/19/2019	495000	6
+8080 Test Library	HouseFun ?????	RBZ0007570	11/04/2019	495000	10
 8080 Test Library	Houses	RBZ0004150	09/30/2019	495000	5
 8080 Test Library	Houses: Kitchens + Bathrooms	RBZ0000486	06/13/2019	495000	1
 8080 Test Library	How It Works	RBZ0007053			0
@@ -1628,7 +1628,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	How It Works Book of the Elements	RBZ0007322	10/01/2016	198000	1
 8080 Test Library	How It Works Book of Volcanoes and Earthquakes	RBZ0007971	03/01/2015	198000	1
 8080 Test Library	How It Works World Of Tomorrow	RBZ0009219	01/01/2017	99000	1
-8080 Test Library	HOW IT WORKS 知識大圖解國際中文版	RBZ0010027	10/31/2019	495000	10
+8080 Test Library	HOW IT WORKS ??????????	RBZ0010027	10/31/2019	495000	10
 8080 Test Library	How It Works: Amazing Answers to Curious Questions	RBZ0005002	12/01/2016	198000	1
 8080 Test Library	How It Works: Book of The Human Body	RBZ0006014	01/01/2017	198000	1
 8080 Test Library	How to be a hit on YouTube	RBZ0008360	10/01/2014	495000	1
@@ -1661,7 +1661,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Huisgenoot Beste Braai	RBZ0005193	08/15/2014	495000	1
 8080 Test Library	Huisgenoot Beste Resepte	RBZ0005214	10/01/2012	495000	1
 8080 Test Library	Huisgenoot Beste Resepte Poedings	RBZ0006321	07/15/2013	495000	1
-8080 Test Library	Huisgenoot Beste Resepte – 100 Jaar se gunsteling	RBZ0009003	10/01/2016	494999	1
+8080 Test Library	Huisgenoot Beste Resepte � 100 Jaar se gunsteling	RBZ0009003	10/01/2016	494999	1
 8080 Test Library	Huisgenoot Blokraai	RBZ0006725	11/13/2018	495000	1
 8080 Test Library	Huisgenoot Diabete	RBZ0008227	09/01/2015	495000	1
 8080 Test Library	Huisgenoot Die Onvertelde Stories	RBZ0009088	11/01/2016	495000	1
@@ -1695,14 +1695,14 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Huisgenoot Terte	RBZ0006858	12/01/2013	495000	1
 8080 Test Library	Huisgenoot Trou	RBZ0005216	07/01/2016	495000	1
 8080 Test Library	Huisgenoot Wors	RBZ0008428	11/01/2014	495000	1
-8080 Test Library	Huisgenoot- Nelson Mandela – Man van Versoening	RBZ0003073	12/01/2013	495000	1
+8080 Test Library	Huisgenoot- Nelson Mandela � Man van Versoening	RBZ0003073	12/01/2013	495000	1
 8080 Test Library	Huisgenoot-Mooi	RBZ0005215	10/01/2012	495000	1
 8080 Test Library	Huisgenoot-Ontspan	RBZ0009048	11/01/2016	495000	1
-8080 Test Library	Huisgenoot-Wendiëte	RBZ0005196	09/01/2014	495000	1
+8080 Test Library	Huisgenoot-Wendi�te	RBZ0005196	09/01/2014	495000	1
 8080 Test Library	Huisgenoot-Wenresepte	RBZ0008576	04/01/2016	495000	1
 8080 Test Library	HWM Singapore	RBZ0002559	10/31/2019	495000	11
 8080 Test Library	Hyper	RBZ0007997	07/31/2019	495000	1
-8080 Test Library	I'm home.　アイムホーム	RBZ0004037	11/14/2019	495000	6
+8080 Test Library	I'm home.???????	RBZ0004037	11/14/2019	495000	6
 8080 Test Library	I.T. For Small Businesses	RBZ0008492	06/01/2013	495000	1
 8080 Test Library	iCAR	RBZ0003270	08/20/2011	99000	1
 8080 Test Library	Ici Paris	RBZ0009679	11/26/2019	495000	48
@@ -1719,7 +1719,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Ideas Light up your home	RBZ0008753	04/01/2016	495000	1
 8080 Test Library	Ideat	RBZ0002371	10/31/2019	495000	10
 8080 Test Library	Ideat HS Photo	RBZ0008984	11/01/2016	495000	1
-8080 Test Library	IDEAT Spécial Voyages	RBZ0008825	06/01/2016	495000	1
+8080 Test Library	IDEAT Sp�cial Voyages	RBZ0008825	06/01/2016	495000	1
 8080 Test Library	Idees	RBZ0000958	10/31/2019	495000	5
 8080 Test Library	Idees Borduur	RBZ0007719	12/01/2014	495000	1
 8080 Test Library	Idees Hekel	RBZ0008417	08/01/2014	495000	1
@@ -1732,7 +1732,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Il meglio di Focus Storia. STRANE STORIE ILLUSTRATE	RBZ0008173	07/01/2015	39599	1
 8080 Test Library	Il visionario che ci ha cambiato la vita. STEVE JOBS 1955-2011	RBZ0003973	10/01/2011	495000	1
 8080 Test Library	iLife Tips, Tricks & Fixes Vol 1	RBZ0005029	07/05/2012	198000	1
-8080 Test Library	The iLife ‘11 Handbook	RBZ0003656	07/01/2011	99000	1
+8080 Test Library	The iLife �11 Handbook	RBZ0003656	07/01/2011	99000	1
 8080 Test Library	Illustrate with Photoshop Genius Guide	RBZ0005420	12/01/2016	198000	1
 8080 Test Library	The Illustrated Diamond Jubilee	RBZ0004863	05/31/2012	198000	1
 8080 Test Library	The Illustrated Royal Weddings	RBZ0003174	04/01/2011	198000	1
@@ -1801,12 +1801,12 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	InStyle Australia Magazine	RBZ0008928	11/30/2019	495000	11
 8080 Test Library	InStyle Best Advice We Have Ever Heard	RBZ0008351	10/01/2014	495000	1
 8080 Test Library	InStyle Russia	RBZ0005832	12/01/2019	495000	14
-8080 Test Library	InStyle Taiwan 時尚泉	RBZ0010181	11/12/2019	495000	11
+8080 Test Library	InStyle Taiwan ???	RBZ0010181	11/12/2019	495000	11
 8080 Test Library	InStyle UK Best Beauty Buys	RBZ0006928	01/01/2014	495000	1
 8080 Test Library	Integral	RBZ0001660	10/31/2019	495000	11
 8080 Test Library	Integral Extra	RBZ0008511	08/25/2019	495000	5
 8080 Test Library	Interior	RBZ0004890	08/31/2019	495000	3
-8080 Test Library	Interior Taiwan 室內	RBZ0001295	11/14/2019	495000	11
+8080 Test Library	Interior Taiwan ??	RBZ0001295	11/14/2019	495000	11
 8080 Test Library	Interiores	RBZ0001474	09/30/2019	495000	11
 8080 Test Library	International Artist	RBZ0009325	11/30/2019	99000	6
 8080 Test Library	International Boat Industry	RBZ0007057	09/30/2019	495000	5
@@ -1880,19 +1880,19 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Italia! Guide to Venice & Veneto	RBZ0003168	04/01/2011	495000	1
 8080 Test Library	iTunes & iCloud Tech Tips	RBZ0008077	06/01/2015	495000	1
 8080 Test Library	iTunes & iCloud: Your companion manual	RBZ0007605	09/01/2014	99000	1
-8080 Test Library	Ivy League Analytical English 常春藤解析英語	RBZ0001345	11/25/2019	495000	12
-8080 Test Library	Ivy League Enjoy English 常春藤生活英語	RBZ0001344	11/24/2019	495000	11
+8080 Test Library	Ivy League Analytical English ???????	RBZ0001345	11/25/2019	495000	12
+8080 Test Library	Ivy League Enjoy English ???????	RBZ0001344	11/24/2019	495000	11
 8080 Test Library	J-14	RBZ0008594	12/31/2019	99000	6
 8080 Test Library	Jaguar: The Complete Story	RBZ0003103	10/01/2014	495000	1
 8080 Test Library	Jalouse	RBZ0002557	01/31/2019	495000	3
-8080 Test Library	The JAPAN COMPANY HANDBOOK (JCH)　英文会社四季報	RBZ0008267	01/01/2015	495000	1
+8080 Test Library	The JAPAN COMPANY HANDBOOK (JCH)????????	RBZ0008267	01/01/2015	495000	1
 8080 Test Library	Javascript Handbook	RBZ0007956	02/01/2015	99000	1
 8080 Test Library	JazzTimes	RBZ0005401	11/30/2019	99000	9
 8080 Test Library	John Wilson's 501 Fishing Tips v.2	RBZ0002227	07/01/2010	495000	1
 8080 Test Library	Joost van der Westhuizen bylaag	RBZ0009159	02/09/2017	495000	1
 8080 Test Library	Joost van der Westhuizen supplement	RBZ0009160	02/09/2017	495000	1
 8080 Test Library	Journal of Alta California	RBZ0010007	09/12/2019	495000	4
-8080 Test Library	Journal of Chinese Dietary Culture 中國飲食文化	RBZ0008307	11/07/2019	495000	2
+8080 Test Library	Journal of Chinese Dietary Culture ??????	RBZ0008307	11/07/2019	495000	2
 8080 Test Library	The Journal of the Texas Trophy Hunters	RBZ0001451	10/31/2019	99000	5
 8080 Test Library	Journey to Promontory	RBZ0010223	02/12/2019	99000	1
 8080 Test Library	Jours de Chasse	RBZ0009686	06/01/2017	495000	1
@@ -1909,7 +1909,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Kate's Style	RBZ0007972	04/01/2016	198000	1
 8080 Test Library	Kayak Session Magazine	RBZ0004053	12/14/2019	495000	6
 8080 Test Library	Keyboards Recording	RBZ0002389	09/30/2018	495000	1
-8080 Test Library	Keyboards Recording Hors-série	RBZ0003068	03/01/2011	494992	1
+8080 Test Library	Keyboards Recording Hors-s�rie	RBZ0003068	03/01/2011	494992	1
 8080 Test Library	Kick Off PSL Yearbook	RBZ0004096	10/23/2016	495000	1
 8080 Test Library	Kicks	RBZ0001662	08/01/2014	495000	1
 8080 Test Library	Kid's Collections	RBZ0001929	05/31/2019	19800	2
@@ -1952,8 +1952,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	L'Express	RBZ0007103			0
 8080 Test Library	L'Express hors-serie	RBZ0002387	10/01/2013	494999	1
 8080 Test Library	L'impresa	RBZ0002571	06/30/2018	495000	1
-8080 Test Library	L'Officel 1000 Modèles - Design	RBZ0002946	06/01/2012	495000	1
-8080 Test Library	L'Officiel 1000 Modèles	RBZ0002941	09/30/2018	495000	1
+8080 Test Library	L'Officel 1000 Mod�les - Design	RBZ0002946	06/01/2012	495000	1
+8080 Test Library	L'Officiel 1000 Mod�les	RBZ0002941	09/30/2018	495000	1
 8080 Test Library	L'Officiel Argentina	RBZ0010012	10/31/2019	495000	9
 8080 Test Library	L'Officiel Art	RBZ0004772	06/30/2019	495000	2
 8080 Test Library	L'Officiel Hommes Italia	RBZ0005828	03/05/2019	495000	1
@@ -1969,7 +1969,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	La revue des Montres	RBZ0002556	03/31/2019	495000	3
 8080 Test Library	La Revue des Montres - l'Horoguide	RBZ0002947	06/01/2015	495000	1
 8080 Test Library	La Revue du Vin de France	RBZ0002910	11/30/2019	39600	12
-8080 Test Library	La Revue du Vin de France Hors-série	RBZ0009689	12/31/2018	495000	1
+8080 Test Library	La Revue du Vin de France Hors-s�rie	RBZ0009689	12/31/2018	495000	1
 8080 Test Library	La Semaine	RBZ0008477			0
 8080 Test Library	Land Rover Defender 2015	RBZ0008486	12/01/2015	495000	1
 8080 Test Library	Land Rover Monthly	RBZ0000528	12/31/2019	495000	12
@@ -1985,31 +1985,31 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Landrover Past, Present and Future	RBZ0006113	05/01/2013	495000	1
 8080 Test Library	Landscape Architecture Australia	RBZ0004153	10/31/2019	495000	4
 8080 Test Library	Landscape Architecture Magazine	RBZ0001535	10/31/2019	99000	10
-8080 Test Library	LANDSCAPE DESIGN　ランドスケープデザイン	RBZ0003141	11/30/2019	495000	5
+8080 Test Library	LANDSCAPE DESIGN????????????	RBZ0003141	11/30/2019	495000	5
 8080 Test Library	Landscape Magazine	RBZ0007921	12/31/2019	99000	11
 8080 Test Library	Landscape Photography Made Easy	RBZ0003878	09/20/2011	99000	1
 8080 Test Library	Landscape Photography Workshop	RBZ0008910	07/01/2016	495000	1
 8080 Test Library	Landscape Photography Workshops	RBZ0009300	04/01/2017	495000	1
 8080 Test Library	Landscapes	RBZ0000529	03/01/2012	495000	1
 8080 Test Library	Lapidary Journal Jewelry Artist	RBZ0000530	10/31/2019	495000	5
-8080 Test Library	Le Chasseur Français Hors Série	RBZ0004717	10/31/2019	495000	6
+8080 Test Library	Le Chasseur Fran�ais Hors S�rie	RBZ0004717	10/31/2019	495000	6
 8080 Test Library	Le fana de l'aviation	RBZ0001870	11/30/2019	495000	11
-8080 Test Library	Le français dans le monde	RBZ0005719	08/31/2019	495000	5
+8080 Test Library	Le fran�ais dans le monde	RBZ0005719	08/31/2019	495000	5
 8080 Test Library	Le Grand Mag	RBZ0002574	09/30/2019	495000	2
 8080 Test Library	Le Guide di Focus Salute	RBZ0006270	02/01/2014	39600	1
 8080 Test Library	Le Journal de Mickey	RBZ0009698	11/26/2019	495000	43
-8080 Test Library	Le Journal de Mickey Hors-Série Best Of	RBZ0008470	09/30/2019	495000	4
+8080 Test Library	Le Journal de Mickey Hors-S�rie Best Of	RBZ0008470	09/30/2019	495000	4
 8080 Test Library	Le Journal du dimanche	RBZ0008537	11/23/2019	495000	47
 8080 Test Library	Le monde du camping-car	RBZ0001812	11/30/2019	495000	9
 8080 Test Library	Le Point	RBZ0001404			0
-8080 Test Library	Le Point - Hors série Jeux	RBZ0001872	10/01/2009	495000	1
-8080 Test Library	Le Point - Les années Michael Jackson	RBZ0001768	07/01/2009	494999	1
+8080 Test Library	Le Point - Hors s�rie Jeux	RBZ0001872	10/01/2009	495000	1
+8080 Test Library	Le Point - Les ann�es Michael Jackson	RBZ0001768	07/01/2009	494999	1
 8080 Test Library	Le Soir magazine	RBZ0003111	11/29/2019	495000	48
 8080 Test Library	Learn SLR Photography	RBZ0007289	03/01/2014	99000	1
-8080 Test Library	Learning & Development Monthly 能力雜誌	RBZ0007611	11/05/2019	495000	11
+8080 Test Library	Learning & Development Monthly ????	RBZ0007611	11/05/2019	495000	11
 8080 Test Library	Lebanon Opportunities	RBZ0002118	09/30/2019	495000	10
 8080 Test Library	Lecturas	RBZ0004383	12/03/2019	495000	48
-8080 Test Library	Lééf Mooi soos 'n Beminde	RBZ0008429	09/01/2014	495000	1
+8080 Test Library	L��f Mooi soos 'n Beminde	RBZ0008429	09/01/2014	495000	1
 8080 Test Library	The Legend of Harley Davidson	RBZ0002032	01/01/2010	495000	1
 8080 Test Library	Legends Of Sport	RBZ0008774	06/01/2016	495000	1
 8080 Test Library	Legends Of The Ryder Cup	RBZ0009045	10/01/2016	495000	1
@@ -2019,18 +2019,18 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Lenses Guide	RBZ0009823	07/01/2017	495000	1
 8080 Test Library	Les Affaires	RBZ0000535			0
 8080 Test Library	Les Cahiers de Science & Vie	RBZ0004719	09/30/2019	495000	8
-8080 Test Library	Les Idées de ma maison	RBZ0000536			0
-8080 Test Library	Les Trésors de Picsou	RBZ0009706	09/30/2019	495000	4
-8080 Test Library	Les Veillées des chaumières	RBZ0008545	11/26/2019	495000	48
-8080 Test Library	Let's Talk in English 大家說英語	RBZ0001064	11/18/2019	495000	11
-8080 Test Library	Líderes Mexicanos	RBZ0000537	01/31/2019	495000	1
-8080 Test Library	Líderes Mexicanos - Nuestra Historia en cien imágenes	RBZ0006001	03/01/2013	495000	1
-8080 Test Library	Líderes Mexicanos - Special Editions	RBZ0000538	11/30/2018	495000	1
-8080 Test Library	Life & Style México	RBZ0000539	10/31/2019	495000	6
+8080 Test Library	Les Id�es de ma maison	RBZ0000536			0
+8080 Test Library	Les Tr�sors de Picsou	RBZ0009706	09/30/2019	495000	4
+8080 Test Library	Les Veill�es des chaumi�res	RBZ0008545	11/26/2019	495000	48
+8080 Test Library	Let's Talk in English ?????	RBZ0001064	11/18/2019	495000	11
+8080 Test Library	L�deres Mexicanos	RBZ0000537	01/31/2019	495000	1
+8080 Test Library	L�deres Mexicanos - Nuestra Historia en cien im�genes	RBZ0006001	03/01/2013	495000	1
+8080 Test Library	L�deres Mexicanos - Special Editions	RBZ0000538	11/30/2018	495000	1
+8080 Test Library	Life & Style M�xico	RBZ0000539	10/31/2019	495000	6
 8080 Test Library	Life & Style Weekly	RBZ0008597			0
 8080 Test Library	The Life & Times Of The Stuarts	RBZ0008743	05/01/2016	495000	1
-8080 Test Library	Life Plus 熟年誌	RBZ0007615	11/05/2019	495000	11
-8080 Test Library	Lightning　（ライトニング）	RBZ0006984	11/03/2019	495000	10
+8080 Test Library	Life Plus ???	RBZ0007615	11/05/2019	495000	11
+8080 Test Library	Lightning?????????	RBZ0006984	11/03/2019	495000	10
 8080 Test Library	Lingo Newydd	RBZ0010039	09/30/2019	495000	5
 8080 Test Library	Linux & Open Source Annual	RBZ0008255	01/01/2018	198000	1
 8080 Test Library	Linux & Open Source Genius Guide	RBZ0005308	12/01/2015	198000	1
@@ -2042,12 +2042,12 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Linux: The Complete Manual 2nd edition	RBZ0003509	06/01/2011	495000	1
 8080 Test Library	Lionel Trains of the 1950's	RBZ0010224	04/08/2019	99000	1
 8080 Test Library	LIONS' TOUR 2017 SOUVENIR ISSUE, NZ RUGBY WORLD	RBZ0009320	05/01/2017	495000	1
-8080 Test Library	Lion’s Roar	RBZ0005077	12/31/2019	99000	6
+8080 Test Library	Lion�s Roar	RBZ0005077	12/31/2019	99000	6
 8080 Test Library	Lire	RBZ0007157	10/31/2019	495000	9
 8080 Test Library	Little Angel	RBZ0007863	11/30/2019	495000	11
 8080 Test Library	Little White Lies	RBZ0006867	09/30/2019	495000	5
-8080 Test Library	LIVE INTERACTIVE JAPANESE MAGAZINE 互動日本語	RBZ0010182	10/30/2019	495000	10
-8080 Test Library	Live 互動英語	RBZ0010028	11/22/2019	495000	11
+8080 Test Library	LIVE INTERACTIVE JAPANESE MAGAZINE ?????	RBZ0010182	10/30/2019	495000	10
+8080 Test Library	Live ????	RBZ0010028	11/22/2019	495000	11
 8080 Test Library	Liverpool FC v Melbourne Victory FC	RBZ0006372	07/01/2013	495000	1
 8080 Test Library	Living at Home	RBZ0009122	11/30/2019	495000	11
 8080 Test Library	Living Etc	RBZ0000901	11/30/2019	495000	11
@@ -2113,7 +2113,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Make it HOME	RBZ0007578	07/01/2014	495000	1
 8080 Test Library	Make Magical Movies	RBZ0008167	08/01/2015	99000	1
 8080 Test Library	Make the Most of Your Mac 2011	RBZ0003539	07/01/2011	99000	1
-8080 Test Library	Make 國際中文版	RBZ0010029	04/12/2019	495000	2
+8080 Test Library	Make ?????	RBZ0010029	04/12/2019	495000	2
 8080 Test Library	Making Money From Photography 2	RBZ0006905	01/01/2014	495000	1
 8080 Test Library	Making Money From Your Photos	RBZ0003968	10/18/2011	495000	1
 8080 Test Library	Malaysia Tatler	RBZ0004536	10/31/2019	495000	11
@@ -2125,46 +2125,46 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Man Magnum .303	RBZ0008246	10/01/2015	495000	1
 8080 Test Library	Man on The Moon	RBZ0009976	04/30/2019	495000	3
 8080 Test Library	Man on The Moon Collector's Edition	RBZ0002500	09/01/2010	495000	1
-8080 Test Library	Manager Today 經理人	RBZ0001160	10/31/2019	495000	12
+8080 Test Library	Manager Today ???	RBZ0001160	10/31/2019	495000	12
 8080 Test Library	Manga Artist Volume 2	RBZ0008078	06/01/2015	495000	1
 8080 Test Library	Mania	RBZ0007861	11/30/2019	495000	11
 8080 Test Library	Mannschaft Magazin	RBZ0008526	10/31/2019	495000	9
-8080 Test Library	MARBO WEEKLY 萬寶週刊	RBZ0010078	11/22/2019	495000	46
+8080 Test Library	MARBO WEEKLY ????	RBZ0010078	11/22/2019	495000	46
 8080 Test Library	Marie Claire	RBZ0000565			0
 8080 Test Library	Marie Claire - France	RBZ0002311	11/30/2019	39600	11
-8080 Test Library	Marie Claire - México	RBZ0008973	10/31/2019	495000	9
+8080 Test Library	Marie Claire - M�xico	RBZ0008973	10/31/2019	495000	9
 8080 Test Library	Marie Claire @ Work Special	RBZ0006639	04/01/2014	495000	1
 8080 Test Library	Marie Claire Australia	RBZ0000567	11/30/2019	495000	10
 8080 Test Library	Marie Claire Enfants	RBZ0002542	07/31/2019	39600	2
-8080 Test Library	Marie Claire España	RBZ0003148	10/31/2019	495000	10
+8080 Test Library	Marie Claire Espa�a	RBZ0003148	10/31/2019	495000	10
 8080 Test Library	Marie Claire Fashion Shows	RBZ0004226	04/30/2019	39600	1
-8080 Test Library	Marie Claire Idées	RBZ0002911	10/31/2019	39600	5
-8080 Test Library	Marie Claire Idées Hors - Série	RBZ0009714	06/01/2017	495000	1
+8080 Test Library	Marie Claire Id�es	RBZ0002911	10/31/2019	39600	5
+8080 Test Library	Marie Claire Id�es Hors - S�rie	RBZ0009714	06/01/2017	495000	1
 8080 Test Library	Marie Claire Italia	RBZ0005981	11/30/2019	39600	11
 8080 Test Library	Marie Claire Maison	RBZ0002541	11/30/2019	39600	9
 8080 Test Library	Marie Claire Maison Italia	RBZ0005986	10/31/2019	39600	9
 8080 Test Library	Marie Claire Runway	RBZ0006417	01/01/2014	495000	1
 8080 Test Library	Marie Claire Smart Beauty Special	RBZ0008348	09/01/2014	495000	1
-8080 Test Library	Marie Claire 美麗佳人國際中文版	RBZ0005643	11/07/2019	495000	11
+8080 Test Library	Marie Claire ?????????	RBZ0005643	11/07/2019	495000	11
 8080 Test Library	Marie Claire: How To Get Amazing Skin Guide	RBZ0006767	11/01/2013	495000	1
 8080 Test Library	Market Watch	RBZ0002674	10/31/2019	99000	9
 8080 Test Library	Marketing	RBZ0002760	06/30/2019	Unlimited	3
 8080 Test Library	The Marketing Survival Guide	RBZ0002960	01/01/2013	495000	1
 8080 Test Library	Marlin	RBZ0001098	10/31/2019	99000	7
 8080 Test Library	Mas Alla	RBZ0001648	10/31/2019	495000	11
-8080 Test Library	Más Allá Monográficos	RBZ0008634	06/25/2019	495000	2
+8080 Test Library	M�s All� Monogr�ficos	RBZ0008634	06/25/2019	495000	2
 8080 Test Library	MASK The Magazine	RBZ0003090	11/07/2019	99000	4
 8080 Test Library	Master Linux 2013	RBZ0005816	02/01/2013	99000	1
 8080 Test Library	Master your Canon D-SLR	RBZ0007790	01/01/2015	98999	1
 8080 Test Library	Master your Canon DSLR	RBZ0009083	11/01/2016	495000	1
 8080 Test Library	Master your Nikon D-SLR	RBZ0007958	02/01/2015	99000	1
 8080 Test Library	Master your Nikon DSLR	RBZ0009084	11/01/2016	495000	1
-8080 Test Library	Master60 大師輕鬆讀	RBZ0003167	11/26/2019	495000	46
+8080 Test Library	Master60 ?????	RBZ0003167	11/26/2019	495000	46
 8080 Test Library	MATCH	RBZ0007925	11/25/2019	495000	47
 8080 Test Library	Match of the Day Magazine	RBZ0007729	11/18/2019	99000	47
 8080 Test Library	Maxim	RBZ0000573			0
 8080 Test Library	Maxim Australia	RBZ0000574	11/30/2019	495000	11
-8080 Test Library	Maxim México	RBZ0007787	09/30/2019	495000	8
+8080 Test Library	Maxim M�xico	RBZ0007787	09/30/2019	495000	8
 8080 Test Library	MAXIM New Zealand	RBZ0010134	11/30/2019	495000	10
 8080 Test Library	MAXIM Russia	RBZ0001889	11/30/2019	495000	11
 8080 Test Library	Maximum PC	RBZ0005069			0
@@ -2199,7 +2199,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Men's Fitness Ultimate Workout Plan	RBZ0003031	06/01/2011	495000	1
 8080 Test Library	Men's Fitness Workout Manual	RBZ0004284	03/01/2016	495000	1
 8080 Test Library	Men's Health	RBZ0000578			0
-8080 Test Library	Men's Health - México	RBZ0008974	10/31/2019	495000	11
+8080 Test Library	Men's Health - M�xico	RBZ0008974	10/31/2019	495000	11
 8080 Test Library	Men's Health - The New Abs Diet	RBZ0003280	06/01/2011	495000	1
 8080 Test Library	Men's Health Australia	RBZ0000579	11/30/2019	495000	11
 8080 Test Library	Men's Health Belly Off Guide	RBZ0000961	01/01/2016	495000	1
@@ -2207,7 +2207,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Men's Health Complete Guide to arms & abs	RBZ0009198	01/01/2017	495000	1
 8080 Test Library	Men's Health Dad	RBZ0008842	09/29/2019	495000	2
 8080 Test Library	Men's Health Eat This Not That 2012	RBZ0004218	12/01/2011	495000	1
-8080 Test Library	Men's Health España	RBZ0010131	10/31/2019	495000	8
+8080 Test Library	Men's Health Espa�a	RBZ0010131	10/31/2019	495000	8
 8080 Test Library	Men's Health Fat-Burning Manual	RBZ0003806	09/01/2011	495000	1
 8080 Test Library	Men's Health Fitness Manual 2012	RBZ0004217	12/01/2011	495000	1
 8080 Test Library	Men's Health Muscle Manual	RBZ0003427	01/01/2011	495000	1
@@ -2226,37 +2226,37 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Mens Fitness The 12 Week Body Plan	RBZ0005679	01/01/2013	495000	1
 8080 Test Library	Mens Fitness Workout Manual 2013	RBZ0005817	02/01/2013	495000	1
 8080 Test Library	Mens Fitness Workout Manual 2014	RBZ0006907	01/01/2014	495000	1
-8080 Test Library	Mens Health México - Guide to Style	RBZ0008975	09/01/2016	495000	1
-8080 Test Library	Mente&Cérebro	RBZ0004174	11/30/2018	495000	1
-8080 Test Library	Men’s Fitness 28 Day Fat Loss Plan	RBZ0008913	07/01/2016	495000	1
-8080 Test Library	Men’s Fitness Quick Fix Fat Loss	RBZ0009297	11/26/2018	Unlimited	1
-8080 Test Library	Men’s Fitness Weeknight Workouts	RBZ0008909	07/01/2016	495000	1
-8080 Test Library	Men’s Health 15 Min workouts	RBZ0009004	10/01/2016	495000	1
-8080 Test Library	Men’s Health Adventure Training Guide	RBZ0008838	07/01/2016	495000	1
-8080 Test Library	Men’s Health Deutschland	RBZ0005895	11/30/2019	495000	9
-8080 Test Library	Men’s Health HOW TO DO EVERYTHING BETTER	RBZ0006712	10/01/2013	495000	1
-8080 Test Library	The Men’s Health Nutrition Manual	RBZ0003691	07/01/2011	495000	1
-8080 Test Library	Men’s Health Summer Training Guide	RBZ0006434	08/01/2013	495000	1
+8080 Test Library	Mens Health M�xico - Guide to Style	RBZ0008975	09/01/2016	495000	1
+8080 Test Library	Mente&C�rebro	RBZ0004174	11/30/2018	495000	1
+8080 Test Library	Men�s Fitness 28 Day Fat Loss Plan	RBZ0008913	07/01/2016	495000	1
+8080 Test Library	Men�s Fitness Quick Fix Fat Loss	RBZ0009297	11/26/2018	Unlimited	1
+8080 Test Library	Men�s Fitness Weeknight Workouts	RBZ0008909	07/01/2016	495000	1
+8080 Test Library	Men�s Health 15 Min workouts	RBZ0009004	10/01/2016	495000	1
+8080 Test Library	Men�s Health Adventure Training Guide	RBZ0008838	07/01/2016	495000	1
+8080 Test Library	Men�s Health Deutschland	RBZ0005895	11/30/2019	495000	9
+8080 Test Library	Men�s Health HOW TO DO EVERYTHING BETTER	RBZ0006712	10/01/2013	495000	1
+8080 Test Library	The Men�s Health Nutrition Manual	RBZ0003691	07/01/2011	495000	1
+8080 Test Library	Men�s Health Summer Training Guide	RBZ0006434	08/01/2013	495000	1
 8080 Test Library	MERIAN	RBZ0009074	11/30/2019	495000	11
 8080 Test Library	Metabolic Syndrome	RBZ0004734	05/01/2012	495000	1
 8080 Test Library	Metal Hammer UK	RBZ0009861	11/30/2019	495000	12
-8080 Test Library	Méthode 80-20	RBZ0010152	03/31/2019	495000	3
+8080 Test Library	M�thode 80-20	RBZ0010152	03/31/2019	495000	3
 8080 Test Library	Metro	RBZ0000584	09/30/2019	495000	4
 8080 Test Library	Metro Home & Entertaining	RBZ0002505	11/09/2018	495000	1
 8080 Test Library	Metro Home's Bed and Bath Special Issue	RBZ0006784	12/01/2013	495000	1
 8080 Test Library	Metro NZ	RBZ0008878	08/31/2019	495000	4
 8080 Test Library	Metro Society	RBZ0003147	11/30/2018	495000	1
 8080 Test Library	Metro Weddings	RBZ0006200	06/01/2016	495000	1
-8080 Test Library	México Desconocido	RBZ0004939	09/30/2019	495000	5
+8080 Test Library	M�xico Desconocido	RBZ0004939	09/30/2019	495000	5
 8080 Test Library	MHQ: The Quarterly Journal of Military History	RBZ0005989	10/14/2019	99000	4
 8080 Test Library	MiCasa	RBZ0001181	11/30/2019	495000	10
 8080 Test Library	Michigan Game & Fish	RBZ0009260	11/30/2019	99000	10
-8080 Test Library	Mickey Parade Géant	RBZ0009723	10/31/2019	495000	6
+8080 Test Library	Mickey Parade G�ant	RBZ0009723	10/31/2019	495000	6
 8080 Test Library	Micro Pratique	RBZ0001813	11/30/2019	495000	11
 8080 Test Library	Micro Simulateur	RBZ0001814	10/31/2019	495000	11
 8080 Test Library	Micro Simulateur HS	RBZ0004422	10/01/2016	495000	1
 8080 Test Library	Mieux vivre votre argent	RBZ0001534	11/30/2019	495000	10
-8080 Test Library	Mieux Vivre Votre Argent Hors-Série	RBZ0009724	04/01/2017	495000	1
+8080 Test Library	Mieux Vivre Votre Argent Hors-S�rie	RBZ0009724	04/01/2017	495000	1
 8080 Test Library	Military Fitness	RBZ0007451	05/01/2014	495000	1
 8080 Test Library	Military History	RBZ0005786	12/31/2019	99000	6
 8080 Test Library	Military Trader	RBZ0010205	11/30/2019	99000	11
@@ -2277,7 +2277,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Model Rail	RBZ0007884	10/31/2019	99000	11
 8080 Test Library	Model Railroad Scenery, Step by Step	RBZ0010225	10/14/2018	99000	1
 8080 Test Library	Model Railroader	RBZ0000588			0
-8080 Test Library	Modèle Magazine	RBZ0001815	10/17/2019	495000	10
+8080 Test Library	Mod�le Magazine	RBZ0001815	10/17/2019	495000	10
 8080 Test Library	Modern Classics Magazine	RBZ0008568	11/30/2019	495000	11
 8080 Test Library	Modern Gardens Magazine	RBZ0008569	11/30/2019	495000	11
 8080 Test Library	Modes & Travaux	RBZ0008550	11/30/2019	495000	10
@@ -2296,12 +2296,12 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Mollie Makes Photography	RBZ0007547	07/01/2014	495000	1
 8080 Test Library	Mollie Makes Sewing	RBZ0007799	10/22/2018	99000	1
 8080 Test Library	Mollie Makes Social Media	RBZ0007981	07/28/2019	495000	1
-8080 Test Library	Mombaby 媽媽寶寶雜誌	RBZ0004259	11/06/2019	495000	11
+8080 Test Library	Mombaby ??????	RBZ0004259	11/06/2019	495000	11
 8080 Test Library	Money Australia	RBZ0005793	11/30/2019	495000	11
 8080 Test Library	MoneyWeek	RBZ0010159	11/21/2019	495000	46
-8080 Test Library	Monográfico especial Año Cero	RBZ0007867	01/01/2017	495000	1
-8080 Test Library	Monográfico especial Enigmas	RBZ0007868	06/01/2017	495000	1
-8080 Test Library	Monográfico especial Historia de Iberia Vieja	RBZ0007869	06/06/2018	495000	1
+8080 Test Library	Monogr�fico especial A�o Cero	RBZ0007867	01/01/2017	495000	1
+8080 Test Library	Monogr�fico especial Enigmas	RBZ0007868	06/01/2017	495000	1
+8080 Test Library	Monogr�fico especial Historia de Iberia Vieja	RBZ0007869	06/06/2018	495000	1
 8080 Test Library	Mopar Action	RBZ0010189	11/30/2019	99000	4
 8080 Test Library	Mopar Muscle	RBZ0001403	01/31/2020	495000	11
 8080 Test Library	Moteur Boat Magazine	RBZ0001764	11/30/2019	495000	11
@@ -2350,11 +2350,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Musician's Handbook: Guitar	RBZ0009216	12/01/2016	99000	1
 8080 Test Library	Mustang Monthly	RBZ0004793	11/30/2019	495000	11
 8080 Test Library	MUY Historia	RBZ0001147	11/30/2019	495000	12
-8080 Test Library	MUY Interesante - España	RBZ0001126	11/30/2019	495000	13
+8080 Test Library	MUY Interesante - Espa�a	RBZ0001126	11/30/2019	495000	13
 8080 Test Library	Muy Interesante - Mexico	RBZ0000615	10/31/2019	495000	17
 8080 Test Library	Muy Interesante Historia	RBZ0009322	10/31/2019	Unlimited	6
 8080 Test Library	Muy Interesante Junior Mexico	RBZ0008940	10/31/2019	495000	12
-8080 Test Library	MY GARDEN　マイガーデン	RBZ0003200	09/16/2019	495000	3
+8080 Test Library	MY GARDEN???????	RBZ0003200	09/16/2019	495000	3
 8080 Test Library	Mysterious Ways	RBZ0005364	11/30/2019	495000	6
 8080 Test Library	N-Photo: the Nikon magazine	RBZ0004102	11/30/2019	99000	12
 8080 Test Library	The N64 Book	RBZ0008988	10/01/2016	495000	1
@@ -2365,13 +2365,13 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	National Enquirer	RBZ0005759			0
 8080 Test Library	National Geographic	RBZ0000618			0
 8080 Test Library	National Geographic Deutschland	RBZ0009068	11/30/2019	495000	11
-8080 Test Library	National Geographic en Español México	RBZ0010036	10/31/2019	495000	11
+8080 Test Library	National Geographic en Espa�ol M�xico	RBZ0010036	10/31/2019	495000	11
 8080 Test Library	National Geographic History	RBZ0010048	10/31/2019	39600	5
 8080 Test Library	National Geographic Kids	RBZ0008817			0
 8080 Test Library	National Geographic Little Kids	RBZ0008818	10/31/2019	39600	5
-8080 Test Library	National Geographic Magazine Taiwan 國家地理雜誌中文版	RBZ0010030	11/05/2019	495000	11
+8080 Test Library	National Geographic Magazine Taiwan ?????????	RBZ0010030	11/05/2019	495000	11
 8080 Test Library	National Geographic Traveler - Mexico	RBZ0008942	10/31/2019	495000	9
-8080 Test Library	National Palace Museum ebook 故宮出版品電子書叢書	RBZ0008259	10/08/2019	495000	13
+8080 Test Library	National Palace Museum ebook ??????????	RBZ0008259	10/08/2019	495000	13
 8080 Test Library	National Park Journal	RBZ0009866	09/30/2019	495000	3
 8080 Test Library	Native American Art Magazine	RBZ0009326	11/30/2019	99000	6
 8080 Test Library	Nautica	RBZ0002347	10/31/2019	495000	10
@@ -2396,7 +2396,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The New Yorker	RBZ0006233			0
 8080 Test Library	New Zealand Listener	RBZ0008964	11/29/2019	495000	47
 8080 Test Library	New Zealand Weddings	RBZ0002250	04/13/2019	495000	2
-8080 Test Library	New Zealand Woman’s Weekly	RBZ0008875	12/01/2019	495000	47
+8080 Test Library	New Zealand Woman�s Weekly	RBZ0008875	12/01/2019	495000	47
 8080 Test Library	Newsweek	RBZ0000629			0
 8080 Test Library	Newsweek Europe	RBZ0008039	11/28/2019	99000	35
 8080 Test Library	NEXT	RBZ0008905	11/30/2019	495000	11
@@ -2418,11 +2418,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	NME Icons: The Smiths	RBZ0004020	12/01/2011	495000	1
 8080 Test Library	NME Originals - Folk	RBZ0001106	10/27/2005	495000	1
 8080 Test Library	NME Originals - Mod	RBZ0001063	03/22/2005	495000	1
-8080 Test Library	NME Special Collectors´ Magazine - Oasis	RBZ0008347	09/01/2014	495000	1
+8080 Test Library	NME Special Collectors� Magazine - Oasis	RBZ0008347	09/01/2014	495000	1
 8080 Test Library	NME Special Collectors' Magazine - Nirvana	RBZ0006942	02/01/2014	495000	1
 8080 Test Library	NME Special Collectors' Magazine: Blur	RBZ0007313	04/01/2014	495000	1
 8080 Test Library	NME Special Collectors' Magazine: Morrissey	RBZ0007522	07/01/2014	495000	1
-8080 Test Library	NME Special Collectors’ Magazine: Arctic Monkeys	RBZ0006546	09/01/2013	495000	1
+8080 Test Library	NME Special Collectors� Magazine: Arctic Monkeys	RBZ0006546	09/01/2013	495000	1
 8080 Test Library	NME: The 50 Albums That Built Punk	RBZ0005860	02/01/2013	495000	1
 8080 Test Library	Nokia Smartphones	RBZ0003742	08/01/2011	495000	1
 8080 Test Library	Nomad Africa	RBZ0009584	03/05/2019	495000	1
@@ -2481,7 +2481,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	OPEN	RBZ0001292	09/30/2019	495000	9
 8080 Test Library	Open Magazine	RBZ0000980	11/21/2019	495000	47
 8080 Test Library	Opera Canada	RBZ0000642	08/31/2019	495000	3
-8080 Test Library	Or China 旅讀中國	RBZ0004628	10/31/2019	495000	10
+8080 Test Library	Or China ????	RBZ0004628	10/31/2019	495000	10
 8080 Test Library	Organic NZ	RBZ0002788	10/31/2019	495000	5
 8080 Test Library	Origami Therapy Book	RBZ0008915	07/01/2016	495000	1
 8080 Test Library	OS X Yosemite	RBZ0007822	02/01/2015	99000	1
@@ -2537,11 +2537,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	PC Repair: The Complete Manual	RBZ0008500	06/01/2011	495000	1
 8080 Test Library	PCgo	RBZ0010108	11/30/2019	495000	11
 8080 Test Library	PCWorld	RBZ0000662			0
-8080 Test Library	PEAKS　ピークス	RBZ0007600	11/19/2019	Unlimited	11
+8080 Test Library	PEAKS?????	RBZ0007600	11/19/2019	Unlimited	11
 8080 Test Library	PEARL	RBZ0010096	10/31/2019	495000	10
 8080 Test Library	Pelvic Floor	RBZ0004611	04/01/2012	495000	1
 8080 Test Library	Pennsylvania Game & Fish	RBZ0009258	11/30/2019	99000	10
-8080 Test Library	People Magazine South Africa	RBZ0005960	12/20/2019	495000	43
+8080 Test Library	People Magazine South Africa	RBZ0005960	01/16/2020	495000	44
 8080 Test Library	Peppermint Magazine	RBZ0000663	11/10/2019	495000	4
 8080 Test Library	Performance Car Heroes	RBZ0003238	04/01/2011	495000	1
 8080 Test Library	Performance Vauxhall	RBZ0007113	09/30/2019	495000	5
@@ -2549,7 +2549,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Personal Defense World	RBZ0010190	11/30/2019	99000	4
 8080 Test Library	Petersen's Bowhunting	RBZ0009284	12/31/2019	99000	9
 8080 Test Library	Petersen's Hunting	RBZ0009285	11/30/2019	99000	8
-8080 Test Library	Petróleo & Energía	RBZ0000666	01/31/2019	495000	1
+8080 Test Library	Petr�leo & Energ�a	RBZ0000666	01/31/2019	495000	1
 8080 Test Library	Pets Magazine	RBZ0003941	08/31/2019	495000	3
 8080 Test Library	Pets Magazine Annual 2012	RBZ0004308	01/01/2012	495000	1
 8080 Test Library	Philippine Tatler	RBZ0004451	10/31/2019	495000	11
@@ -2565,7 +2565,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Photo Review	RBZ0007769	08/31/2019	495000	3
 8080 Test Library	Photographer's Guide to Photoshop	RBZ0003925	09/01/2013	495000	1
 8080 Test Library	Photographers' Guide to Photoshop	RBZ0002361	07/01/2010	495000	1
-8080 Test Library	The Photographers’ Guide to AdobePhotoshop & Lightroom	RBZ0008364	12/01/2015	495000	1
+8080 Test Library	The Photographers� Guide to AdobePhotoshop & Lightroom	RBZ0008364	12/01/2015	495000	1
 8080 Test Library	Photography For Beginners Vol 1	RBZ0005022	07/05/2012	198000	1
 8080 Test Library	Photography Tips, Tricks & Fixes	RBZ0005727	04/01/2016	198000	1
 8080 Test Library	Photography Week	RBZ0007637	11/20/2019	495000	47
@@ -2592,7 +2592,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Picsou Magazine	RBZ0009748	10/31/2019	495000	4
 8080 Test Library	PieceWork	RBZ0000669	10/31/2019	99000	4
 8080 Test Library	Pip Permaculture Magazine	RBZ0010098	10/09/2019	495000	3
-8080 Test Library	Plane & Pilot	RBZ0000671	11/30/2019	495000	10
+8080 Test Library	Plane & Pilot	RBZ0000671	11/30/2019	494999	10
 8080 Test Library	Planets & Solar System The Complete Manual	RBZ0008653	04/01/2016	198000	1
 8080 Test Library	Play & Win at Poker The Complete Manual	RBZ0007278	03/01/2014	198000	1
 8080 Test Library	Play Like Your Heroes: Blues Volume Two	RBZ0009241	03/01/2017	99000	1
@@ -2600,14 +2600,14 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The PlayStation Book	RBZ0008107	08/01/2015	198000	1
 8080 Test Library	PleinAir Magazine	RBZ0003003	09/30/2019	99000	5
 8080 Test Library	Pleine Vie	RBZ0004710	11/30/2019	495000	12
-8080 Test Library	PM Magazine 專案經理雜誌	RBZ0006069	11/25/2019	495000	6
+8080 Test Library	PM Magazine ??????	RBZ0006069	11/25/2019	495000	6
 8080 Test Library	The Pocket Guide to Digital Photography	RBZ0003520	06/15/2011	495000	1
 8080 Test Library	Pocket Guide to the wines of Bordeaux	RBZ0004775	05/01/2012	495000	1
 8080 Test Library	Poets & Writers Magazine	RBZ0000673			0
 8080 Test Library	Point de vue	RBZ0001461	11/26/2019	495000	50
 8080 Test Library	Point de Vue Histoire	RBZ0009756	11/30/2018	495000	2
-8080 Test Library	Point de Vue Histoire Hors - Série	RBZ0009757	10/01/2016	495000	1
-8080 Test Library	Pokémon Go: Augmented Reality Guide	RBZ0008970	10/01/2016	495000	1
+8080 Test Library	Point de Vue Histoire Hors - S�rie	RBZ0009757	10/01/2016	495000	1
+8080 Test Library	Pok�mon Go: Augmented Reality Guide	RBZ0008970	10/01/2016	495000	1
 8080 Test Library	Pools, Spas & Water Features	RBZ0008447	10/01/2013	495000	1
 8080 Test Library	Poolside	RBZ0004590	09/18/2019	495000	2
 8080 Test Library	Poolside Showcase	RBZ0004234	05/29/2019	495000	1
@@ -2642,9 +2642,9 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Practical Raspberry Pi Projects	RBZ0008105	08/01/2016	198000	1
 8080 Test Library	Practical Sportsbikes	RBZ0007891	11/30/2019	99000	11
 8080 Test Library	Practical Web Design Volume 1	RBZ0008019	05/01/2015	99000	1
-8080 Test Library	President Family プレジデントファミリー	RBZ0009979	09/04/2019	495000	3
-8080 Test Library	PRESIDENT Woman　プレジデントウーマン	RBZ0010099	10/02/2019	495000	3
-8080 Test Library	PRESIDENT プレジデント	RBZ0009977	11/26/2019	495000	22
+8080 Test Library	President Family ???????????	RBZ0009979	09/04/2019	495000	3
+8080 Test Library	PRESIDENT Woman???????????	RBZ0010099	10/02/2019	495000	3
+8080 Test Library	PRESIDENT ??????	RBZ0009977	11/26/2019	495000	22
 8080 Test Library	Prevention	RBZ0000683			0
 8080 Test Library	Prevention Magazine Australia	RBZ0009172	11/30/2019	495000	6
 8080 Test Library	Prevention Special Edition - Outsmart Diabetes	RBZ0006872	12/01/2013	495000	1
@@ -2657,7 +2657,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Prima Summer Food 2013	RBZ0006314	07/01/2013	495000	1
 8080 Test Library	Prima The Joy of Baking	RBZ0008174	07/01/2015	495000	1
 8080 Test Library	Prima UK	RBZ0007156	11/30/2019	495000	11
-8080 Test Library	PRIME AV MAGAZINE 新視聽	RBZ0003288	11/04/2019	495000	11
+8080 Test Library	PRIME AV MAGAZINE ???	RBZ0003288	11/04/2019	495000	11
 8080 Test Library	Pro Guide to Crochet	RBZ0008319	08/01/2014	495000	1
 8080 Test Library	Pro Guide to Quilting	RBZ0007310	04/01/2014	495000	1
 8080 Test Library	Pro Photo	RBZ0000684	09/30/2019	495000	4
@@ -2672,7 +2672,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Proyecto Contract	RBZ0001738	10/28/2019	495000	9
 8080 Test Library	Proyecto Contract - Especiales	RBZ0009275	03/01/2017	495000	1
 8080 Test Library	PS4: The Complete Manual	RBZ0006889	01/01/2014	198000	1
-8080 Test Library	PSBEAUTY 整形達人	RBZ0003668	04/11/2018	495000	1
+8080 Test Library	PSBEAUTY ????	RBZ0003668	04/11/2018	495000	1
 8080 Test Library	Psychologies Russia	RBZ0001891	11/30/2019	495000	11
 8080 Test Library	Psykologi	RBZ0010120	09/30/2019	19800	7
 8080 Test Library	Public	RBZ0006190	11/21/2019	495000	47
@@ -2690,7 +2690,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Queensland Homes Gold	RBZ0000694	04/01/2012	495000	1
 8080 Test Library	Quest	RBZ0008802	06/01/2016	495000	1
 8080 Test Library	QUICK QUILTS	RBZ0010046	11/30/2019	99000	5
-8080 Test Library	Quién	RBZ0000695	10/31/2019	495000	11
+8080 Test Library	Qui�n	RBZ0000695	10/31/2019	495000	11
 8080 Test Library	Quilters Companion	RBZ0000696	11/06/2019	495000	6
 8080 Test Library	Quilting Arts Holiday	RBZ0000697	08/26/2015	495000	1
 8080 Test Library	Quilting Arts Magazine	RBZ0000698			0
@@ -2701,7 +2701,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Quilts From Around The World	RBZ0006137	05/01/2013	495000	1
 8080 Test Library	Quilts from Precut Fabrics	RBZ0006956	06/01/2016	495000	1
 8080 Test Library	Quintessence	RBZ0006766	11/01/2013	19800	1
-8080 Test Library	R&E-Relojes&Estilográficas	RBZ0001615	08/31/2019	495000	4
+8080 Test Library	R&E-Relojes&Estilogr�ficas	RBZ0001615	08/31/2019	495000	4
 8080 Test Library	Racecar Engineering	RBZ0000991	11/30/2019	495000	11
 8080 Test Library	Radio Ink Magazine	RBZ0001413	11/10/2019	99000	13
 8080 Test Library	Radio Times	RBZ0007730	11/29/2019	99000	47
@@ -2721,7 +2721,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Raspberry Pi Projects	RBZ0008163	07/01/2015	99000	1
 8080 Test Library	Raspberry Pi The Complete Manual	RBZ0007281	11/01/2016	198000	1
 8080 Test Library	Raspberry Pi Tips, Tricks & Hacks Volume 1	RBZ0007744	12/01/2016	198000	1
-8080 Test Library	RC WORLD（ラジコンワールド）	RBZ0009579	02/01/2018	Unlimited	1
+8080 Test Library	RC WORLD??????????	RBZ0009579	02/01/2018	Unlimited	1
 8080 Test Library	Reader's Digest	RBZ0000704			0
 8080 Test Library	Reader's Digest Canada	RBZ0000705			0
 8080 Test Library	Reader's Digest India	RBZ0004333	10/31/2019	495000	11
@@ -2740,13 +2740,13 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Recipe Book	RBZ0005228	01/01/2014	495000	1
 8080 Test Library	Recoil	RBZ0004266	10/31/2019	495000	5
 8080 Test Library	RECOIL Presents: Concealment	RBZ0007908	11/03/2019	99000	4
-8080 Test Library	RÉCORD - Los Especiales	RBZ0008821	07/31/2019	495000	2
-8080 Test Library	Recording & Music Production – Guerrilla Guide	RBZ0000708	05/01/2012	495000	1
+8080 Test Library	R�CORD - Los Especiales	RBZ0008821	07/31/2019	495000	2
+8080 Test Library	Recording & Music Production � Guerrilla Guide	RBZ0000708	05/01/2012	495000	1
 8080 Test Library	Red UK	RBZ0006994	11/30/2019	495000	11
 8080 Test Library	Reminisce	RBZ0008589	11/30/2019	495000	6
 8080 Test Library	Reminisce Extra	RBZ0008590	10/31/2019	495000	5
 8080 Test Library	Remodeling & Makeovers	RBZ0000711	10/01/2011	99000	1
-8080 Test Library	Réponses Photo	RBZ0004702	10/31/2019	495000	7
+8080 Test Library	R�ponses Photo	RBZ0004702	10/31/2019	495000	7
 8080 Test Library	Residential Tech Today	RBZ0010218	08/31/2019	99000	5
 8080 Test Library	The Responsive Web Design Handbook	RBZ0006202	02/16/2016	99000	1
 8080 Test Library	Retro & Classic Bike Enthusiast	RBZ0005930	08/31/2019	495000	4
@@ -2765,27 +2765,27 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Revolution	RBZ0008282	02/28/2019	495000	1
 8080 Test Library	REVOLUTION DIGITAL	RBZ0005764	10/10/2019	495000	3
 8080 Test Library	Rhythm Presents 100 Drum Heroes	RBZ0008386	09/01/2015	99000	1
-8080 Test Library	Rhythms Monthly 經典	RBZ0001054	11/27/2019	495000	11
+8080 Test Library	Rhythms Monthly ??	RBZ0001054	11/27/2019	495000	11
 8080 Test Library	Richard III - The Full Story of the King under the Car Park	RBZ0008739	05/01/2016	495000	1
 8080 Test Library	RiDE	RBZ0007893	12/31/2019	99000	11
-8080 Test Library	RIDERS CLUB　ライダースクラブ	RBZ0002879	12/01/2019	Unlimited	11
+8080 Test Library	RIDERS CLUB?????????	RBZ0002879	12/01/2019	Unlimited	11
 8080 Test Library	Road & Track	RBZ0000721			0
 8080 Test Library	Road Cyclists Training Manual 2016	RBZ0008709	01/01/2018	495000	1
 8080 Test Library	Road Rider Bike Guide	RBZ0000722	06/05/2019	495000	1
 8080 Test Library	Roaditude	RBZ0009765	10/20/2019	495000	2
 8080 Test Library	Robb Report	RBZ0000724			0
 8080 Test Library	Robb Report	RBZ0009080	11/30/2019	495000	5
-8080 Test Library	ROBB REPORT - España	RBZ0009146	02/28/2019	495000	2
-8080 Test Library	Robb Report España en Chino	RBZ0008930	05/01/2017	495000	1
+8080 Test Library	ROBB REPORT - Espa�a	RBZ0009146	02/28/2019	495000	2
+8080 Test Library	Robb Report Espa�a en Chino	RBZ0008930	05/01/2017	495000	1
 8080 Test Library	Robb Report Watch Collector	RBZ0006163	01/01/2014	Unlimited	1
-8080 Test Library	ROBOCON 機器人雜誌	RBZ0010031	08/19/2018	495000	1
+8080 Test Library	ROBOCON ?????	RBZ0010031	08/19/2018	495000	1
 8080 Test Library	Rock and Folk	RBZ0001760	11/30/2019	495000	11
 8080 Test Library	Rodding USA	RBZ0005822	10/31/2019	99000	6
 8080 Test Library	Rogue One Souvenir Magazine	RBZ0009238	12/01/2016	198000	1
 8080 Test Library	Rolling Stone	RBZ0000729			0
 8080 Test Library	Rolling Stone - France	RBZ0001464	10/31/2019	495000	11
-8080 Test Library	Rolling Stone Hors-Série	RBZ0001930	04/01/2018	495000	1
-8080 Test Library	Rolling Stone: Spécial Michael Jackson	RBZ0008133	08/01/2015	99000	1
+8080 Test Library	Rolling Stone Hors-S�rie	RBZ0001930	04/01/2018	495000	1
+8080 Test Library	Rolling Stone: Sp�cial Michael Jackson	RBZ0008133	08/01/2015	99000	1
 8080 Test Library	The Rolling Stones	RBZ0006298	06/01/2013	495000	1
 8080 Test Library	Rooi Rose	RBZ0000996	11/30/2019	495000	11
 8080 Test Library	Rotman Management	RBZ0000731	08/15/2019	495000	3
@@ -2794,7 +2794,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The Royal Baby 2015	RBZ0008054	05/01/2015	495000	1
 8080 Test Library	Royal Dynasties	RBZ0008922	08/01/2016	495000	1
 8080 Test Library	Royal Women	RBZ0008740	05/01/2016	495000	1
-8080 Test Library	Rubicon Történelmi Magazin	RBZ0010141	10/31/2019	495000	21
+8080 Test Library	Rubicon T�rt�nelmi Magazin	RBZ0010141	10/31/2019	495000	21
 8080 Test Library	Rugby World	RBZ0001037	11/30/2019	495000	11
 8080 Test Library	Run Your Butt Off	RBZ0008530	03/01/2016	495000	1
 8080 Test Library	RUN YOUR FIRST MARATHON	RBZ0006746	10/01/2013	495000	1
@@ -2803,20 +2803,20 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Runner's World - Mexico	RBZ0000733	08/31/2019	495000	9
 8080 Test Library	Runner's World Complete Guide to Nutrition	RBZ0003760	03/01/2014	495000	1
 8080 Test Library	Runner's World Complete Guide to Running	RBZ0002363	02/17/2011	495000	1
-8080 Test Library	Runner's World España	RBZ0010132	11/30/2019	495000	10
-8080 Test Library	Runner's World México - El pequeño gran libro (azul) para entrenar	RBZ0008976	10/01/2016	495000	1
+8080 Test Library	Runner's World Espa�a	RBZ0010132	11/30/2019	495000	10
+8080 Test Library	Runner's World M�xico - El peque�o gran libro (azul) para entrenar	RBZ0008976	10/01/2016	495000	1
 8080 Test Library	RUNNER'S WORLD Passion	RBZ0008662	05/01/2016	495000	1
 8080 Test Library	Runner's World South Africa	RBZ0000963	10/31/2019	495000	6
 8080 Test Library	Runner's World UK	RBZ0006988	11/30/2019	495000	11
 8080 Test Library	Runner's World Women's Guide to Running	RBZ0009201	01/01/2017	495000	1
 8080 Test Library	Runners World Coach	RBZ0002634	11/05/2010	495000	1
-8080 Test Library	Runner’s World Complete Guide to Training	RBZ0008839	07/01/2016	495000	1
-8080 Test Library	RUNNER’S WORLD Deutschland	RBZ0005896	11/30/2019	495000	11
-8080 Test Library	The Runner’s World Guide to Weight-Loss	RBZ0007582	08/01/2014	495000	1
-8080 Test Library	Runner’s World Trail Runner (South African Edition)	RBZ0000967	08/01/2013	495000	1
+8080 Test Library	Runner�s World Complete Guide to Training	RBZ0008839	07/01/2016	495000	1
+8080 Test Library	RUNNER�S WORLD Deutschland	RBZ0005896	11/30/2019	495000	11
+8080 Test Library	The Runner�s World Guide to Weight-Loss	RBZ0007582	08/01/2014	495000	1
+8080 Test Library	Runner�s World Trail Runner (South African Edition)	RBZ0000967	08/01/2013	495000	1
 8080 Test Library	Running for Beginners	RBZ0004616	01/01/2016	198000	1
 8080 Test Library	RV Travel Lifestyle	RBZ0003645	08/31/2019	99000	4
-8080 Test Library	Ryori.Taiwan 料理‧台灣	RBZ0004326	11/05/2019	495000	6
+8080 Test Library	Ryori.Taiwan ?????	RBZ0004326	11/05/2019	495000	6
 8080 Test Library	SA Country Life	RBZ0000997	11/30/2019	495000	11
 8080 Test Library	SA Garden and Home	RBZ0000998	11/30/2019	495000	11
 8080 Test Library	SA Hunter/Jagter	RBZ0000956	11/30/2019	495000	11
@@ -2858,15 +2858,15 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Save Our Seas	RBZ0007740	05/31/2019	Unlimited	1
 8080 Test Library	Saveur	RBZ0000736			0
 8080 Test Library	Scale Auto	RBZ0003998	11/30/2019	99000	5
-8080 Test Library	Schöner Wohnen	RBZ0009071	11/30/2019	495000	11
+8080 Test Library	Sch�ner Wohnen	RBZ0009071	11/30/2019	495000	11
 8080 Test Library	Sci-Fi Art Essentials	RBZ0007959	02/01/2015	99000	1
 8080 Test Library	Science & Vie	RBZ0004648			0
-8080 Test Library	Science & Vie Découvertes	RBZ0004721	11/30/2019	495000	11
-8080 Test Library	Science & Vie Hors Série	RBZ0004649	08/31/2019	495000	3
+8080 Test Library	Science & Vie D�couvertes	RBZ0004721	11/30/2019	495000	11
+8080 Test Library	Science & Vie Hors S�rie	RBZ0004649	08/31/2019	495000	3
 8080 Test Library	Science & Vie Junior	RBZ0004722	11/30/2019	495000	11
-8080 Test Library	Science & Vie Junior Hors Série	RBZ0004723	10/31/2019	495000	5
-8080 Test Library	Science et Vie Découvertes Hors Série	RBZ0009251	09/17/2019	495000	3
-8080 Test Library	Science et Vie Questions & Réponses	RBZ0009768	08/31/2019	495000	3
+8080 Test Library	Science & Vie Junior Hors S�rie	RBZ0004723	10/31/2019	495000	5
+8080 Test Library	Science et Vie D�couvertes Hors S�rie	RBZ0009251	09/17/2019	495000	3
+8080 Test Library	Science et Vie Questions & R�ponses	RBZ0009768	08/31/2019	495000	3
 8080 Test Library	Science et Vie Questions Reponses hors serie	RBZ0009188	09/01/2017	495000	1
 8080 Test Library	Science Illustrated	RBZ0005553	11/01/2019	495000	7
 8080 Test Library	Scientific American Chinese Edition	RBZ0001235	11/11/2019	495000	11
@@ -2888,7 +2888,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The Secret History of Spies	RBZ0008744	05/01/2016	495000	1
 8080 Test Library	The Secrets of Natural Remedies	RBZ0009234	01/01/2017	495000	1
 8080 Test Library	Sega Archives	RBZ0008920	07/01/2016	494999	1
-8080 Test Library	Sélection du Reader's Digest	RBZ0000747	11/30/2019	495000	9
+8080 Test Library	S�lection du Reader's Digest	RBZ0000747	11/30/2019	495000	9
 8080 Test Library	Selectus Wines	RBZ0008026	09/30/2019	495000	4
 8080 Test Library	Semana	RBZ0004426	11/26/2019	495000	47
 8080 Test Library	Senior's Edition Smartphones & Tablets	RBZ0008023	12/01/2016	198000	1
@@ -2916,7 +2916,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Shooting Times	RBZ0009289	01/31/2020	99000	11
 8080 Test Library	Shooting Times & Country	RBZ0006652	11/26/2019	495000	48
 8080 Test Library	Shop Talk!	RBZ0010246	10/31/2019	98998	11
-8080 Test Library	Shopping Design 設計採買誌	RBZ0004244	11/08/2019	495000	11
+8080 Test Library	Shopping Design ?????	RBZ0004244	11/08/2019	495000	11
 8080 Test Library	Shortcut Desserts: 123 Yummy Easiest-Ever Recipes	RBZ0000756	09/01/2011	99000	1
 8080 Test Library	ShowBoats International	RBZ0002814	10/31/2019	495000	11
 8080 Test Library	SHOWDETAILS ACCESSORIES	RBZ0009193	11/17/2019	495000	2
@@ -2954,11 +2954,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Slow Cooker	RBZ0000766	02/01/2011	99000	1
 8080 Test Library	The Small Faces - The Ultimate Music Guide	RBZ0006661	10/01/2013	495000	1
 8080 Test Library	Small Gardens, Balconies & Courtyards	RBZ0000768	05/15/2015	495000	1
-8080 Test Library	Smart Auto 智動化	RBZ0010032	11/06/2019	495000	10
+8080 Test Library	Smart Auto ???	RBZ0010032	11/06/2019	495000	10
 8080 Test Library	Smart Photography	RBZ0002187	10/31/2019	495000	11
-8080 Test Library	Smart 智富	RBZ0001056	10/31/2019	495000	10
+8080 Test Library	Smart ??	RBZ0001056	10/31/2019	495000	10
 8080 Test Library	Smartphones for Seniors	RBZ0007800	12/01/2014	99000	1
-8080 Test Library	Smile Quarterly 微笑季刊	RBZ0010034	09/26/2019	495000	4
+8080 Test Library	Smile Quarterly ????	RBZ0010034	09/26/2019	495000	4
 8080 Test Library	Smith Journal	RBZ0000769	08/31/2019	495000	3
 8080 Test Library	Smithsonian Magazine	RBZ0000770			0
 8080 Test Library	SNES The Complete Manual	RBZ0009212	12/01/2016	99000	1
@@ -2985,17 +2985,17 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Spoke	RBZ0001783	09/30/2019	495000	3
 8080 Test Library	Sport Auto Classiques	RBZ0009053	10/08/2019	495000	4
 8080 Test Library	Sport Auto France	RBZ0004646	10/31/2019	495000	12
-8080 Test Library	Sport Auto Hors Série	RBZ0009781	12/01/2017	495000	1
+8080 Test Library	Sport Auto Hors S�rie	RBZ0009781	12/01/2017	495000	1
 8080 Test Library	Sport Fishing	RBZ0000777	10/31/2019	495000	8
 8080 Test Library	Sport Life	RBZ0001119	10/31/2019	495000	10
 8080 Test Library	Sporting Gun	RBZ0006520	11/30/2019	495000	11
 8080 Test Library	Sporting Shooter	RBZ0008274	11/30/2019	495000	12
 8080 Test Library	Sports Collectors Digest	RBZ0010211	12/05/2019	99000	24
 8080 Test Library	Sports Illustrated Swimwear Edition 2011	RBZ0003790	10/05/2011	495000	1
-8080 Test Library	SSA Hunter Jagter – Spesiale Uitgawe	RBZ0008415	10/15/2014	495000	1
+8080 Test Library	SSA Hunter Jagter � Spesiale Uitgawe	RBZ0008415	10/15/2014	495000	1
 8080 Test Library	Stand Up Paddle World	RBZ0004055	06/30/2019	495000	1
 8080 Test Library	Star Magazine	RBZ0000780			0
-8080 Test Library	Star Système	RBZ0005235	12/05/2019	495000	24
+8080 Test Library	Star Syst�me	RBZ0005235	12/05/2019	495000	24
 8080 Test Library	Star Trek Magazine	RBZ0007040	10/31/2019	198000	4
 8080 Test Library	Star Trek Magazine Movie Special	RBZ0008933	07/01/2016	198000	1
 8080 Test Library	Star Wars Insider	RBZ0007151	10/31/2019	198000	7
@@ -3027,7 +3027,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Street Rodder	RBZ0000785	12/31/2019	495000	11
 8080 Test Library	Street Trucks	RBZ0008128	11/30/2019	297000	11
 8080 Test Library	Stress Relieving Cats, Celebration Edition	RBZ0008778	07/01/2016	495000	1
-8080 Test Library	Studio Classroom 空中英語教室	RBZ0001172	11/18/2019	495000	11
+8080 Test Library	Studio Classroom ??????	RBZ0001172	11/18/2019	495000	11
 8080 Test Library	Studio Training: Illustrator	RBZ0008391	10/01/2015	99000	1
 8080 Test Library	Stuff Guide to Android	RBZ0005531	12/01/2012	198000	1
 8080 Test Library	Stuff Guide to Apps	RBZ0005529	11/01/2012	198000	1
@@ -3039,8 +3039,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Super Chevy	RBZ0001438	12/31/2019	495000	11
 8080 Test Library	Super Food Ideas	RBZ0004019	11/30/2019	495000	10
 8080 Test Library	SUPER MOTORS	RBZ0006093	11/13/2019	495000	6
-8080 Test Library	Super pâtisserie & dessert	RBZ0010231	09/30/2018	Unlimited	1
-8080 Test Library	Super Picsou Géant	RBZ0009783	09/30/2019	495000	5
+8080 Test Library	Super p�tisserie & dessert	RBZ0010231	09/30/2018	Unlimited	1
+8080 Test Library	Super Picsou G�ant	RBZ0009783	09/30/2019	495000	5
 8080 Test Library	Super Street	RBZ0001362	12/31/2019	495000	11
 8080 Test Library	The Superfan's Guide to Justin Bieber	RBZ0001014	12/01/2011	495000	1
 8080 Test Library	The Superfan's Guide to One Direction	RBZ0005534	07/01/2013	495000	1
@@ -3051,8 +3051,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Sur la Route des Chefs	RBZ0010232	12/31/2018	Unlimited	1
 8080 Test Library	Surfer	RBZ0001288	10/07/2019	495000	5
 8080 Test Library	Surfing Life	RBZ0000096	09/19/2019	495000	4
-8080 Test Library	Surfing Magazine’s Swimsuit Issue	RBZ0004668	03/01/2016	495000	1
-8080 Test Library	Surftrip JOURNAL サーフトリップジャーナル	RBZ0007914	05/30/2019	Unlimited	1
+8080 Test Library	Surfing Magazine�s Swimsuit Issue	RBZ0004668	03/01/2016	495000	1
+8080 Test Library	Surftrip JOURNAL ????????????	RBZ0007914	05/30/2019	Unlimited	1
 8080 Test Library	Sustainable & Water Wise Gardens	RBZ0000792	11/01/2012	495000	1
 8080 Test Library	Sweet 3	RBZ0006280	06/01/2013	99000	1
 8080 Test Library	Sweet by Mollie Makes	RBZ0005300	10/01/2012	99000	1
@@ -3071,7 +3071,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Take Better Travel Photos	RBZ0003651	07/01/2011	495000	1
 8080 Test Library	TAPAS	RBZ0007836	10/31/2019	495000	10
 8080 Test Library	TAPAS - English Version	RBZ0008001	03/31/2019	495000	1
-8080 Test Library	TAPAS - Especial Guía	RBZ0008931	08/01/2016	495000	1
+8080 Test Library	TAPAS - Especial Gu�a	RBZ0008931	08/01/2016	495000	1
 8080 Test Library	Taste of Home	RBZ0000796			0
 8080 Test Library	Taste of Home Cooking School	RBZ0000797	09/01/2016	495000	1
 8080 Test Library	Taste of the South	RBZ0007821	12/31/2019	495000	16
@@ -3096,8 +3096,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The TechRadar Camera Buying Guide	RBZ0003209	03/01/2011	99000	1
 8080 Test Library	The TechRadar Mobile Phone Buying Guide	RBZ0003212	04/01/2011	99000	1
 8080 Test Library	The TechRadar PC Upgrade Buying Guide	RBZ0003211	03/01/2011	99000	1
-8080 Test Library	Télé 7 Jeux	RBZ0009786	10/31/2019	495000	9
-8080 Test Library	Télé 7 Jours	RBZ0009787	11/29/2019	495000	47
+8080 Test Library	T�l� 7 Jeux	RBZ0009786	10/31/2019	495000	9
+8080 Test Library	T�l� 7 Jours	RBZ0009787	11/29/2019	495000	47
 8080 Test Library	Tennis Magazine	RBZ0009860	10/31/2019	297000	6
 8080 Test Library	Tennishead	RBZ0007093	05/31/2019	495000	1
 8080 Test Library	Texas Highways Magazine	RBZ0001315	11/30/2019	99000	11
@@ -3107,7 +3107,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The Theory of (nearly) Everything	RBZ0009232	12/01/2016	495000	1
 8080 Test Library	Thermik Magazin	RBZ0002920	10/31/2019	495000	9
 8080 Test Library	Thermik Spezial Hike & Fly	RBZ0005151	11/01/2017	495000	1
-8080 Test Library	Think! シンク!	RBZ0006497	11/01/2015	495000	1
+8080 Test Library	Think! ???!	RBZ0006497	11/01/2015	495000	1
 8080 Test Library	ThinkSales	RBZ0003714	06/30/2019	495000	1
 8080 Test Library	This is London: The Making of London Fashion Week	RBZ0006475	09/01/2013	495000	1
 8080 Test Library	This Old House	RBZ0006864			0
@@ -3117,17 +3117,17 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Today's Quilter	RBZ0008924	11/30/2019	495000	11
 8080 Test Library	Tom Waits - The Ultimate Music Guide	RBZ0007575	07/01/2014	495000	1
 8080 Test Library	Tone Up In 10 Minutes	RBZ0006117	05/01/2013	495000	1
-8080 Test Library	Top Gear España	RBZ0008716	08/31/2019	495000	5
+8080 Test Library	Top Gear Espa�a	RBZ0008716	08/31/2019	495000	5
 8080 Test Library	Top Gear South Africa	RBZ0006261	10/31/2019	495000	10
 8080 Test Library	Top Homes	RBZ0000807	03/01/2018	495000	1
 8080 Test Library	Top Of The Pops Special - JLS	RBZ0004456	02/01/2012	495000	1
 8080 Test Library	Top Of The Pops Special - One Direction	RBZ0004455	02/01/2012	495000	1
 8080 Test Library	Top Of The Pops Special - The Wanted	RBZ0004457	02/01/2012	495000	1
-8080 Test Library	Top Santé	RBZ0004643	10/14/2019	495000	11
+8080 Test Library	Top Sant�	RBZ0004643	10/14/2019	495000	11
 8080 Test Library	Top Sante	RBZ0007895	10/31/2019	99000	11
-8080 Test Library	Top Santé Hors-Série	RBZ0009187	08/31/2019	495000	4
-8080 Test Library	TopCar’s Classic Performance Cars	RBZ0007989	05/01/2015	495000	1
-8080 Test Library	TopCar’s Where are they now?	RBZ0007990	05/01/2015	495000	1
+8080 Test Library	Top Sant� Hors-S�rie	RBZ0009187	08/31/2019	495000	4
+8080 Test Library	TopCar�s Classic Performance Cars	RBZ0007989	05/01/2015	495000	1
+8080 Test Library	TopCar�s Where are they now?	RBZ0007990	05/01/2015	495000	1
 8080 Test Library	TopGear Malaysia	RBZ0010145	10/31/2019	495000	11
 8080 Test Library	TopGear Supercars	RBZ0008755	05/01/2016	495000	1
 8080 Test Library	Topos	RBZ0005602	09/02/2019	495000	3
@@ -3145,10 +3145,10 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Tour de France 2014 Review	RBZ0008376	09/01/2014	99000	1
 8080 Test Library	Town & Country	RBZ0000808			0
 8080 Test Library	Town & Country UK	RBZ0008459	10/31/2019	495000	4
-8080 Test Library	TPCA Magazine 電路板會刊	RBZ0001204	10/13/2019	495000	4
+8080 Test Library	TPCA Magazine ?????	RBZ0001204	10/13/2019	495000	4
 8080 Test Library	Traces (formerly Inside History)	RBZ0000492	09/02/2019	495000	3
 8080 Test Library	Tracks	RBZ0003690	11/30/2019	495000	7
-8080 Test Library	Trade Insight Biweekly 經貿透視雙周刊	RBZ0003414	11/19/2019	495000	23
+8080 Test Library	Trade Insight Biweekly ???????	RBZ0003414	11/19/2019	495000	23
 8080 Test Library	Trade-A-Boat	RBZ0008147	10/31/2019	495000	10
 8080 Test Library	TRAIL	RBZ0004199	09/30/2019	495000	3
 8080 Test Library	Trail	RBZ0007896	11/30/2019	99000	11
@@ -3162,8 +3162,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Travel Africa	RBZ0007116	09/30/2019	495000	3
 8080 Test Library	The Travel Photography Book	RBZ0004833	02/01/2013	198000	1
 8080 Test Library	Travel Photography Made Easy	RBZ0003879	09/20/2011	99000	1
-8080 Test Library	Travelcom 行遍天下	RBZ0006881	10/31/2019	495000	10
-8080 Test Library	Travellution 畅游行	RBZ0010175	10/31/2019	495000	10
+8080 Test Library	Travelcom ????	RBZ0006881	10/31/2019	495000	10
+8080 Test Library	Travellution ???	RBZ0010175	10/31/2019	495000	10
 8080 Test Library	Traverse, Northern Michigan's Magazine	RBZ0001352	11/30/2019	99000	11
 8080 Test Library	TREAD	RBZ0009885	10/31/2019	495000	5
 8080 Test Library	Treadlie Magazine	RBZ0010130	09/30/2019	495000	2
@@ -3179,8 +3179,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	True Love Bride	RBZ0005279	07/31/2016	495000	1
 8080 Test Library	True Love Shine	RBZ0005438	11/01/2013	495000	1
 8080 Test Library	Trusted Reviews Guide to Gadgets	RBZ0004069	11/21/2011	495000	1
-8080 Test Library	Tú	RBZ0000820	11/17/2019	495000	22
-8080 Test Library	Tú Ediciones Especiales	RBZ0000821	05/01/2011	495000	1
+8080 Test Library	T�	RBZ0000820	11/17/2019	495000	22
+8080 Test Library	T� Ediciones Especiales	RBZ0000821	05/01/2011	495000	1
 8080 Test Library	Tuis	RBZ0000969	11/30/2019	495000	11
 8080 Test Library	Tuis Dekor	RBZ0003447	06/01/2011	495000	1
 8080 Test Library	Tuis Kombuis	RBZ0008554	03/01/2016	495000	1
@@ -3192,7 +3192,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Turn Your Hobby in to a Business	RBZ0008918	09/01/2016	495000	1
 8080 Test Library	Turn Your Hobby Into A Business	RBZ0007966	03/01/2015	495000	1
 8080 Test Library	TV Guide Magazine	RBZ0005492			0
-8080 Test Library	Tv Notas Horóscopos 2015	RBZ0000823	11/11/2019	495000	1
+8080 Test Library	Tv Notas Hor�scopos 2015	RBZ0000823	11/11/2019	495000	1
 8080 Test Library	TV Soap	RBZ0007855	12/08/2019	495000	24
 8080 Test Library	TV Times	RBZ0001042	11/29/2019	495000	47
 8080 Test Library	TV&Satellite Week	RBZ0001043	11/29/2019	495000	47
@@ -3324,7 +3324,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Uncut Ultimate Music Guide: The Who	RBZ0003162	03/01/2011	Unlimited	1
 8080 Test Library	Unique Cars Australia	RBZ0008141	10/31/2019	495000	11
 8080 Test Library	Unique Honeymoons	RBZ0004320	01/15/2012	495000	1
-8080 Test Library	Universal’s Summer Cricket Guide	RBZ0005390	09/25/2018	495000	1
+8080 Test Library	Universal�s Summer Cricket Guide	RBZ0005390	09/25/2018	495000	1
 8080 Test Library	The Universe According to Patrick Moore	RBZ0008746	05/01/2016	495000	1
 8080 Test Library	The Universe the Story so Far	RBZ0008673	05/01/2016	495000	1
 8080 Test Library	Upstyled Home	RBZ0008645	03/01/2016	495000	1
@@ -3334,7 +3334,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Vanidades - Mexico	RBZ0000836	11/18/2019	495000	24
 8080 Test Library	Vanidades Novias	RBZ0000837	09/30/2019	495000	1
 8080 Test Library	Vanity Fair	RBZ0005579			0
-8080 Test Library	Vanity Fair España	RBZ0004664	11/30/2019	495000	11
+8080 Test Library	Vanity Fair Espa�a	RBZ0004664	11/30/2019	495000	11
 8080 Test Library	Vanity Fair France	RBZ0006317	11/30/2019	495000	11
 8080 Test Library	Vanity Fair Italia	RBZ0005823	12/03/2019	39600	47
 8080 Test Library	Vanity Fair UK	RBZ0006237	11/30/2019	99000	11
@@ -3345,7 +3345,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Velo	RBZ0003570	10/31/2019	99000	9
 8080 Test Library	Veranda	RBZ0000842			0
 8080 Test Library	Verena	RBZ0009309	07/31/2019	495000	4
-8080 Test Library	Verena Подиум	RBZ0010080	08/31/2019	495000	3
+8080 Test Library	Verena ??????	RBZ0010080	08/31/2019	495000	3
 8080 Test Library	Vette Magazine	RBZ0003594	01/31/2020	495000	11
 8080 Test Library	Vi Unge	RBZ0010121	08/31/2019	19800	8
 8080 Test Library	Viajes NG	RBZ0004389	11/30/2019	495000	11
@@ -3361,7 +3361,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The Vintage Wedding Book	RBZ0008641	03/01/2016	495000	1
 8080 Test Library	Virtual Reality - The Complete Guide	RBZ0008750	05/01/2016	495000	1
 8080 Test Library	Visi	RBZ0002596	11/30/2019	495000	6
-8080 Test Library	Vision Man 質男幫	RBZ0006360	10/16/2019	495000	3
+8080 Test Library	Vision Man ???	RBZ0006360	10/16/2019	495000	3
 8080 Test Library	Vital	RBZ0006051	10/31/2019	495000	5
 8080 Test Library	Vital Food	RBZ0008549	11/30/2019	495000	4
 8080 Test Library	Vivir en el Campo	RBZ0008513	10/24/2019	495000	6
@@ -3377,7 +3377,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Vogue Belleza	RBZ0010155	09/24/2019	495000	2
 8080 Test Library	Vogue Collections	RBZ0001705	04/01/2018	495000	1
 8080 Test Library	Vogue Entertaining and Travel	RBZ0006837	11/01/2014	495000	1
-8080 Test Library	Vogue España	RBZ0004629	11/30/2019	495000	11
+8080 Test Library	Vogue Espa�a	RBZ0004629	11/30/2019	495000	11
 8080 Test Library	Vogue Hombre	RBZ0010156	10/17/2019	495000	1
 8080 Test Library	Vogue Hommes	RBZ0001706	10/31/2019	495000	2
 8080 Test Library	Vogue hommes English Version	RBZ0002836	10/31/2019	495000	2
@@ -3393,8 +3393,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Vogue Russia	RBZ0002261	11/30/2019	495000	11
 8080 Test Library	VOGUE TAIWAN	RBZ0004434	11/08/2019	495000	11
 8080 Test Library	VOGUE Wedding	RBZ0007010	11/24/2019	495000	2
-8080 Test Library	VOGUE 服饰与美容	RBZ0005121	11/24/2019	495000	11
-8080 Test Library	Vogue服饰与美容 Collections	RBZ0006263	11/06/2019	495000	6
+8080 Test Library	VOGUE ?????	RBZ0005121	11/24/2019	495000	11
+8080 Test Library	Vogue????? Collections	RBZ0006263	11/06/2019	495000	6
 8080 Test Library	Voie Libre international	RBZ0002429	09/30/2019	495000	3
 8080 Test Library	Voile Magazine	RBZ0001788	11/07/2019	495000	15
 8080 Test Library	Volkswagen Camper and Commercial	RBZ0001520	11/13/2019	495000	11
@@ -3409,8 +3409,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Wanderlust	RBZ0002477	11/30/2019	495000	10
 8080 Test Library	Watch!	RBZ0002612	11/30/2019	99000	6
 8080 Test Library	Watercolor Artist	RBZ0005318	11/30/2019	99000	5
-8080 Test Library	WEALTH INVEST WEEKLY 先探投資週刊	RBZ0001066	11/21/2019	495000	46
-8080 Test Library	Wealth Magazine 財訊雙週刊	RBZ0001114	11/13/2019	495000	23
+8080 Test Library	WEALTH INVEST WEEKLY ??????	RBZ0001066	11/21/2019	495000	46
+8080 Test Library	Wealth Magazine ?????	RBZ0001114	11/13/2019	495000	23
 8080 Test Library	The Weather 2011	RBZ0003854	09/01/2011	198000	1
 8080 Test Library	The Web Design Annual	RBZ0008258	11/01/2015	198000	1
 8080 Test Library	The Web Design Book	RBZ0004887	04/01/2016	198000	1
@@ -3429,8 +3429,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Weg Klassiek	RBZ0008068	06/01/2015	495000	1
 8080 Test Library	Weg Kruger	RBZ0000970	10/01/2012	495000	1
 8080 Test Library	Weg Kuierkos	RBZ0000971	09/01/2014	495000	1
-8080 Test Library	Weg Namibië	RBZ0000972	05/23/2018	495000	1
-8080 Test Library	Weg neem beter foto’s	RBZ0008296	11/01/2015	495000	1
+8080 Test Library	Weg Namibi�	RBZ0000972	05/23/2018	495000	1
+8080 Test Library	Weg neem beter foto�s	RBZ0008296	11/01/2015	495000	1
 8080 Test Library	Weg!	RBZ0000973	11/30/2019	495000	12
 8080 Test Library	Weg! Drakensberg	RBZ0007516	06/01/2014	495000	1
 8080 Test Library	Weg! Kampkos	RBZ0007488	11/01/2016	495000	1
@@ -3488,7 +3488,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Who Do You Think You Are?	RBZ0002504	11/30/2019	495000	12
 8080 Test Library	Who Do You Think You Are? Magazine presents The Complete Guide To Tracing Your First World War Ancestors	RBZ0008337	10/01/2014	495000	1
 8080 Test Library	Why is my computer so slow	RBZ0006916	01/01/2014	495000	1
-8080 Test Library	WIJAZZ 爵式生活誌	RBZ0008225	06/30/2019	495000	1
+8080 Test Library	WIJAZZ ?????	RBZ0008225	06/30/2019	495000	1
 8080 Test Library	Wild	RBZ0000869	08/31/2019	495000	5
 8080 Test Library	Wild West	RBZ0005974	01/31/2020	99000	6
 8080 Test Library	Wilderness	RBZ0002475	11/30/2019	198000	11
@@ -3544,15 +3544,15 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Women's Fitness Sculpt A Lean and Strong Body	RBZ0009299			0
 8080 Test Library	Women's Fitness The Ultimate 2 Week Fat Loss Diet	RBZ0001030	02/01/2012	495000	1
 8080 Test Library	Women's Health	RBZ0000880			0
-8080 Test Library	Women's Health - México	RBZ0008943	10/31/2019	495000	11
+8080 Test Library	Women's Health - M�xico	RBZ0008943	10/31/2019	495000	11
 8080 Test Library	Women's Health Australia	RBZ0009174	11/30/2019	495000	11
-8080 Test Library	Women's Health España	RBZ0010133	11/30/2019	495000	9
+8080 Test Library	Women's Health Espa�a	RBZ0010133	11/30/2019	495000	9
 8080 Test Library	Women's Health South Africa	RBZ0000976	11/30/2019	495000	13
 8080 Test Library	Women's Health UK	RBZ0005735	11/30/2019	495000	10
 8080 Test Library	Women's Running	RBZ0005718	10/31/2019	99000	6
-8080 Test Library	Women’s Health Deutschland	RBZ0008844	11/30/2019	495000	9
-8080 Test Library	Women’s Health Eat Clean Get Lean	RBZ0008840	07/01/2016	495000	1
-8080 Test Library	Women’s Health Shape up shortcuts	RBZ0009005	10/01/2016	494999	1
+8080 Test Library	Women�s Health Deutschland	RBZ0008844	11/30/2019	495000	9
+8080 Test Library	Women�s Health Eat Clean Get Lean	RBZ0008840	07/01/2016	495000	1
+8080 Test Library	Women�s Health Shape up shortcuts	RBZ0009005	10/01/2016	494999	1
 8080 Test Library	Wonders of the Universe	RBZ0007609	09/01/2014	99000	1
 8080 Test Library	Woodcraft Magazine	RBZ0000882			0
 8080 Test Library	Woodsmith	RBZ0010015	11/30/2019	495000	6
@@ -3587,7 +3587,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	World's most incredible tattoos 4	RBZ0005838	02/01/2013	495000	1
 8080 Test Library	The World's Weirdest News Stories	RBZ0002825	03/01/2011	495000	1
 8080 Test Library	Worlds Of Whedon	RBZ0002815	01/01/2011	99000	1
-8080 Test Library	THE WORLD’S MOST INCREDIBLE TATTOOS	RBZ0006913	01/01/2014	495000	1
+8080 Test Library	THE WORLD�S MOST INCREDIBLE TATTOOS	RBZ0006913	01/01/2014	495000	1
 8080 Test Library	Wreck Diving Magazine	RBZ0003637	05/14/2019	99000	1
 8080 Test Library	The Writer	RBZ0000886			0
 8080 Test Library	Writer's Digest	RBZ0005887			0
@@ -3608,9 +3608,9 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Yoga Journal Russia	RBZ0003391	08/31/2019	495000	5
 8080 Test Library	Yoga Kitties: A Stress Relieving Adult Coloring Book	RBZ0008791	07/01/2016	495000	1
 8080 Test Library	Yoga The Complete Manual	RBZ0007279	03/01/2014	198000	1
-8080 Test Library	Yogini(ヨギーニ)	RBZ0008014	11/25/2019	Unlimited	6
+8080 Test Library	Yogini(????)	RBZ0008014	11/25/2019	Unlimited	6
 8080 Test Library	Yosemite Made Simple	RBZ0008116	09/01/2015	99000	1
-8080 Test Library	YOU - Nelson Mandela – Man of History	RBZ0003067	12/01/2013	495000	1
+8080 Test Library	YOU - Nelson Mandela � Man of History	RBZ0003067	12/01/2013	495000	1
 8080 Test Library	You and Your Wedding	RBZ0005149	11/30/2019	495000	6
 8080 Test Library	YOU Bake	RBZ0008186	07/01/2015	495000	1
 8080 Test Library	YOU Best Braai Recipes	RBZ0005192	12/31/2016	495000	1
@@ -3660,8 +3660,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Your Home and Garden	RBZ0008877	11/30/2019	494999	11
 8080 Test Library	Your Horse	RBZ0007923	12/31/2019	99000	12
 8080 Test Library	Yours Magazine	RBZ0007920	11/18/2019	99000	24
-8080 Test Library	Youth Juvenile Monthly 幼獅少年	RBZ0006284	10/31/2019	495000	10
-8080 Test Library	Youth literary Monthly 幼獅文藝	RBZ0006285	10/31/2019	495000	10
+8080 Test Library	Youth Juvenile Monthly ????	RBZ0006284	10/31/2019	495000	10
+8080 Test Library	Youth literary Monthly ????	RBZ0006285	10/31/2019	495000	10
 8080 Test Library	YouTube Vlogging The Complete Manual	RBZ0008062	06/01/2015	198000	1
 8080 Test Library	Zen et bien dans ma vie	RBZ0010041	06/30/2019	494998	5
 8080 Test Library	Zest's Best Body Manual	RBZ0006205	05/01/2013	495000	1
@@ -3672,53 +3672,53 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Zoomer Magazine	RBZ0000895			0
 8080 Test Library	ZUHAUSE WOHNEN	RBZ0009077	07/31/2019	495000	7
 8080 Test Library	The ZX Spectrum / Commodore 64 Book 30th Anniversary Special	RBZ0005339	05/23/2016	198000	1
-8080 Test Library	¡Hola! Cocina	RBZ0002062	10/08/2019	495000	1
-8080 Test Library	¡Hola! Especial Alta Costura	RBZ0008177	11/18/2018	495000	1
-8080 Test Library	¡Hola! Especial Decoración	RBZ0002056	05/01/2010	495000	1
-8080 Test Library	¡Hola! Especial Viajes	RBZ0002333	10/08/2019	495000	1
-8080 Test Library	¡Hola! Especiales: Aniversario de la Boda Real	RBZ0004778	05/07/2012	495000	1
-8080 Test Library	¡HOLA! FASHION	RBZ0007301	11/30/2019	495000	11
-8080 Test Library	¡Hola! Los Reyes Felipe VI y Letizia	RBZ0007574	07/01/2014	494999	1
-8080 Test Library	¡Hola! Prêt-À-Porter	RBZ0002061	08/31/2016	495000	1
-8080 Test Library	Бурда	RBZ0008290	11/30/2019	495000	11
-8080 Test Library	Вышивка крестиком	RBZ0010081	09/30/2019	495000	5
-8080 Test Library	Добрые советы	RBZ0008852	11/30/2019	495000	11
-8080 Test Library	Добрые советы. Домашний доктор	RBZ0009969	11/30/2019	495000	11
-8080 Test Library	Журнал Мото	RBZ0010094	10/31/2019	495000	10
-8080 Test Library	Идеи Вашего Дома	RBZ0004458	10/31/2019	495000	10
-8080 Test Library	Идеи Вашего Дома №12/2012 Special edition	RBZ0005629	12/01/2012	494998	1
-8080 Test Library	Идеи Вашего Дома. Специальный выпуск	RBZ0004489	06/30/2019	495000	4
-8080 Test Library	Лиза	RBZ0008853	11/22/2019	495000	47
-8080 Test Library	Мир Подводной Охоты	RBZ0003901	05/31/2019	495000	2
-8080 Test Library	Мое любимое хобби	RBZ0010233	11/30/2019	Unlimited	4
-8080 Test Library	Мой прекрасный сад. Календарь	RBZ0008293	12/31/2018	494998	1
-8080 Test Library	О чем врачи вам не говорят	RBZ0010082	11/30/2019	495000	11
-8080 Test Library	Предельная Глубина	RBZ0003902	04/30/2019	495000	3
-8080 Test Library	Проект Россия/Project Russia	RBZ0002730	08/31/2019	495000	4
-8080 Test Library	Сабрина	RBZ0010149	11/30/2019	495000	11
-8080 Test Library	Сноб	RBZ0002260	09/30/2019	495000	3
-8080 Test Library	Частный интерьер. Санкт-Петербург	RBZ0006786	12/01/2017	495000	1
-8080 Test Library	おうち和食	RBZ0008916	08/01/2016	494999	1
-8080 Test Library	カリフォルニアスタイル CALIFORNIA STYLE	RBZ0008650	08/28/2019	495000	2
-8080 Test Library	サンデー毎日 Sunday Mainichi	RBZ0002670	11/26/2019	495000	41
-8080 Test Library	システム手帳STYLE	RBZ0008873	11/04/2019	495000	1
-8080 Test Library	ステレオサウンド Stereo Sound	RBZ0005273	09/04/2019	495000	3
-8080 Test Library	ランドネ	RBZ0007602	11/27/2019	Unlimited	6
-8080 Test Library	ランニング・スタイル RunningStyle	RBZ0007686	03/25/2019	Unlimited	2
-8080 Test Library	ワイン王国	RBZ0004348	10/04/2019	495000	5
-8080 Test Library	七緒 Nanaoh	RBZ0010100	09/05/2019	495000	3
-8080 Test Library	会社四季報プロ500	RBZ0006273	09/16/2019	495000	3
-8080 Test Library	会社四季報業界地図	RBZ0006544	08/23/2019	495000	1
-8080 Test Library	住宅建築　Jutakukenchiku	RBZ0008065	10/18/2019	495000	5
-8080 Test Library	写真家の流儀	RBZ0008888	09/01/2016	495000	1
-8080 Test Library	別冊Lightning　 （別冊ライトニング）	RBZ0006986	11/29/2019	495000	33
-8080 Test Library	商店建築　SHOTENKENCHIKU	RBZ0004206	11/04/2019	495000	10
-8080 Test Library	就職四季報　姉妹版　「就活生のための後悔しない会社選び」	RBZ0006776	12/01/2013	494998	1
-8080 Test Library	悦游 Condé Nast Traveler	RBZ0005843	11/24/2019	495000	11
-8080 Test Library	新建築　Shinkenchiku	RBZ0005110	12/04/2019	495000	11
-8080 Test Library	新建築　住宅特集　Jutakutokushu	RBZ0005111	11/04/2019	495000	10
-8080 Test Library	月刊HiVi	RBZ0004349	12/21/2019	495000	11
-8080 Test Library	趣味の文具箱	RBZ0007009	09/05/2019	Unlimited	3
-8080 Test Library	週刊エコノミスト	RBZ0002669	11/24/2019	495000	41
-8080 Test Library	週刊東洋経済	RBZ0004151	11/24/2019	495000	45
-Total	1375882104	18409
+8080 Test Library	�Hola! Cocina	RBZ0002062	10/08/2019	495000	1
+8080 Test Library	�Hola! Especial Alta Costura	RBZ0008177	11/18/2018	495000	1
+8080 Test Library	�Hola! Especial Decoraci�n	RBZ0002056	05/01/2010	495000	1
+8080 Test Library	�Hola! Especial Viajes	RBZ0002333	10/08/2019	495000	1
+8080 Test Library	�Hola! Especiales: Aniversario de la Boda Real	RBZ0004778	05/07/2012	495000	1
+8080 Test Library	�HOLA! FASHION	RBZ0007301	11/30/2019	495000	11
+8080 Test Library	�Hola! Los Reyes Felipe VI y Letizia	RBZ0007574	07/01/2014	494999	1
+8080 Test Library	�Hola! Pr�t-�-Porter	RBZ0002061	08/31/2016	495000	1
+8080 Test Library	?????	RBZ0008290	11/30/2019	495000	11
+8080 Test Library	??????? ?????????	RBZ0010081	09/30/2019	495000	5
+8080 Test Library	?????? ??????	RBZ0008852	11/30/2019	495000	11
+8080 Test Library	?????? ??????. ???????? ??????	RBZ0009969	11/30/2019	495000	11
+8080 Test Library	?????? ????	RBZ0010094	10/31/2019	495000	10
+8080 Test Library	???? ?????? ????	RBZ0004458	10/31/2019	495000	10
+8080 Test Library	???? ?????? ???? ?12/2012 Special edition	RBZ0005629	12/01/2012	494998	1
+8080 Test Library	???? ?????? ????. ??????????? ??????	RBZ0004489	06/30/2019	495000	4
+8080 Test Library	????	RBZ0008853	11/22/2019	495000	47
+8080 Test Library	??? ????????? ?????	RBZ0003901	05/31/2019	495000	2
+8080 Test Library	??? ??????? ?????	RBZ0010233	11/30/2019	Unlimited	4
+8080 Test Library	??? ?????????? ???. ?????????	RBZ0008293	12/31/2018	494998	1
+8080 Test Library	? ??? ????? ??? ?? ???????	RBZ0010082	11/30/2019	495000	11
+8080 Test Library	?????????? ???????	RBZ0003902	04/30/2019	495000	3
+8080 Test Library	?????? ??????/Project Russia	RBZ0002730	08/31/2019	495000	4
+8080 Test Library	???????	RBZ0010149	11/30/2019	495000	11
+8080 Test Library	????	RBZ0002260	09/30/2019	495000	3
+8080 Test Library	??????? ????????. ?????-?????????	RBZ0006786	12/01/2017	495000	1
+8080 Test Library	?????	RBZ0008916	08/01/2016	494999	1
+8080 Test Library	??????????? CALIFORNIA STYLE	RBZ0008650	08/28/2019	495000	2
+8080 Test Library	?????? Sunday Mainichi	RBZ0002670	11/26/2019	495000	41
+8080 Test Library	??????STYLE	RBZ0008873	11/04/2019	495000	1
+8080 Test Library	???????? Stereo Sound	RBZ0005273	09/04/2019	495000	3
+8080 Test Library	????	RBZ0007602	11/27/2019	Unlimited	6
+8080 Test Library	?????????? RunningStyle	RBZ0007686	03/25/2019	Unlimited	2
+8080 Test Library	?????	RBZ0004348	10/04/2019	495000	5
+8080 Test Library	?? Nanaoh	RBZ0010100	09/05/2019	495000	3
+8080 Test Library	???????500	RBZ0006273	09/16/2019	495000	3
+8080 Test Library	?????????	RBZ0006544	08/23/2019	495000	1
+8080 Test Library	?????Jutakukenchiku	RBZ0008065	10/18/2019	495000	5
+8080 Test Library	??????	RBZ0008888	09/01/2016	495000	1
+8080 Test Library	??Lightning? ??????????	RBZ0006986	11/29/2019	495000	33
+8080 Test Library	?????SHOTENKENCHIKU	RBZ0004206	11/04/2019	495000	10
+8080 Test Library	????????????????????????????	RBZ0006776	12/01/2013	494998	1
+8080 Test Library	?? Cond� Nast Traveler	RBZ0005843	11/24/2019	495000	11
+8080 Test Library	????Shinkenchiku	RBZ0005110	12/04/2019	495000	11
+8080 Test Library	?????????Jutakutokushu	RBZ0005111	11/04/2019	495000	10
+8080 Test Library	??HiVi	RBZ0004349	12/21/2019	495000	11
+8080 Test Library	??????	RBZ0007009	09/05/2019	Unlimited	3
+8080 Test Library	????????	RBZ0002669	11/24/2019	495000	41
+8080 Test Library	??????	RBZ0004151	11/24/2019	495000	45
+Total	1375882100	18410

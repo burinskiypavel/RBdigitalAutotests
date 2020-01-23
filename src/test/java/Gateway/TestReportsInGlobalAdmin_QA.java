@@ -17,7 +17,7 @@ import java.io.IOException;
 import java.util.List;
 
 @Test
-public class TestReportsInGlobalAdmin {
+public class TestReportsInGlobalAdmin_QA {
     WebDriver driver;
     PageObj pageObj;
     MainPage mainPage;

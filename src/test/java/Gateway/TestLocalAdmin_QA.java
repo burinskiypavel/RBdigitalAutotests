@@ -20,7 +20,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TestLocalAdmin {
+public class TestLocalAdmin_QA {
     public WebDriver driver;
     WebDriverWait wait;
     PageObj pageObj;
