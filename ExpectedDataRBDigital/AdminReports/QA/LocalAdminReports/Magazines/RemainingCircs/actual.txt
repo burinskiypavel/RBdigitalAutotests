@@ -20,7 +20,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The 100 Greatest TV Shows of All Time	RBZ0008020	05/01/2015	99000	1
 8080 Test Library	101 Home Sewing Ideas	RBZ0008834	06/01/2016	495000	1
 8080 Test Library	101 Quick & Easy Crochet Makes	RBZ0007626	06/01/2016	495000	1
-8080 Test Library	11 Freunde	RBZ0009106	11/30/2019	494999	11
+8080 Test Library	11 Freunde	RBZ0009106	11/30/2019	494998	11
 8080 Test Library	1116 Design Tips	RBZ0007608	09/01/2014	99000	1
 8080 Test Library	15 Minute Fitness: Busy Girls Guide	RBZ0008914	07/01/2016	495000	1
 8080 Test Library	150 Thrifty Knits	RBZ0007697	05/01/2016	495000	1
@@ -197,7 +197,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Amigurumi Collection	RBZ0008063	01/01/2019	495000	1
 8080 Test Library	Amura Yachts & Lifestyle	RBZ0008721	09/30/2019	494999	6
 8080 Test Library	Anatomy Essentials	RBZ0007696	11/01/2014	99000	1
-8080 Test Library	Android Advisor	RBZ0006925	10/31/2019	495000	11
+8080 Test Library	Android Advisor	RBZ0006925	10/31/2019	494999	11
 8080 Test Library	Android App Directory Vol 1	RBZ0004849	05/20/2012	198000	1
 8080 Test Library	Android App Directory Vol 2	RBZ0004820	05/20/2012	198000	1
 8080 Test Library	Android App Directory Vol 3	RBZ0005286	09/01/2012	198000	1
@@ -233,7 +233,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Arc	RBZ0004332	03/01/2014	99000	1
 8080 Test Library	ARCHAEOLOGY	RBZ0005148			0
 8080 Test Library	Architectural Digest	RBZ0005581			0
-8080 Test Library	Architectural Digest India	RBZ0004296	10/31/2019	495000	7
+8080 Test Library	Architectural Digest India	RBZ0004296	10/31/2019	494999	7
 8080 Test Library	Architectural Digest Latinoamérica	RBZ0010173	08/31/2019	Unlimited	3
 8080 Test Library	Architectural Digest Mexico	RBZ0005157	10/31/2019	495000	10
 8080 Test Library	Architectural Review Asia Pacific	RBZ0002687	07/31/2019	495000	3
@@ -249,7 +249,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The Art of Film	RBZ0008164	03/01/2017	99000	1
 8080 Test Library	The Art of Healing	RBZ0000065	08/31/2019	495000	3
 8080 Test Library	ArtAsiaPacific	RBZ0004294	10/31/2019	495000	5
-8080 Test Library	ArtAsiaPacific Almanac	RBZ0004295	12/23/2018	495000	1
+8080 Test Library	ArtAsiaPacific Almanac	RBZ0004295	12/23/2018	494999	1
 8080 Test Library	ARTE Magazin	RBZ0005520	11/30/2019	495000	11
 8080 Test Library	Artichoke	RBZ0004152	11/30/2019	495000	4
 8080 Test Library	Artist Profile	RBZ0003687	10/23/2019	495000	4
@@ -350,7 +350,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The Baby Craft Book	RBZ0008994	09/01/2016	495000	1
 8080 Test Library	Back Garden Astronomy	RBZ0008998	10/01/2016	495000	1
 8080 Test Library	Backpacker	RBZ0000105			0
-8080 Test Library	Backyard & Garden Design Ideas	RBZ0000106	10/31/2019	495000	6
+8080 Test Library	Backyard & Garden Design Ideas	RBZ0000106	10/31/2019	494999	6
 8080 Test Library	Backyard Makeovers	RBZ0004958	04/21/2016	495000	1
 8080 Test Library	Bacon Busters	RBZ0008612	09/30/2019	495000	3
 8080 Test Library	Bake from Scratch	RBZ0009886	10/31/2019	495000	9
@@ -367,7 +367,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	BB King Tribute Edition	RBZ0008115	09/01/2015	99000	1
 8080 Test Library	BBC Countryfile Magazine	RBZ0000258	11/30/2019	495000	12
 8080 Test Library	BBC Countryfile Magazine presents The Food Lovers' Tour of Great Britain	RBZ0008334	10/01/2014	495000	1
-8080 Test Library	BBC Easycook	RBZ0000111	10/31/2019	495000	10
+8080 Test Library	BBC Easycook	RBZ0000111	10/31/2019	494999	10
 8080 Test Library	BBC Focus Magazine present Earth from Space	RBZ0008326	09/01/2014	495000	1
 8080 Test Library	BBC Focus Magazine presents The Big Book of Top 10s	RBZ0008335	09/01/2014	495000	1
 8080 Test Library	BBC Gardeners' World	RBZ0002503	11/30/2019	495000	11
@@ -401,7 +401,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Beijing Review	RBZ0002795	11/20/2019	495000	44
 8080 Test Library	Belle	RBZ0005116	11/30/2019	495000	8
 8080 Test Library	Berty Squiggles Colouring & Scribbles	RBZ0006628	09/01/2013	495000	1
-8080 Test Library	Bespoke the chic and the cool	RBZ0004146	07/23/2019	495000	1
+8080 Test Library	Bespoke the chic and the cool	RBZ0004146	07/23/2019	494999	1
 8080 Test Library	Best	RBZ0000128	12/02/2019	495000	47
 8080 Test Library	Best Buys – Audio & AV	RBZ0000129	07/21/2019	495000	1
 8080 Test Library	Best craft & cookery special 2014	RBZ0008396	10/01/2014	495000	1
@@ -2592,7 +2592,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Picsou Magazine	RBZ0009748	10/31/2019	495000	4
 8080 Test Library	PieceWork	RBZ0000669	10/31/2019	99000	4
 8080 Test Library	Pip Permaculture Magazine	RBZ0010098	10/09/2019	495000	3
-8080 Test Library	Plane & Pilot	RBZ0000671	11/30/2019	494999	10
+8080 Test Library	Plane & Pilot	RBZ0000671	11/30/2019	494998	10
 8080 Test Library	Planets & Solar System The Complete Manual	RBZ0008653	04/01/2016	198000	1
 8080 Test Library	Play & Win at Poker The Complete Manual	RBZ0007278	03/01/2014	198000	1
 8080 Test Library	Play Like Your Heroes: Blues Volume Two	RBZ0009241	03/01/2017	99000	1
@@ -3721,4 +3721,4 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	??????	RBZ0007009	09/05/2019	Unlimited	3
 8080 Test Library	????????	RBZ0002669	11/24/2019	495000	41
 8080 Test Library	??????	RBZ0004151	11/24/2019	495000	45
-Total	1375882100	18410
+Total	1375882092	18410

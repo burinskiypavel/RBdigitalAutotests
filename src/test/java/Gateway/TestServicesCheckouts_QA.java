@@ -104,8 +104,9 @@ public class TestServicesCheckouts_QA extends BaseClass_TestServiceCheckout {
         login("qauser", "password1");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/rbdigitalinternal/service/hoonuit']");
         pressGetStartedButton();
-        checkURL("https://learnit.hoonuit.com/?from_auth=1");
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("section_heading_Pathways")));
+        checkURLcontains("https://learnit.hoonuit.com");
+        Thread.sleep(3000);
+        wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector("//*[contains(text(), 'Pathways')]")));
         checkText("Pathways");
     }
 

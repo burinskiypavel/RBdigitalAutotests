@@ -1,14 +1,14 @@
 Title	Barcode	Email	Library	RBID	Checkouts	Time Period	Current Issue Default	Status	Checkout Date	Issue Date
-$10 DINNERS (OR LESS!)				RBZ0000001	0	Monthly	500	Active		
+$10 DINNERS (OR LESS!)				RBZ0000001	0	Annually	Unlimited	Active		
 net				RBZ0000002	0	Monthly	500	Active		
 100 Biker				RBZ0000007	0	Monthly	2500	Active		
 Create Jewelry: 101 All-New Designs				RBZ0000008	0	Monthly	2500	Active		
-25 Beautiful Homes				RBZ0000011	0	Monthly	2500	Active		
-3D World				RBZ0000014	0	Monthly	500	Active		
-4 Wheel & Off Road				RBZ0000015	0	Monthly	2500	Active		
-400 Calories or Less: Easy Italian				RBZ0000016	0	Monthly	500	Active		
+25 Beautiful Homes				RBZ0000011	0	Annually	Unlimited	Active		
+3D World				RBZ0000014	0	Annually	Unlimited	Active		
+4 Wheel & Off Road				RBZ0000015	0	Annually	Unlimited	Active		
+400 Calories or Less: Easy Italian				RBZ0000016	0	Annually	Unlimited	Active		
 50 Great British Locomotives				RBZ0000019	0	Monthly	2500	Active		
-52 Bracelets				RBZ0000020	0	Monthly	2500	Active		
+52 Bracelets				RBZ0000020	0	Annually	Unlimited	Active		
 5280 Magazine				RBZ0000021	0	Monthly	2500	Active		
 7 Jours				RBZ0000022	0	Weekly	2500	Active		
 Affaires Plus (A+)				RBZ0000023	0	Monthly	2500	Active		

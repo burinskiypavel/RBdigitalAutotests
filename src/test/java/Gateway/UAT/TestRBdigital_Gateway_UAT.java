@@ -163,7 +163,7 @@ public class TestRBdigital_Gateway_UAT extends BaseClass_TestRBDigital_Gateway {
                 .SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openComicsReadingPageProd(389796);
+                .openComicsReadingPage(389796);
         String comicsUrl2 = getCurrentUrl();
         readingPage.openComicsPageFromTableOfContents(389796, 4);
         readingPage.openBookmarks();
@@ -416,7 +416,7 @@ public class TestRBdigital_Gateway_UAT extends BaseClass_TestRBDigital_Gateway {
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("language_search_line")));
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='english']")));
         SelectFromSelectByIdAndValue("language_search_line", "english");
-        magazinePage.SelectMagazine("//img[@alt='Judge Dredd, Vol. 2']");
+        magazinePage.SelectMagazine("//img[@alt='Angel: Masks']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: English')]")));
 
         Assert.assertTrue(driver.findElement(By.xpath("//p[contains(text(), 'language: English')]")).isDisplayed());

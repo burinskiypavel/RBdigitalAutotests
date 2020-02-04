@@ -1,7 +1,7 @@
 For Period: from 01/01/2017 to 01/01/2017
 Title	Barcode	Email	Library	RBID	Checkouts	Time Period	Current Issue Default	Status	Checkout Date	Issue Date
 Maclean's				RBZ0000553	0	Annually	Unlimited	Inactive		
-$10 DINNERS (OR LESS!)				RBZ0000001	0	Monthly	500	Active		
+$10 DINNERS (OR LESS!)				RBZ0000001	0	Annually	Unlimited	Active		
 net				RBZ0000002	0	Monthly	500	Active		
 100 Best Cookies				RBZ0000003	0	Monthly	500	Inactive		
 100 Decorating Ideas				RBZ0000004	0	Monthly	500	Inactive		
@@ -10,11 +10,11 @@ net				RBZ0000002	0	Monthly	500	Active
 100 Biker				RBZ0000007	0	Monthly	2500	Active		
 Create Jewelry: 101 All-New Designs				RBZ0000008	0	Monthly	2500	Active		
 15 a 20				RBZ0000009	0	Monthly	2500	Inactive		
-220 Triathlon				RBZ0000010	0	Monthly	2500	Inactive		
-25 Beautiful Homes				RBZ0000011	0	Monthly	2500	Active		
+220 Triathlon				RBZ0000010	0	Annually	Unlimited	Active		
+25 Beautiful Homes				RBZ0000011	0	Annually	Unlimited	Active		
 Beautiful Kitchens				RBZ0000012	0	Monthly	2500	Inactive		
 30 Minute Dinners				RBZ0000013	0	Monthly	500	Inactive		
-3D World				RBZ0000014	0	Monthly	500	Active		
-4 Wheel & Off Road				RBZ0000015	0	Monthly	2500	Active		
-400 Calories or Less: Easy Italian				RBZ0000016	0	Monthly	500	Active		
-4Ruedas				RBZ0000017	0	Monthly	2500	Active		
+3D World				RBZ0000014	0	Annually	Unlimited	Active		
+4 Wheel & Off Road				RBZ0000015	0	Annually	Unlimited	Active		
+400 Calories or Less: Easy Italian				RBZ0000016	0	Annually	Unlimited	Active		
+4Ruedas				RBZ0000017	0	Annually	Unlimited	Active		

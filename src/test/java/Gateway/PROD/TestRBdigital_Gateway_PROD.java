@@ -136,40 +136,40 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
                 .SelectMagazine("//img[@alt='Us Weekly']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPageProd(480729);
+                .openMagazineReadingPageProd(480731);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(480729, 4);
+        readingPage.openMagazinePageFromTableOfContents(480731, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/480729/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/480731/Cover");
     }
 
     @Test
     void test_07_MagazineCheckoutAndReturnAreAvailable() throws InterruptedException {
         mainPage.Login("oct10@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
-                .SelectMagazine("//img[@alt='YouTube Vlogging The Complete Manual']")
+                .SelectMagazine("//img[@alt='AppleMagazine']")
                 .PressCheckoutBtn()
                 .pressKeepBrowsingBtn()
                 .OpenMyCollection();
         collectionPage.returnMagazineOrComics();
 
-        commonSteps.thenIShouldNotSee("YouTube Vlogging The Complete Manual");
+        commonSteps.thenIShouldNotSee("AppleMagazine");
     }
 
     @Test
     void test_08_ComicCheckoutAndReadAreAvailable() throws InterruptedException {
         mainPage.Login("oct10@gmail.com", "12345qw");
         comicPage.OpenComicsPage()
-                .SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']")
+                .SelectComics("//img[@alt='Judge Dredd, Vol. 2']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openComicsReadingPageProd(389796);
+                .openComicsReadingPageProd(387508);
         String comicsUrl2 = getCurrentUrl();
-        readingPage.openComicsPageFromTableOfContents(389796, 4);
+        readingPage.openComicsPageFromTableOfContents(387508, 4);
         readingPage.openBookmarks();
         String actualText = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
 
-        checkUrlContains(comicsUrl2, "com/reader.php#/reader/readsvg/389796/Cover");
+        checkUrlContains(comicsUrl2, "com/reader.php#/reader/readsvg/387508/Cover");
         checkTextContains(actualText, "Select the page you want to bookmark");
     }
 

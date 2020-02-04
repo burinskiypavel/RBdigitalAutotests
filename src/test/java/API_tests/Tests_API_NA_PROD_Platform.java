@@ -32,7 +32,7 @@ public class Tests_API_NA_PROD_Platform {
     @Test
     public void test_magazineCheckout_return() throws UnirestException {
         SoftAssert softAssert = new SoftAssert();
-        HttpResponse <JsonNode> response = Unirest.post("https://api.rbdigital.com/v2/patron-magazines/191099")
+        HttpResponse <JsonNode> response = Unirest.post("https://api.rbdigital.com/v2/patron-magazines/468091")
                 .header("authorization", "bearer " + bearer + "")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
                 .asJson();
@@ -45,7 +45,7 @@ public class Tests_API_NA_PROD_Platform {
         softAssert.assertEquals(response.getStatus(), 200, "ERROR - status is not 200");
 
         //magazine return
-        HttpResponse <String> postResponse2 = Unirest.delete("https://api.rbdigital.com/v2/patron-magazines/191099")
+        HttpResponse <String> postResponse2 = Unirest.delete("https://api.rbdigital.com/v2/patron-magazines/468091")
                 .header("authorization", "bearer " + bearer + "")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
                 //.asJson();
@@ -63,7 +63,7 @@ public class Tests_API_NA_PROD_Platform {
     public void test_comicCheckout_Return() throws UnirestException {
         SoftAssert softAssert = new SoftAssert();
         //checkout
-        HttpResponse <JsonNode> response = Unirest.post("https://api.rbdigital.com/v1/patron-comics/387432")
+        HttpResponse <JsonNode> response = Unirest.post("https://api.rbdigital.com/v1/patron-comics/456238")
                 .header("authorization", "bearer " + bearer + "")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
                 .asJson();
@@ -76,7 +76,7 @@ public class Tests_API_NA_PROD_Platform {
         softAssert.assertEquals(response.getStatus(), 200, "ERROR - status is not 200");
 
         //return
-        HttpResponse <String> deleteResponse2 = Unirest.delete("https://api.rbdigital.com/v1/patron-comics/387432")
+        HttpResponse <String> deleteResponse2 = Unirest.delete("https://api.rbdigital.com/v1/patron-comics/456238")
                 .header("authorization", "bearer " + bearer + "")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
                 //.body("{\"PatronIdentifier\": \"qauser\", \"PatronSecret\" : \"password1\", \"LibraryId\": 1062, \"Source\": \"OneClick\", \"authState\": \"auth_internal\"}")
@@ -142,7 +142,7 @@ public class Tests_API_NA_PROD_Platform {
     public void test_ebookCheckout_Renew_ReturnCheckout() throws UnirestException {
         SoftAssert softAssert = new SoftAssert();
         //checkout
-        HttpResponse <JsonNode> response = Unirest.post("https://api.rbdigital.com/v1/patron-books/checkouts/9780316422833?days=14")
+        HttpResponse <JsonNode> response = Unirest.post("https://api.rbdigital.com/v1/patron-books/checkouts/9780786034857?days=14")
                 .header("authorization", "bearer " + bearer + "")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
                 .asJson();
@@ -156,7 +156,7 @@ public class Tests_API_NA_PROD_Platform {
         softAssert.assertEquals("success", response.getBody().getObject().getString("message"), "ERROR - message is not success");
 
         //renew
-        HttpResponse <JsonNode> postResponse2 = Unirest.put("https://api.rbdigital.com/v1/patron-books/checkouts/9780316422833")
+        HttpResponse <JsonNode> postResponse2 = Unirest.put("https://api.rbdigital.com/v1/patron-books/checkouts/9780786034857")
                 .header("authorization", "bearer " + bearer + "")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
                 .asJson();
@@ -169,7 +169,7 @@ public class Tests_API_NA_PROD_Platform {
         softAssert.assertEquals(postResponse2.getStatus(), 200, "ERROR - status is not 200");
 
         //delete
-        HttpResponse <JsonNode> response3 = Unirest.delete("https://api.rbdigital.com/v1/patron-books/checkouts/9780316422833")
+        HttpResponse <JsonNode> response3 = Unirest.delete("https://api.rbdigital.com/v1/patron-books/checkouts/9780786034857")
                 .header("authorization", "bearer " + bearer + "")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")
                 .asJson();
