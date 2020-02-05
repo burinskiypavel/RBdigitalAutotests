@@ -131,7 +131,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Air & Space	RBZ0010076	11/30/2019	495000	7
 8080 Test Library	ALBA TROSS-VIEW ?????? ?????	RBZ0010177	11/11/2019	495000	11
 8080 Test Library	Alberta Views Magazine	RBZ0010073	11/30/2019	99000	9
-8080 Test Library	Algarabía	RBZ0000035	10/31/2019	495000	11
+8080 Test Library	Algarabía	RBZ0000035	10/31/2019	494999	11
 8080 Test Library	Algarabía Niños	RBZ0006474	10/31/2019	495000	6
 8080 Test Library	Algarabía Tópicos	RBZ0000037	06/01/2013	495000	1
 8080 Test Library	All About History	RBZ0006251	12/31/2019	197999	12
@@ -475,7 +475,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Body Design ???	RBZ0010023	11/03/2019	495000	3
 8080 Test Library	The Body Type Plan	RBZ0008366	10/01/2014	495000	1
 8080 Test Library	BOGA- Novias Magazine	RBZ0009204	12/01/2017	495000	1
-8080 Test Library	Bon Appetit	RBZ0005580			0
+8080 Test Library	Bon Appetit	RBZ0005580	11/30/2019	49500	10
 8080 Test Library	Bonsai Pasion	RBZ0001230	09/30/2019	495000	4
 8080 Test Library	Book Of Disasters	RBZ0008992	09/01/2016	495000	1
 8080 Test Library	Bowhunter	RBZ0009164	12/31/2019	99000	9
@@ -3721,4 +3721,4 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	??????	RBZ0007009	09/05/2019	Unlimited	3
 8080 Test Library	????????	RBZ0002669	11/24/2019	495000	41
 8080 Test Library	??????	RBZ0004151	11/24/2019	495000	45
-Total	1375882092	18410
+Total	1375931591	18420

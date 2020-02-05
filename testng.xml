@@ -11,7 +11,8 @@
          <class name="API_tests.Tests_API_NA_PROD_Platform" />
          <class name="API_tests.Tests_API_NA_QA_Platform" />
          <class name="Gateway.PROD.TestRBdigital_Gateway_PROD" />
-
+         <class name="Gateway.UAT.TestRBdigital_Gateway_UAT" />
+         <class name="Gateway.STAGE.TestRBdigital_Gateway_Stage" />
 
      </classes>
 
