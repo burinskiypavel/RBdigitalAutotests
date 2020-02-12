@@ -1,7 +1,7 @@
 Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	$10 DINNERS (OR LESS!)	RBZ0000001	02/01/2012	99000	1
 8080 Test Library	(inside) interior design review	RBZ0002688	08/31/2019	495000	3
-8080 Test Library	.net CSS Design Essentials	RBZ0003796	09/01/2011	99000	1
+8080 Test Library	.net CSS Design Essentials	RBZ0003796	09/01/2011	98999	1
 8080 Test Library	0024 Horloges	RBZ0002360	11/30/2018	494999	1
 8080 Test Library	01net	RBZ0001638			0
 8080 Test Library	10 Minute Pilates	RBZ0007447	05/01/2014	495000	1
@@ -2915,7 +2915,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Shooting Gazette	RBZ0006695	11/30/2019	495000	11
 8080 Test Library	Shooting Times	RBZ0009289	01/31/2020	99000	11
 8080 Test Library	Shooting Times & Country	RBZ0006652	11/26/2019	495000	48
-8080 Test Library	Shop Talk!	RBZ0010246	10/31/2019	98998	11
+8080 Test Library	Shop Talk!	RBZ0010246	10/31/2019	98997	11
 8080 Test Library	Shopping Design ?????	RBZ0004244	11/08/2019	495000	11
 8080 Test Library	Shortcut Desserts: 123 Yummy Easiest-Ever Recipes	RBZ0000756	09/01/2011	99000	1
 8080 Test Library	ShowBoats International	RBZ0002814	10/31/2019	495000	11
@@ -3663,7 +3663,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Youth Juvenile Monthly ????	RBZ0006284	10/31/2019	495000	10
 8080 Test Library	Youth literary Monthly ????	RBZ0006285	10/31/2019	495000	10
 8080 Test Library	YouTube Vlogging The Complete Manual	RBZ0008062	06/01/2015	198000	1
-8080 Test Library	Zen et bien dans ma vie	RBZ0010041	06/30/2019	494998	5
+8080 Test Library	Zen et bien dans ma vie	RBZ0010041	06/30/2019	494999	5
 8080 Test Library	Zest's Best Body Manual	RBZ0006205	05/01/2013	495000	1
 8080 Test Library	Zest. Healthy You Manual	RBZ0006728	10/01/2013	495000	1
 8080 Test Library	Zigzag	RBZ0002599	10/31/2019	495000	8
@@ -3721,4 +3721,4 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	??????	RBZ0007009	09/05/2019	Unlimited	3
 8080 Test Library	????????	RBZ0002669	11/24/2019	495000	41
 8080 Test Library	??????	RBZ0004151	11/24/2019	495000	45
-Total	1375931591	18420
+Total	1375931590	18420

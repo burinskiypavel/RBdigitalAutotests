@@ -24,7 +24,7 @@ public class TestServicesCheckouts_QA extends BaseClass_TestServiceCheckout {
 
     @Test
     void test_02_artistWorksService_test51() throws InterruptedException {
-        login("jan16@gmail.com", "12345qw");
+        login("feb12@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/artistworks']");
         pressGetStartedButton();
         //checkURL("https://test-mb3-awd7.pantheonsite.io/");
@@ -33,7 +33,7 @@ public class TestServicesCheckouts_QA extends BaseClass_TestServiceCheckout {
 
     @Test
     void test_03_newspapers_test51() throws InterruptedException {
-        login("jan16@gmail.com", "12345qw");
+        login("feb12@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/newspapers']");
         pressGetStartedButton();
         //checkURL("https://www.beta.pressreader.com/catalog");
@@ -43,7 +43,7 @@ public class TestServicesCheckouts_QA extends BaseClass_TestServiceCheckout {
 
     @Test
     void test_04_magazines_test51() throws InterruptedException {
-        login("jan16@gmail.com", "12345qw");
+        login("feb12@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/magazines']");
         pressGetStartedButton();
         checkURL("https://www.rbdigitalqa.com/test51/service/magazines/landing?");
@@ -53,7 +53,7 @@ public class TestServicesCheckouts_QA extends BaseClass_TestServiceCheckout {
 
     @Test
     void test_05_comics_test51() throws InterruptedException {
-        login("jan16@gmail.com", "12345qw");
+        login("feb12@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/comics']");
         pressGetStartedButton();
         checkURL("https://www.rbdigitalqa.com/test51/service/comics/landing?");
@@ -63,7 +63,7 @@ public class TestServicesCheckouts_QA extends BaseClass_TestServiceCheckout {
 
     @Test
     void test_06_pongalo_test51() throws InterruptedException {
-        login("jan16@gmail.com", "12345qw");
+        login("feb12@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/pongalo']");
         pressGetStartedButton();
         checkURLcontains("https://frontend-dev.pongalo.com/recorded-books/");
