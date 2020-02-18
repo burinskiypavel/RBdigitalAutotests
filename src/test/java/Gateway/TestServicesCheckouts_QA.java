@@ -106,7 +106,8 @@ public class TestServicesCheckouts_QA extends BaseClass_TestServiceCheckout {
         pressGetStartedButton();
         checkURLcontains("https://learnit.hoonuit.com");
         Thread.sleep(3000);
-        wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector("//*[contains(text(), 'Pathways')]")));
+        //wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//*[contains(text(), 'Pathways')]")));
+        wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//h2[contains(text(), 'Pathways')]")));
         checkText("Pathways");
     }
 

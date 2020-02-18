@@ -14,7 +14,7 @@ North America	Ohio	Akron Summit County Public Library		dmcdonald1	10/01/2016	09/
 North America	Florida	Alachua County Library District		Doss	10/01/2016	09/30/2017	Inactive	
 North America	North Carolina	Alamance County Public Libraries		swilliams1	07/01/2016	06/30/2017	Inactive	
 North America	California	Alameda County Library	1724394	hyena	10/01/2016	09/30/2017	Inactive	ACORN TV , IF, Pongalo, TGC
-North America	New Mexico	Albuquerque Bernalillo County Library	7033942	cstrickland	11/01/2016	10/31/2017	Inactive	
+North America	New Mexico	Albuquerque Bernalillo County Library	7033942	mears	11/01/2016	10/31/2017	Inactive	
 North America	British Columbia	Alert Bay Public Library	7149971	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative-7040759
-North America	Virginia	Alexandria Library	7040823	Doss	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
+North America	Virginia	Alexandria Library	7040823	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
 North America	Illinois	Algonquin Area Public Library	7034044	mhaddadnull	10/01/2016	09/30/2017	Inactive	

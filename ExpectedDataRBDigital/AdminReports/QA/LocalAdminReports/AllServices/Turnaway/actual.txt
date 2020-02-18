@@ -1,4 +1,4 @@
-Service	License Type	Library Name	Barcode	Email	Library	Licenses #	Description	Monthly Patron Cap	Overall Cap	Group Cap	Patron Cap	Service Cap	Turnaway Reason	Total Turnaways
+Service	License Type	Library Name	Barcode	Email	Branch	Licenses #	Description	Monthly Patron Cap	Overall Cap	Group Cap	Patron Cap	Service Cap	Turnaway Reason	Total Turnaways
 indieflix	7-day	8080 Test Library		bsmoot@recordedbooks.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	3
 indieflix	7-day	8080 Test Library		exampl5@example.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	5
 indieflix	7-day	8080 Test Library		exampl6@example.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	2
@@ -63,6 +63,6 @@ indieflix	7-day	8080 Test Library		v.2712.200013@gmail.com		204	test Test	99999	
 indieflix	7-day	8080 Test Library		v.2712.200416@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
 indieflix	7-day	8080 Test Library		worker1121@xymail.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	7
 indieflix	7-day	8080 Test Library		ymelnik@envionsoftware.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	4
-indieflix	7-day	8080 Test Library	qwerty	avolkov@envionsoftware.com	test	204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	2
-method-test-prep	7-day	8080 Test Library	qwerty	avolkov@envionsoftware.com	test	42	licenses for internal testing	99999	99999	1000	1000	999999	Monthly Patron Cap	1
+indieflix	7-day	8080 Test Library	qwerty	avolkov@envionsoftware.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	2
+method-test-prep	7-day	8080 Test Library	qwerty	avolkov@envionsoftware.com		42	licenses for internal testing	99999	99999	1000	1000	999999	Monthly Patron Cap	1
 Total	155

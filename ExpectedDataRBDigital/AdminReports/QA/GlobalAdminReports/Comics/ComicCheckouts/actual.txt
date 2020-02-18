@@ -1,5 +1,5 @@
 For Period: from 01/01/2017 to 01/22/2017
-Title	Barcode	Email	Library	RBID	Checkouts	Time Period	Current Issue Default	Status
+Title	Barcode	Email	Branch	RBID	Checkouts	Time Period	Current Issue Default	Status
 Army of Two, Vol. 1: Across The Border				RBC0389796	0	Monthly	25	Active
 Black Dynamite				RBC0389797	0	Monthly	25	Active
 Crysis				RBC0389798	0	Monthly	25	Active

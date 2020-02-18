@@ -105,7 +105,7 @@ public class TestLocalAdmin_QA {
     public void test_02_licenses_updateWeeklyOverallPatronCap() throws InterruptedException {
         adminPage.updateWeeklyOverallPatronCap("0");
         driver.navigate().to("https://www.rbdigitalqa.com/test51");
-        mainPage.Login("sep18b@gmail.com", "12345qw")
+        mainPage.Login("feb12z@gmail.com", "12345qw")
                 .goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/indieflix']");
         servicePage.pressGetStartedButton();
         adminPage.checkAlertModal("You have exceeded the number of services that you can access through your library this week.");
@@ -117,7 +117,7 @@ public class TestLocalAdmin_QA {
         driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
         adminPage.updateMonthlyOverallPatronCap("0");
         driver.navigate().to("https://www.rbdigitalqa.com/test51");
-        mainPage.Login("sep18b@gmail.com", "12345qw")
+        mainPage.Login("feb12z@gmail.com", "12345qw")
                 .goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/indieflix']");
         servicePage.pressGetStartedButton();
         adminPage.checkAlertModal("You have exceeded the number of services that you can access through your library this month.");
@@ -182,14 +182,14 @@ public class TestLocalAdmin_QA {
     @Test
     public void test_07_updatePatronPassword() throws InterruptedException {
         adminPage = new AdminPage(driver).openPatronTab()
-                .searchPatron("d@mail.ru")
+                .searchPatron("adrianalexe15@yahoo.com")
                 .pressModify()
                 .updatePatronPassword("12345qw");
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
-        mainPage.Login("d@mail.ru", "12345qw");
+        mainPage.Login("adrianalexe15@yahoo.com", "12345qw");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("profile")));
         Assert.assertTrue(driver.findElement(By.id("profile")).isDisplayed());
     }
@@ -197,14 +197,14 @@ public class TestLocalAdmin_QA {
     @Test
     public void test_08_updatePatronPasswordBack() throws InterruptedException {
         adminPage = new AdminPage(driver).openPatronTab()
-                .searchPatron("d@mail.ru")
+                .searchPatron("adrianalexe15@yahoo.com")
                 .pressModify()
                 .updatePatronPassword("qw12345");
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
-        mainPage.Login("d@mail.ru", "qw12345");
+        mainPage.Login("adrianalexe15@yahoo.com", "qw12345");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("profile")));
         Assert.assertTrue(driver.findElement(By.id("profile")).isDisplayed());
     }
@@ -230,12 +230,12 @@ public class TestLocalAdmin_QA {
     @Test
     public void test_10_imposibleLoginWithInactiveUser() throws InterruptedException {
         adminPage = new AdminPage(driver).openPatronTab()
-                .searchPatron("11_27_2019_16_08@gmail.com")
+                .searchPatron("02_17_2020_12_49@gmail.com")
                 .showInactiveUsers();
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("input[type='checkbox']")));
         driver.findElement(By.cssSelector("input[type='checkbox']")).click();
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
-        mainPage.LoginUnsuccessful("11_27_2019_16_08@gmail.com", "12345qw");//kdeamandel@asdads.nl
+        mainPage.LoginUnsuccessful("02_17_2020_12_49@gmail.com", "12345qw");//kdeamandel@asdads.nl
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("div[class='error']")));
         String errorText = driver.findElement(By.cssSelector("div[class='error']")).getText();
         Assert.assertEquals(errorText, "Your account is blocked");
@@ -244,15 +244,15 @@ public class TestLocalAdmin_QA {
     @Test
     public void test_11_posibleLoginWithActiveUser() throws InterruptedException {
         adminPage = new AdminPage(driver).openPatronTab()
-                .searchPatron("11_27_2019_16_08@gmail.com")
+                .searchPatron("02_17_2020_12_49@gmail.com")
                 .showInactiveUsers();
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("input[type='checkbox']")));
         driver.findElement(By.cssSelector("input[type='checkbox']")).click();
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
-        mainPage.Login("11_27_2019_16_08@gmail.com", "12345qw");
+        mainPage.Login("02_17_2020_12_49@gmail.com", "12345qw");
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("div[class='welcome']")));
         String welcomeText = driver.findElement(By.cssSelector("div[class='welcome']")).getText();
-        Assert.assertEquals(welcomeText, "Welcome, 11_27_2019_16_08");
+        Assert.assertEquals(welcomeText, "Welcome, 02_17_2020_12_49");
     }
 
     @Test

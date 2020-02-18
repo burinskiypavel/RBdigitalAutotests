@@ -1,4 +1,4 @@
-Title	Barcode	Email	Library	RBID	Checkouts	Time Period	Current Issue Default	Status	Checkout Date	Issue Date
+Title	Barcode	Email	Branch	RBID	Checkouts	Time Period	Current Issue Default	Status	Checkout Date	Issue Date
 $10 DINNERS (OR LESS!)				RBZ0000001	0	Annually	Unlimited	Active		
 net				RBZ0000002	0	Monthly	500	Active		
 100 Biker				RBZ0000007	0	Monthly	2500	Active		

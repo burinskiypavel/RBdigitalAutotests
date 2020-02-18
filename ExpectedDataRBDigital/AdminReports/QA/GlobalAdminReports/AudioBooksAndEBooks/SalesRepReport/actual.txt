@@ -1,5 +1,5 @@
 Screen Name	Email	Library	AccountId	Country	State	Start Date	End Date	System Name
-BryanMessersmith	bmessersmith@recordedbooks.com	Lake Oswego Public Library		US	Oregon	07/26/2013	07/31/2014	
-BryanMessersmith	bmessersmith@recordedbooks.com	Deschutes Public Library		US	Oregon	06/19/2013	06/30/2014	
 BryanMessersmith	bmessersmith@recordedbooks.com	Eugene Public Library		US	Oregon	07/02/2012	03/31/2014	
+Mark Ransdell	mransdell@recordedbooks.com	Lake Oswego Public Library		US	Oregon	07/26/2013	07/31/2014	
+Mark Ransdell	mransdell@recordedbooks.com	Deschutes Public Library		US	Oregon	06/19/2013	06/30/2014	
 Total	3

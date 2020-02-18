@@ -1,5 +1,5 @@
 For Period: from 05/21/2017 to 07/01/2018
-Service	License Type	Library Name	Title	Barcode	Email	Library	Views	Notes
+Service	License Type	Library Name	Title	Barcode	Email	Branch	Views	Notes
 qello	7-day	8080 Test Library	Lang Lang - Live in Vienna (Part 1)		simon.cox@wfhowes.co.uk		2	
 qello	7-day	8080 Test Library	Earth Wind And Fire - Live in Japan 1990		jan8@email.com		1	
 qello	7-day	8080 Test Library	The Cleveland Orchestra Franz Welser-Möst - Live at Carnegie Hall, NY		worker1130WAS@email.com		1	

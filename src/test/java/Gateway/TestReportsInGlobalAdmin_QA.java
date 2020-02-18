@@ -264,7 +264,7 @@ public class TestReportsInGlobalAdmin_QA {
         Assert.assertEquals(actualReport, expectedReport);
     }
 
-    @Test
+    @Test(enabled = false)
     void Test_17_Magazines_ArticleSearchCheckouts() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "magazines");
         adminPage.OpenReport("//a[contains(text(), 'Article Search Checkouts')]");

@@ -1,5 +1,5 @@
 For Period: from 01/01/2017 to 01/22/2017
-Barcode	Email	Library	Game Title	PEGI Rating	Publisher	Pin Code Activation Date	Pin Code	Downloads
+Barcode	Email	Branch	Game Title	PEGI Rating	Publisher	Pin Code Activation Date	Pin Code	Downloads
 	dmcdonald@recordedbooks.com		Spider Mania Solitaire (PC)	PEGI 12	Anuman Interactive	03/11/2016	98-6829f	67
 	raysanti1120@gmail.com		Airport Simulator (PC)	PEGI 7	Libredia	01/10/2017	170-90cf5	21
 	jyoung2@pct.edu		Prison Tycoon 4 (PC)	PEGI 16	Licensed 4U	12/06/2016	170-ba088	18

@@ -1,4 +1,4 @@
-Service	Date	Library Name	Library Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
+Service	Date	Library Name	Library Nickname	Account #	Billing Account #	Barcode	Email	Branch	License Type	Notes	Tokens Issued	Views
 indieflix	01/03/2018	8080 Test Library	test51				gustavogiudici@gmail.com		7-day		1	0
 acorntv	01/04/2018	8080 Test Library	test51				testbb201712011315@email.com	fixed format goodness	7-day		1	0
 qello	01/04/2018	8080 Test Library	test51				testbb201712011315@email.com	fixed format goodness	30-day		1	0

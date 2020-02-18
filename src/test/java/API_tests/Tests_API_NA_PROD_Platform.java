@@ -53,7 +53,7 @@ public class Tests_API_NA_PROD_Platform {
         //.getBody();
         System.out.println(postResponse2.getBody());
         //Assert.assertEquals (postResponse2.getStatus(), 202);
-       // Assert.assertNotNull(postResponse2.getBody());
+        // Assert.assertNotNull(postResponse2.getBody());
         softAssert.assertNotNull(postResponse2.getBody(), "ERROR - response is empty");
         softAssert.assertEquals(postResponse2.getStatus(), 200, "ERROR - status is not 200");
         softAssert.assertAll();
@@ -253,4 +253,24 @@ public class Tests_API_NA_PROD_Platform {
         softAssert.assertEquals("success", postResponse.getBody().getObject().getString("message"), "ERROR - message is not success");
         softAssert.assertAll();
     }
+
+    @Test
+    public void test_updateFirstNameLastNameInProfile_returnChengesBack() throws UnirestException {
+        SoftAssert softAssert = new SoftAssert();
+        HttpResponse <JsonNode> response = Unirest.put("https://api.rbdigital.com/v1/account")
+                .header("authorization", "bearer " + bearer + "")
+                .header("Content-Type", "application/json")
+                .body("{ \"userName\": \"qauser\" , \"firstName\": \"qauser1\", \"lastName\": \"qauser1\", \"postalCode\": 12345, \"email\": \"smalick@recordedbooks.com\", \"termsPrivacyId\": 3, \"verifyAge\": false, \"commOptio\": 1 }")
+                .asJson();
+        //.asString();
+        //.getBody();
+        System.out.println(response.getBody());
+        //Assert.assertEquals(response.getStatus(), 200);
+        //Assert.assertNotNull(response.getBody());
+        softAssert.assertNotNull(response.getBody(), "ERROR - response is empty");
+        softAssert.assertEquals(response.getStatus(), 200, "ERROR - status is not 200");
+
+        softAssert.assertEquals("qauser1", response.getBody().getObject().getString("firstName"), "ERROR - firstName is not correct");
+        softAssert.assertEquals("qauser1", response.getBody().getObject().getString("lastName"), "ERROR - lastName is not correct");
     }
+}

@@ -1,5 +1,5 @@
 For Period: from 01/01/2017 to 01/01/2017
-Title	Barcode	Email	Library	RBID	Checkouts	Time Period	Current Issue Default	Status	Checkout Date	Issue Date
+Title	Barcode	Email	Branch	RBID	Checkouts	Time Period	Current Issue Default	Status	Checkout Date	Issue Date
 Maclean's				RBZ0000553	0	Annually	Unlimited	Inactive		
 $10 DINNERS (OR LESS!)				RBZ0000001	0	Annually	Unlimited	Active		
 net				RBZ0000002	0	Monthly	500	Active		

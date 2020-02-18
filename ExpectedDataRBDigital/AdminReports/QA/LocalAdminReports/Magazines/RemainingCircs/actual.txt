@@ -1065,7 +1065,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Esquire - España	RBZ0001640	11/30/2019	495000	11
 8080 Test Library	Esquire - Mexico	RBZ0000348	10/31/2019	495000	9
 8080 Test Library	Esquire Summer Style Guide 2013	RBZ0006206	06/01/2013	495000	1
-8080 Test Library	Esquire Taiwan ??????	RBZ0005080	11/12/2019	494999	11
+8080 Test Library	Esquire Taiwan ??????	RBZ0005080	11/12/2019	495000	11
 8080 Test Library	Esquire UK	RBZ0000349	10/31/2019	495000	5
 8080 Test Library	Esquire: The Big Black Book	RBZ0005937	03/01/2016	495000	1
 8080 Test Library	Esquire: The Big Watch Book	RBZ0000350	09/30/2018	495000	1
@@ -2915,7 +2915,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Shooting Gazette	RBZ0006695	11/30/2019	495000	11
 8080 Test Library	Shooting Times	RBZ0009289	01/31/2020	99000	11
 8080 Test Library	Shooting Times & Country	RBZ0006652	11/26/2019	495000	48
-8080 Test Library	Shop Talk!	RBZ0010246	10/31/2019	98997	11
+8080 Test Library	Shop Talk!	RBZ0010246	10/31/2019	98998	11
 8080 Test Library	Shopping Design ?????	RBZ0004244	11/08/2019	495000	11
 8080 Test Library	Shortcut Desserts: 123 Yummy Easiest-Ever Recipes	RBZ0000756	09/01/2011	99000	1
 8080 Test Library	ShowBoats International	RBZ0002814	10/31/2019	495000	11
@@ -3663,7 +3663,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Youth Juvenile Monthly ????	RBZ0006284	10/31/2019	495000	10
 8080 Test Library	Youth literary Monthly ????	RBZ0006285	10/31/2019	495000	10
 8080 Test Library	YouTube Vlogging The Complete Manual	RBZ0008062	06/01/2015	198000	1
-8080 Test Library	Zen et bien dans ma vie	RBZ0010041	06/30/2019	494999	5
+8080 Test Library	Zen et bien dans ma vie	RBZ0010041	06/30/2019	494997	5
 8080 Test Library	Zest's Best Body Manual	RBZ0006205	05/01/2013	495000	1
 8080 Test Library	Zest. Healthy You Manual	RBZ0006728	10/01/2013	495000	1
 8080 Test Library	Zigzag	RBZ0002599	10/31/2019	495000	8

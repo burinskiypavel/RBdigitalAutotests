@@ -148,7 +148,7 @@ public class TestReportsInLocalAdmin_QA {
         Assert.assertEquals(actualReport, expectedReport);
     }
 
-    @Test
+    @Test(enabled = false)
     void Test_06_Magazines_ArticleSearchCheckouts() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "magazines");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//span[contains(text(), 'Article Search Checkouts')]")));

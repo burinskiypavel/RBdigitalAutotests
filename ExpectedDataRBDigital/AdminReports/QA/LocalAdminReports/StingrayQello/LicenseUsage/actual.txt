@@ -1,9 +1,9 @@
 For Period: from 05/21/2017 to 07/01/2018
-Service	Date	Library Name	Library Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
+Service	Date	Library Name	Library Nickname	Account #	Billing Account #	Barcode	Email	Branch	License Type	Notes	Tokens Issued	Views
 qello	08/30/2017	8080 Test Library	test51				international@email.com		30-day		1	0
 qello	08/30/2017	8080 Test Library	test51				qa@qa.qa		30-day		1	0
 qello	10/20/2017	8080 Test Library	test51				gustavo@indieflix.com		30-day		1	0
-qello	10/20/2017	8080 Test Library	test51			qwerty	avolkov@envionsoftware.com	test	30-day		1	0
+qello	10/20/2017	8080 Test Library	test51			qwerty	avolkov@envionsoftware.com		30-day		1	0
 qello	10/31/2017	8080 Test Library	test51				v-1031-1542@gmail.com		30-day		1	0
 qello	10/31/2017	8080 Test Library	test51			98765678999	v-1031-1458@gmail.com		30-day		1	0
 qello	11/01/2017	8080 Test Library	test51				v-1101-958@gmail.com		30-day		1	0
@@ -87,7 +87,7 @@ qello	03/29/2018	8080 Test Library	test51				slacker1130@xymail.com		7-day		1	0
 qello	03/29/2018	8080 Test Library	test51				worker1130WAS@email.com		7-day		1	1
 qello	04/03/2018	8080 Test Library	test51				sunnyinfo2@gmail.com		7-day		1	0
 qello	04/20/2018	8080 Test Library	test51				slacker1129WAS@email.com		7-day		1	0
-qello	05/07/2018	8080 Test Library	test51			qwerty	avolkov@envionsoftware.com	test	7-day		1	0
+qello	05/07/2018	8080 Test Library	test51			qwerty	avolkov@envionsoftware.com		7-day		1	0
 qello	05/22/2018	8080 Test Library	test51			0211gdpr01	gdpr01@email.com		7-day		1	0
 qello	06/04/2018	8080 Test Library	test51				worker1124WAS@email.com		7-day		1	0
 qello	06/11/2018	8080 Test Library	test51				dataneupane@gmail.com		7-day		1	0
