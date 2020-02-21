@@ -93,7 +93,7 @@ public class AdminPage {
     @FindBy(xpath = "//a[contains(text(), 'Turnaway')]")
     public WebElement turnaway;
 
-    @FindBy(xpath = "//a[contains(text(), 'Magazine Checkouts')]")
+    @FindBy(xpath = "//span[contains(text(), 'Magazine Checkouts')]")
     public WebElement magazineCheckoutsReport;
 
     @FindBy(xpath = "//a[contains(text(), 'Turnaway')]")
@@ -586,7 +586,7 @@ public class AdminPage {
         wait.until(ExpectedConditions.elementToBeClickable(By.id("submitButton")));
         driver.findElement(By.id("submitButton")).click();
         Thread.sleep(1500);
-        wait.until(ExpectedConditions.elementToBeClickable(By.id("search_button")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//li[contains(text(), 'Success')]")));
         return this;
     }
 

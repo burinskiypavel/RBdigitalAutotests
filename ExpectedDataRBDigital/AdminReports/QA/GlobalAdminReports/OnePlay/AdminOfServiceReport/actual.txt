@@ -12,4 +12,9 @@ QA	qatest@gmail.com	RBdigital Internal Library	test	US	Maryland
 qatest	qatest@recordedbooks.com	RBdigital Internal Library	test	US	Maryland	
 Kevin Deamandel	kevin@deamandel.co	RBdigital Internal Library	test	US	Maryland	
 jul10admin	jul10admin@gmail.com	RBdigital Internal Library	test	US	Maryland	
-Total	13
+libraryAdminPavel	libraryAdminPavel@gmail.com	RBdigital Internal Library	test	US	Maryland	
+marcAdminPavel	marcAdminPavel@gmail.com	RBdigital Internal Library	test	US	Maryland	
+MarketingPavel	MarketingPavel@gmail.com	RBdigital Internal Library	test	US	Maryland	
+EdiPavel	EdiPavel@gmal.com	RBdigital Internal Library	test	US	Maryland	
+ITPavel	ITPavel@gmail.com	RBdigital Internal Library	test	US	Maryland	
+Total	18

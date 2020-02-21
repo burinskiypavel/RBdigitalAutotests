@@ -61,6 +61,7 @@ public class ReadingPage {
     public void openBookmarks(){
         driver.findElement(By.cssSelector("div[title = 'Bookmarks']")).click();
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("h6[class = 'ModalSubtitle-id_1k6fsov dRFabQ']")));
+        //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("h6[class = 'ModalSubtitle-id_1k6fsov dRFabQ']")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//h6[contains(text(), 'Select the page you want to bookmark')]")));
     }
 }

@@ -136,11 +136,11 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
                 .SelectMagazine("//img[@alt='Us Weekly']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPageProd(480731);
+                .openMagazineReadingPageProd(480733);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(480731, 4);
+        readingPage.openMagazinePageFromTableOfContents(480733, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/480731/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/480733/Cover");
     }
 
     @Test
@@ -424,7 +424,7 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
 
     @Test
     void test_22_ForgotPassword() throws InterruptedException {
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/");
+        driver.navigate().to("https://www.rbdigital.com/test51/");
         String timeStamp = GetTimeStamp();
         mainPage.Register("hotdog", "6659", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
         mainPage.Logout();

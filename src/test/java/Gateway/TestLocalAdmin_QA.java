@@ -127,8 +127,8 @@ public class TestLocalAdmin_QA {
     public void test_04_serviceSubscriptions_checkServicesPresent() throws IOException {
         adminPage.serviceSubscriptions.click();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//h3[contains(text(), 'Audiobook and eBook Service Subscription')]")));
-        List<String> actualReport = adminPage.GetActualDatadef("//ul[@class='left_menu']", "TestLocalAdmin/test_03_serviceSubscriptions_checkServicesPresent/actual.txt");
-        List<String> expectedReport = adminPage.GetDateFromFiledef("TestLocalAdmin/test_03_serviceSubscriptions_checkServicesPresent/expected.txt");
+        List<String> actualReport = adminPage.GetActualDatadef("//ul[@class='left_menu']", "TestRBDigital_Gateway/QA/test_04_serviceSubscriptions_checkServicesPresent/actual.txt");
+        List<String> expectedReport = adminPage.GetDateFromFiledef("TestRBDigital_Gateway/QA/test_04_serviceSubscriptions_checkServicesPresent/expected.txt");
         Assert.assertEquals(actualReport, expectedReport);
     }
 
@@ -182,14 +182,14 @@ public class TestLocalAdmin_QA {
     @Test
     public void test_07_updatePatronPassword() throws InterruptedException {
         adminPage = new AdminPage(driver).openPatronTab()
-                .searchPatron("adrianalexe15@yahoo.com")
+                .searchPatron("01_15_2020_17_56")
                 .pressModify()
                 .updatePatronPassword("12345qw");
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
-        mainPage.Login("adrianalexe15@yahoo.com", "12345qw");
+        mainPage.Login("01_15_2020_17_56", "12345qw");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("profile")));
         Assert.assertTrue(driver.findElement(By.id("profile")).isDisplayed());
     }
@@ -197,14 +197,14 @@ public class TestLocalAdmin_QA {
     @Test
     public void test_08_updatePatronPasswordBack() throws InterruptedException {
         adminPage = new AdminPage(driver).openPatronTab()
-                .searchPatron("adrianalexe15@yahoo.com")
+                .searchPatron("01_15_2020_17_56")
                 .pressModify()
                 .updatePatronPassword("qw12345");
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
-        mainPage.Login("adrianalexe15@yahoo.com", "qw12345");
+        mainPage.Login("01_15_2020_17_56", "qw12345");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("profile")));
         Assert.assertTrue(driver.findElement(By.id("profile")).isDisplayed());
     }

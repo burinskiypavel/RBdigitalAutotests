@@ -161,7 +161,7 @@ public class TestReportsInLocalAdmin_QA {
     @Test
     void Test_07_Magazines_MagazineCheckouts() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "magazines");
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//a[contains(text(), 'Magazine Checkouts')]")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//span[contains(text(), 'Magazine Checkouts')]")));
         adminPage.magazineCheckoutsReport.click();
         adminPage.SetDatesInRepot("08/01/2017", "08/01/2017");
         adminPage.SelectCheckboxes(new WebElement[] {adminPage.includeZerosCheckbox, adminPage.includeBarcodeCheckbox, adminPage.includeEmailCheckbox, adminPage.includeLibraryCheckbox, adminPage.includeInactiveCheckbox, adminPage.includeIssue});
