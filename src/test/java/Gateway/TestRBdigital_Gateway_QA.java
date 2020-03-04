@@ -130,7 +130,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
     }
 
     @Test
-    void test_06_MagazineCheckoutAndReadAreAvailable() throws InterruptedException {
+    void  test_06_MagazineCheckoutAndReadAreAvailable() throws InterruptedException {
         mainPage.Login("feb12z@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
                 .SelectMagazine("//img[@alt='Canadian Running']")

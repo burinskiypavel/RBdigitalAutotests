@@ -1,20 +1,20 @@
-Libraries that were subscribed to magazines on 01/31/2020
+Libraries that were subscribed to magazines on 02/29/2020
 Library Nickname	Official Name	State	Country	Child Library Name
 test51	8080 Test Library	Alabama	US	fixed format goodness
 test51	8080 Test Library	Alabama	US	re
-chattoogaga	Chattooga County Public Library	Georgia	US	Summerville Branch
-chattoogaga	Chattooga County Public Library	Georgia	US	Trion Public Library
-leega	Lee County Library System	Georgia	US	Leesburg Branch
-leega	Lee County Library System	Georgia	US	Oakland Branch
-leega	Lee County Library System	Georgia	US	Redbone Branch
-leega	Lee County Library System	Georgia	US	Smithville Branch
-liveoakga	Live Oak Public Libraries	Georgia	US	Bull St. Library
-liveoakga	Live Oak Public Libraries	Georgia	US	Carnegie Library
-liveoakga	Live Oak Public Libraries	Georgia	US	Forest City Library
-liveoakga	Live Oak Public Libraries	Georgia	US	Garden City Library
-liveoakga	Live Oak Public Libraries	Georgia	US	Hinesville Library
-liveoakga	Live Oak Public Libraries	Georgia	US	Islands Library
-liveoakga	Live Oak Public Libraries	Georgia	US	Midway/Riceboro Library
-liveoakga	Live Oak Public Libraries	Georgia	US	Oglethorpe Mall Library - Savannah
-liveoakga	Live Oak Public Libraries	Georgia	US	Pooler Library
-liveoakga	Live Oak Public Libraries	Georgia	US	Port City Library
+westmichiganmi	Mid-Michigan Library League	Michigan	US	Alden District Library
+westmichiganmi	Mid-Michigan Library League	Michigan	US	Big Rapids Community Library
+westmichiganmi	Mid-Michigan Library League	Michigan	US	Darcy Library of Beulah
+westmichiganmi	Mid-Michigan Library League	Michigan	US	Glen Lake Community Library
+westmichiganmi	Mid-Michigan Library League	Michigan	US	Hart Area Public Library
+westmichiganmi	Mid-Michigan Library League	Michigan	US	Leelanau Township Library
+westmichiganmi	Mid-Michigan Library League	Michigan	US	Leland Township Public Library
+westmichiganmi	Mid-Michigan Library League	Michigan	US	Mancelona Township Library
+westmichiganmi	Mid-Michigan Library League	Michigan	US	Manistee County Library
+westmichiganmi	Mid-Michigan Library League	Michigan	US	Marion (M. Alice Chapin Memorial) Library
+westmichiganmi	Mid-Michigan Library League	Michigan	US	Mason County District Library
+westmichiganmi	Mid-Michigan Library League	Michigan	US	McBain Community Library
+westmichiganmi	Mid-Michigan Library League	Michigan	US	Morton Township Library
+westmichiganmi	Mid-Michigan Library League	Michigan	US	Pentwater Township Library
+westmichiganmi	Mid-Michigan Library League	Michigan	US	Reed City Area District Library
+westmichiganmi	Mid-Michigan Library League	Michigan	US	Richfield Township Public Library

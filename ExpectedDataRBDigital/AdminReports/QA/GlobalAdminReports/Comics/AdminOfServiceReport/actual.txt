@@ -1,14 +1,2 @@
 Screen Name	Email	Library	AccountId	Country	State	System Name
-Neeti Saxena	Neeti.saxena@britishcouncil.org	British Council Libraries		IN	India	
-Nirmala Rajan	Nirmala.rajan@britishcouncil.org	British Council Libraries		IN	India	
-Megha	megha.kakkar@britishcouncil.org	British Council Libraries		IN	India	
-Megha Kakkar	Megha.Kakkar@in.britishcouncil.org	British Council Pakistan		IN	Pakistan	
-Hafsa Ahmad	hafsa.ahmad@britishcouncil.org.pk	British Council Pakistan		IN	Pakistan	
-Maarya Rehman	maarya.rehman@britishcouncil.org	British Council Pakistan		IN	Pakistan	
-Mehreen Atif	Mehreen.Atif@britishcouncil.org.pk	British Council Pakistan		IN	Pakistan	
-Hira Azmat	Hira.Azmat@britishcouncil.org.pk	British Council Pakistan		IN	Pakistan	
-Rabeea Arif	Rabeea.Arif@britishcouncil.org.pk	British Council Pakistan		IN	Pakistan	
-Aziz Sohail	Aziz.Sohail@britishcouncil.org.pk	British Council Pakistan		IN	Pakistan	
-Janam Abid	Janam.Abid@britishcouncil.org.pk	British Council Pakistan		IN	Pakistan	
-Neeti Saxena	neeti.saxena@britishcouncil.org	British Council Pakistan		IN	Pakistan	
-Total	12
+Total	0

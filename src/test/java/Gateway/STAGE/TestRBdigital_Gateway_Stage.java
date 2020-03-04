@@ -136,11 +136,11 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
                 .SelectMagazine("//img[@alt='The New Yorker']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPage(432308);
+                .openMagazineReadingPage(467910);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(432308, 4);
+        readingPage.openMagazinePageFromTableOfContents(467910, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/432308/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/467910/Cover");
     }
 
     @Test
@@ -249,14 +249,14 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
                 .SearchMagazine("HGTV Magazine")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPage(433222);
+                .openMagazineReadingPage(469890);
         magazineUrl4 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(433222, 4);
+        readingPage.openMagazinePageFromTableOfContents(469890, 4);
         openMagazineComicsPage(6);
         pressArrowNextFromPage(6);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
 
-        checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/433222/Cover");
+        checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/469890/Cover");
     }
 
     @Test

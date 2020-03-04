@@ -60,13 +60,14 @@ public class MagazinePage {
         wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[contains(text(), 'Learn more')]")));
 
 
-        WebElement learnMore = driver.findElements(By.xpath("//a[contains(text(), 'Learn more')]")).get(0);
-        learnMore.click();
-        //Actions actions = new Actions(driver);
-        //actions.moveToElement(learnMore).click().build().perform();
+        //WebElement learnMore = driver.findElements(By.xpath("//a[contains(text(), 'Learn more')]")).get(0);
+        //learnMore.click();
+
+        WebElement mags = driver.findElement(By.cssSelector("a[class='service_checkout_trigger service_image magazines']"));
+        mags.click();
 
 
-        driver.findElement(By.xpath("//a[contains(text(), 'Browse Magazines')]")).click();
+        //driver.findElement(By.xpath("//a[contains(text(), 'Browse Magazines')]")).click();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("title_search_line")));
         return this;
     }

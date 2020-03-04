@@ -93,7 +93,7 @@ public class TestRBdigital_Gateway_UAT extends BaseClass_TestRBDigital_Gateway {
     void test_02_2_Registration_rbdigitalinternal() throws InterruptedException {
         String timeStamp = GetTimeStamp();
         driver.navigate().to("https://www.rbdigitaluat.com/rbdigitalinternal/");
-        mainPage.Register("happy", "6069", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
+        mainPage.Register("pointbreak", "6069", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
         mainPage.CheckWelcomeText("");
     }
 

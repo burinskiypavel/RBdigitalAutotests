@@ -36,7 +36,7 @@ golo.123@yahoo.com	APP1111112	fixed format goodness	02/21/2019	8080 Test Library
 qw@yahoo.com	APP1111111	fixed format goodness	02/20/2019	8080 Test Library	unknown	02/20/2019
 luckypaddy974@yahoo.com	APP9999999	fixed format goodness	02/20/2019	8080 Test Library	learnitlive	02/20/2019
 qatest15776@gmail.com	APP9876543	fixed format goodness	02/20/2019	8080 Test Library	method-test-prep	02/20/2019
-ert@tre.com	APP1234567	fixed format goodness	02/20/2019	8080 Test Library	magazines	02/20/2019
+ert@tre.com	APP1234567	fixed format goodness	02/20/2019	8080 Test Library	magazines	02/25/2020
 Dash-1@email.com		fixed format goodness	02/06/2019	8080 Test Library	unknown	02/06/2019
 Noemail1@email.com		fixed format goodness	02/06/2019	8080 Test Library	unknown	02/06/2019
 RBPD-2647-002@test.com			01/29/2019	8080 Test Library	magazines	01/29/2019
