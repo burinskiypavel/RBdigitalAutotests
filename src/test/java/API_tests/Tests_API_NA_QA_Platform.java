@@ -16,8 +16,7 @@ public class Tests_API_NA_QA_Platform {
     @Test(priority = -1)
     public void test_login() throws UnirestException {
         HttpResponse <JsonNode> postResponse = Unirest.post("https://authcore.rbdigitalqa.com/v2/authenticate")
-                //.header("authorization", "basic AAAC96E1-E6C8-447E-B61F-BB0CE4A24786")
-                .header("authorization", "bearer bce7235b-a91b-45c7-bcf2-53be6fd50d64")
+                .header("authorization", "basic AAAC96E1-E6C8-447E-B61F-BB0CE4A24786")
                 .header("authority", "authcore.rbdigitalqa.com")
                 .header("content-type", "application/json")
                 .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36")

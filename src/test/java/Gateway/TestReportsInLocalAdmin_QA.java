@@ -278,7 +278,7 @@ public class TestReportsInLocalAdmin_QA {
     }
 
     @Test
-    void Test_16_Сomics_ComicCheckouts() throws IOException {
+    void Test_16_Comics_ComicCheckouts() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "comics");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//span[contains(text(), 'Comic Checkouts')]")));
         adminPage.SetDatesInRepot("06/01/2019", "06/02/2019");
@@ -290,7 +290,7 @@ public class TestReportsInLocalAdmin_QA {
     }
 
     @Test
-    void Test_17_Сomics_Turnaway() throws IOException {
+    void Test_17_Comics_Turnaway() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "comics");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//a[contains(text(), 'Turnaway')]")));
         adminPage.turnaway.click();
@@ -327,7 +327,7 @@ public class TestReportsInLocalAdmin_QA {
     }
 
     @Test
-    void Test_20_СomicsPlus_UsageReport() throws IOException {
+    void Test_20_ComicsPlus_UsageReport() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "comicsplus");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//span[contains(text(), 'Usage Report')]")));
         adminPage.SetDatesInRepot("06/01/2018", "07/01/2018");

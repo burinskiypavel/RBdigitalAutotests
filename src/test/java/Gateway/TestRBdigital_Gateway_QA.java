@@ -85,7 +85,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
     @Test
     void test_02_2_Registration_test51() throws InterruptedException {
         String timeStamp = GetTimeStamp();
-        mainPage.Register("hotdog", "6812", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
+        mainPage.Register("hotdog", "6659", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
         mainPage.CheckWelcomeText("");
     }
 
@@ -93,7 +93,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
     void test_02_2_Registration_rbdigitalinternal() throws InterruptedException {
         String timeStamp = GetTimeStamp();
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
-        mainPage.Register("pointbreak", "6795", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
+        mainPage.Register("pointbreak", "6786", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
         mainPage.CheckWelcomeText("");
     }
 
@@ -107,8 +107,8 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void test_04_CorrectLogin_test51() {
-        mainPage.Login("feb12z@gmail.com", "12345qw");
-        mainPage.CheckWelcomeText("feb12");
+        mainPage.Login("mar12@gmail.com", "12345qw");
+        mainPage.CheckWelcomeText("mar12");
     }
 
     @Test
@@ -117,8 +117,8 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
-        mainPage.Login("jan13@gmail.com", "12345qw");
-        mainPage.CheckWelcomeText("jan13@gmail.com");
+        mainPage.Login("mar12a@gmail.com", "12345qw");
+        mainPage.CheckWelcomeText("mar12a");
     }
 
     @Test
@@ -131,34 +131,34 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void  test_06_MagazineCheckoutAndReadAreAvailable() throws InterruptedException {
-        mainPage.Login("feb12z@gmail.com", "12345qw");
+        mainPage.Login("mar12@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
-                .SelectMagazine("//img[@alt='Canadian Running']")
+                .SelectMagazine("//img[@alt='YouTube Vlogging The Complete Manual']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPage(442741);
+                .openMagazineReadingPage(291219);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(442741, 4);
+        readingPage.openMagazinePageFromTableOfContents(291219, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/442741/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/291219/Cover");
     }
 
     @Test
     void test_07_MagazineCheckoutAndReturnAreAvailable() throws InterruptedException {
-        mainPage.Login("feb12z@gmail.com", "12345qw");
+        mainPage.Login("mar12@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
-                .SelectMagazine("//img[@alt='Shop Talk!']")
+                .SelectMagazine("//img[@alt='Us Weekly']")
                 .PressCheckoutBtn()
                 .pressKeepBrowsingBtn()
                 .OpenMyCollection();
         collectionPage.returnMagazineOrComics();
 
-        commonSteps.thenIShouldNotSee("Shop Talk!");
+        commonSteps.thenIShouldNotSee("Us Weekly");
     }
 
     @Test
     void test_08_ComicCheckoutAndReadAreAvailable() throws InterruptedException {
-        mainPage.Login("feb12z@gmail.com", "12345qw");
+        mainPage.Login("mar12@gmail.com", "12345qw");
         comicPage.OpenComicsPage()
                 .SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']")
                 .PressCheckoutBtn()
@@ -175,7 +175,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void test_09_ComicCheckoutAndReturnAreAvailable() throws InterruptedException {
-        mainPage.Login("feb12z@gmail.com", "12345qw");
+        mainPage.Login("mar12@gmail.com", "12345qw");
         comicPage.OpenComicsPage()
                 .SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']")
                 .PressCheckoutBtn()
@@ -188,7 +188,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test(enabled = false)
     void test_10_IncorrectLogin_IncorrectPassword() {
-        mainPage.Login("feb12z@gmail.com", "12345");
+        mainPage.Login("mar12@gmail.com", "12345");
         wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//li[contains(text(), 'Username or password is incorrect')]")));
         Assert.assertTrue(driver.findElement(By.xpath("//li[contains(text(), 'Username or password is incorrect')]")).getText().contains("Username or password is incorrect"));
     }
@@ -198,13 +198,13 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
         driver.navigate().to("https://www.rbdigitalqa.com/rbdigitalinternal/");
         mainPage.Login("qauser", "password1");
         magazinePage.OpenMagazinesPage()
-                .SelectMagazine("//img[@alt='0024 Horloges']")
+                .SelectMagazine("//img[@alt='PEOPLE Bookazines']")
                 .PressCheckoutBtn()
                 .pressKeepBrowsingBtn()
                 .OpenMyCollection();
         collectionPage.returnMagazineOrComics();
 
-        commonSteps.thenIShouldNotSee("0024 Horloges");
+        commonSteps.thenIShouldNotSee("PEOPLE Bookazines");
     }
 
     @Test
@@ -244,24 +244,24 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void test_15_SearchMagazineCheckoutReadArrowNextIsAvailable() throws InterruptedException {
-        mainPage.Login("feb12z@gmail.com", "12345qw");
+        mainPage.Login("mar12@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
-                .SearchMagazine("Zen et bien dans ma vie")
+                .SearchMagazine("Zigzag Photo Journal")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPage(453469);
+                .openMagazineReadingPage(343054);
         magazineUrl4 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(453469, 4);
+        readingPage.openMagazinePageFromTableOfContents(343054, 4);
         openMagazineComicsPage(6);
         pressArrowNextFromPage(6);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
 
-        checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/453469/Cover");
+        checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/343054/Cover");
     }
 
     @Test
     void test_16_SearchComicCheckoutReadArrowNextIsAvailable() throws InterruptedException {
-        mainPage.Login("feb12z@gmail.com", "12345qw");
+        mainPage.Login("mar12@gmail.com", "12345qw");
         comicPage.OpenComicsPage()
                 .SearchComic("Black Dynamite")
                 .PressCheckoutBtn()
@@ -279,7 +279,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test(enabled = false)
     void test_17_OpenMagazinesCheckPagination() throws InterruptedException {
-        mainPage.Login("feb12z@gmail.com", "12345qw");
+        mainPage.Login("mar12@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         //driver.findElement(By.cssSelector("a[title = 'Go to page 3']")).click();
         magazinePage.GoToPagePagination(3);
@@ -310,18 +310,18 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void test_18_OpenMagazinesCheckGenresCheckDetailPage() throws InterruptedException, IOException {
-        mainPage.Login("feb12z@gmail.com", "12345qw");
+        mainPage.Login("mar12@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("genre_search_line")));
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='cycling']")));
         SelectFromSelectByIdAndValue("genre_search_line", "cycling");
-        magazinePage.SelectMagazine("//img[@alt='Ultimate Adventure Bike']");
+        magazinePage.SelectMagazine("//img[@alt='Bicycling']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Cycling')]")));
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='architecture']")));
         SelectFromSelectByIdAndValue("genre_search_line", "architecture");
-        magazinePage.SelectMagazine("//img[@alt='Best of AD']");
+        magazinePage.SelectMagazine("//img[@alt='Architectural Digest']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Architecture')]")));
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='art-photo']")));
@@ -339,7 +339,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
     void test_19_OpenComicsCheckGenresCheckDetailPage() throws InterruptedException, IOException {
         SoftAssert softAssert = new SoftAssert();
 
-        mainPage.Login("feb12z@gmail.com", "12345qw");
+        mainPage.Login("mar12@gmail.com", "12345qw");
         comicPage.OpenComicsPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("genre_search_line")));
 
@@ -373,19 +373,19 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
     void test_20_OpenMagazinesCheckLanguages() throws InterruptedException {
         SoftAssert softAssert = new SoftAssert();
 
-        mainPage.Login("feb12z@gmail.com", "12345qw");
+        mainPage.Login("mar12@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("language_search_line")));
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='french']")));
         SelectFromSelectByIdAndValue("language_search_line", "french");
-        magazinePage.SelectMagazine("//img[@alt='All Natura']");
+        magazinePage.SelectMagazine("//img[@alt='7 Jours']");
 
         softAssert.assertFalse(driver.findElements(By.xpath("//p[contains(text(), 'language: French')]")).size() == 0, "ERROR - language: Afrikaans is not present");
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='english']")));
         SelectFromSelectByIdAndValue("language_search_line", "english");
-        magazinePage.SelectMagazine("//img[@alt='Webuser']");
+        magazinePage.SelectMagazine("//img[@alt='Your Handmade Wedding']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: English')]")));
 
         softAssert.assertFalse(driver.findElements(By.xpath("//p[contains(text(), 'language: English')]")).size() == 0, "ERROR - language: Afrikaans is not present");
@@ -411,7 +411,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void test_21_OpenComicsCheckLanguages() throws InterruptedException {
-        mainPage.Login("feb12z@gmail.com", "12345qw");
+        mainPage.Login("mar12@gmail.com", "12345qw");
         comicPage.OpenComicsPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("language_search_line")));
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='english']")));
@@ -426,7 +426,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
     void test_22_ForgotPassword() throws InterruptedException {
         driver.navigate().to("https://www.rbdigitalqa.com/test51/");
         String timeStamp = GetTimeStamp();
-        mainPage.Register("hotdog", "6812", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
+        mainPage.Register("hotdog", "6659", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
         mainPage.Logout();
         mainPage.forgotPassword( timeStamp+"@gmail.com");
 

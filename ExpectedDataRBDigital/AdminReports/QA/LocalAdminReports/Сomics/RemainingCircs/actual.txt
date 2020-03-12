@@ -127,7 +127,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs
 8080 Test Library	Back to the Future, Vol. 1: Untold Tales and Alternate Timelines	RBC0406797		
 8080 Test Library	Barack Obama: The Comic Book Biography	RBC0387459		
 8080 Test Library	Belladonna	RBC0387460		
-8080 Test Library	Black Dynamite	RBC0389797	08/08/2017	22
+8080 Test Library	Black Dynamite	RBC0389797	08/08/2017	23
 8080 Test Library	BLACK PANTHER BY CHRISTOPHER PRIEST: THE COMPLETE COLLECTION VOL. 1 - Special	RBC0424407		
 8080 Test Library	BLACK PANTHER BY CHRISTOPHER PRIEST: THE COMPLETE COLLECTION VOL. 2 - Special	RBC0424408		
 8080 Test Library	BLACK PANTHER BY CHRISTOPHER PRIEST: THE COMPLETE COLLECTION VOL. 3 - Special	RBC0424409		
@@ -677,4 +677,4 @@ Library Name	Title	RBID	Issue Date	Remaining Circs
 8080 Test Library	X-MEN: PHOENIX ENDSONG - Special	RBC0424670		
 8080 Test Library	X-MEN: SCHISM - Special	RBC0424671		
 8080 Test Library	X-MEN: SECOND COMING - Special	RBC0424672	12/31/1969	25
-Total	197
+Total	198
