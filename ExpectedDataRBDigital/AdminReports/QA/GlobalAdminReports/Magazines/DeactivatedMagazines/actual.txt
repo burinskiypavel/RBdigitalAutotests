@@ -3,6 +3,7 @@ Country: IN
 Library Name	Library Nickname	Title	RBID	Zenith Issue Id	Issue Date
 DNUIndiaReads Trial Library	indiareads	BBC Good Food India	RBZ0004214	267343	09/01/2014
 DNUIndiaReads Trial Library	indiareads	BBC Knowledge India	RBZ0004223	266633	10/01/2014
+DNUIndiaReads Trial Library	indiareads	BBC Top Gear Magazine India	RBZ0004231	266549	09/01/2014
 DNUIndiaReads Trial Library	indiareads	Commercial Vehicle India	RBZ0002171	267422	09/01/2014
 DNUIndiaReads Trial Library	indiareads	Complete Wellbeing	RBZ0002601	263734	08/01/2014
 DNUIndiaReads Trial Library	indiareads	Complete Wellbeing	RBZ0002601	266615	09/01/2014
@@ -17,4 +18,3 @@ DNUIndiaReads Trial Library	indiareads	Grazia India	RBZ0003748	264338	08/01/2014
 DNUIndiaReads Trial Library	indiareads	Grazia India	RBZ0003748	267378	09/01/2014
 DNUIndiaReads Trial Library	indiareads	India Today Travel Plus	RBZ0002355	263936	07/01/2014
 DNUIndiaReads Trial Library	indiareads	India Today Travel Plus	RBZ0002355	267122	09/01/2014
-DNUIndiaReads Trial Library	indiareads	Maxim India	RBZ0002637	265376	08/01/2014

@@ -107,8 +107,8 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void test_04_CorrectLogin_test51() {
-        mainPage.Login("mar12@gmail.com", "12345qw");
-        mainPage.CheckWelcomeText("mar12");
+        mainPage.Login("mar13@gmail.com", "12345qw");
+        mainPage.CheckWelcomeText("mar13");
     }
 
     @Test
@@ -131,7 +131,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void  test_06_MagazineCheckoutAndReadAreAvailable() throws InterruptedException {
-        mainPage.Login("mar12@gmail.com", "12345qw");
+        mainPage.Login("mar13@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
                 .SelectMagazine("//img[@alt='YouTube Vlogging The Complete Manual']")
                 .PressCheckoutBtn()
@@ -145,7 +145,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void test_07_MagazineCheckoutAndReturnAreAvailable() throws InterruptedException {
-        mainPage.Login("mar12@gmail.com", "12345qw");
+        mainPage.Login("mar13@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
                 .SelectMagazine("//img[@alt='Us Weekly']")
                 .PressCheckoutBtn()
@@ -158,7 +158,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void test_08_ComicCheckoutAndReadAreAvailable() throws InterruptedException {
-        mainPage.Login("mar12@gmail.com", "12345qw");
+        mainPage.Login("mar13@gmail.com", "12345qw");
         comicPage.OpenComicsPage()
                 .SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']")
                 .PressCheckoutBtn()
@@ -175,7 +175,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void test_09_ComicCheckoutAndReturnAreAvailable() throws InterruptedException {
-        mainPage.Login("mar12@gmail.com", "12345qw");
+        mainPage.Login("mar13@gmail.com", "12345qw");
         comicPage.OpenComicsPage()
                 .SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']")
                 .PressCheckoutBtn()
@@ -188,7 +188,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test(enabled = false)
     void test_10_IncorrectLogin_IncorrectPassword() {
-        mainPage.Login("mar12@gmail.com", "12345");
+        mainPage.Login("mar13@gmail.com", "12345");
         wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//li[contains(text(), 'Username or password is incorrect')]")));
         Assert.assertTrue(driver.findElement(By.xpath("//li[contains(text(), 'Username or password is incorrect')]")).getText().contains("Username or password is incorrect"));
     }
@@ -244,7 +244,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void test_15_SearchMagazineCheckoutReadArrowNextIsAvailable() throws InterruptedException {
-        mainPage.Login("mar12@gmail.com", "12345qw");
+        mainPage.Login("mar13@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
                 .SearchMagazine("Zigzag Photo Journal")
                 .PressCheckoutBtn()
@@ -261,7 +261,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void test_16_SearchComicCheckoutReadArrowNextIsAvailable() throws InterruptedException {
-        mainPage.Login("mar12@gmail.com", "12345qw");
+        mainPage.Login("mar13@gmail.com", "12345qw");
         comicPage.OpenComicsPage()
                 .SearchComic("Black Dynamite")
                 .PressCheckoutBtn()
@@ -279,7 +279,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test(enabled = false)
     void test_17_OpenMagazinesCheckPagination() throws InterruptedException {
-        mainPage.Login("mar12@gmail.com", "12345qw");
+        mainPage.Login("mar13@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         //driver.findElement(By.cssSelector("a[title = 'Go to page 3']")).click();
         magazinePage.GoToPagePagination(3);
@@ -310,7 +310,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void test_18_OpenMagazinesCheckGenresCheckDetailPage() throws InterruptedException, IOException {
-        mainPage.Login("mar12@gmail.com", "12345qw");
+        mainPage.Login("mar13@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("genre_search_line")));
 
@@ -339,7 +339,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
     void test_19_OpenComicsCheckGenresCheckDetailPage() throws InterruptedException, IOException {
         SoftAssert softAssert = new SoftAssert();
 
-        mainPage.Login("mar12@gmail.com", "12345qw");
+        mainPage.Login("mar13@gmail.com", "12345qw");
         comicPage.OpenComicsPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("genre_search_line")));
 
@@ -373,7 +373,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
     void test_20_OpenMagazinesCheckLanguages() throws InterruptedException {
         SoftAssert softAssert = new SoftAssert();
 
-        mainPage.Login("mar12@gmail.com", "12345qw");
+        mainPage.Login("mar13@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("language_search_line")));
 
@@ -411,7 +411,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
     @Test
     void test_21_OpenComicsCheckLanguages() throws InterruptedException {
-        mainPage.Login("mar12@gmail.com", "12345qw");
+        mainPage.Login("mar13@gmail.com", "12345qw");
         comicPage.OpenComicsPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("language_search_line")));
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='english']")));

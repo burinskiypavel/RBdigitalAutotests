@@ -21,8 +21,8 @@ qello	01/08/2017	RBdigital Trial Customer Library		Maryland	US	rbdigitaltrial			
 qello	01/08/2017	RBdigital Trial Customer Library		Maryland	US	rbdigitaltrial				jeannaallums@gmail.com		30-day		1	9
 qello	01/09/2017	RBdigital Trial Customer Library		Maryland	US	rbdigitaltrial				jculpepper@sgrl.org		30-day		1	2
 qello	01/09/2017	RBdigital Trial Customer Library		Maryland	US	rbdigitaltrial				jregister@sgrl.org		30-day		1	0
-qello	01/09/2017	RBdigital Trial Customer Library		Maryland	US	rbdigitaltrial				jschmidt411@me.com		30-day		1	0
 qello	01/09/2017	RBdigital Trial Customer Library		Maryland	US	rbdigitaltrial				mwhitten@sgrl.org		30-day		1	0
+qello	01/09/2017	RBdigital Trial Customer Library		Maryland	US	rbdigitaltrial				jschmidt411@me.com	RBdigital Trial Library	30-day		1	0
 qello	01/10/2017	RBdigital Trial Customer Library		Maryland	US	rbdigitaltrial				hgeorgiou@bellsouth.net		30-day		1	7
 qello	01/11/2017	RBdigital Trial Customer Library		Maryland	US	rbdigitaltrial				kbroyles@sgrl.rog		30-day		1	0
 qello	01/11/2017	RBdigital Trial Customer Library		Maryland	US	rbdigitaltrial				refdept@newingtonct.gov		30-day		1	2

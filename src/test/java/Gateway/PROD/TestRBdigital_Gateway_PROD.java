@@ -136,11 +136,11 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
                 .SelectMagazine("//img[@alt='Us Weekly']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPageProd(480735);
+                .openMagazineReadingPageProd(480738);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(480735, 4);
+        readingPage.openMagazinePageFromTableOfContents(480738, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/480735/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/480738/Cover");
     }
 
     @Test

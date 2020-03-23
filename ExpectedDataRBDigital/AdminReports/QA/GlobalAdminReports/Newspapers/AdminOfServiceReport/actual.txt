@@ -1,6 +1,9 @@
 Screen Name	Email	Library	AccountId	Country	State	System Name
 becky stabik	becky.stabik@wfhowes.co.uk	W F Howes Customer Services		GB	England	
 Pedro Moura	pedro.moura@wfhowes.co.uk	W F Howes Customer Services		GB	England	
+Derek O Connell	Derek.oconnell@nelincs.gov.uk	Lincs Inspire Libraries		GB	England	
+Robin Garland	robin.garland@nelincs.gov.uk	Lincs Inspire Libraries		GB	England	
+Chris Walmsley	chris.walmsley@nelincs.gov.uk	Lincs Inspire Libraries		GB	England	
 Danielle Hall	danielle.hall@wfhowes.co.uk	RBdigital Tender		GB	England	
 Nick Forster	nick.forster@wfhowes.co.uk	RBdigital Tender		GB	England	
 Joanna Palmer	joanna.palmer@gloucestershire.gov.uk	RBdigital Tender		GB	England	
@@ -14,4 +17,15 @@ Susheel Bhandari	Susheel.Bhandari@librariesni.org.uk	RBdigital Tender		GB	Englan
 Sean Beattie	Sean.Beattie@librariesni.org.uk	RBdigital Tender		GB	England	
 Lily Gillis	Lily.Gillis@librariesni.org.uk	RBdigital Tender		GB	England	
 simon	simon.cox@wfhowes.co.uk	WFHowes-INTERNAL_NEWSPAPERS		GB	England	
-Total	15
+Sarah Hayes	sarah.hayes@wfhowes.co.uk	W. F. Howes Trial		GB	England	
+Joanna Palmer	joanna.palmer@gloucestershire.gov.uk	W. F. Howes Trial		GB	England	
+Kate Aston	kate.aston-williams@gloucestershire.gov.uk	W. F. Howes Trial		GB	England	
+Sarah Evans	sarah.evans@gloucestershire.gov.uk	W. F. Howes Trial		GB	England	
+peter kobilarov	petar.kobilarov@missing-link.de	W. F. Howes Trial		GB	England	
+pedro moura	pedro.moura@wfhowes.co.uk	W. F. Howes Trial		GB	England	
+qatest1	qatest@gmail.com	W. F. Howes Trial		GB	England	
+becky stabik	becky.stabik@wfhowes.co.uk	W. F. Howes Trial		GB	England	
+Tracy Kirby	tracy.kirby@darlington.gov.uk	Darlington		GB	England	
+Michael Wilkinson	michael.wilkinson@darlington.gov.uk	Darlington		GB	England	
+Pedro Moura	pedro.moura@wfhowes.co.uk	International RB Unlimited Trial		GB	England	
+Total	29

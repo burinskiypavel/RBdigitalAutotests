@@ -2,6 +2,6 @@ For Period: from 07/01/2017 to 07/01/2017
 Region: Asia
 Official Library Name	Nickname	AccountId	Billing Number	State	Country	Service Name	Model	Subscription Start Date	Subscription End Date	Grace Period Start Date	Grace Period End Date	Sales Rep	System Name	Subscription Rollover	Notes
 De La Salle-College of Saint Benilde	benilde	7178981		Philippines	PH	magazines	unlimited	07/01/2017	11/30/2017			ballan1			
-Perpustakaan Negara Malaysia	zinioMNL	7050170		Kuala Lumpur	MY	magazines	unlimited	07/01/2017	06/30/2018	09/11/2018	09/25/2018	ballan1			
+Perpustakaan Negara Malaysia	zinioMNL	7050170		Kuala Lumpur	MY	magazines	unlimited	07/01/2017	06/30/2018	09/11/2018	09/25/2018	WFHINT			migrate
 Singapore American School	sas	7133712		Singapore	SG	magazines	unlimited	07/01/2017	06/30/2018			pedromoura			
 Total	3		

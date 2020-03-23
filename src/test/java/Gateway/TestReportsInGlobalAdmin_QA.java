@@ -242,7 +242,7 @@ public class TestReportsInGlobalAdmin_QA {
     @Test
     void Test_15_Magazines_MagazineIssueDeliveryStatus() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "magazines");
-        Wait<WebDriver> wait = new WebDriverWait(driver, 30);
+        Wait<WebDriver> wait = new WebDriverWait(driver, 40);
         adminPage.OpenReport("//a[contains(text(), 'Magazine Issue Delivery Status')]");
         adminPage.SetDatesInRepot("01/01/2017", "01/01/2017");
         adminPage.createReportBtn.click();

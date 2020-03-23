@@ -4,14 +4,14 @@ Region	State	Library	AccountId	SalesRep	Subscription Start Date	Subscription End
 North America	Alabama	8080 Test Library		avolkov_sales	09/03/2014	11/11/2019	Inactive	
 Asia	Oman	ABA - an IB World School		ballan1	10/16/2016	10/31/2017	Inactive	
 North America	Massachusetts	Abbot Public Library		jlevy	08/01/2016	07/31/2017	Inactive	SVOD - Acorn, IF, Great Courses
-Australia	New South Wales	ABC Reference Library			01/18/2016	01/31/2020	Inactive	
+Australia	New South Wales	ABC Reference Library			01/18/2016	01/31/2021	Active	
 Europe, UK	Scotland	Aberdeen City Library			04/01/2015	03/31/2018	Inactive	
 Europe, UK	Scotland	Aberdeenshire Library & Info. Services			01/01/2015	03/31/2019	Inactive	
 North America	Illinois	Addison Public Library	7039945	mhaddadnull	02/01/2017	01/31/2018	Inactive	
 North America	Massachusetts	Agawam Public Library	7055493	jlevy	07/01/2016	06/30/2017	Inactive	SVOD - A, Q, TGCNC; Unl.; No IF, P
 North America	Military	Air Force Library & Information System	7026668	Doss	11/01/2016	10/31/2017	Inactive	DOD-MWR Air Force/7208672
-North America	Ohio	Akron Summit County Public Library		dmcdonald1	10/01/2016	09/30/2017	Inactive	Acorn, Qello, Indieflix
-North America	Florida	Alachua County Library District		Doss	10/01/2016	09/30/2017	Inactive	
+North America	Ohio	Akron Summit County Public Library		Messersmith	10/01/2016	09/30/2017	Inactive	Acorn, Qello, Indieflix
+North America	Florida	Alachua County Library District		roman	10/01/2016	09/30/2017	Inactive	
 North America	North Carolina	Alamance County Public Libraries		swilliams1	07/01/2016	06/30/2017	Inactive	
 North America	California	Alameda County Library	1724394	hyena	10/01/2016	09/30/2017	Inactive	ACORN TV , IF, Pongalo, TGC
 North America	New Mexico	Albuquerque Bernalillo County Library	7033942	mears	11/01/2016	10/31/2017	Inactive	

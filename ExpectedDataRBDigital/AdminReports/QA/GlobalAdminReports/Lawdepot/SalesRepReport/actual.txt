@@ -1,20 +1,20 @@
 Screen Name	Email	Library	AccountId	Country	State	Start Date	End Date	System Name
 Al	avolkov@envionsoftware.com	8080 Test Library		US	Alabama	10/01/2013	12/31/2018	
-Brad Doss	bdoss@recordedbooks.com	Charlotte Mecklenburg Library	7130610	US	North Carolina	08/01/2019	07/31/2020	
-Brad Doss	bdoss@recordedbooks.com	Central Rappahannock Regional Library	7184541	US	Virginia	07/01/2019	06/30/2020	Library of Virginia/Lyrasis-7051842
-Brad Doss	bdoss@recordedbooks.com	Mid-Continent Public Library	7182986	US	Missouri	07/01/2019	06/30/2020	
-Brad Doss	bdoss@recordedbooks.com	Charlotte Mecklenburg Library	7130610	US	North Carolina	08/01/2018	07/31/2019	
-Brad Doss	bdoss@recordedbooks.com	Central Rappahannock Regional Library	7184541	US	Virginia	07/01/2018	06/30/2019	Library of Virginia/Lyrasis-7051842
-Brad Doss	bdoss@recordedbooks.com	Mid-Continent Public Library	7182986	US	Missouri	07/01/2018	06/30/2019	
-Brad Doss	bdoss@recordedbooks.com	Charlotte Mecklenburg Library	7130610	US	North Carolina	08/01/2017	07/31/2018	
-Brad Doss	bdoss@recordedbooks.com	Mid-Continent Public Library	7182986	US	Missouri	07/01/2017	06/30/2018	
-Brad Doss	bdoss@recordedbooks.com	Central Rappahannock Regional Library	7184541	US	Virginia	07/01/2017	06/30/2018	Library of Virginia/Lyrasis-7051842
-Brad Doss	bdoss@recordedbooks.com	Charlotte Mecklenburg Library	7130610	US	North Carolina	12/01/2016	07/31/2017	
-Brad Doss	bdoss@recordedbooks.com	Central Rappahannock Regional Library	7184541	US	Virginia	06/30/2016	06/30/2017	Library of Virginia/Lyrasis-7051842
-Brad Doss	bdoss@recordedbooks.com	Mid-Continent Public Library	7182986	US	Missouri	06/15/2016	06/30/2017	
-Brad Doss	bdoss@recordedbooks.com	Charlotte Mecklenburg Library	7130610	US	North Carolina	12/01/2015	11/30/2016	
-Brad Doss	bdoss@recordedbooks.com	Charlotte Mecklenburg Library	7130610	US	North Carolina	11/16/2014	11/30/2015	
-Brad Doss	bdoss@recordedbooks.com	Carnegie Library of Pittsburgh	7039573	US	Pennsylvania	05/01/2013	04/30/2015	
-Brad Doss	bdoss@recordedbooks.com	Bucks County Free Library	7044953	US	Pennsylvania	10/01/2013	09/30/2014	
-Brad Gray	bgray@recordedbooks.com	DNUTest academic collection		US	Maryland	06/01/2014	06/18/2020	
-Brian Gilbert	bgilbert@recordedbooks.com	Greater Clarks Hill Regional Library System	7118372	US	Georgia	07/01/2019	06/30/2020	GADD SVOD - A, IF, Q-unl
+Bethany Converse	bconverse@recordedbooks.com	Kawartha Lakes Public Library	7192818	CA	Ontario	01/01/2020	12/31/2020	
+Bethany Converse	bconverse@recordedbooks.com	Owen Sound & North Grey Union Public Library	7037920	CA	Ontario	01/01/2020	12/31/2020	
+Bethany Converse	bconverse@recordedbooks.com	Oxford County Library	7193149	CA	Ontario	01/01/2020	12/31/2020	
+Bethany Converse	bconverse@recordedbooks.com	Innisfil Public Library	7221490	CA	Ontario	01/16/2020	12/31/2020	
+Bethany Converse	bconverse@recordedbooks.com	Twin Falls Public Library	7220222	US	Idaho	09/01/2019	08/31/2020	
+Bethany Converse	bconverse@recordedbooks.com	Salem Public Library	7220128	US	Virginia	09/01/2019	08/31/2020	Library of Virginia/Lyrasis-7051842
+Bethany Converse	bconverse@recordedbooks.com	Parkersburg and Wood County Public Library	7221012	US	West Virginia	06/26/2019	06/30/2020	
+Bethany Converse	bconverse@recordedbooks.com	Leslie County Library	7040580	US	Kentucky	07/01/2019	06/30/2020	
+Bethany Converse	bconverse@recordedbooks.com	Marion County Public Library	7038610	US	West Virginia	05/01/2019	04/30/2020	WV Deli-7120407
+Bethany Converse	bconverse@recordedbooks.com	Oxford County Library	7193149	CA	Ontario	01/01/2019	12/31/2019	
+Bethany Converse	bconverse@recordedbooks.com	Kawartha Lakes Public Library	7192818	CA	Ontario	01/01/2019	12/31/2019	
+Bethany Converse	bconverse@recordedbooks.com	Owen Sound & North Grey Union Public Library	7037920	CA	Ontario	01/01/2019	12/31/2019	
+Bethany Converse	bconverse@recordedbooks.com	Salem Public Library	7220128	US	Virginia	08/16/2018	08/31/2019	Library of Virginia/Lyrasis-7051842
+Bethany Converse	bconverse@recordedbooks.com	Twin Falls Public Library	7220222	US	Idaho	08/30/2018	08/31/2019	
+Bethany Converse	bconverse@recordedbooks.com	Peters Township Public Library	7220053	US	Pennsylvania	07/16/2018	07/31/2019	
+Bethany Converse	bconverse@recordedbooks.com	Leslie County Library	7040580	US	Kentucky	07/01/2018	06/30/2019	
+Bethany Converse	bconverse@recordedbooks.com	Marion County Public Library	7038610	US	West Virginia	05/01/2018	04/30/2019	WV Deli-7120407
+Bethany Converse	bconverse@recordedbooks.com	Kawartha Lakes Public Library	7192818	CA	Ontario	01/01/2018	12/31/2018	

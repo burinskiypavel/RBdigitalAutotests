@@ -578,7 +578,7 @@ public class AdminPage {
     }
 
     public AdminPage updatePatronPassword(String password) throws InterruptedException {
-        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.elementToBeClickable(By.id("password")));
         driver.findElement(By.id("password")).sendKeys(password);
         wait.until(ExpectedConditions.elementToBeClickable(By.id("r_password")));
@@ -586,7 +586,8 @@ public class AdminPage {
         wait.until(ExpectedConditions.elementToBeClickable(By.id("submitButton")));
         driver.findElement(By.id("submitButton")).click();
         Thread.sleep(1500);
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//li[contains(text(), 'Success')]")));
+        //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//li[contains(text(), 'Success')]")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("search_button")));
         return this;
     }
 
