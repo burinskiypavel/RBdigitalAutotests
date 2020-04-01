@@ -160,16 +160,16 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
     void test_08_ComicCheckoutAndReadAreAvailable() throws InterruptedException {
         mainPage.Login("mar13@gmail.com", "12345qw");
         comicPage.OpenComicsPage()
-                .SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']")
+                .SelectComics("//img[@alt='X-MEN: SECOND COMING - Special']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openComicsReadingPage(389796);
+                .openComicsReadingPage(424672);
         String comicsUrl2 = getCurrentUrl();
-        readingPage.openComicsPageFromTableOfContents(389796, 4);
+        readingPage.openComicsPageFromTableOfContents(424672, 4);
         readingPage.openBookmarks();
         String actualText = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
 
-        checkUrlContains(comicsUrl2, "com/reader.php#/reader/readsvg/389796/Cover");
+        checkUrlContains(comicsUrl2, "com/reader.php#/reader/readsvg/424672/Cover");
         checkTextContains(actualText, "Select the page you want to bookmark");
     }
 
@@ -177,13 +177,13 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
     void test_09_ComicCheckoutAndReturnAreAvailable() throws InterruptedException {
         mainPage.Login("mar13@gmail.com", "12345qw");
         comicPage.OpenComicsPage()
-                .SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']")
+                .SelectComics("//img[@alt='X-MEN: SECOND COMING - Special']")
                 .PressCheckoutBtn()
                 .pressKeepBrowsingBtn()
                 .OpenMyCollection();
         collectionPage.returnMagazineOrComics();
 
-        commonSteps.thenIShouldNotSee("Army of Two, Vol. 1: Across The Border");
+        commonSteps.thenIShouldNotSee("X-MEN: SECOND COMING - Special");
     }
 
     @Test(enabled = false)
