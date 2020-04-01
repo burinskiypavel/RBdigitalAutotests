@@ -226,7 +226,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The Apple Watch Book	RBZ0008314	10/01/2016	99000	1
 8080 Test Library	Apple Watch For Beginners	RBZ0008045	12/01/2016	247500	1
 8080 Test Library	Apple Watch The Complete Manual	RBZ0008035	12/01/2016	99000	1
-8080 Test Library	AppleMagazine	RBZ0000059	03/06/2020	247499	62
+8080 Test Library	AppleMagazine	RBZ0000059	03/06/2020	247500	62
 8080 Test Library	Apps + Games for iPhone and iPad	RBZ0005660	05/01/2013	49500	1
 8080 Test Library	Aquarium a la Maison	RBZ0002428	11/01/2019	247500	5
 8080 Test Library	Arabian Horse World	RBZ0001437	01/01/2020	49499	11
@@ -449,7 +449,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Bird Watching	RBZ0007924	03/01/2020	49499	15
 8080 Test Library	Birds & Blooms	RBZ0006880	02/01/2020	49500	7
 8080 Test Library	Birds and Blooms Extra	RBZ0008592	03/01/2020	247499	6
-8080 Test Library	BirdWatching	RBZ0000149	03/01/2020	247499	7
+8080 Test Library	BirdWatching	RBZ0000149	03/01/2020	247500	7
 8080 Test Library	biz 互動英語	RBZ0010178	12/02/2019	247500	11
 8080 Test Library	The Black & White Photography Book	RBZ0004976	12/01/2016	99000	1
 8080 Test Library	Black & White Photography Made Easy	RBZ0003877	09/20/2011	49500	1
@@ -1174,7 +1174,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Fly Fisherman	RBZ0009165	04/01/2020	49499	6
 8080 Test Library	Fly News Magazine	RBZ0004537	12/01/2019	247500	9
 8080 Test Library	Flying	RBZ0000381	03/01/2020	247499	13
-8080 Test Library	Focus	RBZ0002495	02/01/2020	247499	16
+8080 Test Library	Focus	RBZ0002495	02/01/2020	247500	16
 8080 Test Library	Focus - Italia	RBZ0001729	03/01/2020	19799	14
 8080 Test Library	Focus 360°	RBZ0003045	02/17/2011	19800	1
 8080 Test Library	Focus D&R	RBZ0008434	01/01/2020	247500	5
@@ -1220,7 +1220,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	FourFourTwo UK	RBZ0003107	04/01/2020	98999	16
 8080 Test Library	Foxtel Magazine	RBZ0009841	03/01/2020	247499	14
 8080 Test Library	Frame	RBZ0002912	03/01/2020	247499	7
-8080 Test Library	France Dimanche	RBZ0009665	03/06/2020	247499	63
+8080 Test Library	France Dimanche	RBZ0009665	03/06/2020	247500	63
 8080 Test Library	France Dimanche Hors-Série	RBZ0008771	03/01/2019	247500	2
 8080 Test Library	frankie Magazine	RBZ0001631	03/01/2020	247500	7
 8080 Test Library	Fred Dibnah's World of Steam	RBZ0002226	07/27/2010	247500	1
@@ -1705,7 +1705,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	I'm home.　アイムホーム	RBZ0004037	01/15/2020	247500	7
 8080 Test Library	I.T. For Small Businesses	RBZ0008492	06/01/2013	247500	1
 8080 Test Library	iCAR	RBZ0003270	08/20/2011	49500	1
-8080 Test Library	Ici Paris	RBZ0009679	03/04/2020	247499	62
+8080 Test Library	Ici Paris	RBZ0009679	03/04/2020	247500	62
 8080 Test Library	iCreate	RBZ0007042	04/01/2020	98999	16
 8080 Test Library	iD (Ideas & Discoveries)	RBZ0008593	05/08/2020	49499	8
 8080 Test Library	Ideal Home	RBZ0000488	04/01/2020	247500	16
@@ -2397,8 +2397,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	New Zealand Listener	RBZ0008964	03/14/2020	247499	61
 8080 Test Library	New Zealand Weddings	RBZ0002250	01/01/2020	247499	5
 8080 Test Library	New Zealand Woman’s Weekly	RBZ0008875	03/16/2020	247499	61
-8080 Test Library	Newsweek	RBZ0000629	03/13/2020	247499	45
-8080 Test Library	Newsweek Europe	RBZ0008039	03/13/2020	49499	45
+8080 Test Library	Newsweek	RBZ0000629	03/13/2020	247500	45
+8080 Test Library	Newsweek Europe	RBZ0008039	03/13/2020	49500	45
 8080 Test Library	NEXT	RBZ0008905	04/01/2020	247499	15
 8080 Test Library	The Nexus Book	RBZ0005622	11/01/2014	99000	1
 8080 Test Library	Nexus for Beginners	RBZ0006350	07/01/2013	99000	1
@@ -2468,7 +2468,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Official Xbox Magazine - UK Edition Presents: Halo Special	RBZ0003873	09/22/2011	49500	1
 8080 Test Library	Official Xbox Magazine - UK Edition Presents: Kinect Special	RBZ0004023	11/01/2011	49500	1
 8080 Test Library	Official Xbox Magazine Special	RBZ0005194	03/01/2014	49500	1
-8080 Test Library	OK! Magazine	RBZ0000638	03/16/2020	247499	62
+8080 Test Library	OK! Magazine	RBZ0000638	03/16/2020	247500	62
 8080 Test Library	OK! Magazine Australia	RBZ0007760	03/16/2020	247499	60
 8080 Test Library	OK! Russia	RBZ0002849	09/26/2019	247500	29
 8080 Test Library	Old Bike Australasia	RBZ0003689	02/23/2020	247499	9
@@ -2994,7 +2994,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Sports Illustrated Swimwear Edition 2011	RBZ0003790	10/05/2011	247500	1
 8080 Test Library	SSA Hunter Jagter – Spesiale Uitgawe	RBZ0008415	10/15/2014	247500	1
 8080 Test Library	Stand Up Paddle World	RBZ0004055	07/01/2019	247500	1
-8080 Test Library	Star Magazine	RBZ0000780	03/16/2020	247499	62
+8080 Test Library	Star Magazine	RBZ0000780	03/16/2020	247500	62
 8080 Test Library	Star Système	RBZ0005235	03/13/2020	247499	31
 8080 Test Library	Star Trek Magazine	RBZ0007040	02/01/2020	98999	5
 8080 Test Library	Star Trek Magazine Movie Special	RBZ0008933	07/01/2016	99000	1
@@ -3715,10 +3715,10 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	商店建築　SHOTENKENCHIKU	RBZ0004206	03/05/2020	247497	14
 8080 Test Library	就職四季報　姉妹版　「就活生のための後悔しない会社選び」	RBZ0006776	12/01/2013	247500	1
 8080 Test Library	悦游 Condé Nast Traveler	RBZ0005843	02/25/2020	247498	13
-8080 Test Library	新建築　Shinkenchiku	RBZ0005110	02/14/2020	247498	14
+8080 Test Library	新建築　Shinkenchiku	RBZ0005110	02/14/2020	247500	14
 8080 Test Library	新建築　住宅特集　Jutakutokushu	RBZ0005111	03/05/2020	247499	14
 8080 Test Library	月刊HiVi	RBZ0004349	02/17/2020	247498	14
 8080 Test Library	趣味の文具箱	RBZ0007009	12/06/2019	Unlimited	4
 8080 Test Library	週刊エコノミスト	RBZ0002669	03/09/2020	247500	55
 8080 Test Library	週刊東洋経済	RBZ0004151	03/09/2020	247494	59
-Total	719110147	26878
+Total	719110158	26878

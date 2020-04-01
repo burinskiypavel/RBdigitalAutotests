@@ -90,7 +90,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs
 8080 Test Library	ANNIHILATION: CONQUEST BOOK 2 - Special	RBC0424371		
 8080 Test Library	ANT-MAN SEASON ONE - Special	RBC0424372		
 8080 Test Library	ANT-MAN VOL. 1: SECOND-CHANCE MAN - Special	RBC0424373		
-8080 Test Library	Army of Two, Vol. 1: Across The Border	RBC0389796	08/09/2017	24
+8080 Test Library	Army of Two, Vol. 1: Across The Border	RBC0389796	08/09/2017	15
 8080 Test Library	ASTONISHING X-MEN VOL. 1: GIFTED - Special	RBC0424374		
 8080 Test Library	ASTONISHING X-MEN VOL. 2: DANGEROUS - Special	RBC0424375		
 8080 Test Library	ASTONISHING X-MEN VOL. 3: TORN - Special	RBC0424376		
@@ -127,7 +127,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs
 8080 Test Library	Back to the Future, Vol. 1: Untold Tales and Alternate Timelines	RBC0406797		
 8080 Test Library	Barack Obama: The Comic Book Biography	RBC0387459		
 8080 Test Library	Belladonna	RBC0387460		
-8080 Test Library	Black Dynamite	RBC0389797	08/09/2017	22
+8080 Test Library	Black Dynamite	RBC0389797	08/09/2017	23
 8080 Test Library	BLACK PANTHER BY CHRISTOPHER PRIEST: THE COMPLETE COLLECTION VOL. 1 - Special	RBC0424407		
 8080 Test Library	BLACK PANTHER BY CHRISTOPHER PRIEST: THE COMPLETE COLLECTION VOL. 2 - Special	RBC0424408		
 8080 Test Library	BLACK PANTHER BY CHRISTOPHER PRIEST: THE COMPLETE COLLECTION VOL. 3 - Special	RBC0424409		
@@ -677,4 +677,4 @@ Library Name	Title	RBID	Issue Date	Remaining Circs
 8080 Test Library	X-MEN: PHOENIX ENDSONG - Special	RBC0424670		
 8080 Test Library	X-MEN: SCHISM - Special	RBC0424671		
 8080 Test Library	X-MEN: SECOND COMING - Special	RBC0424672	01/01/1970	25
-Total	221
+Total	213

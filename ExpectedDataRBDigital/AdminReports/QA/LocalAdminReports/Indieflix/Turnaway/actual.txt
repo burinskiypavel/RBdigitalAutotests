@@ -1,53 +1,53 @@
 For Period: from 05/21/2017 to 07/01/2018
 The patron cap data included in the report is as of the time when the report is run. No history of prior caps is retained.
 License Type	Library Name	Barcode	Email	Branch	Licenses #	Description	Monthly Patron Cap	Overall Cap	Group Cap	Patron Cap	Service Cap	Turnaway Reason	Total Turnaways
-7-day	8080 Test Library		bsmoot@recordedbooks.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	3
-7-day	8080 Test Library		exampl5@example.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	5
-7-day	8080 Test Library		exampl6@example.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	2
-7-day	8080 Test Library		jason@test.com		187	Test	99999	99999	1000	1000	100	Technical Issue	2
-7-day	8080 Test Library		qa@qa.qa		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	3
-7-day	8080 Test Library		svod_test2@email.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	3
-7-day	8080 Test Library		takecert1@email.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	10
-7-day	8080 Test Library		test.09.12.patron@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		testbb20180212@email.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	2
-7-day	8080 Test Library		v.2012.134555@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2012.134615@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2112.104241@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2112.104304@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2112.105614@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2112.105635@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2112.181507@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2112.181536@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2212.155253@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2212.155337@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2212.155410@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2212.161108@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2212.161130@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2212.182155@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2212.182230@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2212.185326@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2212.185351@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.114859@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.114926@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.115240@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.115351@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.115440@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.115800@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.121114@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.121138@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.202919@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.202944@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.204241@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.204311@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2712.111516@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2712.111546@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2712.114130@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2712.114153@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2712.194345@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2712.194419@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2712.200013@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2712.200416@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library	qwerty	avolkov@envionsoftware.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	2
+7-day	8080 Test Library		bsmoot@recordedbooks.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	3
+7-day	8080 Test Library		exampl5@example.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	5
+7-day	8080 Test Library		exampl6@example.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	2
+7-day	8080 Test Library		jason@test.com		187	Test	0	0	1000	1000	100	Technical Issue	2
+7-day	8080 Test Library		qa@qa.qa		187	Test	0	0	1000	1000	100	Service or Patron Cap	3
+7-day	8080 Test Library		svod_test2@email.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	3
+7-day	8080 Test Library		takecert1@email.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	10
+7-day	8080 Test Library		test.09.12.patron@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		testbb20180212@email.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	2
+7-day	8080 Test Library		v.2012.134555@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2012.134615@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2112.104241@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2112.104304@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2112.105614@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2112.105635@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2112.181507@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2112.181536@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2212.155253@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2212.155337@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2212.155410@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2212.161108@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2212.161130@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2212.182155@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2212.182230@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2212.185326@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2212.185351@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.114859@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.114926@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.115240@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.115351@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.115440@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.115800@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.121114@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.121138@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.202919@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.202944@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.204241@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.204311@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2712.111516@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2712.111546@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2712.114130@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2712.114153@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2712.194345@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2712.194419@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2712.200013@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2712.200416@gmail.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library	qwerty	avolkov@envionsoftware.com		187	Test	0	0	1000	1000	100	Service or Patron Cap	2
 Total	70
 
 
