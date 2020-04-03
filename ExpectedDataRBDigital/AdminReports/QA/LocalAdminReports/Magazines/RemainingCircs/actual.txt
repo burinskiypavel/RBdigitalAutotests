@@ -2393,7 +2393,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	New Scientist The Collection	RBZ0007315	12/01/2017	49500	1
 8080 Test Library	New York Magazine	RBZ0007772	03/02/2020	49499	31
 8080 Test Library	New York Review of Books	RBZ0000627	03/26/2020	247499	24
-8080 Test Library	The New Yorker	RBZ0006233	03/09/2020	49499	56
+8080 Test Library	The New Yorker	RBZ0006233	03/09/2020	49500	56
 8080 Test Library	New Zealand Listener	RBZ0008964	03/14/2020	247499	61
 8080 Test Library	New Zealand Weddings	RBZ0002250	01/01/2020	247499	5
 8080 Test Library	New Zealand Woman’s Weekly	RBZ0008875	03/16/2020	247499	61
@@ -3721,4 +3721,4 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	趣味の文具箱	RBZ0007009	12/06/2019	Unlimited	4
 8080 Test Library	週刊エコノミスト	RBZ0002669	03/09/2020	247500	55
 8080 Test Library	週刊東洋経済	RBZ0004151	03/09/2020	247494	59
-Total	719110158	26878
+Total	719110159	26878

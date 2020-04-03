@@ -1,8 +1,7 @@
 Screen Name	Email	Library	AccountId	Country	State	System Name
-Martin Walters	martin@bakerfreelib.org	Baker Free Library	7220795	US	New Hampshire	SVOD - Acorn, Great Courses, IF, Learn It Live, MTP, Pongalo, Qello
 Deb Hoadley	director@sandownlibrary.us	Sandown Public Library	7220511	US	New Hampshire	
 Sue Kehoe	skehoe@sandownlibrary.us	Sandown Public Library	7220511	US	New Hampshire	
 Pam Smith	pamela.smith@thehowe.org	Howe Library	7221714	US	New Hampshire	
 Mary Ryan	mary.ryan@thehowe.org	Howe Library	7221714	US	New Hampshire	
 Megan Coleman	megan.coleman@thehowe.org	Howe Library	7221714	US	New Hampshire	
-Total	6
+Total	5

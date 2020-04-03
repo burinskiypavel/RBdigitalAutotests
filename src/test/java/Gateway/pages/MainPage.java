@@ -125,7 +125,7 @@ public class MainPage {
         UsePageObj();
         //driver.findElement(By.xpath("//a[contains(text(), 'Login')]")).click();
         loginBtn.click();
-        Wait<WebDriver> wait = new WebDriverWait(driver, 45);
+        Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.name("pl_login")));
         //WebElement loginButton = driver.findElement(By.name("pl_login"));
         //Assert.assertTrue(loginButton.isDisplayed());

@@ -1,5 +1,2 @@
 Screen Name	Email	Library	AccountId	Country	State	System Name
-Neeti Saxena	Neeti.saxena@britishcouncil.org	British Council Libraries	BRI059	IN	India	
-Nirmala Rajan	Nirmala.rajan@britishcouncil.org	British Council Libraries	BRI059	IN	India	
-Megha	megha.kakkar@britishcouncil.org	British Council Libraries	BRI059	IN	India	
-Total	3
+Total	0
