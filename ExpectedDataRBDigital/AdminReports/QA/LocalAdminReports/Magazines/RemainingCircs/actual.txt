@@ -9,7 +9,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	10 Week Fat Burn: Lose a Stone	RBZ0008156	08/01/2015	247500	1
 8080 Test Library	100 All-Time Greatest Comics	RBZ0007658	06/01/2016	99000	1
 8080 Test Library	The 100 Best Games to Play Right Now	RBZ0008983	09/01/2016	247500	1
-8080 Test Library	100 Biker	RBZ0000007	01/23/2020	247498	15
+8080 Test Library	100 Biker	RBZ0000007	01/23/2020	247500	15
 8080 Test Library	100 Great Guitars	RBZ0007773	01/01/2015	49500	1
 8080 Test Library	100 Greatest Comedy Movies by Radio Times	RBZ0007810	01/01/2015	247500	1
 8080 Test Library	The 100 Greatest Graphic Novels Of All Time	RBZ0008815	07/01/2016	247500	1
@@ -483,7 +483,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Breakout: How Atari 8-Bit Computers Defined a Generation	RBZ0009891	04/01/2017	247500	1
 8080 Test Library	Brei Idees	RBZ0007473	05/01/2014	247500	1
 8080 Test Library	Bride & Groom	RBZ0008226	01/01/2020	247500	2
-8080 Test Library	Bride To Be - Your Day: Best Real Weddings	RBZ0006865	07/01/2016	247500	1
+8080 Test Library	Bride To Be - Your Day: Best Real Weddings	RBZ0006865	07/01/2016	247499	1
 8080 Test Library	Brigitte	RBZ0009060	02/26/2020	247500	30
 8080 Test Library	Brigitte MOM	RBZ0009078	01/01/2020	247499	5
 8080 Test Library	Brigitte WIR	RBZ0009108	01/01/2020	247500	7
@@ -3721,4 +3721,4 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	趣味の文具箱	RBZ0007009	12/06/2019	Unlimited	4
 8080 Test Library	週刊エコノミスト	RBZ0002669	03/09/2020	247500	55
 8080 Test Library	週刊東洋経済	RBZ0004151	03/09/2020	247494	59
-Total	719110159	26878
+Total	719110160	26878

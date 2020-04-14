@@ -252,9 +252,9 @@ public class TestRBdigital_Gateway_UAT extends BaseClass_TestRBDigital_Gateway {
                 .openMagazineReadingPage(425498);
         magazineUrl4 = getCurrentUrl();
         readingPage.openMagazinePageFromTableOfContents(425498, 4);
-        openMagazineComicsPage(6);
+        openMagazineComicsPageStage(6);
         pressArrowNextFromPage(6);
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("toc-page-thumb-6")));//page_6
 
         checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/425498/Cover");
     }
@@ -269,7 +269,7 @@ public class TestRBdigital_Gateway_UAT extends BaseClass_TestRBDigital_Gateway {
                 .openComicsReadingPage(389797);
         comicsUrl4 = getCurrentUrl();
         readingPage.openComicsPageFromTableOfContents(389797, 2);
-        openMagazineComicsPage(4);
+        openMagazineComicsPageStage(4);
         pressArrowNextFromPage(4);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
 

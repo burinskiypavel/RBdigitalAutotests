@@ -118,6 +118,11 @@ public class BaseClass_TestRBDigital_Gateway  {
         driver.findElement(By.id("thumb_"+page+"")).click();
     }
 
+    public void openMagazineComicsPageStage(int page) {
+        driver.findElement(By.id("thumbs-toggle")).click();
+        driver.findElement(By.id("toc-page-thumb-"+page+"")).click();
+    }
+
     public void pressArrowNextFromPage(int pageNumber) {
         Wait<WebDriver> wait = new WebDriverWait(driver, 20);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_"+pageNumber+"")));

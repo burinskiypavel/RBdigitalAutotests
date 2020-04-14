@@ -147,13 +147,13 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
     void test_07_MagazineCheckoutAndReturnAreAvailable() throws InterruptedException {
         mainPage.Login("mar13@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
-                .SelectMagazine("//img[@alt='Us Weekly']")
+                .SelectMagazine("//img[@alt='Bride To Be - Your Day: Best Real Weddings']")
                 .PressCheckoutBtn()
                 .pressKeepBrowsingBtn()
                 .OpenMyCollection();
         collectionPage.returnMagazineOrComics();
 
-        commonSteps.thenIShouldNotSee("Us Weekly");
+        commonSteps.thenIShouldNotSee("Bride To Be - Your Day: Best Real Weddings");
     }
 
     @Test

@@ -252,7 +252,7 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
                 .openMagazineReadingPage(469890);
         magazineUrl4 = getCurrentUrl();
         readingPage.openMagazinePageFromTableOfContents(469890, 4);
-        openMagazineComicsPage(6);
+        openMagazineComicsPageStage(6);
         pressArrowNextFromPage(6);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
 
@@ -269,7 +269,7 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
                 .openComicsReadingPage(389797);
         comicsUrl4 = getCurrentUrl();
         readingPage.openComicsPageFromTableOfContents(389797, 2);
-        openMagazineComicsPage(4);
+        openMagazineComicsPageStage(4);
         pressArrowNextFromPage(4);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
 
