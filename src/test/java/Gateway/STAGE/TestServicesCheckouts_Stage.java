@@ -69,7 +69,7 @@ public class TestServicesCheckouts_Stage extends BaseClass_TestServiceCheckout {
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalstage.com/test51/service/magazines']");
         pressGetStartedButton();
         checkURL("https://www.rbdigitalstage.com/test51/service/magazines/landing?");
-        checkText("My Collection");
+        checkText("My Collection");//
         checkElementIsPresent("div[class='magazine-card']");
     }
 
