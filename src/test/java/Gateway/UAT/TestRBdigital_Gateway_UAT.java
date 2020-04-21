@@ -252,7 +252,7 @@ public class TestRBdigital_Gateway_UAT extends BaseClass_TestRBDigital_Gateway {
                 .openMagazineReadingPage(425498);
         magazineUrl4 = getCurrentUrl();
         readingPage.openMagazinePageFromTableOfContents(425498, 4);
-        openMagazineComicsPageStage(6);
+        openMagazineComicsPage(6);
         pressArrowNextFromPage(6);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("toc-page-thumb-6")));//page_6
 
@@ -269,7 +269,7 @@ public class TestRBdigital_Gateway_UAT extends BaseClass_TestRBDigital_Gateway {
                 .openComicsReadingPage(389797);
         comicsUrl4 = getCurrentUrl();
         readingPage.openComicsPageFromTableOfContents(389797, 2);
-        openMagazineComicsPageStage(4);
+        openMagazineComicsPage(4);
         pressArrowNextFromPage(4);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
 

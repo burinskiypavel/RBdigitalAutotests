@@ -113,12 +113,12 @@ public class BaseClass_TestRBDigital_Gateway  {
     }
 
 
-    public void openMagazineComicsPage(int page) {
+    public void openMagazineComicsPageStage(int page) {
         driver.findElement(By.id("thumbs-toggle")).click();
         driver.findElement(By.id("thumb_"+page+"")).click();
     }
 
-    public void openMagazineComicsPageStage(int page) {
+    public void openMagazineComicsPage(int page) {
         driver.findElement(By.id("thumbs-toggle")).click();
         driver.findElement(By.id("toc-page-thumb-"+page+"")).click();
     }
