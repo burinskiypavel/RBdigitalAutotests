@@ -1,5 +1,5 @@
 For Period: from 01/01/2017 to 01/22/2017
-Title	Barcode	Email	Library	RBID	Checkouts	Time Period	Current Issue Default	Status
+Title	Barcode	Email	Branch	RBID	Checkouts	Time Period	Current Issue Default	Status
 Angel: Lorne				RBC0387445	0	Monthly	25	Active
 Mars Attacks, Vol. 1: Attack From Space				RBC0387513	0	Monthly	25	Active
 Angel: Old Friends				RBC0387451	0	Monthly	25	Active

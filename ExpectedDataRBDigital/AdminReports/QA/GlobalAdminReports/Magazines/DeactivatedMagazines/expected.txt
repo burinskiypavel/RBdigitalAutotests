@@ -1,7 +1,6 @@
 Region: Asia
 Country: IN
-Official Name	Nickname	Title	RBID	Zenith Issue Id	Issue Date
-DNUIndiaReads Trial Library	indiareads	BBC Good Food India	RBZ0004214	267343	09/01/2014
+Library Name	Library Nickname	Title	RBID	Zenith Issue Id	Issue DateDNUIndiaReads Trial Library	indiareads	BBC Good Food India	RBZ0004214	267343	09/01/2014
 DNUIndiaReads Trial Library	indiareads	BBC Knowledge India	RBZ0004223	266633	10/01/2014
 DNUIndiaReads Trial Library	indiareads	Commercial Vehicle India	RBZ0002171	267422	09/01/2014
 DNUIndiaReads Trial Library	indiareads	Complete Wellbeing	RBZ0002601	263734	08/01/2014

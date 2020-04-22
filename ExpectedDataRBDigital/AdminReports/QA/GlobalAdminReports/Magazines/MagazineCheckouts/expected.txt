@@ -1,5 +1,5 @@
 For Period: from 01/01/2017 to 01/01/2017
-Title	Barcode	Email	Library	RBID	Checkouts	Time Period	Current Issue Default	Status	Checkout Date	Issue Date
+Title	Barcode	Email	Branch	RBID	Checkouts	Time Period	Current Issue Default	Status	Checkout Date	Issue Date
 What Digital SLR				RBZ0007034	0	Annually	Unlimited	Inactive		
 Star Wars: The Clones Wars Comic				RBZ0007035	0	Annually	Unlimited	Active		
 Studio				RBZ0007036	0	Annually	Unlimited	Inactive		

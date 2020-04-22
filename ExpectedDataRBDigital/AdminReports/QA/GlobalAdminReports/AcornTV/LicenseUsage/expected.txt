@@ -1,3 +1,3 @@
 For Period: from 01/01/2017 to 01/20/2017
-Service	Date	Library Name	System Name	State	Country	Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
+Service	Date	Library Name	System Name	State	Country	Library Nickname	Account #	Billing Account #	Barcode	Email	Branch	License Type	Notes	Tokens Issued	Views
 Total	0	0

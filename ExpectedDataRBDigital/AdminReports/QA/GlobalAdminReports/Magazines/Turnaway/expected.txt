@@ -1,4 +1,4 @@
 For Period: from 04/01/2019 to 05/04/2019
-Library Name	System Name	Account #	State	Country	Barcode	Email	Library	Title	RBID	Frequency	Total Current Issue Turnaways
+Library Name	System Name	Account #	State	Country	Barcode	Email	Branch	Title	RBID	Frequency	Total Current Issue Turnaways
 8080 Test Library		test_id	Alabama	US		ymelnik@envionsoftware.com		01net	RBZ0001638	Weekly	2
 Total	2

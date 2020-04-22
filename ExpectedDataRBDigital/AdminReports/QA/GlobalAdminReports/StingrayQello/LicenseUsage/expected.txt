@@ -1,6 +1,5 @@
 For Period: from 01/01/2017 to 01/22/2017
-Service	Date	Library Name	System Name	State	Country	Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
-qello	01/01/2017	East Baton Rouge Parish Library		Louisiana	US	eastbatonrougela	7220260		21659011024237	jwosbrpc@cox.net		30-day	Qello, Pongalo, TGC, IF	1	4
+Service	Date	Library Name	System Name	State	Country	Library Nickname	Account #	Billing Account #	Barcode	Email	Branch	License Type	Notes	Tokens Issued	Viewsqello	01/01/2017	East Baton Rouge Parish Library		Louisiana	US	eastbatonrougela	7220260		21659011024237	jwosbrpc@cox.net		30-day	Qello, Pongalo, TGC, IF	1	4
 qello	01/01/2017	Skipjack Library		Maryland	US	skipjacktest				jennie01@gmail.com		30-day		1	0
 qello	01/02/2017	8080 Test Library		Alabama	US	test51				jennie01@gmail.com		30-day		1	0
 qello	01/02/2017	East Baton Rouge Parish Library		Louisiana	US	eastbatonrougela	7220260		21659009006477	jchow7184@me.com		30-day	Qello, Pongalo, TGC, IF	1	3

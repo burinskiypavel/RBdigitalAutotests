@@ -4,6 +4,4 @@ Kevin Karrick	kevin@artistworks.com	RBdigital Account Manager Demo Library		US	M
 John Shea	jshea@rbmediaglobal.com	RBdigital Account Manager Demo Library		US	Maryland	
 Donna Vollmer	dvollmer@recordedbooks.com	RBdigital Account Manager Demo Library		US	Maryland	
 Craig	callen@recordedbooks.com	RBdigital Account Manager Demo Library		US	Maryland	
-Patrick Hinrichs	HinrichsP@cityofnorthlasvegas.com	North Las Vegas Library District	7189678	US	Nevada	
-Forrest Lewis	LewisF@cityofnorthlasvegas.com	North Las Vegas Library District	7189678	US	Nevada	
-Total	7
+Total	5

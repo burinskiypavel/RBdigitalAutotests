@@ -1,20 +1,20 @@
 Region: Asia
 For Period: from 07/01/2017 to 07/01/2017
-Email	BarCode	Join Date	Library Name	AccountId	Last Service Login	Last Login Date
-srinivasnarisetty@yahoo.co.uk	ADL035261	07/01/2017	britishcouncil		indieflix	07/01/2017
-abdulquddushalim@gmail.com		07/01/2017	zinioMNL			
-sivadaskr@gmail.com		07/01/2017	britishcouncil		indieflix	11/14/2017
-arun@wicom.co.in	ABL019309	07/01/2017	britishcouncil		magazines	08/24/2019
-j.k.priyanka2110@gmail.com	AHD021066	07/01/2017	britishcouncil		indieflix	07/11/2017
-gnavink75@gmail.com	AMA031777	07/01/2017	britishcouncil		indieflix	07/01/2017
-ltshipra@rediffmail.com		07/01/2017	britishcouncil		comicsplus	07/10/2017
-suhaspatel7063@gmail.com	AAH011121	07/01/2017	britishcouncil		indieflix	07/01/2017
-ashwin.mangale@gmail.com		07/01/2017	britishcouncil			
-talkmainak@yahoo.com	ACL046216	07/01/2017	britishcouncil		comicsplus	07/01/2017
-Farhanqazi@hotmail.com	11001441	07/01/2017	pakistan		magazines	02/09/2019
-solankivijay18@gmail.com		07/01/2017	britishcouncil		hoonuit	03/22/2019
-priyanka.d.mengale@gmail.com	APN028970	07/01/2017	britishcouncil		indieflix	07/01/2017
-lovleengandhi@hotmail.com	Ach009825	07/01/2017	britishcouncil		indieflix	09/13/2017
-hariharan.ramakrishnan@gmail.com		07/01/2017	britishcouncil			
-biswasani@hotmail.com		07/01/2017	britishcouncil		indieflix	07/01/2017
+Email	BarCode	Join Date	Library Name	Library Nickname	AccountId	Last Service Login	Last Login Date
+srinivasnarisetty@yahoo.co.uk	ADL035261	07/01/2017	British Council Libraries	britishcouncil		indieflix	07/01/2017
+abdulquddushalim@gmail.com		07/01/2017	Perpustakaan Negara Malaysia	zinioMNL
+sivadaskr@gmail.com		07/01/2017	British Council Libraries	britishcouncil		indieflix	11/14/2017
+arun@wicom.co.in	ABL019309	07/01/2017	British Council Libraries	britishcouncil		magazines	10/27/2019
+j.k.priyanka2110@gmail.com	AHD021066	07/01/2017	British Council Libraries	britishcouncil		indieflix	07/11/2017
+gnavink75@gmail.com	AMA031777	07/01/2017	British Council Libraries	britishcouncil		indieflix	07/01/2017
+ltshipra@rediffmail.com		07/01/2017	British Council Libraries	britishcouncil		comicsplus	07/10/2017
+suhaspatel7063@gmail.com	AAH011121	07/01/2017	British Council Libraries	britishcouncil		indieflix	07/01/2017
+ashwin.mangale@gmail.com		07/01/2017	British Council Libraries	britishcouncil
+talkmainak@yahoo.com	ACL046216	07/01/2017	British Council Libraries	britishcouncil		comicsplus	07/01/2017
+Farhanqazi@hotmail.com	11001441	07/01/2017	British Council Pakistan	pakistan		magazines	02/09/2019
+solankivijay18@gmail.com		07/01/2017	British Council Libraries	britishcouncil		hoonuit	03/22/2019
+priyanka.d.mengale@gmail.com	APN028970	07/01/2017	British Council Libraries	britishcouncil		indieflix	07/01/2017
+lovleengandhi@hotmail.com	Ach009825	07/01/2017	British Council Libraries	britishcouncil		indieflix	09/13/2017
+hariharan.ramakrishnan@gmail.com		07/01/2017	British Council Libraries	britishcouncil
+biswasani@hotmail.com		07/01/2017	British Council Libraries	britishcouncil		indieflix	07/01/2017
 Total	16					

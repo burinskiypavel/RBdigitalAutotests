@@ -1,6 +1,5 @@
 For Period: from 01/01/2017 to 01/22/2017
-Service	License Type	Library Name	System Name	Account #	State	Country	Title	Barcode	Email	Library	Views	Notes
-qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artists - Rock & Roll Hall of Fame 25th Anniversary Concerts	21659011140181	katiew2100@aol.com		58	Qello, Pongalo, TGC, IF
+Service	License Type	Library Name	System Name	Account #	State	Country	Title	Barcode	Email	Branch	Views	Notesqello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artists - Rock & Roll Hall of Fame 25th Anniversary Concerts	21659011140181	katiew2100@aol.com		58	Qello, Pongalo, TGC, IF
 qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	David Foster And Friends - The Hit Man Returns	21659011140181	katiew2100@aol.com		55	Qello, Pongalo, TGC, IF
 qello	7-day	East Baton Rouge Parish Library		7220260	Louisiana	US	Various Artists - Bridge School Benefit	21659011140181	katiew2100@aol.com		22	Qello, Pongalo, TGC, IF
 qello	7-day	RBdigital Trial Customer Library			Maryland	US	Judy Collins And Elizabeth Cotten - Rainbow Quest: Judy Collins and Elizabeth Cotten		bridout@cabq.gov		21	
