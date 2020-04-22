@@ -242,9 +242,10 @@ public class TestReportsInGlobalAdmin_QA {
     @Test
     void Test_15_Magazines_MagazineIssueDeliveryStatus() throws IOException {
         pageObj.SelectFromSelectByIdAndValue("service_t", "magazines");
-        Wait<WebDriver> wait = new WebDriverWait(driver, 45);
+        Wait<WebDriver> wait = new WebDriverWait(driver, 40);
         adminPage.OpenReport("//a[contains(text(), 'Magazine Issue Delivery Status')]");
         adminPage.SetDatesInRepot("01/01/2017", "01/01/2017");
+        adminPage.selectLibraryFromSelect("form_libraries", "46");
         adminPage.createReportBtn.click();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//div[contains(text(), 'Report is generated. If downloading will not start, please click on the CSV icon.')]")));
         Assert.assertTrue(driver.findElement(By.xpath("//div[contains(text(), 'Report is generated. If downloading will not start, please click on the CSV icon.')]")).isDisplayed());

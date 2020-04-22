@@ -85,6 +85,13 @@ public class MagazinePage {
         return this;
     }
 
+    public MagazinePage SelectMagazineFromBackIssues(int mag){
+        Wait<WebDriver> wait = new WebDriverWait(driver, 30);
+        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("div[class='magazine-card']")));
+        driver.findElements(By.cssSelector("div[class='magazine-card']")).get(mag).click();
+        return this;
+    }
+
     public MagazinePage PressStartReadingBtn(){
         Wait<WebDriver> wait = new WebDriverWait(driver, 80);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//span[contains(text(), 'Start Reading')]")));

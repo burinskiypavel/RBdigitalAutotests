@@ -423,7 +423,22 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
     }
 
     @Test
-    void test_22_ForgotPassword() throws InterruptedException {
+    void  test_22_MagazineCheckoutFromBackIssues_Rbdigitalinternal() throws InterruptedException {
+        driver.navigate().to("https://www.rbdigital.com/rbdigitalinternal/");
+        mainPage.Login("qauser", "password1");
+        magazinePage.OpenMagazinesPage()
+                .SelectMagazine("//img[@alt='The Economist']")
+                .SelectMagazineFromBackIssues(1)
+                .PressStartReadingBtn()
+                .openMagazineReadingPageProd(463511);
+        String magazineUrl2 = getCurrentUrl();
+        readingPage.openMagazinePageFromTableOfContents(463511, 4);
+
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/463511/Cover");
+    }
+
+    @Test
+    void test_23_ForgotPassword() throws InterruptedException {
         driver.navigate().to("https://www.rbdigital.com/test51/");
         String timeStamp = GetTimeStamp();
         mainPage.Register("hotdog", "6659", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
