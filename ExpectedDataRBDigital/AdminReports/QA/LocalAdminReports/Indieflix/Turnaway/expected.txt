@@ -1,6 +1,6 @@
 For Period: from 05/21/2017 to 07/01/2018
 The patron cap data included in the report is as of the time when the report is run. No history of prior caps is retained.
-License Type	Library Name	Barcode	Email	Library	Licenses #	Description	Monthly Patron Cap	Overall Cap	Group Cap	Patron Cap	Service Cap	Turnaway Reason	Total Turnaways
+License Type	Library Name	Barcode	Email	Branch	Licenses #	Description	Monthly Patron Cap	Overall Cap	Group Cap	Patron Cap	Service Cap	Turnaway Reason	Total Turnaways
 7-day	8080 Test Library		bsmoot@recordedbooks.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	3
 7-day	8080 Test Library		exampl5@example.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	5
 7-day	8080 Test Library		exampl6@example.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	2

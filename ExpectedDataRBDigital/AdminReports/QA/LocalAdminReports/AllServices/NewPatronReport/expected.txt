@@ -1,4 +1,4 @@
-Email	BarCode	Library	Join Date	Library Name	Last Service Login	Last Login Date
+Email	BarCode	Branch	Join Date	Library Name	Last Service Login	Last Login Date
 05_30_2019_12_24@gmail.com			05/30/2019	8080 Test Library		
 05_30_2019_12_20@gmail.com			05/30/2019	8080 Test Library		
 05_30_2019_12_04@gmail.com			05/30/2019	8080 Test Library		

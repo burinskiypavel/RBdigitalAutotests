@@ -1,5 +1,5 @@
 For Period: from 05/15/2017 to 07/01/2018
-Service	Date	Library Name	Library Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
+Service	Date	Library Name	Library Nickname	Account #	Billing Account #	Barcode	Email	Branch	License Type	Notes	Tokens Issued	Views
 pongalo	04/19/2018	8080 Test Library	test51			qwerty	avolkov@envionsoftware.com		7-day		1	0
 pongalo	04/26/2018	8080 Test Library	test51				test1904patron@gmail.com		7-day		1	0
 pongalo	04/26/2018	8080 Test Library	test51				test2004patron@gmail.com		7-day		1	0

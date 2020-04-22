@@ -1,5 +1,5 @@
 For Period: from 05/21/2017 to 07/01/2018
-Service	Date	Library Name	Library Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
+Service	Date	Library Name	Library Nickname	Account #	Billing Account #	Barcode	Email	Branch	License Type	Notes	Tokens Issued	Views
 qello	08/30/2017	8080 Test Library	test51				international@email.com		30-day		1	0
 qello	08/30/2017	8080 Test Library	test51				qa@qa.qa		30-day		1	0
 qello	10/20/2017	8080 Test Library	test51				gustavo@indieflix.com		30-day		1	0

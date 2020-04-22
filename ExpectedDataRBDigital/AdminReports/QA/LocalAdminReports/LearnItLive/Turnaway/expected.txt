@@ -1,6 +1,6 @@
 For Period: from 05/15/2016 to 07/01/2018
 The patron cap data included in the report is as of the time when the report is run. No history of prior caps is retained.
-License Type	Library Name	Barcode	Email	Library	Licenses #	Description	Monthly Patron Cap	Overall Cap	Group Cap	Patron Cap	Service Cap	Turnaway Reason	Total Turnaways
+License Type	Library Name	Barcode	Email	Branch	Licenses #	Description	Monthly Patron Cap	Overall Cap	Group Cap	Patron Cap	Service Cap	Turnaway Reason	Total Turnaways
 Total	0
 
 

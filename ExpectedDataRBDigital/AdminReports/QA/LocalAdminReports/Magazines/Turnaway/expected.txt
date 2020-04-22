@@ -1,4 +1,4 @@
-Library Name	Barcode	Email	Library	Title	RBID	Frequency	Total Current Issue Turnaways
+Library Name	Barcode	Email	Branch	Title	RBID	Frequency	Total Current Issue Turnaways
 8080 Test Library		ymelnik@envionsoftware.com		01net	RBZ0001638	Weekly	8
 8080 Test Library	APP1233778	rbtest3@gmail.com		01net	RBZ0001638	Weekly	3
 8080 Test Library	APP6820123	b@c.com		01net	RBZ0001638	Weekly	2

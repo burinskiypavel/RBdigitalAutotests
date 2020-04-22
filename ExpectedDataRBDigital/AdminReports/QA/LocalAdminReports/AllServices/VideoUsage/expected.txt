@@ -1,4 +1,4 @@
-Service	License Type	Library Name	Title	Barcode	Email	Library	Views	Notes
+Service	License Type	Library Name	Title	Barcode	Email	Branch	Views	Notes
 acorntv	7-day	8080 Test Library	flametrees-01-The Promised Land		testbb201712011315@email.com		1	
 indieflix	7-day	8080 Test Library	Dear Dolphin - Dear Dolphin - IndieFlix		gustavogiudici@gmail.com		1	
 Total	2	

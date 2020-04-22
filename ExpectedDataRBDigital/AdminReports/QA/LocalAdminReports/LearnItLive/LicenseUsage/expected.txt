@@ -1,5 +1,5 @@
 For Period: from 05/06/2016 to 07/01/2018
-Service	Date	Library Name	Library Nickname	Account #	Billing Account #	Barcode	Email	Library	License Type	Notes	Tokens Issued	Views
+Service	Date	Library Name	Library Nickname	Account #	Billing Account #	Barcode	Email	Branch	License Type	Notes	Tokens Issued	Views
 learnitlive	05/17/2018	8080 Test Library	test51			qwerty	avolkov@envionsoftware.com		7-day		1	0
 learnitlive	05/18/2018	8080 Test Library	test51				testbb201805182122@email.com		7-day		1	0
 learnitlive	05/21/2018	8080 Test Library	test51				new@new.new		7-day		1	0
