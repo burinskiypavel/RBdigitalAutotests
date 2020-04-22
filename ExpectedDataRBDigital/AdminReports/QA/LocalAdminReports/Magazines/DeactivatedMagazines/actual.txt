@@ -21,17 +21,17 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Automobile	RBZ0001299	431861	12/01/2019
 8080 Test Library	Automobile	RBZ0001299	431862	01/01/2020
 8080 Test Library	Automobile	RBZ0001299	431863	02/01/2020
-8080 Test Library	biz ????	RBZ0010178	453146	01/30/2019
-8080 Test Library	biz ????	RBZ0010178	455096	02/27/2019
-8080 Test Library	biz ????	RBZ0010178	456889	03/28/2019
-8080 Test Library	biz ????	RBZ0010178	458309	04/30/2019
-8080 Test Library	biz ????	RBZ0010178	460084	05/28/2019
-8080 Test Library	biz ????	RBZ0010178	460697	07/01/2019
-8080 Test Library	biz ????	RBZ0010178	461252	08/02/2019
-8080 Test Library	biz ????	RBZ0010178	461906	09/02/2019
-8080 Test Library	biz ????	RBZ0010178	462281	10/01/2019
-8080 Test Library	biz ????	RBZ0010178	464658	10/30/2019
-8080 Test Library	biz ????	RBZ0010178	474723	12/02/2019
+8080 Test Library	biz 互動英語	RBZ0010178	453146	01/30/2019
+8080 Test Library	biz 互動英語	RBZ0010178	455096	02/27/2019
+8080 Test Library	biz 互動英語	RBZ0010178	456889	03/28/2019
+8080 Test Library	biz 互動英語	RBZ0010178	458309	04/30/2019
+8080 Test Library	biz 互動英語	RBZ0010178	460084	05/28/2019
+8080 Test Library	biz 互動英語	RBZ0010178	460697	07/01/2019
+8080 Test Library	biz 互動英語	RBZ0010178	461252	08/02/2019
+8080 Test Library	biz 互動英語	RBZ0010178	461906	09/02/2019
+8080 Test Library	biz 互動英語	RBZ0010178	462281	10/01/2019
+8080 Test Library	biz 互動英語	RBZ0010178	464658	10/30/2019
+8080 Test Library	biz 互動英語	RBZ0010178	474723	12/02/2019
 8080 Test Library	Car Craft	RBZ0001323	431765	04/01/2019
 8080 Test Library	Car Craft	RBZ0001323	431766	05/01/2019
 8080 Test Library	Car Craft	RBZ0001323	431767	06/01/2019
@@ -226,7 +226,7 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Performance Vauxhall	RBZ0007113	425536	10/01/2019
 8080 Test Library	Point de Vue Histoire	RBZ0009756	451587	10/01/2018
 8080 Test Library	Point de Vue Histoire	RBZ0009756	451588	12/01/2018
-8080 Test Library	Point de Vue Histoire Hors - S�rie	RBZ0009757	27070	10/01/2016
+8080 Test Library	Point de Vue Histoire Hors - Série	RBZ0009757	27070	10/01/2016
 8080 Test Library	QUICK QUILTS	RBZ0010046	424033	04/01/2019
 8080 Test Library	QUICK QUILTS	RBZ0010046	442225	06/01/2019
 8080 Test Library	QUICK QUILTS	RBZ0010046	442227	08/01/2019
