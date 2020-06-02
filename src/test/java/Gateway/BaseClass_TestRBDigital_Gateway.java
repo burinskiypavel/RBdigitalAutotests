@@ -125,8 +125,8 @@ public class BaseClass_TestRBDigital_Gateway  {
 
     public void pressArrowNextFromPage(int pageNumber) {
         Wait<WebDriver> wait = new WebDriverWait(driver, 20);
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_"+pageNumber+"")));
-        driver.findElement(By.id("page_"+pageNumber+"")).click();
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page-"+pageNumber+"")));
+        driver.findElement(By.id("page-"+pageNumber+"")).click();
         driver.findElement(By.id("arrow-next")).click();
     }
 

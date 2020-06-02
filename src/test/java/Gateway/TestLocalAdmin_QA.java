@@ -337,9 +337,9 @@ public class TestLocalAdmin_QA {
         adminPage.LoginInAdmin("pburinskiy", "pburinskiy123");
         adminPage.licensesTab.click();
         adminPage.goToLicenseManager();
-        int licensesBeforeAdd = adminPage.getDataFromLicensesOveral_getLicenses(4);
+        int licensesBeforeAdd = adminPage.getDataFromLicensesOveral_getLicenses(5);
         adminPage.createLicensesForService("great-courses", "5", "test");
-        int licensesAfterAdd = adminPage.getDataFromLicensesOveral_getLicenses(4);
+        int licensesAfterAdd = adminPage.getDataFromLicensesOveral_getLicenses(5);
         Assert.assertEquals(licensesAfterAdd, licensesBeforeAdd + 5);
     }
 
@@ -351,9 +351,9 @@ public class TestLocalAdmin_QA {
         adminPage.LoginInAdmin("pburinskiy", "pburinskiy123");
         adminPage.licensesTab.click();
         adminPage.goToLicenseManager();
-        int licensesBeforeAdd = adminPage.getDataFromLicensesOveral_getLicenses(5);
+        int licensesBeforeAdd = adminPage.getDataFromLicensesOveral_getLicenses(6);
         adminPage.createLicensesForService("indieflix", "5", "test");
-        int licensesAfterAdd = adminPage.getDataFromLicensesOveral_getLicenses(5);
+        int licensesAfterAdd = adminPage.getDataFromLicensesOveral_getLicenses(6);
         Assert.assertEquals(licensesAfterAdd, licensesBeforeAdd + 5);
     }
 
@@ -365,9 +365,9 @@ public class TestLocalAdmin_QA {
         adminPage.LoginInAdmin("pburinskiy", "pburinskiy123");
         adminPage.licensesTab.click();
         adminPage.goToLicenseManager();
-        int licensesBeforeAdd = adminPage.getDataFromLicensesOveral_getLicenses(6);
+        int licensesBeforeAdd = adminPage.getDataFromLicensesOveral_getLicenses(7);
         adminPage.createLicensesForService("learnitlive", "5", "test");
-        int licensesAfterAdd = adminPage.getDataFromLicensesOveral_getLicenses(6);
+        int licensesAfterAdd = adminPage.getDataFromLicensesOveral_getLicenses(7);
         Assert.assertEquals(licensesAfterAdd, licensesBeforeAdd + 5);
     }
 

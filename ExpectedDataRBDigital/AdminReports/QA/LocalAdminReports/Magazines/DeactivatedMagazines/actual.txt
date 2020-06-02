@@ -11,6 +11,8 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	4 Wheel & Off Road	RBZ0000015	431806	01/01/2020
 8080 Test Library	4 Wheel & Off Road	RBZ0000015	431807	02/01/2020
 8080 Test Library	4 Wheel & Off Road	RBZ0000015	431808	03/01/2020
+8080 Test Library	Amazing Wellness	RBZ0004674	434920	05/01/2019
+8080 Test Library	Australian Mountain Bike Travel Special	RBZ0007916	2025	05/01/2015
 8080 Test Library	Automobile	RBZ0001299	431854	03/01/2019
 8080 Test Library	Automobile	RBZ0001299	431855	05/01/2019
 8080 Test Library	Automobile	RBZ0001299	431856	06/01/2019
@@ -21,17 +23,19 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Automobile	RBZ0001299	431861	12/01/2019
 8080 Test Library	Automobile	RBZ0001299	431862	01/01/2020
 8080 Test Library	Automobile	RBZ0001299	431863	02/01/2020
-8080 Test Library	biz 互動英語	RBZ0010178	453146	01/30/2019
-8080 Test Library	biz 互動英語	RBZ0010178	455096	02/27/2019
-8080 Test Library	biz 互動英語	RBZ0010178	456889	03/28/2019
-8080 Test Library	biz 互動英語	RBZ0010178	458309	04/30/2019
-8080 Test Library	biz 互動英語	RBZ0010178	460084	05/28/2019
-8080 Test Library	biz 互動英語	RBZ0010178	460697	07/01/2019
-8080 Test Library	biz 互動英語	RBZ0010178	461252	08/02/2019
-8080 Test Library	biz 互動英語	RBZ0010178	461906	09/02/2019
-8080 Test Library	biz 互動英語	RBZ0010178	462281	10/01/2019
-8080 Test Library	biz 互動英語	RBZ0010178	464658	10/30/2019
-8080 Test Library	biz 互動英語	RBZ0010178	474723	12/02/2019
+8080 Test Library	BBC Top Gear Magazine India	RBZ0004231	456963	07/01/2019
+8080 Test Library	Bikes Etc Magazine	RBZ0008456	436052	12/01/2019
+8080 Test Library	biz ????	RBZ0010178	453146	01/30/2019
+8080 Test Library	biz ????	RBZ0010178	455096	02/27/2019
+8080 Test Library	biz ????	RBZ0010178	456889	03/28/2019
+8080 Test Library	biz ????	RBZ0010178	458309	04/30/2019
+8080 Test Library	biz ????	RBZ0010178	460084	05/28/2019
+8080 Test Library	biz ????	RBZ0010178	460697	07/01/2019
+8080 Test Library	biz ????	RBZ0010178	461252	08/02/2019
+8080 Test Library	biz ????	RBZ0010178	461906	09/02/2019
+8080 Test Library	biz ????	RBZ0010178	462281	10/01/2019
+8080 Test Library	biz ????	RBZ0010178	464658	10/30/2019
+8080 Test Library	biz ????	RBZ0010178	474723	12/02/2019
 8080 Test Library	Car Craft	RBZ0001323	431765	04/01/2019
 8080 Test Library	Car Craft	RBZ0001323	431766	05/01/2019
 8080 Test Library	Car Craft	RBZ0001323	431767	06/01/2019
@@ -44,6 +48,7 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Car Craft	RBZ0001323	431774	01/01/2020
 8080 Test Library	Car Craft	RBZ0001323	431775	02/01/2020
 8080 Test Library	Car Craft	RBZ0001323	431776	03/01/2020
+8080 Test Library	Chasseur d'images	RBZ0009637	455378	08/01/2019
 8080 Test Library	Chevy High Performance	RBZ0001360	431741	04/01/2019
 8080 Test Library	Chevy High Performance	RBZ0001360	431742	05/01/2019
 8080 Test Library	Chevy High Performance	RBZ0001360	431743	06/01/2019
@@ -56,6 +61,7 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Chevy High Performance	RBZ0001360	431750	01/01/2020
 8080 Test Library	Chevy High Performance	RBZ0001360	431751	02/01/2020
 8080 Test Library	Chevy High Performance	RBZ0001360	431752	03/01/2020
+8080 Test Library	Chillfactor Ski Magazine	RBZ0004222	191842	06/01/2012
 8080 Test Library	Classic Trucks	RBZ0006611	431827	04/01/2019
 8080 Test Library	Classic Trucks	RBZ0006611	431828	05/01/2019
 8080 Test Library	Classic Trucks	RBZ0006611	431829	06/01/2019
@@ -68,6 +74,7 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Classic Trucks	RBZ0006611	431836	01/01/2020
 8080 Test Library	Classic Trucks	RBZ0006611	431837	02/01/2020
 8080 Test Library	Classic Trucks	RBZ0006611	431838	03/01/2020
+8080 Test Library	Defense Technology Monthly ????	RBZ0001065	376137	02/01/2017
 8080 Test Library	Diesel Power	RBZ0001361	431809	03/01/2019
 8080 Test Library	Diesel Power	RBZ0001361	431810	04/01/2019
 8080 Test Library	Diesel Power	RBZ0001361	431811	05/01/2019
@@ -80,6 +87,13 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Diesel Power	RBZ0001361	431818	12/01/2019
 8080 Test Library	Diesel Power	RBZ0001361	431819	01/01/2020
 8080 Test Library	Diesel Power	RBZ0001361	431820	02/01/2020
+8080 Test Library	Drawing: The Complete Course	RBZ0000311	342040	08/01/2011
+8080 Test Library	Drew League	RBZ0006496	233461	08/01/2013
+8080 Test Library	Especial Relojes de Esquire ES	RBZ0001718	343525	05/15/2013
+8080 Test Library	Fitness SA	RBZ0005247	456122	12/01/2019
+8080 Test Library	Flightpath	RBZ0008764	437492	08/01/2019
+8080 Test Library	Gente - Argentina	RBZ0006012	411921	01/16/2018
+8080 Test Library	Glamour Italia	RBZ0005061	452207	12/01/2019
 8080 Test Library	Golf Digest	RBZ0005635	432633	02/01/2019
 8080 Test Library	Golf Digest	RBZ0005635	432634	03/01/2019
 8080 Test Library	Golf Digest	RBZ0005635	432635	04/01/2019
@@ -100,6 +114,8 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Hot Rod Deluxe	RBZ0001578	431843	11/01/2019
 8080 Test Library	Hot Rod Deluxe	RBZ0001578	431844	01/01/2020
 8080 Test Library	IL - Idee e lifestyle del Sole 24 ORE	RBZ0002381	392427	09/01/2018
+8080 Test Library	Inside Out Christmas	RBZ0004017	342301	12/01/2011
+8080 Test Library	Inside Out Renovating & Decorating Guide	RBZ0000495	342586	05/01/2012
 8080 Test Library	Jours de Chasse	RBZ0009686	381186	06/01/2017
 8080 Test Library	Jours de Cheval	RBZ0009687	374635	07/01/2017
 8080 Test Library	Jp Magazine	RBZ0001366	431729	01/25/2019
@@ -115,6 +131,8 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Jp Magazine	RBZ0001366	431739	02/01/2020
 8080 Test Library	Jp Magazine	RBZ0001366	431740	03/01/2020
 8080 Test Library	L'impresa	RBZ0002571	424099	07/01/2018
+8080 Test Library	Living and Loving	RBZ0000936	430845	09/01/2019
+8080 Test Library	Love Stitching	RBZ0006090	221894	04/01/2013
 8080 Test Library	Lowrider	RBZ0000550	431717	04/01/2019
 8080 Test Library	Lowrider	RBZ0000550	431718	05/01/2019
 8080 Test Library	Lowrider	RBZ0000550	431719	06/01/2019
@@ -128,6 +146,8 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Lowrider	RBZ0000550	431727	02/01/2020
 8080 Test Library	Lowrider	RBZ0000550	431728	03/01/2020
 8080 Test Library	Lowrider Arte	RBZ0001371	247445	03/01/2014
+8080 Test Library	Maison Fran�aise hors-s�rie	RBZ0002393	343469	05/01/2013
+8080 Test Library	Maison Magazine hors-s�rie	RBZ0002392	238549	10/01/2013
 8080 Test Library	Mania	RBZ0007861	442651	02/01/2019
 8080 Test Library	Mania	RBZ0007861	442652	03/01/2019
 8080 Test Library	Mania	RBZ0007861	442653	04/01/2019
@@ -141,6 +161,8 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Mania	RBZ0007861	442669	12/01/2019
 8080 Test Library	Mania	RBZ0007861	442671	01/01/2020
 8080 Test Library	Mania	RBZ0007861	442673	02/01/2020
+8080 Test Library	Men's Fitness - France	RBZ0001463	449264	10/01/2019
+8080 Test Library	Men's Health Singapore	RBZ0005802	441228	11/01/2019
 8080 Test Library	Metro Home & Entertaining	RBZ0002505	423765	11/10/2018
 8080 Test Library	Metro Home's Bed and Bath Special Issue	RBZ0006784	344078	12/01/2013
 8080 Test Library	Metro Society	RBZ0003147	413971	12/01/2018
@@ -194,6 +216,7 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Mustang Monthly	RBZ0004793	431660	11/01/2019
 8080 Test Library	Mustang Monthly	RBZ0004793	431661	12/01/2019
 8080 Test Library	Mustang Monthly	RBZ0004793	431662	01/01/2020
+8080 Test Library	Nat'Images	RBZ0009733	454542	08/01/2019
 8080 Test Library	Nueva	RBZ0000633	396150	01/14/2019
 8080 Test Library	Nueva	RBZ0000633	396151	01/28/2019
 8080 Test Library	Nueva	RBZ0000633	450171	02/11/2019
@@ -219,6 +242,7 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Nueva	RBZ0000633	450191	11/18/2019
 8080 Test Library	Nueva	RBZ0000633	450192	12/02/2019
 8080 Test Library	Nueva	RBZ0000633	450193	12/16/2019
+8080 Test Library	PC Hardware	RBZ0008887	420669	03/01/2018
 8080 Test Library	Performance Vauxhall	RBZ0007113	418153	02/01/2019
 8080 Test Library	Performance Vauxhall	RBZ0007113	418154	04/01/2019
 8080 Test Library	Performance Vauxhall	RBZ0007113	418155	06/01/2019
@@ -226,12 +250,16 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Performance Vauxhall	RBZ0007113	425536	10/01/2019
 8080 Test Library	Point de Vue Histoire	RBZ0009756	451587	10/01/2018
 8080 Test Library	Point de Vue Histoire	RBZ0009756	451588	12/01/2018
-8080 Test Library	Point de Vue Histoire Hors - Série	RBZ0009757	27070	10/01/2016
+8080 Test Library	Point de Vue Histoire Hors - S�rie	RBZ0009757	27070	10/01/2016
+8080 Test Library	Pro Guide to Sewing	RBZ0007291	253671	03/01/2014
 8080 Test Library	QUICK QUILTS	RBZ0010046	424033	04/01/2019
 8080 Test Library	QUICK QUILTS	RBZ0010046	442225	06/01/2019
 8080 Test Library	QUICK QUILTS	RBZ0010046	442227	08/01/2019
 8080 Test Library	QUICK QUILTS	RBZ0010046	442229	10/01/2019
 8080 Test Library	QUICK QUILTS	RBZ0010046	442231	12/01/2019
+8080 Test Library	ScrapBook inspirations - Ideas Book 2nd Edition	RBZ0002223	118567	01/01/2010
+8080 Test Library	Sea Angler	RBZ0007927	436948	06/01/2019
+8080 Test Library	Shape Singapore	RBZ0005813	441235	10/01/2019
 8080 Test Library	Smith Journal	RBZ0000769	442116	04/01/2019
 8080 Test Library	Smith Journal	RBZ0000769	442117	05/01/2019
 8080 Test Library	Smith Journal	RBZ0000769	442118	09/01/2019
@@ -248,6 +276,7 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Street Rodder	RBZ0000785	431696	12/01/2019
 8080 Test Library	Street Rodder	RBZ0000785	431697	01/01/2020
 8080 Test Library	Street Rodder	RBZ0000785	431698	02/01/2020
+8080 Test Library	Stuff Taiwan ????? ?????	RBZ0010183	452585	07/02/2019
 8080 Test Library	Super Chevy	RBZ0001438	447728	03/01/2019
 8080 Test Library	Super Chevy	RBZ0001438	447729	04/01/2019
 8080 Test Library	Super Chevy	RBZ0001438	447731	04/05/2019
@@ -272,7 +301,16 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Super Street	RBZ0001362	431648	12/01/2019
 8080 Test Library	Super Street	RBZ0001362	431649	01/01/2020
 8080 Test Library	Super Street	RBZ0001362	431650	02/01/2020
+8080 Test Library	The Beer Lovers Guide to Australia	RBZ0000126	161583	09/01/2011
+8080 Test Library	The Big Comic Relief Crafternoon	RBZ0009167	378199	02/01/2017
 8080 Test Library	The Complete Guide to Kodi	RBZ0009295	386091	04/01/2017
+8080 Test Library	The Explorers Journal	RBZ0004364	455392	09/16/2019
+8080 Test Library	The Handmade Interiors Book	RBZ0009155	375601	02/01/2017
+8080 Test Library	The Hockey News Poolbook French	RBZ0000464	341111	01/01/2009
+8080 Test Library	The Red Bulletin STRATOS	RBZ0005633	210813	12/01/2012
+8080 Test Library	Torque	RBZ0003912	452074	11/01/2019
+8080 Test Library	Travel Photography	RBZ0008478	10586	02/01/2016
+8080 Test Library	triple j - Annual	RBZ0006847	273940	01/01/2015
 8080 Test Library	Truck Trend	RBZ0000817	431821	03/01/2019
 8080 Test Library	Truck Trend	RBZ0000817	431822	05/01/2019
 8080 Test Library	Truck Trend	RBZ0000817	431823	07/01/2019
@@ -304,6 +342,14 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	Vette Magazine	RBZ0003594	431584	01/01/2020
 8080 Test Library	Vette Magazine	RBZ0003594	431585	02/01/2020
 8080 Test Library	Vette Magazine	RBZ0003594	431586	03/01/2020
+8080 Test Library	Win Magazine - Speciali	RBZ0008010	376539	01/01/2018
+8080 Test Library	Women's Fitness 30 Day Challenge	RBZ0007715	344984	12/01/2014
+8080 Test Library	Women's Fitness Tone up at Home	RBZ0001031	342246	11/01/2011
+8080 Test Library	Womens Fitness 4 Weeks To Skinny Jeans	RBZ0007670	344867	10/01/2014
+8080 Test Library	Womens Fitness Best Body Bootcamp	RBZ0005819	343263	02/01/2013
+8080 Test Library	World Histories 2	RBZ0009227	379886	02/01/2017
+8080 Test Library	Your Family Tree presents: Get started in Military family history	RBZ0006744	240307	10/01/2013
+8080 Test Library	Zoom Magazine	RBZ0005676	394910	04/05/2019
 8080 Test Library	ZUHAUSE WOHNEN	RBZ0009077	399821	02/01/2019
 8080 Test Library	ZUHAUSE WOHNEN	RBZ0009077	440490	03/01/2019
 8080 Test Library	ZUHAUSE WOHNEN	RBZ0009077	440491	04/01/2019
@@ -311,4 +357,4 @@ Library Name	Title	RBID	Zenith Issue Id	Issue Date
 8080 Test Library	ZUHAUSE WOHNEN	RBZ0009077	440493	06/01/2019
 8080 Test Library	ZUHAUSE WOHNEN	RBZ0009077	440494	07/01/2019
 8080 Test Library	ZUHAUSE WOHNEN	RBZ0009077	440495	08/01/2019
-Total	312
+Total	358

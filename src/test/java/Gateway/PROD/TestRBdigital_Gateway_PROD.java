@@ -136,11 +136,11 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
                 .SelectMagazine("//img[@alt='Us Weekly']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPageProd(480742);
+                .openMagazineReadingPageProd(480747);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(480742, 4);
+        readingPage.openMagazinePageFromTableOfContents(480747, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/480742/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/480747/Cover");
     }
 
     @Test
@@ -254,7 +254,7 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
         readingPage.openMagazinePageFromTableOfContents(453469, 4);
         openMagazineComicsPage(6);
         pressArrowNextFromPage(6);
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page-6")));
 
         checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/453469/Cover");
     }
@@ -271,7 +271,7 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
         readingPage.openComicsPageFromTableOfContents(389797, 2);
         openMagazineComicsPage(4);
         pressArrowNextFromPage(4);
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page-6")));
 
         checkUrlContains(comicsUrl4, "com/reader.php#/reader/readsvg/389797/Cover");
     }

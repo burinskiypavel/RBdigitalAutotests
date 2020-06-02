@@ -133,14 +133,14 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
     void  test_06_MagazineCheckoutAndReadAreAvailable() throws InterruptedException {
         mainPage.Login("mar13@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
-                .SelectMagazine("//img[@alt='YouTube Vlogging The Complete Manual']")
+                .SelectMagazine("//img[@alt='Your Crochet Home']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPage(291219);
+                .openMagazineReadingPage(264457);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(291219, 4);
+        readingPage.openMagazinePageFromTableOfContents(264457, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/291219/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/264457/Cover");
     }
 
     @Test
@@ -254,7 +254,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
         readingPage.openMagazinePageFromTableOfContents(343054, 4);
         openMagazineComicsPage(6);
         pressArrowNextFromPage(6);
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page-6")));
 
         checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/343054/Cover");
     }
@@ -271,7 +271,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
         readingPage.openComicsPageFromTableOfContents(389797, 2);
         openMagazineComicsPage(4);
         pressArrowNextFromPage(4);
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page-6")));
 
         checkUrlContains(comicsUrl4, "com/reader.php#/reader/readsvg/389797/Cover");
     }
@@ -385,7 +385,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='english']")));
         SelectFromSelectByIdAndValue("language_search_line", "english");
-        magazinePage.SelectMagazine("//img[@alt='Your Handmade Wedding']");
+        magazinePage.SelectMagazine("//img[@alt='Your Family Tree presents: Get started in Military family history']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: English')]")));
 
         softAssert.assertFalse(driver.findElements(By.xpath("//p[contains(text(), 'language: English')]")).size() == 0, "ERROR - language: Afrikaans is not present");

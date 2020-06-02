@@ -93,7 +93,7 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
     void test_02_2_Registration_rbdigitalinternal() throws InterruptedException {
         String timeStamp = GetTimeStamp();
         driver.navigate().to("https://www.rbdigitalstage.com/rbdigitalinternal/");
-        mainPage.Register("battleship", "4931", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
+        mainPage.Register("pointbreak", "4931", timeStamp, timeStamp, timeStamp + "@gmail.com", "12345qw");
         mainPage.CheckWelcomeText("");
     }
 
@@ -106,19 +106,19 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
     }
 
     @Test
-    void test_04_CorrectLogin_test51() {
-        mainPage.Login("feb4@gmail.com", "12345qw");
-        mainPage.CheckWelcomeText("feb4@gmail.com");
-    }
-
-    @Test
     void test_03_CorrectLogin_rbdigitalinternal() {
         driver.navigate().to("https://www.rbdigitalstage.com/rbdigitalinternal/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
-        mainPage.Login("feb5@gmail.com", "12345qw");
-        mainPage.CheckWelcomeText("feb5@gmail.com");
+        mainPage.Login("may26@gmail.com", "12345qw");
+        mainPage.CheckWelcomeText("may26");
+    }
+
+    @Test
+    void test_04_CorrectLogin_test51() {
+        mainPage.Login("may20@gmail.com", "12345qw");
+        mainPage.CheckWelcomeText("may20");
     }
 
     @Test
@@ -131,7 +131,7 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
 
     @Test
     void test_06_MagazineCheckoutAndReadAreAvailable() throws InterruptedException {
-        mainPage.Login("feb4@gmail.com", "12345qw");
+        mainPage.Login("may20@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
                 .SelectMagazine("//img[@alt='The New Yorker']")
                 .PressCheckoutBtn()
@@ -145,7 +145,7 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
 
     @Test
     void test_07_MagazineCheckoutAndReturnAreAvailable() throws InterruptedException {
-        mainPage.Login("feb4@gmail.com", "12345qw");
+        mainPage.Login("may20@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
                 .SelectMagazine("//img[@alt='Newsweek']")
                 .PressCheckoutBtn()
@@ -158,7 +158,7 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
 
     @Test
     void  test_08_ComicCheckoutAndReadAreAvailable() throws InterruptedException {
-        mainPage.Login("feb4@gmail.com", "12345qw");
+        mainPage.Login("may20@gmail.com", "12345qw");
         comicPage.OpenComicsPage()
                 .SelectComics("//img[@alt='Army of Two, Vol. 1: Across The Border']")
                 .PressCheckoutBtn()
@@ -175,7 +175,7 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
 
     @Test
     void test_09_ComicCheckoutAndReturnAreAvailable() throws InterruptedException {
-        mainPage.Login("feb4@gmail.com", "12345qw");
+        mainPage.Login("may20@gmail.com", "12345qw");
         comicPage.OpenComicsPage()
                 .SelectComics("//img[@alt='Black Dynamite']")
                 .PressCheckoutBtn()
@@ -188,7 +188,7 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
 
     @Test(enabled = false)
     void test_10_IncorrectLogin_IncorrectPassword() {
-        mainPage.Login("feb4@gmail.com", "12345");
+        mainPage.Login("may20@gmail.com", "12345");
         wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//li[contains(text(), 'Username or password is incorrect')]")));
         Assert.assertTrue(driver.findElement(By.xpath("//li[contains(text(), 'Username or password is incorrect')]")).getText().contains("Username or password is incorrect"));
     }
@@ -215,16 +215,16 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
         }
         mainPage.Login("qauser", "password1");
         comicPage.OpenComicsPageRbdigitalinternal()
-                .SelectComics("//img[@alt='American Elf 2005']")
+                .SelectComics("//img[@alt='Minisulk']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openComicsReadingPage(423981);
+                .openComicsReadingPage(389843);
         comicsUrl3 = getCurrentUrl();
-        readingPage.openComicsPageFromTableOfContents(423981, 4);
+        readingPage.openComicsPageFromTableOfContents(389843, 4);
         readingPage.openBookmarks();
         String actualText = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
 
-        checkUrlContains(comicsUrl3, "com/reader.php#/reader/readsvg/423981/Cover");
+        checkUrlContains(comicsUrl3, "com/reader.php#/reader/readsvg/389843/Cover");
         checkTextContains(actualText, "Select the page you want to bookmark");
     }
 
@@ -244,7 +244,7 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
 
     @Test
     void test_15_SearchMagazineCheckoutReadArrowNextIsAvailable() throws InterruptedException {
-        mainPage.Login("feb4@gmail.com", "12345qw");
+        mainPage.Login("may20@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
                 .SearchMagazine("HGTV Magazine")
                 .PressCheckoutBtn()
@@ -254,14 +254,14 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
         readingPage.openMagazinePageFromTableOfContents(469890, 4);
         openMagazineComicsPage(6);
         pressArrowNextFromPage(6);
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page-6")));
 
         checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/469890/Cover");
     }
 
     @Test
     void test_16_SearchComicCheckoutReadArrowNextIsAvailable() throws InterruptedException {
-        mainPage.Login("feb4@gmail.com", "12345qw");
+        mainPage.Login("may20@gmail.com", "12345qw");
         comicPage.OpenComicsPage()
                 .SearchComic("Black Dynamite")
                 .PressCheckoutBtn()
@@ -271,7 +271,7 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
         readingPage.openComicsPageFromTableOfContents(389797, 2);
         openMagazineComicsPage(4);
         pressArrowNextFromPage(4);
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_6")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page-6")));
 
         checkUrlContains(comicsUrl4, "com/reader.php#/reader/readsvg/389797/Cover");
     }
@@ -279,7 +279,7 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
 
     @Test(enabled = false)
     void test_17_OpenMagazinesCheckPagination() throws InterruptedException {
-        mainPage.Login("feb4@gmail.com", "12345qw");
+        mainPage.Login("may20@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         //driver.findElement(By.cssSelector("a[title = 'Go to page 3']")).click();
         magazinePage.GoToPagePagination(3);
@@ -310,7 +310,7 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
 
     @Test
     void test_18_OpenMagazinesCheckGenresCheckDetailPage() throws InterruptedException, IOException {
-        mainPage.Login("feb4@gmail.com", "12345qw");
+        mainPage.Login("may20@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("genre_search_line")));
 
@@ -339,7 +339,7 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
     void test_19_OpenComicsCheckGenresCheckDetailPage() throws InterruptedException, IOException {
         SoftAssert softAssert = new SoftAssert();
 
-        mainPage.Login("feb4@gmail.com", "12345qw");
+        mainPage.Login("may20@gmail.com", "12345qw");
         comicPage.OpenComicsPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("genre_search_line")));
 
@@ -373,7 +373,7 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
     void test_20_OpenMagazinesCheckLanguages() throws InterruptedException {
         SoftAssert softAssert = new SoftAssert();
 
-        mainPage.Login("feb4@gmail.com", "12345qw");
+        mainPage.Login("may20@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("language_search_line")));
 
@@ -411,7 +411,7 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
 
     @Test
     void test_21_OpenComicsCheckLanguages() throws InterruptedException {
-        mainPage.Login("feb4@gmail.com", "12345qw");
+        mainPage.Login("may20@gmail.com", "12345qw");
         comicPage.OpenComicsPage();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("language_search_line")));
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='english']")));
@@ -430,11 +430,11 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
                 .SelectMagazine("//img[@alt='The Economist']")
                 .SelectMagazineFromBackIssues(1)
                 .PressStartReadingBtn()
-                .openMagazineReadingPage(447037);
+                .openMagazineReadingPage(463503);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(447037, 4);
+        readingPage.openMagazinePageFromTableOfContents(463503, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/447037/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/463503/Cover");
     }
 
     @Test

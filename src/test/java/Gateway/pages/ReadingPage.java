@@ -33,14 +33,14 @@ public class ReadingPage {
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("a[href = '#/reader/readsvg/"+magazineID+"/"+pageNumber+"']")));
         driver.findElement(By.cssSelector("a[href = '#/reader/readsvg/"+magazineID+"/"+pageNumber+"']")).click();
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_"+pageNumber+"")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page-"+pageNumber+"")));
     }
 
     public void OpenComicsPageFromListWaitForSpinnerLoading(int comicsID, int pageNumber){
         Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("a[href = '#/reader/readsvg/"+comicsID+"/"+pageNumber+"']")));
         driver.findElement(By.cssSelector("a[href = '#/reader/readsvg/"+comicsID+"/"+pageNumber+"']")).click();
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page_"+pageNumber+"")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page-"+pageNumber+"")));
     }
 
     public void openMagazinePageFromTableOfContents(int magazineID, int pageNumber) throws InterruptedException {
