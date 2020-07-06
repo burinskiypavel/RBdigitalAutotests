@@ -1,4 +1,4 @@
-Libraries that were subscribed to comics on 05/31/2020
+Libraries that were subscribed to comics on 06/30/2020
 Library Nickname	Official Name	State	Country	Child Library Name
 test51	8080 Test Library	Alabama	US	fixed format goodness
 test51	8080 Test Library	Alabama	US	test

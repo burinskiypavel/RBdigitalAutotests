@@ -4,8 +4,8 @@
     <test name="order">
         <classes>
 
-            <class name="Gson.Tests.TesstCrocs" />
-            <class name="Gson.Tests.TesstUnderArmour" />
+            <!--<class name="Gson.Tests.TesstCrocs" />-->
+            <!--<class name="Gson.Tests.TesstUnderArmour" />-->
 
 
 

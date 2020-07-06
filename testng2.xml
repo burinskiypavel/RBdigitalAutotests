@@ -3,8 +3,8 @@
 <test name = "testngTest">
     <classes>
 
-        <class name="Gson.Tests.TesstCrocs" />
-        <class name="Gson.Tests.TesstUnderArmour2" />
+        <!--<class name="Gson.Tests.TesstCrocs" />-->
+        <!--<class name="Gson.Tests.TesstUnderArmour2" />-->
 
 
     </classes>

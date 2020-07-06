@@ -447,8 +447,8 @@ Transformers: All Hail Megatron #7	com.iversecomics.idw.transformers.all.hail.me
 Transformers: All Hail Megatron #6	com.iversecomics.idw.transformers.all.hail.megatron.six	Teens/Young Adults (ages 13+)	IDW	2
 Transformers: All Hail Megatron #3	com.iversecomics.idw.transformers.all.hail.megatron.three	Teens/Young Adults (ages 13+)	IDW	2
 Transformers: All Hail Megatron #2	com.iversecomics.idw.transformers.all.hail.megatron.two	Teens/Young Adults (ages 13+)	IDW	2
-Bobâ€™s Burgers #2	com.iversecomics.dynamite.bobs.burgers.two.english.09052014	Teens/Young Adults (ages 13+)	Dynamite	6
-Bobâ€™s Burgers #1	com.iversecomics.dynamite.bobs.burgers.one.english.08062014	Teens/Young Adults (ages 13+)	Dynamite	4
+Bob’s Burgers #2	com.iversecomics.dynamite.bobs.burgers.two.english.09052014	Teens/Young Adults (ages 13+)	Dynamite	6
+Bob’s Burgers #1	com.iversecomics.dynamite.bobs.burgers.one.english.08062014	Teens/Young Adults (ages 13+)	Dynamite	4
 Bob's Burgers Vol 2 #5	com.iversecomics.dynamite.bobs.burgers.vol.2.five.english.10162015	Teens/Young Adults (ages 13+)	Dynamite	2
 Bob's Burgers Vol 2 #4	com.iversecomics.dynamite.bobs.burgers.vol.2.four.english.09182015	Teens/Young Adults (ages 13+)	Dynamite	2
 Bob's Burgers Vol 2 #6	com.iversecomics.dynamite.bobs.burgers.vol.2.six.english.11162015	Teens/Young Adults (ages 13+)	Dynamite	2
@@ -1050,7 +1050,7 @@ Cheryl Blossom #21	com.iversecomics.archie.comics.cheryl.blossom.twenty.one.0116
 Cheryl Blossom #23	com.iversecomics.archie.comics.cheryl.blossom.twenty.three.01162013	Middle Grades (ages 9+)	Archie Comics	2
 Veronica #194	com.iversecomics.archie.comics.veronica.one.hundred.ninety.four.07292011	Middle Grades (ages 9+)	Archie Comics	2
 Buffy Omnibus Volume 2	com.iversecomics.dark.horse.buffy.omnibus.volume.2.english.04142016	Mature (ages 16+)	Dark Horse	2
-RagnarÃ¶k #1	com.iversecomics.idw.ragnark.one.english.06212014	Teens/Young Adults (ages 13+)	IDW	2
+Ragnarök #1	com.iversecomics.idw.ragnark.one.english.06212014	Teens/Young Adults (ages 13+)	IDW	2
 Archie #500	com.iversecomics.archie.comics.archie.five.hundred.05282010	Middle Grades (ages 9+)	Archie Comics	5
 Star Trek: New Visions Vol #1	com.iversecomics.idw.star.trek.new.visions.vol.one.english.08232014	Teens/Young Adults (ages 13+)	IDW	2
 Star Trek: New Visions Vol #4	com.iversecomics.idw.star.trek.new.visions.vol.four.english.12212016	Teens/Young Adults (ages 13+)	IDW	8
@@ -1652,7 +1652,7 @@ Tales from Neverland #1	com.iversecomics.zenescope.tales.from.neverland.one.1120
 Sonic Boom #1	com.iversecomics.archie.comics.sonic.boom.one.english.10082014	Middle Grades (ages 9+)	Archie Comics	2
 Lumberjanes #2	com.iversecomics.boom.studios.lumberjanes.two.english.05212014	Kids (ages 5+)	BOOM! Studios	2
 Ghostbusters: Ongoing #1	com.iversecomics.idw.ghostbusters.ongoing.one.09132011	Teens/Young Adults (ages 13+)	IDW	9
-Neil Gaimanâ€™s The Last Temptation	com.iversecomics.dynamite.neil.gaimans.the.last.temptation.english.09262014	Teens/Young Adults (ages 13+)	Dynamite	2
+Neil Gaiman’s The Last Temptation	com.iversecomics.dynamite.neil.gaimans.the.last.temptation.english.09262014	Teens/Young Adults (ages 13+)	Dynamite	2
 GEN Vol #14	com.iversecomics.gen.manga.entertainment.gen.vol.fourteen.08312012	Teens/Young Adults (ages 13+)	GEN Manga Entertainment	1
 Skylanders #5	com.iversecomics.idw.skylanders.five.english.12172014	Kids (ages 5+)	IDW	2
 Skylanders #6	com.iversecomics.idw.skylanders.six.english.01192015	Kids (ages 5+)	IDW	2

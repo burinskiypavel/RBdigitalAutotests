@@ -136,11 +136,11 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
                 .SelectMagazine("//img[@alt='Us Weekly']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPageProd(480747);
+                .openMagazineReadingPageProd(480751);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(480747, 4);
+        readingPage.openMagazinePageFromTableOfContents(480751, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/480747/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/480751/Cover");
     }
 
     @Test
@@ -430,11 +430,11 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
                 .SelectMagazine("//img[@alt='The Economist']")
                 .SelectMagazineFromBackIssues(1)
                 .PressStartReadingBtn()
-                .openMagazineReadingPageProd(463511);
+                .openMagazineReadingPageProd(463520);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(463511, 4);
+        readingPage.openMagazinePageFromTableOfContents(463520, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/463511/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/463520/Cover");
     }
 
     @Test
