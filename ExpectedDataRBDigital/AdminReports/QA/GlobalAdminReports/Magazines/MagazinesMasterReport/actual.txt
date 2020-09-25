@@ -1,7 +1,6 @@
 For Period: from 02/02/2017 to 02/02/2017
 Active and Inactive Subscriptions counted
 Region	State	Library	AccountId	SalesRep	Subscription Start Date	Subscription End Date	Subscription Status	System Name
-North America	Alabama	8080 Test Library		avolkov_sales	09/03/2014	11/11/2019	Inactive	
 Asia	Oman	ABA - an IB World School		ballan1	10/16/2016	10/31/2017	Inactive	
 North America	Massachusetts	Abbot Public Library		jlevy	08/01/2016	07/31/2017	Inactive	SVOD - Acorn, IF, Great Courses
 Australia	New South Wales	ABC Reference Library			01/18/2016	01/31/2021	Active	
@@ -18,3 +17,4 @@ North America	New Mexico	Albuquerque Bernalillo County Library	7033942	mears	11/
 North America	British Columbia	Alert Bay Public Library	7149971	Messersmith	01/01/2017	12/31/2017	Inactive	BC Libraries Cooperative-7040759
 North America	Virginia	Alexandria Library	7040823	swilliams1	10/01/2016	09/30/2017	Inactive	Library of Virginia/Lyrasis-7051842
 North America	Illinois	Algonquin Area Public Library	7034044	mhaddadnull	10/01/2016	09/30/2017	Inactive	
+North America	California	Alhambra Civic Center Library		mransdell	06/01/2016	05/31/2017	Inactive	

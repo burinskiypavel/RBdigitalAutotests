@@ -1,20 +1,12 @@
 Title	Barcode	Email	Branch	RBID	Checkouts	Time Period	Current Issue Default	Status
-Army of Two, Vol. 1: Across The Border				RBC0389796	0	Monthly	25	Active
-Black Dynamite				RBC0389797	0	Monthly	25	Active
-Crysis				RBC0389798	0	Monthly	25	Active
-Angel: Masks				RBC0387444	0	Monthly	25	Active
-Angel: Only Human				RBC0387452	0	Monthly	25	Active
-Night Mary				RBC0387519	0	Monthly	25	Active
-Danger Girl: Revolver				RBC0387468	0	Monthly	25	Active
-Gate-way, Vol. 1: A New World				RBC0389801	0	Monthly	25	Active
-James Patterson's The Murder of King Tut				RBC0389802	0	Monthly	25	Active
-James Patterson's Witch & Wizard, Vol. 1: Battle for Shadowland				RBC0389803	0	Monthly	25	Active
-Jurassic Park: Dangerous Games				RBC0389842	0	Monthly	25	Active
-Magic the Gathering, Vol. 3: Path of Vengeance				RBC0389876	0	Monthly	25	Active
-Minisulk				RBC0389843	0	Monthly	25	Active
-Rot & Ruin: Warrior Smart				RBC0389844	0	Monthly	25	Active
-Silent Hill: Dead/Alive				RBC0389685	0	Monthly	25	Active
-Silent Hill: Downpour - Anne's Story				RBC0389873	0	Monthly	25	Active
-Silent Hill: Sinner's Reward				RBC0389774	0	Monthly	25	Active
-The High Ways				RBC0389775	0	Monthly	25	Active
-Transformers: Nefarious				RBC0389776	0	Monthly	25	Active
+30 Days of Night: Beyond Barrow				RBC0387435	0	Monthly	25	Active
+110 Percent				RBC0387432	0	Monthly	25	Active
+24: Underground				RBC0387433	0	Monthly	25	Active
+30 Days of Night				RBC0387434	0	Monthly	25	Active
+30 Days of Night: Dark Days				RBC0387438	0	Monthly	25	Active
+30 Days of Night, Vol. 1: The Beginning of the End				RBC0387437	0	Monthly	25	Active
+30 Days of Night: Return to Barrow				RBC0387436	0	Monthly	25	Active
+5 Days to Die				RBC0389805	0	Monthly	25	Active
+3 Story: The Secret History of the Giant Man (Expanded Edition)				RBC0456035	0	Annually	25	Active
+Teenage Mutant Ninja Turtles: Villain Micro-Series Vol. 1				RBC0424239	0	Monthly	25	Active
+Total	0			

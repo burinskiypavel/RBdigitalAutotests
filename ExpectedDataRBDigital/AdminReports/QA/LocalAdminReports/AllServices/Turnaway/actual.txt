@@ -1,80 +1,42 @@
 Service	License Type	Library Name	Barcode	Email	Branch	Licenses #	Description	Monthly Patron Cap	Overall Cap	Group Cap	Patron Cap	Service Cap	Turnaway Reason	Total Turnaways
-indieflix	7-day	8080 Test Library		bsmoot@recordedbooks.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	3
-indieflix	7-day	8080 Test Library		exampl5@example.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	5
-indieflix	7-day	8080 Test Library		exampl6@example.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	2
-great-courses	7-day	8080 Test Library		frfrfr@fr.com		2	test qa test gc expiration	99999	99999	1000	1000	100	Service or Patron Cap	4
-great-courses	7-day	8080 Test Library		frfrfr@fr.com		2	test qa test gc expiration	99999	99999	1000	1000	100	Technical Issue	2
-great-courses	7-day	8080 Test Library		gttggt@kkk.com		2	test qa test gc expiration	99999	99999	1000	1000	100	Service or Patron Cap	2
-indieflix	7-day	8080 Test Library		gustavotest10@indieflix.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	2
-great-courses	7-day	8080 Test Library		irina_rybakova@ukr.net		2	test qa test gc expiration	99999	99999	1000	1000	100	Service or Patron Cap	4
-indieflix	7-day	8080 Test Library		irybakova@envionsoftware.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	5
-indieflix	7-day	8080 Test Library		jason@test.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	2
-learnitlive	7-day	8080 Test Library		mar20a@gmail.com		90	test Beta test	99999	99999	1000	1000	100	Weekly Patron Cap	1
-indieflix	7-day	8080 Test Library		qa@qa.qa		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	3
-great-courses	7-day	8080 Test Library		slacker1125@xymail.com		2	test qa test gc expiration	99999	99999	1000	1000	100	Service or Patron Cap	4
-indieflix	7-day	8080 Test Library		slacker1125WAS@email.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	4
-great-courses	7-day	8080 Test Library		slacker1126@xymail.com		2	test qa test gc expiration	99999	99999	1000	1000	100	Service or Patron Cap	4
-indieflix	7-day	8080 Test Library		slacker1129@xymail.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	1
-indieflix	7-day	8080 Test Library		slacker1130@xymail.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	1
-indieflix	7-day	8080 Test Library		slacker1130WAS@email.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	1
-indieflix	7-day	8080 Test Library		sunnyinfo2@gmail.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	1
-indieflix	7-day	8080 Test Library		superman1111@xymail.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	16
-great-courses	7-day	8080 Test Library		superman1111WAS@email.com		2	test qa test gc expiration	99999	99999	1000	1000	100	Service or Patron Cap	3
-indieflix	7-day	8080 Test Library		superman1114@xymail.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	1
-indieflix	7-day	8080 Test Library		superman1114WAS@email.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	9
-great-courses	7-day	8080 Test Library		superman1114WAS@email.com		2	test qa test gc expiration	99999	99999	1000	1000	100	Service or Patron Cap	2
-indieflix	7-day	8080 Test Library		superman1115WAS@email.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	13
-indieflix	7-day	8080 Test Library		superman1120@xymail.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	3
-indieflix	7-day	8080 Test Library		superman1120WAS@email.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	4
-indieflix	7-day	8080 Test Library		svod_test2@email.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	3
-indieflix	7-day	8080 Test Library		takecert1@email.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	10
-indieflix	7-day	8080 Test Library		test.09.12.patron@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		testbb20180212@email.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	2
-indieflix	7-day	8080 Test Library		v.2012.134555@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2012.134615@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2112.104241@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2112.104304@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2112.105614@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2112.105635@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2112.181507@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2112.181536@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2212.155253@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2212.155337@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2212.155410@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2212.161108@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2212.161130@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2212.182155@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2212.182230@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2212.185326@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2212.185351@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2612.114859@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2612.114926@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2612.115240@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2612.115351@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2612.115440@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2612.115800@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2612.121114@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2612.121138@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2612.202919@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2612.202944@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2612.204241@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2612.204311@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2712.111516@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2712.111546@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2712.114130@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2712.114153@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2712.194345@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2712.194419@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2712.200013@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		v.2712.200416@gmail.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		worker1121@xymail.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	7
-great-courses	7-day	8080 Test Library		worker1121WAS@email.com		2	test qa test gc expiration	99999	99999	1000	1000	100	Service or Patron Cap	1
-great-courses	7-day	8080 Test Library		worker1122@xymail.com		2	test qa test gc expiration	99999	99999	1000	1000	100	Service or Patron Cap	2
-great-courses	7-day	8080 Test Library		worker1126@xymail.com		2	test qa test gc expiration	99999	99999	1000	1000	100	Service or Patron Cap	4
-great-courses	7-day	8080 Test Library		worker1130@xymail.com		2	test qa test gc expiration	99999	99999	1000	1000	100	Service or Patron Cap	1
-indieflix	7-day	8080 Test Library		ymelnik@envionsoftware.com		204	test Test	99999	99999	1000	1000	100	Technical Issue	4
-great-courses	7-day	8080 Test Library		ymelnik@envionsoftware.com		2	test qa test gc expiration	99999	99999	1000	1000	100	Service or Patron Cap	3
-indieflix	7-day	8080 Test Library	qwerty	avolkov@envionsoftware.com		204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	2
-great-courses	7-day	8080 Test Library		jasondauth@gmail.com	fixed format goodness	2	test qa test gc expiration	99999	99999	1000	1000	100	Service or Patron Cap	12
-indieflix	7-day	8080 Test Library		liccap@email.com	test_2	204	test Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-Total	192
+acorntv	7-day	8080 Test Library		iii@iiii.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Technical Issue	2
+acorntv	7-day	8080 Test Library		jun11@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Monthly Patron Cap	5
+acorntv	7-day	8080 Test Library		jun11@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Weekly Patron Cap	1
+acorntv	7-day	8080 Test Library		jun12@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Monthly Patron Cap	1
+acorntv	7-day	8080 Test Library		jun12b@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Monthly Patron Cap	1
+acorntv	7-day	8080 Test Library		mar20@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service Cap	1
+acorntv	7-day	8080 Test Library		mar20a@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Weekly Patron Cap	1
+acorntv	7-day	8080 Test Library		mar20a@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Monthly Patron Cap	1
+acorntv	7-day	8080 Test Library		svod_test1@email.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		svod_test2@email.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		test3@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v-1511-1355@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v-2911-171919@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v-2911-171949@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v-2911-172100@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.2012.173814@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.2012.173844@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.2012.173915@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.2212.160705@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.2212.160727@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.2212.160755@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.2212.181918@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.2212.181945@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.2212.182015@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.2212.184910@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.2212.184934@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.2212.185004@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.2712.113646@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.2712.113708@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.2712.113733@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.3011.121742@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.3011.121802@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.3011.150249@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.3011.150318@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.3011.150710@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.3011.150733@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		v.3011.150837@gmail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+acorntv	7-day	8080 Test Library		worker1121@xymail.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Technical Issue	3
+acorntv	7-day	8080 Test Library		ymelnik@envionsoftware.com		168	I want have the license :) another test	99999	99999	1000	1000	10000	Technical Issue	1
+acorntv	7-day	8080 Test Library		mar1a@email.com	fixed format goodness	168	I want have the license :) another test	99999	99999	1000	1000	10000	Service or Patron Cap	1
+Total	47

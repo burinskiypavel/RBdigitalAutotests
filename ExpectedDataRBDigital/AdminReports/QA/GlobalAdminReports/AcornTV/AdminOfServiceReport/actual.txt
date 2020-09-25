@@ -1,3 +1,2 @@
 Screen Name	Email	Library	AccountId	Country	State	System Name
-Kristin Cunningham	library@okmcity.net	Okmulgee Public Library	7220059	US	Oklahoma	
-Total	1
+Total	0

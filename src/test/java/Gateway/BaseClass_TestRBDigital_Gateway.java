@@ -20,7 +20,7 @@ public class BaseClass_TestRBDigital_Gateway  {
     public WebDriver driver;
 
     @AfterClass
-    void afterClass() {
+    public void afterClass() {
         driver.close();
         driver.quit();
     }
