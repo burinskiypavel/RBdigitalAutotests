@@ -64,7 +64,7 @@ public class TestLocalAdmin_QA {
         driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
         adminPage.updateMonthlyOverallPatronCap("99999");
         driver.close();
-        //driver.quit();
+        driver.quit();
     }
 
     @BeforeMethod

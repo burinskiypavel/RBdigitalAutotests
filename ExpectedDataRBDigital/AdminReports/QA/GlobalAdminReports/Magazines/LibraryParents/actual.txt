@@ -1,5 +1,7 @@
-Libraries that were subscribed to magazines on 07/31/2020
+Libraries that were subscribed to magazines on 08/31/2020
 Library Nickname	Official Name	State	Country	Child Library Name
+test51	8080 Test Library	Alabama	US	fixed format goodness
+test51	8080 Test Library	Alabama	US	test
 chattoogaga	Chattooga County Public Library	Georgia	US	Summerville Branch
 chattoogaga	Chattooga County Public Library	Georgia	US	Trion Public Library
 leega	Lee County Library System	Georgia	US	Leesburg Branch
@@ -16,5 +18,3 @@ liveoakga	Live Oak Public Libraries	Georgia	US	Midway/Riceboro Library
 liveoakga	Live Oak Public Libraries	Georgia	US	Oglethorpe Mall Library - Savannah
 liveoakga	Live Oak Public Libraries	Georgia	US	Pooler Library
 liveoakga	Live Oak Public Libraries	Georgia	US	Port City Library
-liveoakga	Live Oak Public Libraries	Georgia	US	Rincon Library
-liveoakga	Live Oak Public Libraries	Georgia	US	Southwest Chatham Library

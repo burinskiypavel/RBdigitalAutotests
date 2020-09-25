@@ -3,5 +3,4 @@ John Flores	doverfreelibrary1913@yahoo.com	Dover Free Library	7050028	US	Vermont
 Tamara	dflkidlibrary@gmail.com	Dover Free Library	7050028	US	Vermont	Value; SVOD--Indieflix, Acorn, Qello, Pongalo, Great Courses; unlimited;
 Almy Landauer	almy@waterburypubliclibrary.com	Waterbury Public Library	7202794	US	Vermont	Value; SVOD -- Acorn, Qello, Great Courses, MTP, IF, Pongalo
 RBdigital Test	jason.auth@gmail.com	Waterbury Public Library	7202794	US	Vermont	Value; SVOD -- Acorn, Qello, Great Courses, MTP, IF, Pongalo
-Sue Dowdell	stld@vermontel.net	Springfield Town Library	7221110	US	Vermont	Value Collection
-Total	5
+Total	4

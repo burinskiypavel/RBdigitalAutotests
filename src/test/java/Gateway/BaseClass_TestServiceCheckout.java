@@ -53,7 +53,7 @@ public class BaseClass_TestServiceCheckout  {
     }
 
     @AfterClass
-    void afterClass() {
+    public void afterClass() {
         driver.close();
         driver.quit();
     }
