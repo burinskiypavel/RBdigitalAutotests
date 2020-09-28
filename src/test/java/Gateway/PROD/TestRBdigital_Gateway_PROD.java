@@ -136,11 +136,11 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
                 .SelectMagazine("//img[@alt='Us Weekly']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPageProd(480751);
+                .openMagazineReadingPageProd(480765);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(480751, 4);
+        readingPage.openMagazinePageFromTableOfContents(480765, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/480751/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/480765/Cover");
     }
 
     @Test
@@ -215,16 +215,16 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
         }
         mainPage.Login("qauser", "password1");
         comicPage.OpenComicsPageRbdigitalinternal()
-                .SelectComics("//img[@alt='CAPTAIN MARVEL VOL. 1: HIGHER, FURTHER, FASTER, MORE - Special']")
+                .SelectComics("//img[@alt='SPIDER-MAN: MILES MORALES VOL. 1 - Special']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openComicsReadingPageProd(424456);
+                .openComicsReadingPageProd(424635);
         comicsUrl3 = getCurrentUrl();
-        readingPage.openComicsPageFromTableOfContents(424456, 4);
+        readingPage.openComicsPageFromTableOfContents(424635, 4);
         readingPage.openBookmarks();
         String actualText = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
 
-        checkUrlContains(comicsUrl3, "com/reader.php#/reader/readsvg/424456/Cover");
+        checkUrlContains(comicsUrl3, "com/reader.php#/reader/readsvg/424635/Cover");
         checkTextContains(actualText, "Select the page you want to bookmark");
     }
 
@@ -430,11 +430,11 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
                 .SelectMagazine("//img[@alt='The Economist']")
                 .SelectMagazineFromBackIssues(1)
                 .PressStartReadingBtn()
-                .openMagazineReadingPageProd(463520);
+                .openMagazineReadingPageProd(463534);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(463520, 4);
+        readingPage.openMagazinePageFromTableOfContents(463534, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/463520/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/463534/Cover");
     }
 
     @Test
