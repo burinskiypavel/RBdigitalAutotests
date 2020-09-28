@@ -316,7 +316,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='cycling']")));
         SelectFromSelectByIdAndValue("genre_search_line", "cycling");
-        magazinePage.SelectMagazine("//img[@alt='Bicycling']");
+        magazinePage.SelectMagazine("//img[@alt='Ultimate Adventure Bike']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Cycling')]")));
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='architecture']")));
@@ -326,7 +326,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='art-photo']")));
         SelectFromSelectByIdAndValue("genre_search_line", "art-photo");
-        magazinePage.SelectMagazine("//img[@alt='3D Artist']");
+        magazinePage.SelectMagazine("//img[@alt='The Pastel Journal']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Art & Photo')]")));
 
         List<String> actualReport = adminPage.GetActualDatadef("//div[@class='magazine_detail_content']", "TestRBDigital_Gateway/QA/Test_18_OpenMagazinesCheckGenresCheckDetailPage/actual.txt");
@@ -352,7 +352,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='horror']")));
         SelectFromSelectByIdAndValue("genre_search_line", "horror");
-        magazinePage.SelectMagazine("//img[@alt='Night Mary']");
+        magazinePage.SelectMagazine("//img[@alt='30 Days of Night']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre')]")));
         softAssert.assertFalse(driver.findElements(By.xpath("//p[contains(text(), 'genre: Horror')]")).size() == 0, "ERROR - genre: Horror");
 
@@ -379,13 +379,13 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='french']")));
         SelectFromSelectByIdAndValue("language_search_line", "french");
-        magazinePage.SelectMagazine("//img[@alt='7 Jours']");
+        magazinePage.SelectMagazine("//img[@alt='All Natura']");
 
         softAssert.assertFalse(driver.findElements(By.xpath("//p[contains(text(), 'language: French')]")).size() == 0, "ERROR - language: Afrikaans is not present");
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='english']")));
         SelectFromSelectByIdAndValue("language_search_line", "english");
-        magazinePage.SelectMagazine("//img[@alt='Your Family Tree presents: Get started in Military family history']");
+        magazinePage.SelectMagazine("//img[@alt='Your Crochet Home']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'language: English')]")));
 
         softAssert.assertFalse(driver.findElements(By.xpath("//p[contains(text(), 'language: English')]")).size() == 0, "ERROR - language: Afrikaans is not present");
@@ -430,11 +430,11 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
                 .SelectMagazine("//img[@alt='The Economist']")
                 .SelectMagazineFromBackIssues(2)
                 .PressStartReadingBtn()
-                .openMagazineReadingPage(463504);
+                .openMagazineReadingPage(463533);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(463504, 4);
+        readingPage.openMagazinePageFromTableOfContents(463533, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/463504/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/463533/Cover");
     }
 
     @Test

@@ -7,4 +7,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs
 8080 Test Library	30 Days of Night: Dark Days	RBC0387438	05/19/2017	25
 8080 Test Library	30 Days of Night: Return to Barrow	RBC0387436	05/19/2017	25
 8080 Test Library	5 Days to Die	RBC0389805	08/09/2017	50
+8080 Test Library	Black Dynamite	RBC0389797	08/09/2017	Unlimited
+8080 Test Library	Judge Dredd, Vol. 2	RBC0387508	06/04/2017	25
 8080 Test Library	Teenage Mutant Ninja Turtles: Villain Micro-Series Vol. 1	RBC0424239	06/01/2018	Unlimited
+8080 Test Library	X-MEN: SECOND COMING - Special	RBC0424672	01/01/1970	Unlimited

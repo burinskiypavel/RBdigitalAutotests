@@ -1,4 +1,5 @@
 Title	Barcode	Email	Branch	RBID	Checkouts	Time Period	Current Issue Default	Status
+Black Dynamite				RBC0389797	0	Monthly	25	Active
 30 Days of Night: Beyond Barrow				RBC0387435	0	Monthly	25	Active
 110 Percent				RBC0387432	0	Monthly	25	Active
 24: Underground				RBC0387433	0	Monthly	25	Active
@@ -6,7 +7,9 @@ Title	Barcode	Email	Branch	RBID	Checkouts	Time Period	Current Issue Default	Stat
 30 Days of Night: Dark Days				RBC0387438	0	Monthly	25	Active
 30 Days of Night, Vol. 1: The Beginning of the End				RBC0387437	0	Monthly	25	Active
 30 Days of Night: Return to Barrow				RBC0387436	0	Monthly	25	Active
+Judge Dredd, Vol. 2				RBC0387508	0	Monthly	25	Active
 5 Days to Die				RBC0389805	0	Monthly	25	Active
+X-MEN: SECOND COMING - Special				RBC0424672	0	Monthly	25	Active
 3 Story: The Secret History of the Giant Man (Expanded Edition)				RBC0456035	0	Annually	25	Active
 Teenage Mutant Ninja Turtles: Villain Micro-Series Vol. 1				RBC0424239	0	Monthly	25	Active
 Total	0			
