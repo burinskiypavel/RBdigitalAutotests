@@ -88,8 +88,8 @@ public class TestServicesCheckouts_PROD extends BaseClass_TestServiceCheckout {
         login("apr14@gmail.com", "12345qw");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigital.com/test51/service/pongalo']");
         pressGetStartedButton();
-        checkURLcontains("https://premium.pongalo.com/recorded-books");
-        checkText("Bienvenido a Pongalo NovelaClub");
+        checkURLcontains("https://www.rbdigital.com/test51/service/pongalo");
+        checkText("Note: Pongalo service will be closed at the end of August. No new checkouts accepted.");
     }
 
     @Test
