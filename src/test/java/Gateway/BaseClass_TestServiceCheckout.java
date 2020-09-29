@@ -1,5 +1,6 @@
 package Gateway;
 
+import Gateway.Steps.CommonSteps;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.WebDriver;
@@ -27,7 +28,6 @@ public class BaseClass_TestServiceCheckout  {
     //ServicePage servicePage;
     //PlatformPage platformPage;
     //ServiceSitePage serviceSitePage;
-
 
     @BeforeClass
     void beforeClass() {
@@ -200,4 +200,19 @@ public class BaseClass_TestServiceCheckout  {
             return false;
         }   //catch
     }    //isAlertPresent
+
+    public void checkAlert(String  expectedAlertText) {
+        String alertText = driver.switchTo().alert().getText();
+        driver.switchTo().alert().accept();
+        Assert.assertEquals(alertText,  expectedAlertText);
+    }
+
+    public void checkAlertModal(String  expectedAlertText) {
+        Wait<WebDriver> wait = new WebDriverWait(driver, 20);
+        wait.until(ExpectedConditions.elementToBeClickable(By.id("error_dialog")));
+        String alertText = driver.findElement(By.id("error_dialog")).getText();
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("button[class='close']")));
+        driver.findElement(By.cssSelector("button[class='close']")).click();
+        Assert.assertEquals(alertText,  expectedAlertText);
+    }
 }
