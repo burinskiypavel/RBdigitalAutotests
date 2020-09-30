@@ -7,6 +7,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -41,11 +43,18 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
     @BeforeClass
     void beforeClass() {
 
+        //chrome browser
         System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
         ChromeOptions chromeOptions = new ChromeOptions();
         driver = new ChromeDriver(chromeOptions);
+
+        //firefox browser
         //System.setProperty("webdriver.gecko.driver","driver/geckodriver.exe");
         //driver = new FirefoxDriver();
+
+        //ie browser
+        //System.setProperty("webdriver.ie.driver","driver/IEDriverServer.exe");
+        //driver = new InternetExplorerDriver();
 
         driver.navigate().to("https://www.rbdigital.com/test51/");
         //Wait<WebDriver> wait = new WebDriverWait(driver, 30);
