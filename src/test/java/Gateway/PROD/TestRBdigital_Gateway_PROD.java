@@ -9,6 +9,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -20,6 +22,8 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.List;
 
 @Test
@@ -41,7 +45,14 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
 
 
     @BeforeClass
-    void beforeClass() {
+    void beforeClass() throws MalformedURLException {
+
+        //docker
+        //driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), DesiredCapabilities.chrome());
+
+        //selenium server
+        //driver = new RemoteWebDriver(new URL("http://192.168.32.51:4444/wd/hub"), DesiredCapabilities.chrome());
+
 
         //chrome browser
         System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
@@ -145,11 +156,11 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
                 .SelectMagazine("//img[@alt='Us Weekly']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPageProd(480765);
+                .openMagazineReadingPageProd(480766);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(480765, 4);
+        readingPage.openMagazinePageFromTableOfContents(480766, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/480765/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/480766/Cover");
     }
 
     @Test
@@ -439,11 +450,11 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
                 .SelectMagazine("//img[@alt='The Economist']")
                 .SelectMagazineFromBackIssues(1)
                 .PressStartReadingBtn()
-                .openMagazineReadingPageProd(463534);
+                .openMagazineReadingPageProd(463535);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(463534, 4);
+        readingPage.openMagazinePageFromTableOfContents(463535, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/463534/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/463535/Cover");
     }
 
     @Test
