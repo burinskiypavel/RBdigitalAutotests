@@ -603,5 +603,9 @@ public class TestReportsInLocalAdmin_QA {
         Assert.assertEquals(actualReport, expectedReport);
     }
 
+    @Test
+    void test_41_getBrowserLogs(){
+        driver.manage().logs().get("browser").forEach(l -> System.out.println(l));
     }
+}
 

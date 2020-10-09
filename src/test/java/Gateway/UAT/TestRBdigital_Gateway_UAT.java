@@ -448,6 +448,11 @@ public class TestRBdigital_Gateway_UAT extends BaseClass_TestRBDigital_Gateway {
         commonSteps.thenIShouldSeeText("sent an email to " + timeStamp);
     }
 
+    @Test
+    void test_24_getBrowserLogs(){
+        driver.manage().logs().get("browser").forEach(l -> System.out.println(l));
+    }
+
 }
 
 

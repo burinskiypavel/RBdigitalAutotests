@@ -164,4 +164,9 @@ public class TestServicesCheckouts_QA extends BaseClass_TestServiceCheckout {
         checkURLcontains("https://dev.methodtestprep.com/student/home/index_v4");
         checkText("Student Dashboard");
     }
+
+    @Test
+    void test_14_getBrowserLogs(){
+        driver.manage().logs().get("browser").forEach(l -> System.out.println(l));
+    }
 }

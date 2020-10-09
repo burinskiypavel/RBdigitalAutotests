@@ -471,4 +471,9 @@ public class TestLocalAdmin_QA {
         wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//span[contains(text(), '192.192.193.194')]")));
         Assert.assertFalse(driver.findElements(By.xpath("//span[contains(text(), '192.192.193.194')]")).size() !=0);
     }
+
+    @Test
+    void test_29_getBrowserLogs(){
+        driver.manage().logs().get("browser").forEach(l -> System.out.println(l));
+    }
 }

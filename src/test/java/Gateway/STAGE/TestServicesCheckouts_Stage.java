@@ -187,6 +187,11 @@ public class TestServicesCheckouts_Stage extends BaseClass_TestServiceCheckout {
         checkText("Student Dashboard");
     }
 
+    @Test
+    void test_14_getBrowserLogs(){
+        driver.manage().logs().get("browser").forEach(l -> System.out.println(l));
+    }
+
     @AfterMethod
     void AfterMethod() {
         driver.navigate().to("https://www.rbdigitalstage.com/test51/");

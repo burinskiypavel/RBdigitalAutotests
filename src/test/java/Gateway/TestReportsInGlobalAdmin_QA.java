@@ -1182,4 +1182,9 @@ public class TestReportsInGlobalAdmin_QA {
         Assert.assertEquals(text, "There are no services currently available. Please contact your library.");
         Assert.assertTrue(driver.findElement(By.xpath("//*[contains(text(), '"+"z_"+timeStamp+"')]")).isDisplayed() );
     }
+
+    @Test
+    void test_93_getBrowserLogs(){
+        driver.manage().logs().get("browser").forEach(l -> System.out.println(l));
+    }
 }
