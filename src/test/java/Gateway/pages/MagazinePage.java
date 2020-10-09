@@ -124,7 +124,8 @@ public class MagazinePage {
         int size = driver.findElements(By.tagName("iframe")).size();
         //driver.switchTo().frame(0);
         Thread.sleep(4000);
-        driver.switchTo().frame(driver.findElement(By.cssSelector("iframe[src = 'https://rb_reader.sbx.zinioapps.com/#/reader/readsvg/"+magazinID+"']")));
+        //driver.switchTo().frame(driver.findElement(By.cssSelector("iframe[src = 'https://rb_reader.sbx.zinioapps.com/#/reader/readsvg/"+magazinID+"']")));
+        driver.switchTo().frame(driver.findElement(By.xpath("//iframe[contains(@src, '/readsvg/"+magazinID+"')]")));
         //driver.switchTo().frame(driver.findElement(By.tagName("iframe")));
         //wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.cssSelector("iframe[src = 'https://rb_reader.sbx.zinioapps.com/#/reader/readsvg/438090']")));
         Wait<WebDriver> wait2 = new WebDriverWait(driver, 30);

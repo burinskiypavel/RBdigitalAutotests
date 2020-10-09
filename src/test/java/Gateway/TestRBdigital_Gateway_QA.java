@@ -438,11 +438,11 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
                 .SelectMagazine("//img[@alt='The Economist']")
                 .SelectMagazineFromBackIssues(2)
                 .PressStartReadingBtn()
-                .openMagazineReadingPage(463533);
+                .openMagazineReadingPage(463534);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(463533, 4);
+        readingPage.openMagazinePageFromTableOfContents(463534, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/463533/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/463534/Cover");
     }
 
     @Test
