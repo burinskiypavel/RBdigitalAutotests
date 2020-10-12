@@ -5,7 +5,7 @@
 
         <!--<class name="Gson.Tests.TesstCrocs" />-->
         <!--<class name="Gson.Tests.TesstUnderArmour2" />-->
-
+        <class name="Gateway.PROD.TestRBdigital_Gateway_PROD" />
 
     </classes>
 

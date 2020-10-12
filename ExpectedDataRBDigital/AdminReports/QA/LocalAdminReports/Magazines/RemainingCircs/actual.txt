@@ -3,7 +3,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	(inside) interior design review	RBZ0002688	09/01/2020	Unlimited	7
 8080 Test Library	.net CSS Design Essentials	RBZ0003796	09/01/2011	Unlimited	1
 8080 Test Library	0024 Horloges	RBZ0002360	12/01/2019	Unlimited	3
-8080 Test Library	01net	RBZ0001638	09/23/2020	Unlimited	63
+8080 Test Library	01net	RBZ0001638	10/07/2020	25	64
 8080 Test Library	10 Minute Pilates	RBZ0007447	05/01/2014	Unlimited	1
 8080 Test Library	10 Minute Yoga Calm	RBZ0008908	07/01/2016	Unlimited	1
 8080 Test Library	10 Week Fat Burn: Lose a Stone	RBZ0008156	08/01/2015	Unlimited	1
@@ -40,7 +40,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	3D Art & Design Tips, Tricks & Fixes	RBZ0006783	01/01/2016	Unlimited	1
 8080 Test Library	3D Artist	RBZ0004471	02/01/2020	Unlimited	11
 8080 Test Library	3D Make And Print 2nd Edition	RBZ0008506	12/01/2016	Unlimited	1
-8080 Test Library	3D World	RBZ0000014	11/01/2020	Unlimited	21
+8080 Test Library	3D World	RBZ0000014	12/01/2020	Unlimited	22
 8080 Test Library	4 Wheel & Off Road	RBZ0000015	03/01/2020	Unlimited	12
 8080 Test Library	400 Calories or Less: Easy Italian	RBZ0000016	09/01/2011	Unlimited	1
 8080 Test Library	47 Creative Photography & Photoshop Projects	RBZ0007596	08/01/2014	Unlimited	1
@@ -59,7 +59,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	5280 Magazine	RBZ0000021	10/01/2020	Unlimited	21
 8080 Test Library	60 Days of Prayer	RBZ0010188	10/01/2020	Unlimited	10
 8080 Test Library	The 60 Most Important Albums of NME's Lifetime	RBZ0005073	08/01/2012	Unlimited	1
-8080 Test Library	7 Jours	RBZ0000022	10/09/2020	Unlimited	87
+8080 Test Library	7 Jours	RBZ0000022	10/16/2020	Unlimited	88
 8080 Test Library	8 Weeks to a flatter belly	RBZ0008051	05/01/2015	Unlimited	1
 8080 Test Library	90 Glorious Years - The Queen's life decade by decade	RBZ0008889	07/01/2016	Unlimited	1
 8080 Test Library	90's Movies - The Ultimate Celebration	RBZ0008698	06/01/2016	Unlimited	1
@@ -74,7 +74,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	A Year of Plants - from the makers of Gardens Illustrated magazine	RBZ0008325	09/01/2014	Unlimited	1
 8080 Test Library	A&W ARCHITEKTUR & WOHNEN	RBZ0009059	01/01/2020	Unlimited	7
 8080 Test Library	a+t	RBZ0004758	12/01/2016	Unlimited	1
-8080 Test Library	a+u Architecture and Urbanism a+u ??????	RBZ0009329	09/01/2020	Unlimited	28
+8080 Test Library	a+u Architecture and Urbanism a+u ??????	RBZ0009329	11/27/2020	Unlimited	29
 8080 Test Library	ABC Organic Gardener Magazine	RBZ0005129	09/01/2020	Unlimited	15
 8080 Test Library	ABC Organic Gardener Magazine Essential Guides	RBZ0005223	04/01/2016	Unlimited	1
 8080 Test Library	ABC Soaps In Depth	RBZ0001850	05/18/2020	Unlimited	35
@@ -90,10 +90,10 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	AD España	RBZ0004665	10/01/2020	Unlimited	18
 8080 Test Library	AD France	RBZ0001804	09/01/2020	Unlimited	13
 8080 Test Library	AD Inspirations	RBZ0008939	07/01/2017	Unlimited	1
-8080 Test Library	AD Italia	RBZ0003251	09/01/2020	Unlimited	19
+8080 Test Library	AD Italia	RBZ0003251	10/01/2020	Unlimited	20
 8080 Test Library	AD Magazin (D)	RBZ0004531	10/01/2020	Unlimited	18
 8080 Test Library	AD Russia	RBZ0002263	10/01/2020	Unlimited	20
-8080 Test Library	AD ??	RBZ0005126	09/05/2020	Unlimited	21
+8080 Test Library	AD ??	RBZ0005126	10/05/2020	Unlimited	22
 8080 Test Library	Adega	RBZ0005975	10/01/2020	Unlimited	21
 8080 Test Library	Adirondack Explorer	RBZ0003021	09/01/2020	Unlimited	12
 8080 Test Library	Adirondack Life	RBZ0005788	09/10/2020	Unlimited	14
@@ -118,23 +118,23 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Advanced Photography Software Skills	RBZ0006691	10/01/2013	Unlimited	1
 8080 Test Library	Advanced Photoshop: The Premium Collection	RBZ0004689	08/01/2015	Unlimited	1
 8080 Test Library	Advanced ?????	RBZ0001171	09/18/2020	Unlimited	20
-8080 Test Library	The Advocate	RBZ0000028	07/01/2020	Unlimited	10
-8080 Test Library	Adweek	RBZ0002643	09/28/2020	Unlimited	52
+8080 Test Library	The Advocate	RBZ0000028	09/01/2020	Unlimited	11
+8080 Test Library	Adweek	RBZ0002643	10/05/2020	Unlimited	53
 8080 Test Library	AERO Magazine	RBZ0005976	09/01/2020	Unlimited	21
 8080 Test Library	AERO Magazine América Latina	RBZ0008613	09/01/2020	Unlimited	10
 8080 Test Library	Aero Magazine International	RBZ0010092	02/01/2020	Unlimited	7
 8080 Test Library	AFAR	RBZ0003187	05/01/2020	Unlimited	8
 8080 Test Library	Affaires Plus (A+)	RBZ0000023	06/02/2020	Unlimited	5
-8080 Test Library	The Africa Report	RBZ0002891	07/01/2020	Unlimited	6
+8080 Test Library	The Africa Report	RBZ0002891	10/01/2020	Unlimited	7
 8080 Test Library	African Hunting Gazette	RBZ0008294	04/01/2020	Unlimited	6
-8080 Test Library	Afrique Magazine	RBZ0009612	08/01/2020	Unlimited	19
+8080 Test Library	Afrique Magazine	RBZ0009612	10/01/2020	Unlimited	20
 8080 Test Library	Air & Space	RBZ0010076	10/01/2020	Unlimited	12
-8080 Test Library	ALBA TROSS-VIEW ?????? ?????	RBZ0010177	09/04/2020	Unlimited	21
+8080 Test Library	ALBA TROSS-VIEW ?????? ?????	RBZ0010177	10/05/2020	Unlimited	22
 8080 Test Library	Alberta Views Magazine	RBZ0010073	12/01/2019	Unlimited	9
 8080 Test Library	Algarabía	RBZ0000035	09/01/2020	Unlimited	19
 8080 Test Library	Algarabía Niños	RBZ0006474	07/01/2020	Unlimited	9
 8080 Test Library	Algarabía Tópicos	RBZ0000037	06/01/2013	Unlimited	1
-8080 Test Library	All About History	RBZ0006251	10/01/2020	Unlimited	27
+8080 Test Library	All About History	RBZ0006251	11/01/2020	Unlimited	28
 8080 Test Library	All About History 1066 & The Battle Of Hastings	RBZ0009221	03/01/2017	Unlimited	1
 8080 Test Library	All About History Annual	RBZ0007623	01/01/2018	Unlimited	1
 8080 Test Library	All About History Book Of Ancient Egypt	RBZ0008304	12/01/2016	Unlimited	1
@@ -163,7 +163,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	All About History Events That Changed The World	RBZ0007970	01/01/2017	Unlimited	1
 8080 Test Library	All About History Jack The Ripper	RBZ0007791	03/01/2017	Unlimited	1
 8080 Test Library	All About History: Book of Ancient Rome	RBZ0007453	03/01/2016	Unlimited	1
-8080 Test Library	All About Space	RBZ0004983	10/01/2020	Unlimited	22
+8080 Test Library	All About Space	RBZ0004983	11/01/2020	Unlimited	23
 8080 Test Library	All About Space Annual	RBZ0006769	11/01/2016	Unlimited	1
 8080 Test Library	All About Space Book of the Solar System	RBZ0006805	01/01/2016	Unlimited	1
 8080 Test Library	All About Space Tour of the Universe	RBZ0007454	09/01/2016	Unlimited	1
@@ -173,8 +173,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Alt om haven	RBZ0010115	06/01/2020	Unlimited	15
 8080 Test Library	Alt om videnskab	RBZ0010119	10/01/2019	Unlimited	5
 8080 Test Library	Alto Nivel	RBZ0004945	04/01/2020	Unlimited	13
-8080 Test Library	Amateur Gardening	RBZ0006696	10/03/2020	Unlimited	91
-8080 Test Library	Amateur Photographer	RBZ0000040	10/03/2020	Unlimited	90
+8080 Test Library	Amateur Gardening	RBZ0006696	10/10/2020	Unlimited	92
+8080 Test Library	Amateur Photographer	RBZ0000040	10/10/2020	Unlimited	91
 8080 Test Library	Amateur Photographer Advanced Photography Skills.	RBZ0005032	03/01/2015	Unlimited	1
 8080 Test Library	Amateur Photographer's Complete Guide to Photography	RBZ0008356	12/01/2015	Unlimited	1
 8080 Test Library	Amazing Loom Band Projects	RBZ0007580	08/01/2014	Unlimited	1
@@ -221,7 +221,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Antique Trader	RBZ0010198	10/07/2020	Unlimited	43
 8080 Test Library	Anuario Astrológico 2016/17	RBZ0008236	10/15/2019	Unlimited	1
 8080 Test Library	Apartments	RBZ0006024	04/01/2013	Unlimited	1
-8080 Test Library	APC	RBZ0010085	10/01/2020	Unlimited	22
+8080 Test Library	APC	RBZ0010085	11/01/2020	Unlimited	23
 8080 Test Library	Aperture	RBZ0000057	08/19/2020	Unlimited	7
 8080 Test Library	Apple User's Gift Guide	RBZ0006876	12/01/2013	Unlimited	1
 8080 Test Library	The Apple Watch Book	RBZ0008314	10/01/2016	Unlimited	1
@@ -232,8 +232,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Aquarium a la Maison	RBZ0002428	11/01/2019	Unlimited	5
 8080 Test Library	Arabian Horse World	RBZ0001437	01/01/2020	Unlimited	11
 8080 Test Library	Arc	RBZ0004332	03/01/2014	Unlimited	1
-8080 Test Library	ARCHAEOLOGY	RBZ0005148	09/01/2020	Unlimited	10
-8080 Test Library	Architectural Digest	RBZ0005581	10/01/2020	Unlimited	19
+8080 Test Library	ARCHAEOLOGY	RBZ0005148	11/01/2020	Unlimited	11
+8080 Test Library	Architectural Digest	RBZ0005581	11/01/2020	Unlimited	20
 8080 Test Library	Architectural Digest India	RBZ0004296	09/01/2020	Unlimited	12
 8080 Test Library	Architectural Digest Latinoamérica	RBZ0010173	09/01/2020	Unlimited	7
 8080 Test Library	Architectural Digest Mexico	RBZ0005157	10/01/2020	Unlimited	20
@@ -273,10 +273,10 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Atlanta Homes & Lifestyles	RBZ0009971	10/01/2020	Unlimited	20
 8080 Test Library	Atlas of the Stars: New Edition	RBZ0009903	09/01/2017	Unlimited	1
 8080 Test Library	Atomic Ranch	RBZ0008131	10/01/2020	Unlimited	10
-8080 Test Library	Attitude Magazine	RBZ0008113	10/01/2020	Unlimited	22
+8080 Test Library	Attitude Magazine	RBZ0008113	11/01/2020	Unlimited	23
 8080 Test Library	AUDIO ART MAGAZINE ????	RBZ0003284	09/30/2020	Unlimited	22
 8080 Test Library	Audio Esoterica	RBZ0004905	04/27/2020	Unlimited	2
-8080 Test Library	AUDIO Germany	RBZ0005772	10/01/2020	Unlimited	21
+8080 Test Library	AUDIO Germany	RBZ0005772	11/01/2020	Unlimited	22
 8080 Test Library	Audio Technology	RBZ0000073	03/01/2020	Unlimited	5
 8080 Test Library	Audubon Magazine	RBZ0000074	09/08/2020	Unlimited	7
 8080 Test Library	Australasian Bus & Coach	RBZ0008146	09/01/2020	Unlimited	21
@@ -299,7 +299,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Australian Geographic Outdoor Magazine	RBZ0007630	03/01/2020	Unlimited	7
 8080 Test Library	Australian Guitar	RBZ0007994	08/03/2020	Unlimited	9
 8080 Test Library	Australian HiFi	RBZ0000081	09/01/2020	Unlimited	11
-8080 Test Library	Australian Home Beautiful	RBZ0000082	10/01/2020	Unlimited	21
+8080 Test Library	Australian Home Beautiful	RBZ0000082	11/01/2020	Unlimited	22
 8080 Test Library	Australian Homespun	RBZ0000083	10/01/2020	Unlimited	11
 8080 Test Library	Australian House & Garden	RBZ0005792	10/01/2020	Unlimited	20
 8080 Test Library	Australian How To Paint	RBZ0007655	07/01/2020	Unlimited	7
@@ -310,7 +310,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Australian Macworld: Mac Troubleshooting Superguide	RBZ0002759	01/01/2011	Unlimited	1
 8080 Test Library	Australian Men's Fitness	RBZ0000084	11/01/2020	Unlimited	22
 8080 Test Library	Australian Model Railway Magazine	RBZ0007493	10/01/2020	Unlimited	11
-8080 Test Library	Australian Motorcycle News	RBZ0007750	09/24/2020	Unlimited	44
+8080 Test Library	Australian Motorcycle News	RBZ0007750	10/08/2020	Unlimited	45
 8080 Test Library	Australian Motorcyclist	RBZ0008238	10/01/2020	Unlimited	20
 8080 Test Library	Australian Mountain Bike	RBZ0006424	09/01/2020	Unlimited	12
 8080 Test Library	Australian Mountain Bike Travel Special	RBZ0007916	05/01/2015	Unlimited	1
@@ -320,49 +320,49 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Australian Photography + Digital	RBZ0008271	10/01/2020	Unlimited	21
 8080 Test Library	Australian Quarterly	RBZ0008032	10/01/2020	Unlimited	6
 8080 Test Library	Australian Road Rider	RBZ0000090	09/01/2020	Unlimited	9
-8080 Test Library	Australian Sky & Telescope	RBZ0000092	09/01/2020	Unlimited	13
+8080 Test Library	Australian Sky & Telescope	RBZ0000092	11/01/2020	Unlimited	14
 8080 Test Library	Australian Stitches	RBZ0008850	05/01/2020	Unlimited	4
 8080 Test Library	Australian Traveller	RBZ0009261	05/01/2020	Unlimited	6
-8080 Test Library	The Australian Women's Weekly	RBZ0006978	10/01/2020	Unlimited	21
-8080 Test Library	The Australian Women’s Weekly Food	RBZ0007862	09/01/2020	Unlimited	19
-8080 Test Library	Australian Women’s Weekly NZ	RBZ0008903	10/01/2020	Unlimited	21
+8080 Test Library	The Australian Women's Weekly	RBZ0006978	11/01/2020	Unlimited	22
+8080 Test Library	The Australian Women’s Weekly Food	RBZ0007862	10/01/2020	Unlimited	20
+8080 Test Library	Australian Women’s Weekly NZ	RBZ0008903	11/01/2020	Unlimited	22
 8080 Test Library	Australian Wood Review	RBZ0008270	09/01/2020	Unlimited	7
 8080 Test Library	Australian Yoga Journal	RBZ0000095	04/01/2020	Unlimited	10
 8080 Test Library	Auto Bild es	RBZ0002410	10/02/2020	Unlimited	44
 8080 Test Library	Auto Bild México	RBZ0009139	03/01/2020	Unlimited	15
-8080 Test Library	Auto Express	RBZ0000097	09/30/2020	Unlimited	90
+8080 Test Library	Auto Express	RBZ0000097	10/07/2020	Unlimited	91
 8080 Test Library	Auto Plus Classique	RBZ0009625	10/01/2020	Unlimited	13
 8080 Test Library	Auto Plus Classiques Hors Série	RBZ0009626	03/01/2019	Unlimited	2
 8080 Test Library	Auto Plus France	RBZ0004644	10/02/2020	Unlimited	100
 8080 Test Library	Auto Plus Hors serie	RBZ0008544	07/01/2019	Unlimited	4
 8080 Test Library	Auto Plus Occasion	RBZ0009627	11/01/2019	Unlimited	5
-8080 Test Library	Autocar	RBZ0007099	09/30/2020	Unlimited	90
+8080 Test Library	Autocar	RBZ0007099	10/07/2020	Unlimited	91
 8080 Test Library	Automobile	RBZ0001299	02/01/2020	Unlimited	10
-8080 Test Library	Automovil	RBZ0001086	08/01/2020	Unlimited	16
+8080 Test Library	Automovil	RBZ0001086	10/01/2020	Unlimited	17
 8080 Test Library	Automovil Panamericano	RBZ0000098	06/01/2020	Unlimited	18
-8080 Test Library	Autopista	RBZ0001155	09/15/2020	Unlimited	68
-8080 Test Library	Autosport	RBZ0000099	10/01/2020	Unlimited	82
+8080 Test Library	Autopista	RBZ0001155	09/29/2020	Unlimited	69
+8080 Test Library	Autosport	RBZ0000099	10/08/2020	Unlimited	83
 8080 Test Library	Autosport Legends:Ayrton Senna	RBZ0003928	10/13/2011	Unlimited	1
-8080 Test Library	Avantages	RBZ0003020	08/26/2020	Unlimited	24
+8080 Test Library	Avantages	RBZ0003020	09/30/2020	Unlimited	26
 8080 Test Library	Avantages HS	RBZ0005651	06/01/2018	Unlimited	1
 8080 Test Library	Aviation History	RBZ0005969	09/01/2020	Unlimited	10
 8080 Test Library	AXIS ????	RBZ0004954	09/01/2020	Unlimited	10
 8080 Test Library	AZURE	RBZ0000103	10/01/2020	Unlimited	12
-8080 Test Library	BABY & MOTHER ?????	RBZ0006354	09/07/2020	Unlimited	21
+8080 Test Library	BABY & MOTHER ?????	RBZ0006354	10/06/2020	Unlimited	22
 8080 Test Library	The Baby Craft Book	RBZ0008994	09/01/2016	Unlimited	1
 8080 Test Library	Back Garden Astronomy	RBZ0008998	10/01/2016	Unlimited	1
 8080 Test Library	Backpacker	RBZ0000105	08/04/2020	Unlimited	10
 8080 Test Library	Backyard & Garden Design Ideas	RBZ0000106	09/01/2020	Unlimited	10
 8080 Test Library	Backyard Makeovers	RBZ0004958	04/21/2016	Unlimited	1
 8080 Test Library	Bacon Busters	RBZ0008612	01/01/2020	Unlimited	4
-8080 Test Library	Bake from Scratch	RBZ0009886	08/25/2020	Unlimited	17
+8080 Test Library	Bake from Scratch	RBZ0009886	11/01/2020	Unlimited	18
 8080 Test Library	Baking Dish	RBZ0005240	09/01/2012	Unlimited	1
-8080 Test Library	Banknote Reporter	RBZ0010199	09/01/2020	Unlimited	21
-8080 Test Library	Barbara	RBZ0009126	10/01/2020	Unlimited	17
+8080 Test Library	Banknote Reporter	RBZ0010199	10/01/2020	Unlimited	22
+8080 Test Library	Barbara	RBZ0009126	11/01/2020	Unlimited	18
 8080 Test Library	Barddas	RBZ0010017	07/18/2018	Unlimited	1
 8080 Test Library	Baseball America	RBZ0001049	10/01/2020	Unlimited	21
 8080 Test Library	Baseball Digest	RBZ0006422	01/01/2020	Unlimited	7
-8080 Test Library	Bass Player	RBZ0010161	09/15/2020	Unlimited	22
+8080 Test Library	Bass Player	RBZ0010161	10/01/2020	Unlimited	23
 8080 Test Library	Bassmaster	RBZ0010003	09/01/2020	Unlimited	17
 8080 Test Library	Bathroom Yearbook	RBZ0000110	05/06/2020	Unlimited	2
 8080 Test Library	Baumeister	RBZ0005603	10/01/2020	Unlimited	21
@@ -381,7 +381,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	BBC Music	RBZ0006023	11/01/2020	Unlimited	23
 8080 Test Library	BBC Music Magazine presents 50 Great Works	RBZ0008336	09/01/2014	Unlimited	1
 8080 Test Library	BBC Sky at Night	RBZ0002494	10/01/2020	Unlimited	20
-8080 Test Library	BBC Top Gear Magazine	RBZ0002502	10/01/2020	Unlimited	22
+8080 Test Library	BBC Top Gear Magazine	RBZ0002502	11/01/2020	Unlimited	23
 8080 Test Library	BBC Top Gear Magazine India	RBZ0004231	07/01/2019	Unlimited	1
 8080 Test Library	BBC Wildlife Bumper Book of Answers	RBZ0008328	09/01/2014	Unlimited	1
 8080 Test Library	BBC Wildlife Magazine	RBZ0002499	10/01/2020	Unlimited	23
@@ -406,7 +406,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Belle	RBZ0005116	10/01/2020	Unlimited	14
 8080 Test Library	Berty Squiggles Colouring & Scribbles	RBZ0006628	09/01/2013	Unlimited	1
 8080 Test Library	Bespoke the chic and the cool	RBZ0004146	07/24/2019	Unlimited	1
-8080 Test Library	Best	RBZ0000128	10/06/2020	Unlimited	93
+8080 Test Library	Best	RBZ0000128	10/13/2020	Unlimited	94
 8080 Test Library	Best Buys – Audio & AV	RBZ0000129	07/13/2020	Unlimited	3
 8080 Test Library	Best craft & cookery special 2014	RBZ0008396	10/01/2014	Unlimited	1
 8080 Test Library	Best Homes	RBZ0008448	04/29/2020	Unlimited	3
@@ -438,7 +438,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The Big Book of History Answers	RBZ0008672	01/01/2018	Unlimited	1
 8080 Test Library	The Big Book of Why?	RBZ0008643	03/01/2016	Unlimited	1
 8080 Test Library	The Big Comic Relief Crafternoon	RBZ0009167	02/01/2017	Unlimited	1
-8080 Test Library	The Big Issue	RBZ0007557	09/28/2020	Unlimited	90
+8080 Test Library	The Big Issue	RBZ0007557	10/05/2020	Unlimited	91
 8080 Test Library	Big League magazine - 40 years special	RBZ0006469	08/01/2013	Unlimited	1
 8080 Test Library	Big League Weekly Edition	RBZ0000145	03/19/2020	Unlimited	34
 8080 Test Library	Big League: NRL State of Origin	RBZ0004381	07/04/2019	Unlimited	3
@@ -447,15 +447,15 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Bike	RBZ0000146	09/01/2020	Unlimited	7
 8080 Test Library	Bike - España	RBZ0004467	10/01/2020	Unlimited	21
 8080 Test Library	Bike France	RBZ0001811	09/04/2020	Unlimited	19
-8080 Test Library	BIKE India	RBZ0002186	09/01/2020	Unlimited	21
+8080 Test Library	BIKE India	RBZ0002186	10/01/2020	Unlimited	22
 8080 Test Library	Bike Maintenance Tips, Tricks & Techniques	RBZ0007283	05/01/2016	Unlimited	1
 8080 Test Library	BikeJIN??????????	RBZ0004883	10/01/2020	Unlimited	21
 8080 Test Library	Bikes Etc Magazine	RBZ0008456	12/01/2019	Unlimited	1
 8080 Test Library	Billboard Magazine	RBZ0000148	09/19/2020	Unlimited	43
 8080 Test Library	Bird Watching	RBZ0007924	10/01/2020	Unlimited	23
 8080 Test Library	Birds & Blooms	RBZ0006880	10/01/2020	Unlimited	11
-8080 Test Library	Birds and Blooms Extra	RBZ0008592	09/01/2020	Unlimited	10
-8080 Test Library	BirdWatching	RBZ0000149	09/01/2020	Unlimited	10
+8080 Test Library	Birds and Blooms Extra	RBZ0008592	11/01/2020	Unlimited	11
+8080 Test Library	BirdWatching	RBZ0000149	11/01/2020	Unlimited	11
 8080 Test Library	biz ????	RBZ0010178	12/02/2019	Unlimited	11
 8080 Test Library	The Black & White Photography Book	RBZ0004976	12/01/2016	Unlimited	1
 8080 Test Library	Black & White Photography Made Easy	RBZ0003877	09/20/2011	Unlimited	1
@@ -464,7 +464,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Blackberry for Beginners	RBZ0005008	07/09/2012	Unlimited	1
 8080 Test Library	Blackberry Tips, Tricks & Apps Vol 1	RBZ0005009	07/03/2012	Unlimited	1
 8080 Test Library	Blackberry Tips, Tricks & Apps Vol 2	RBZ0004842	05/20/2012	Unlimited	1
-8080 Test Library	Blade	RBZ0010195	10/01/2020	Unlimited	22
+8080 Test Library	Blade	RBZ0010195	11/01/2020	Unlimited	23
 8080 Test Library	BLADES(????)	RBZ0009580	04/25/2020	Unlimited	4
 8080 Test Library	Bleu & Blanc	RBZ0010135	02/01/2020	Unlimited	10
 8080 Test Library	The Blogger's Book	RBZ0004885	05/25/2012	Unlimited	1
@@ -472,7 +472,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Blue Water Sailing	RBZ0002042	05/15/2020	Unlimited	7
 8080 Test Library	BlueWater Boats & Sportsfishing	RBZ0000157	04/01/2020	Unlimited	9
 8080 Test Library	BMW Motorrad Journal (BMW BOXER Journal)	RBZ0005453	05/26/2020	Unlimited	4
-8080 Test Library	Boat International	RBZ0000158	10/01/2020	Unlimited	20
+8080 Test Library	Boat International	RBZ0000158	11/01/2020	Unlimited	21
 8080 Test Library	Boat International - Best of the Best	RBZ0000159	06/01/2011	Unlimited	1
 8080 Test Library	Boat International's Best of the Best	RBZ0004811	05/01/2014	Unlimited	1
 8080 Test Library	Boating	RBZ0000160	10/01/2020	Unlimited	16
@@ -490,19 +490,19 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Brei Idees	RBZ0007473	05/01/2014	Unlimited	1
 8080 Test Library	Bride & Groom	RBZ0008226	06/08/2020	Unlimited	3
 8080 Test Library	Bride To Be - Your Day: Best Real Weddings	RBZ0006865	07/01/2016	Unlimited	1
-8080 Test Library	Brigitte	RBZ0009060	09/23/2020	Unlimited	45
+8080 Test Library	Brigitte	RBZ0009060	10/07/2020	Unlimited	46
 8080 Test Library	Brigitte MOM	RBZ0009078	09/01/2020	Unlimited	7
-8080 Test Library	Brigitte WIR	RBZ0009108	07/01/2020	Unlimited	10
+8080 Test Library	Brigitte WIR	RBZ0009108	09/01/2020	Unlimited	11
 8080 Test Library	Brigitte Woman	RBZ0009109	11/01/2020	Unlimited	21
-8080 Test Library	Britain	RBZ0000166	09/01/2020	Unlimited	12
+8080 Test Library	Britain	RBZ0000166	11/01/2020	Unlimited	13
 8080 Test Library	BRITAIN - The 2015 Guide	RBZ0007477	05/01/2015	Unlimited	1
 8080 Test Library	Britain in 2011	RBZ0002813	12/15/2010	Unlimited	1
 8080 Test Library	Britain's Favourite Walks	RBZ0008890	07/01/2016	Unlimited	1
 8080 Test Library	Britain’s greatest battles	RBZ0008831	07/01/2016	Unlimited	1
 8080 Test Library	British Columbia History	RBZ0010077	09/01/2020	Unlimited	7
-8080 Test Library	British GQ	RBZ0000429	10/01/2020	Unlimited	18
+8080 Test Library	British GQ	RBZ0000429	11/01/2020	Unlimited	19
 8080 Test Library	British GQ Style	RBZ0004514	03/03/2020	Unlimited	3
-8080 Test Library	British Vogue	RBZ0007086	10/01/2020	Unlimited	21
+8080 Test Library	British Vogue	RBZ0007086	11/01/2020	Unlimited	22
 8080 Test Library	Bruidsgids	RBZ0005885	03/01/2017	Unlimited	1
 8080 Test Library	Buddhadharma: The Practitioner's Quarterly	RBZ0005134	07/17/2020	Unlimited	7
 8080 Test Library	Build a Better Home Network	RBZ0006745	10/01/2013	Unlimited	1
@@ -520,10 +520,10 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Business Next ????	RBZ0001055	09/30/2020	Unlimited	21
 8080 Test Library	Business Punk	RBZ0009057	10/01/2020	Unlimited	11
 8080 Test Library	Business Today	RBZ0002354	10/18/2020	Unlimited	46
-8080 Test Library	Business Today ???	RBZ0001111	10/05/2020	Unlimited	89
+8080 Test Library	Business Today ???	RBZ0001111	10/12/2020	Unlimited	90
 8080 Test Library	Business Traveller	RBZ0000172	09/01/2020	Unlimited	14
 8080 Test Library	Business Traveller Asia-Pacific Edition	RBZ0002830	04/01/2020	Unlimited	11
-8080 Test Library	Business Weekly ????	RBZ0001060	10/05/2020	Unlimited	90
+8080 Test Library	Business Weekly ????	RBZ0001060	10/12/2020	Unlimited	91
 8080 Test Library	Buy And Play The Acoustic Guitar	RBZ0008171	09/01/2015	Unlimited	1
 8080 Test Library	C10 Builder Guide	RBZ0009826	08/06/2020	Unlimited	7
 8080 Test Library	California	RBZ0008345	08/01/2014	Unlimited	1
@@ -548,25 +548,25 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	CAPITAL ????	RBZ0002905	09/08/2020	Unlimited	20
 8080 Test Library	Capture	RBZ0008272	08/01/2020	Unlimited	8
 8080 Test Library	CAR	RBZ0002329	10/01/2020	Unlimited	20
-8080 Test Library	CAR	RBZ0007871	10/01/2020	Unlimited	20
+8080 Test Library	CAR	RBZ0007871	11/01/2020	Unlimited	21
 8080 Test Library	Car - España	RBZ0004396	10/01/2020	Unlimited	19
 8080 Test Library	Car and Driver	RBZ0000191	10/01/2020	Unlimited	21
 8080 Test Library	Car and Driver	RBZ0001090	10/01/2020	Unlimited	17
 8080 Test Library	Car Craft	RBZ0001323	03/01/2020	Unlimited	12
-8080 Test Library	Car India	RBZ0002185	09/01/2020	Unlimited	21
+8080 Test Library	Car India	RBZ0002185	10/01/2020	Unlimited	22
 8080 Test Library	Car Mechanics	RBZ0008100	10/01/2020	Unlimited	20
 8080 Test Library	Car Plus + HIM ??	RBZ0002906	09/29/2020	Unlimited	21
 8080 Test Library	Caras-México	RBZ0000194	10/01/2020	Unlimited	24
-8080 Test Library	The Caravan	RBZ0002484	09/01/2020	Unlimited	21
+8080 Test Library	The Caravan	RBZ0002484	10/01/2020	Unlimited	22
 8080 Test Library	Caravan and Outdoor Life	RBZ0005840	06/01/2020	Unlimited	16
-8080 Test Library	Caravan e Camper Granturismo	RBZ0002497	09/01/2020	Unlimited	18
+8080 Test Library	Caravan e Camper Granturismo	RBZ0002497	10/01/2020	Unlimited	19
 8080 Test Library	Caravan World	RBZ0008134	10/01/2020	Unlimited	22
 8080 Test Library	Carbuyer magazine	RBZ0009970	07/22/2020	Unlimited	6
 8080 Test Library	CarBuyer Top 100 Family Cars	RBZ0004637	04/15/2012	Unlimited	1
 8080 Test Library	Cardmaking & Papercraft	RBZ0006032	09/01/2020	Unlimited	19
 8080 Test Library	Cardmaking Stamping & Papercraft	RBZ0008936	09/01/2020	Unlimited	5
 8080 Test Library	Caribbean Living	RBZ0001416	09/01/2020	Unlimited	5
-8080 Test Library	Carnews Magazine ????	RBZ0010024	09/03/2020	Unlimited	20
+8080 Test Library	Carnews Magazine ????	RBZ0010024	10/06/2020	Unlimited	21
 8080 Test Library	Cars of Tomorrow	RBZ0008925	07/01/2016	Unlimited	1
 8080 Test Library	Casa Diez	RBZ0001161	10/01/2020	Unlimited	21
 8080 Test Library	Casa Viva	RBZ0001658	10/01/2020	Unlimited	22
@@ -579,15 +579,15 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Champions of Europe: 20 years of The Champions League	RBZ0005377	10/01/2012	Unlimited	1
 8080 Test Library	Champions Of The Turf	RBZ0006709	10/01/2013	Unlimited	1
 8080 Test Library	Chasseur d'images	RBZ0009637	08/01/2019	Unlimited	1
-8080 Test Library	Chat	RBZ0005335	10/08/2020	Unlimited	88
+8080 Test Library	Chat	RBZ0005335	10/15/2020	Unlimited	89
 8080 Test Library	Chat It's Fate	RBZ0000896	11/01/2020	Unlimited	23
 8080 Test Library	Chat Passion	RBZ0000897	11/01/2020	Unlimited	23
 8080 Test Library	Cheek	RBZ0003359	09/23/2019	Unlimited	9
-8080 Test Library	Cheers Magazine ?????	RBZ0001237	08/05/2020	Unlimited	10
-8080 Test Library	Chefkoch	RBZ0009064	09/01/2020	Unlimited	21
+8080 Test Library	Cheers Magazine ?????	RBZ0001237	10/05/2020	Unlimited	11
+8080 Test Library	Chefkoch	RBZ0009064	11/01/2020	Unlimited	22
 8080 Test Library	Chess for Beginners	RBZ0008400	09/01/2014	Unlimited	1
 8080 Test Library	Chevy High Performance	RBZ0001360	03/01/2020	Unlimited	12
-8080 Test Library	Chicago Magazine	RBZ0000199	10/01/2020	Unlimited	18
+8080 Test Library	Chicago Magazine	RBZ0000199	11/01/2020	Unlimited	19
 8080 Test Library	Chickens	RBZ0008864	01/01/2020	Unlimited	4
 8080 Test Library	Chillfactor Ski Magazine	RBZ0004222	06/01/2012	Unlimited	1
 8080 Test Library	China Tourism ???? (Chinese version)	RBZ0006843	09/30/2020	Unlimited	22
@@ -635,11 +635,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Clean Eating	RBZ0000222	09/01/2020	Unlimited	11
 8080 Test Library	Clés pour le train miniature	RBZ0007318	09/01/2020	Unlimited	11
 8080 Test Library	Climbing	RBZ0000223	09/01/2020	Unlimited	10
-8080 Test Library	Clin d'oeil	RBZ0000224	10/01/2020	Unlimited	14
-8080 Test Library	Clio	RBZ0001659	10/01/2020	Unlimited	19
+8080 Test Library	Clin d'oeil	RBZ0000224	11/01/2020	Unlimited	15
+8080 Test Library	Clio	RBZ0001659	10/07/2020	Unlimited	20
 8080 Test Library	Clio Especiales	RBZ0008512	01/15/2020	Unlimited	7
-8080 Test Library	Closer	RBZ0004641	10/02/2020	Unlimited	96
-8080 Test Library	Closer	RBZ0007873	10/03/2020	Unlimited	91
+8080 Test Library	Closer	RBZ0004641	10/09/2020	Unlimited	97
+8080 Test Library	Closer	RBZ0007873	10/10/2020	Unlimited	92
 8080 Test Library	Closer - C'est leur histoire	RBZ0005043	10/01/2020	Unlimited	7
 8080 Test Library	Closer C'est leur Histoire HS	RBZ0008547	05/01/2017	Unlimited	1
 8080 Test Library	Closer Hors Série Destin	RBZ0008847	07/01/2016	Unlimited	1
@@ -713,8 +713,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Comic Mellten	RBZ0009319	09/09/2019	Unlimited	4
 8080 Test Library	Common Health Magazine ??	RBZ0001459	09/30/2020	Unlimited	21
 8080 Test Library	Common Wealth Parenting ????	RBZ0001460	09/01/2020	Unlimited	11
-8080 Test Library	CommonWealth Magazine ????	RBZ0001059	09/23/2020	Unlimited	43
-8080 Test Library	CommonWealth special subject ????????+?????	RBZ0009147	09/30/2020	Unlimited	87
+8080 Test Library	CommonWealth Magazine ????	RBZ0001059	10/07/2020	Unlimited	44
+8080 Test Library	CommonWealth special subject ????????+?????	RBZ0009147	10/08/2020	Unlimited	88
 8080 Test Library	Community Shield Manchester City v Chelsea	RBZ0005145	08/01/2012	Unlimited	1
 8080 Test Library	Compact System Camera Guide	RBZ0009824	07/01/2017	Unlimited	1
 8080 Test Library	Company Street Style Edit	RBZ0005155	08/01/2012	Unlimited	1
@@ -768,43 +768,43 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Computer Arts Pro Software Guide: InDesign	RBZ0003856	09/01/2011	Unlimited	1
 8080 Test Library	Computer Arts Pro Software Guide: Photoshop	RBZ0003857	09/01/2011	Unlimited	1
 8080 Test Library	Computer Arts Projects Special	RBZ0002165	12/01/2009	Unlimited	1
-8080 Test Library	Computer Hoy	RBZ0002411	09/17/2020	Unlimited	45
-8080 Test Library	Computer Music	RBZ0000233	10/02/2020	Unlimited	21
-8080 Test Library	Computer Shopper	RBZ0000234	11/01/2020	Unlimited	21
-8080 Test Library	Computeractive	RBZ0005952	09/23/2020	Unlimited	45
+8080 Test Library	Computer Hoy	RBZ0002411	10/01/2020	Unlimited	46
+8080 Test Library	Computer Music	RBZ0000233	11/01/2020	Unlimited	22
+8080 Test Library	Computer Shopper	RBZ0000234	12/01/2020	Unlimited	22
+8080 Test Library	Computeractive	RBZ0005952	10/07/2020	Unlimited	46
 8080 Test Library	Conceal & Carry	RBZ0008122	01/01/2020	Unlimited	6
 8080 Test Library	Condé Nast House & Garden	RBZ0005948	10/01/2020	Unlimited	16
 8080 Test Library	Condé Nast House & Garden Design Directory	RBZ0008718	10/28/2019	Unlimited	1
-8080 Test Library	Conde Nast Traveler	RBZ0005577	10/01/2020	Unlimited	13
-8080 Test Library	Condé Nast Traveler España	RBZ0004666	09/01/2020	Unlimited	17
+8080 Test Library	Conde Nast Traveler	RBZ0005577	11/01/2020	Unlimited	14
+8080 Test Library	Condé Nast Traveler España	RBZ0004666	10/01/2020	Unlimited	18
 8080 Test Library	Condé Nast Traveler España (Guía Monográfica)	RBZ0005880	02/01/2018	Unlimited	1
 8080 Test Library	Condé Nast Traveler. GUIA DE VINOS 2016	RBZ0008242	10/01/2016	Unlimited	1
 8080 Test Library	Condé Nast Traveler. GUIA GASTRONOMICA	RBZ0008529	10/15/2019	Unlimited	1
 8080 Test Library	Conde Nast Traveller India	RBZ0002565	08/01/2020	Unlimited	9
 8080 Test Library	Conde Nast Traveller India - Swiss Special Issue	RBZ0006123	04/01/2013	Unlimited	1
 8080 Test Library	Condé Nast Traveller Italia	RBZ0005064	07/01/2020	Unlimited	6
-8080 Test Library	Conde Nast Traveller UK	RBZ0000235	10/01/2020	Unlimited	17
+8080 Test Library	Conde Nast Traveller UK	RBZ0000235	11/01/2020	Unlimited	18
 8080 Test Library	connect	RBZ0005775	11/01/2020	Unlimited	22
 8080 Test Library	Conspiracy Theories	RBZ0008310	08/01/2015	Unlimited	1
 8080 Test Library	Contraception	RBZ0004493	03/01/2012	Unlimited	1
 8080 Test Library	Cook Bake Host	RBZ0005446	11/01/2012	Unlimited	1
 8080 Test Library	Cook's Country	RBZ0005495	10/01/2020	Unlimited	11
-8080 Test Library	Cook's Illustrated	RBZ0005493	09/01/2020	Unlimited	10
+8080 Test Library	Cook's Illustrated	RBZ0005493	11/01/2020	Unlimited	11
 8080 Test Library	Cooking with Paula Deen	RBZ0007828	10/01/2020	Unlimited	27
 8080 Test Library	COOL!	RBZ0000241	10/01/2020	Unlimited	21
-8080 Test Library	CORREDOR\	RBZ0010147	09/01/2020	Unlimited	17
+8080 Test Library	CORREDOR\	RBZ0010147	10/01/2020	Unlimited	18
 8080 Test Library	Cosmetic Surgery & Beauty	RBZ0002423	08/01/2020	Unlimited	7
 8080 Test Library	Cosmo Beauty 1	RBZ0005047	07/01/2012	Unlimited	1
 8080 Test Library	Cosmo Body	RBZ0006167	04/01/2015	Unlimited	1
 8080 Test Library	Cosmo on Campus	RBZ0006663	10/01/2014	Unlimited	1
-8080 Test Library	Cosmopolitan	RBZ0000242	10/01/2020	Unlimited	19
+8080 Test Library	Cosmopolitan	RBZ0000242	11/01/2020	Unlimited	20
 8080 Test Library	Cosmopolitan - España	RBZ0001148	10/01/2020	Unlimited	19
 8080 Test Library	Cosmopolitan Body	RBZ0000243	01/15/2012	Unlimited	1
 8080 Test Library	Cosmopolitan Body 5	RBZ0006920	01/01/2014	Unlimited	1
 8080 Test Library	Cosmopolitan Body Special 2	RBZ0004898	06/01/2012	Unlimited	1
 8080 Test Library	Cosmopolitan de Mexico	RBZ0000244	10/01/2020	Unlimited	34
 8080 Test Library	Cosmopolitan Fashion	RBZ0006624	03/01/2014	Unlimited	1
-8080 Test Library	Cosmopolitan FR	RBZ0002039	09/01/2020	Unlimited	18
+8080 Test Library	Cosmopolitan FR	RBZ0002039	10/01/2020	Unlimited	19
 8080 Test Library	Cosmopolitan India	RBZ0004071	09/01/2020	Unlimited	20
 8080 Test Library	Cosmopolitan Italia	RBZ0005982	10/01/2020	Unlimited	18
 8080 Test Library	Cosmopolitan Korea	RBZ0003709	09/01/2020	Unlimited	20
@@ -813,9 +813,9 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Cosmos Magazine	RBZ0008086	09/01/2020	Unlimited	7
 8080 Test Library	The Cosplay Book	RBZ0008651	04/01/2016	Unlimited	1
 8080 Test Library	Côté Est	RBZ0002156	07/01/2020	Unlimited	3
-8080 Test Library	Côté Ouest	RBZ0002077	07/01/2020	Unlimited	9
+8080 Test Library	Côté Ouest	RBZ0002077	10/01/2020	Unlimited	10
 8080 Test Library	Côté Paris	RBZ0002142	07/01/2020	Unlimited	9
-8080 Test Library	Côté Sud	RBZ0002076	07/01/2020	Unlimited	9
+8080 Test Library	Côté Sud	RBZ0002076	10/01/2020	Unlimited	10
 8080 Test Library	Côté Sud / Est / Ouest / Paris	RBZ0002395	10/01/2013	Unlimited	1
 8080 Test Library	Coté Sud hors-série	RBZ0002394	05/01/2013	Unlimited	1
 8080 Test Library	Côté Terrasses et Jardins	RBZ0002396	06/01/2011	Unlimited	1
@@ -824,17 +824,17 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Cottages and Bungalows	RBZ0008119	10/01/2020	Unlimited	10
 8080 Test Library	Couch	RBZ0009110	11/01/2020	Unlimited	22
 8080 Test Library	Country	RBZ0008585	10/01/2020	Unlimited	10
-8080 Test Library	Country Extra	RBZ0008586	09/01/2020	Unlimited	9
+8080 Test Library	Country Extra	RBZ0008586	11/01/2020	Unlimited	10
 8080 Test Library	Country Homes & Interiors	RBZ0000253	11/01/2020	Unlimited	22
-8080 Test Library	Country Life	RBZ0000254	09/30/2020	Unlimited	90
+8080 Test Library	Country Life	RBZ0000254	10/07/2020	Unlimited	91
 8080 Test Library	Country Living	RBZ0000256	11/01/2020	Unlimited	18
 8080 Test Library	Country Living Bookazine Handmade Style	RBZ0006483	09/01/2013	Unlimited	1
 8080 Test Library	Country Living Modern Rustic	RBZ0007314	10/29/2019	Unlimited	4
 8080 Test Library	Country Living UK	RBZ0000257	11/01/2020	Unlimited	26
 8080 Test Library	Country Style	RBZ0004004	10/01/2020	Unlimited	21
-8080 Test Library	Country Walking	RBZ0007874	10/01/2020	Unlimited	22
+8080 Test Library	Country Walking	RBZ0007874	11/01/2020	Unlimited	23
 8080 Test Library	Country Woman	RBZ0008587	10/01/2020	Unlimited	11
-8080 Test Library	CountryRoad ????	RBZ0009952	08/31/2020	Unlimited	20
+8080 Test Library	CountryRoad ????	RBZ0009952	10/06/2020	Unlimited	21
 8080 Test Library	Coup de Pouce	RBZ0000259	11/01/2020	Unlimited	18
 8080 Test Library	Cowboys & Indians	RBZ0000261	10/01/2020	Unlimited	14
 8080 Test Library	CQ Amateur Radio	RBZ0000262	10/01/2020	Unlimited	22
@@ -867,38 +867,38 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Cross Stitch Favourites	RBZ0008454	08/19/2020	Unlimited	5
 8080 Test Library	Cross Stitch Gold	RBZ0006036	04/01/2020	Unlimited	12
 8080 Test Library	Crossing Quarterly ?????	RBZ0010033	08/20/2020	Unlimited	7
-8080 Test Library	CrossStitcher	RBZ0000266	10/01/2020	Unlimited	23
+8080 Test Library	CrossStitcher	RBZ0000266	11/01/2020	Unlimited	24
 8080 Test Library	Cruise International	RBZ0000267	04/01/2020	Unlimited	9
 8080 Test Library	Cruising Helmsman	RBZ0008273	10/01/2020	Unlimited	20
 8080 Test Library	Cruising World	RBZ0000268	10/01/2020	Unlimited	15
-8080 Test Library	CTimes ?????	RBZ0004245	09/14/2020	Unlimited	21
+8080 Test Library	CTimes ?????	RBZ0004245	10/07/2020	Unlimited	22
 8080 Test Library	Cuerpomente	RBZ0006312	10/01/2020	Unlimited	21
 8080 Test Library	Cuisine A&D	RBZ0007336	07/01/2019	Unlimited	4
 8080 Test Library	Cuisine at home	RBZ0010016	09/01/2020	Unlimited	10
 8080 Test Library	Cuisine et Vins de France	RBZ0002909	09/01/2020	Unlimited	16
 8080 Test Library	Cuisine et Vins de France HS	RBZ0005959	04/01/2018	Unlimited	1
 8080 Test Library	The Cure - The Ultimate Music Guide	RBZ0007475	05/01/2014	Unlimited	1
-8080 Test Library	Custom PC UK	RBZ0002510	11/01/2020	Unlimited	21
+8080 Test Library	Custom PC UK	RBZ0002510	12/01/2020	Unlimited	22
 8080 Test Library	Cute Cross Stitch	RBZ0006089	03/01/2014	Unlimited	1
 8080 Test Library	Cycle Racing: How to Train, Race & Win	RBZ0007569	07/01/2014	Unlimited	1
 8080 Test Library	Cycle World	RBZ0000273	09/09/2020	Unlimited	7
 8080 Test Library	Cycling Plus	RBZ0000276	11/01/2020	Unlimited	23
 8080 Test Library	Cycling Plus Malaysia	RBZ0010144	11/01/2019	Unlimited	6
-8080 Test Library	Cycling Weekly	RBZ0001035	10/01/2020	Unlimited	92
+8080 Test Library	Cycling Weekly	RBZ0001035	10/08/2020	Unlimited	93
 8080 Test Library	Cycling Weekly Special Edition: Essential Fans Guide: Cycling at London 2012 Olympics	RBZ0004899	06/01/2012	Unlimited	1
-8080 Test Library	Cyclist	RBZ0005369	10/01/2020	Unlimited	22
-8080 Test Library	Cyclist Australia	RBZ0005965	09/01/2020	Unlimited	10
+8080 Test Library	Cyclist	RBZ0005369	11/01/2020	Unlimited	23
+8080 Test Library	Cyclist Australia	RBZ0005965	10/01/2020	Unlimited	11
 8080 Test Library	Cyclist Sportives	RBZ0007273	03/01/2014	Unlimited	1
 8080 Test Library	Cyclist: The Big Rides	RBZ0006919	12/01/2015	Unlimited	1
 8080 Test Library	D-Photo	RBZ0001846	08/01/2020	Unlimited	10
-8080 Test Library	Da Man	RBZ0002958	08/01/2020	Unlimited	13
+8080 Test Library	Da Man	RBZ0002958	10/01/2020	Unlimited	14
 8080 Test Library	Damaged	RBZ0010221	12/16/2019	Unlimited	5
 8080 Test Library	Dance Australia	RBZ0008607	09/01/2020	Unlimited	10
-8080 Test Library	dancyu ?????	RBZ0009978	09/06/2020	Unlimited	21
+8080 Test Library	dancyu ?????	RBZ0009978	10/06/2020	Unlimited	22
 8080 Test Library	David Bowie	RBZ0006076	04/01/2013	Unlimited	1
 8080 Test Library	De Viajes	RBZ0001139	10/01/2020	Unlimited	17
 8080 Test Library	Deals On Wheels Australia	RBZ0008140	09/28/2020	Unlimited	23
-8080 Test Library	Decanter	RBZ0000278	10/01/2020	Unlimited	21
+8080 Test Library	Decanter	RBZ0000278	11/01/2020	Unlimited	22
 8080 Test Library	Decanter - The Bordeaux 2011 issue	RBZ0003765	08/26/2011	Unlimited	1
 8080 Test Library	Decanter Bordeaux 2013	RBZ0006238	06/01/2013	Unlimited	1
 8080 Test Library	Decanter Italy	RBZ0002866	01/01/2019	Unlimited	1
@@ -927,7 +927,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	DestinAsian	RBZ0001298	08/01/2020	Unlimited	9
 8080 Test Library	DETAIL	RBZ0004365	10/01/2020	Unlimited	19
 8080 Test Library	Dia De Los Muertos: Day of the Dead and Sugar Skull Coloring Book	RBZ0008780	07/01/2016	Unlimited	1
-8080 Test Library	Diabetes Self-Management	RBZ0009043	09/01/2020	Unlimited	10
+8080 Test Library	Diabetes Self-Management	RBZ0009043	11/01/2020	Unlimited	11
 8080 Test Library	Diabetic Living Australia	RBZ0000289	09/01/2020	Unlimited	10
 8080 Test Library	Diana - Her Legacy of Love	RBZ0009845	07/01/2017	Unlimited	1
 8080 Test Library	Diapason	RBZ0004718	10/01/2020	Unlimited	19
@@ -935,8 +935,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Die GROOT 4x4 Gids	RBZ0008812	07/01/2016	Unlimited	1
 8080 Test Library	Die Tuinier Tydskrif	RBZ0006327	10/01/2020	Unlimited	20
 8080 Test Library	Diesel Power	RBZ0001361	02/01/2020	Unlimited	12
-8080 Test Library	Diesel World	RBZ0008123	11/01/2020	Unlimited	21
-8080 Test Library	Diez minutos	RBZ0003835	10/07/2020	Unlimited	92
+8080 Test Library	Diesel World	RBZ0008123	12/01/2020	Unlimited	22
+8080 Test Library	Diez minutos	RBZ0003835	10/14/2020	Unlimited	93
 8080 Test Library	DIGI PHOTO	RBZ0006565	07/14/2020	Unlimited	7
 8080 Test Library	The Digital Art Book	RBZ0006804	01/01/2014	Unlimited	1
 8080 Test Library	Digital Artist Collection Vol 1	RBZ0004870	05/25/2012	Unlimited	1
@@ -949,7 +949,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Digital Production	RBZ0004860	03/01/2020	Unlimited	7
 8080 Test Library	Digital Production Sonderheft Compositing	RBZ0004861	06/01/2012	Unlimited	1
 8080 Test Library	Digital Production Sonderheft Hardware	RBZ0004862	09/01/2012	Unlimited	1
-8080 Test Library	Digital SLR Photography	RBZ0000298	10/01/2020	Unlimited	21
+8080 Test Library	Digital SLR Photography	RBZ0000298	11/01/2020	Unlimited	22
 8080 Test Library	Digital SLR Tips, Tricks & Fixes	RBZ0005030	07/05/2012	Unlimited	1
 8080 Test Library	DinVinGuide	RBZ0010102	08/01/2020	Unlimited	9
 8080 Test Library	Dirt Action	RBZ0000300	09/01/2020	Unlimited	9
@@ -958,11 +958,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Discover	RBZ0000304	11/01/2020	Unlimited	15
 8080 Test Library	Discover Britain	RBZ0007919	10/01/2020	Unlimited	10
 8080 Test Library	Discover Science: Discover Oceans	RBZ0008387	09/01/2015	Unlimited	1
-8080 Test Library	Dish	RBZ0001194	09/01/2020	Unlimited	11
+8080 Test Library	Dish	RBZ0001194	11/01/2020	Unlimited	12
 8080 Test Library	Disney Girl	RBZ0009654	09/01/2020	Unlimited	18
 8080 Test Library	DIVA	RBZ0000305	05/01/2020	Unlimited	16
 8080 Test Library	DIY Home	RBZ0003445	08/01/2011	Unlimited	1
-8080 Test Library	DNA Health	RBZ0010105	08/05/2020	Unlimited	14
+8080 Test Library	DNA Health	RBZ0010105	08/14/2020	Unlimited	15
 8080 Test Library	dogs	RBZ0009112	09/01/2020	Unlimited	10
 8080 Test Library	Dolls Bears & Collectables	RBZ0007651	12/01/2017	Unlimited	1
 8080 Test Library	Domus	RBZ0004366	04/01/2020	Unlimited	15
@@ -972,8 +972,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Drawing with Brett A Jones	RBZ0008453	09/01/2015	Unlimited	1
 8080 Test Library	Drawing: The Complete Course	RBZ0000311	08/01/2011	Unlimited	1
 8080 Test Library	Dream Christmas	RBZ0006549	09/01/2013	Unlimited	1
-8080 Test Library	Dream Life ???	RBZ0010180	07/08/2020	Unlimited	7
-8080 Test Library	Dreams	RBZ0009656	07/01/2020	Unlimited	5
+8080 Test Library	Dream Life ???	RBZ0010180	10/06/2020	Unlimited	8
+8080 Test Library	Dreams	RBZ0009656	10/01/2020	Unlimited	6
 8080 Test Library	Dreamscapes Travel & Lifestyle Magazine	RBZ0000316	11/01/2019	Unlimited	6
 8080 Test Library	Drew League	RBZ0006496	08/01/2013	Unlimited	1
 8080 Test Library	Drive Out	RBZ0000939	10/01/2020	Unlimited	21
@@ -1009,28 +1009,28 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Eating Smart Christmas. Gluten Free	RBZ0008353	10/01/2014	Unlimited	1
 8080 Test Library	Eating Smart Christmas. Vegetarian	RBZ0008354	10/01/2014	Unlimited	1
 8080 Test Library	eBay The Complete Manual	RBZ0008179	07/01/2015	Unlimited	1
-8080 Test Library	Échos Vedettes	RBZ0005172	10/09/2020	Unlimited	79
+8080 Test Library	Échos Vedettes	RBZ0005172	10/16/2020	Unlimited	80
 8080 Test Library	The Eco Living Book	RBZ0007661	08/01/2014	Unlimited	1
 8080 Test Library	The Economist - Asia Edition	RBZ0001007	10/03/2020	Unlimited	21
 8080 Test Library	The Economist - Continental Europe edition	RBZ0001008	10/03/2020	Unlimited	21
 8080 Test Library	The Economist - Middle East and Africa edition	RBZ0001009	10/03/2020	Unlimited	21
 8080 Test Library	The Economist - UK edition	RBZ0001010	10/03/2020	Unlimited	20
 8080 Test Library	The Economist-Latin America	RBZ0000332	10/03/2020	Unlimited	21
-8080 Test Library	Edge	RBZ0002740	11/01/2020	Unlimited	23
+8080 Test Library	Edge	RBZ0002740	12/01/2020	Unlimited	24
 8080 Test Library	Edge Special Edition: The 100 Greatest Videogames (2016 edition)	RBZ0008980	10/01/2016	Unlimited	1
 8080 Test Library	Edge Special Edition: The Art Of The Pixel	RBZ0008874	08/01/2016	Unlimited	1
 8080 Test Library	Edge Special Edition: The Making Of…	RBZ0008814	07/01/2016	Unlimited	1
 8080 Test Library	Einstein's Universe	RBZ0006126	10/17/2018	Unlimited	1
 8080 Test Library	El Croquis	RBZ0001402	09/30/2019	Unlimited	5
-8080 Test Library	El Jueves	RBZ0004386	09/29/2020	Unlimited	92
+8080 Test Library	El Jueves	RBZ0004386	10/06/2020	Unlimited	93
 8080 Test Library	El Mueble	RBZ0004384	10/01/2020	Unlimited	21
 8080 Test Library	Electronic Musician	RBZ0000335	11/01/2020	Unlimited	21
-8080 Test Library	Elegant BEAUTY ???	RBZ0003866	09/04/2020	Unlimited	21
+8080 Test Library	Elegant BEAUTY ???	RBZ0003866	10/05/2020	Unlimited	22
 8080 Test Library	elGourmet.com - Mexico	RBZ0000921	03/01/2020	Unlimited	15
 8080 Test Library	Elizabeth The Queen: Diamond Jubilee Souvenir	RBZ0000922	03/23/2012	Unlimited	1
-8080 Test Library	Elle	RBZ0000337	09/01/2020	Unlimited	18
+8080 Test Library	Elle	RBZ0000337	10/01/2020	Unlimited	19
 8080 Test Library	ELLE à Table	RBZ0006177	09/01/2020	Unlimited	11
-8080 Test Library	ELLE ACCESSORIES Taiwan	RBZ0008557	04/13/2020	Unlimited	3
+8080 Test Library	ELLE ACCESSORIES Taiwan	RBZ0008557	10/08/2020	Unlimited	4
 8080 Test Library	ELLE Australia	RBZ0007665	06/01/2020	Unlimited	14
 8080 Test Library	Elle Canada	RBZ0000338	10/01/2020	Unlimited	18
 8080 Test Library	ELLE Deco, Kitchens Special	RBZ0008823	06/01/2016	Unlimited	1
@@ -1039,22 +1039,22 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Elle Decoration	RBZ0001886	09/01/2020	Unlimited	16
 8080 Test Library	Elle Decoration Country	RBZ0006166	09/01/2020	Unlimited	4
 8080 Test Library	ELLE Decoration Espana	RBZ0007968	10/01/2020	Unlimited	18
-8080 Test Library	ELLE Décoration France	RBZ0006178	09/01/2020	Unlimited	15
+8080 Test Library	ELLE Décoration France	RBZ0006178	09/24/2020	Unlimited	16
 8080 Test Library	Elle Décoration Hors Série	RBZ0009658	01/01/2018	Unlimited	1
 8080 Test Library	Elle Decoration UK	RBZ0006993	11/01/2020	Unlimited	22
 8080 Test Library	Elle Decoration UK Autumn/Winter 2012 Pattern Book	RBZ0005917	03/01/2013	Unlimited	1
 8080 Test Library	Elle España	RBZ0001150	10/01/2020	Unlimited	21
 8080 Test Library	ELLE France	RBZ0006176	10/02/2020	Unlimited	92
 8080 Test Library	ELLE GOURMET	RBZ0007969	09/01/2020	Unlimited	7
-8080 Test Library	Elle Italia	RBZ0005979	10/10/2020	Unlimited	76
+8080 Test Library	Elle Italia	RBZ0005979	10/17/2020	Unlimited	77
 8080 Test Library	ELLE México	RBZ0000340	09/01/2020	Unlimited	20
-8080 Test Library	Elle Portugal	RBZ0006302	10/01/2020	Unlimited	4
-8080 Test Library	ELLE QUÉBEC	RBZ0000341	10/01/2020	Unlimited	18
+8080 Test Library	Elle Portugal	RBZ0006302	11/01/2020	Unlimited	5
+8080 Test Library	ELLE QUÉBEC	RBZ0000341	11/01/2020	Unlimited	19
 8080 Test Library	Elle Russia	RBZ0001888	10/01/2020	Unlimited	20
 8080 Test Library	Elle UK	RBZ0006990	11/01/2020	Unlimited	22
 8080 Test Library	ELLE ???	RBZ0003404	09/11/2020	Unlimited	21
-8080 Test Library	Eltern	RBZ0009065	10/01/2020	Unlimited	21
-8080 Test Library	Eltern Family	RBZ0009127	10/01/2020	Unlimited	21
+8080 Test Library	Eltern	RBZ0009065	11/01/2020	Unlimited	22
+8080 Test Library	Eltern Family	RBZ0009127	11/01/2020	Unlimited	22
 8080 Test Library	Elvis Costello - The Ultimate Music Guide	RBZ0007617	09/01/2014	Unlimited	1
 8080 Test Library	Embroidery For Beginners	RBZ0009220	02/01/2017	Unlimited	1
 8080 Test Library	Emmy Magazine	RBZ0001642	10/02/2020	Unlimited	24
@@ -1064,16 +1064,16 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Enduro Magazine	RBZ0008534	08/01/2020	Unlimited	9
 8080 Test Library	Engaging Spaces	RBZ0005962	03/01/2013	Unlimited	1
 8080 Test Library	England vs San Marino Matchday Programme	RBZ0005389	10/01/2012	Unlimited	1
-8080 Test Library	The English Garden	RBZ0007918	10/01/2020	Unlimited	24
+8080 Test Library	The English Garden	RBZ0007918	11/01/2020	Unlimited	25
 8080 Test Library	The English Home	RBZ0007917	11/01/2020	Unlimited	22
-8080 Test Library	English Island ???	RBZ0007616	09/01/2020	Unlimited	20
+8080 Test Library	English Island ???	RBZ0007616	10/01/2020	Unlimited	21
 8080 Test Library	Entertaining Dish	RBZ0007629	10/01/2014	Unlimited	1
 8080 Test Library	Entertainment Ideas	RBZ0003452	01/01/2011	Unlimited	1
 8080 Test Library	Entrepreneur en Español	RBZ0004936	04/01/2020	Unlimited	13
 8080 Test Library	Entrepreneur Especial	RBZ0004943	12/01/2015	Unlimited	1
-8080 Test Library	Entrepreneur Magazine	RBZ0007827	09/01/2020	Unlimited	13
+8080 Test Library	Entrepreneur Magazine	RBZ0007827	10/01/2020	Unlimited	14
 8080 Test Library	Enzo	RBZ0010083	04/07/2020	Unlimited	6
-8080 Test Library	epicure	RBZ0003940	08/01/2020	Unlimited	18
+8080 Test Library	epicure	RBZ0003940	10/01/2020	Unlimited	19
 8080 Test Library	Equus	RBZ0000344	08/17/2020	Unlimited	7
 8080 Test Library	Escalar	RBZ0005695	12/01/2018	Unlimited	1
 8080 Test Library	Especial Jenni Rivera la diva de la banda	RBZ0005655	01/01/2013	Unlimited	1
@@ -1083,12 +1083,12 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Esquire - España	RBZ0001640	10/01/2020	Unlimited	20
 8080 Test Library	Esquire - Mexico	RBZ0000348	10/01/2020	Unlimited	19
 8080 Test Library	Esquire Summer Style Guide 2013	RBZ0006206	06/01/2013	Unlimited	1
-8080 Test Library	Esquire Taiwan ??????	RBZ0005080	09/03/2020	Unlimited	21
+8080 Test Library	Esquire Taiwan ??????	RBZ0005080	10/07/2020	Unlimited	22
 8080 Test Library	Esquire UK	RBZ0000349	11/01/2020	Unlimited	11
 8080 Test Library	Esquire: The Big Black Book	RBZ0005937	03/01/2016	Unlimited	1
 8080 Test Library	Esquire: The Big Watch Book	RBZ0000350	10/01/2018	Unlimited	1
 8080 Test Library	essen&trinken	RBZ0009066	10/01/2020	Unlimited	21
-8080 Test Library	essen&trinken für jeden Tag	RBZ0009067	10/01/2020	Unlimited	21
+8080 Test Library	essen&trinken für jeden Tag	RBZ0009067	11/01/2020	Unlimited	22
 8080 Test Library	The Essential Apps Guide	RBZ0006080	04/01/2013	Unlimited	1
 8080 Test Library	The Essential Guide to Advanced Photography	RBZ0007687	10/01/2014	Unlimited	1
 8080 Test Library	The Essential Guide to Close up Photography	RBZ0008490	04/01/2015	Unlimited	1
@@ -1108,11 +1108,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Essential Maintenance Guide	RBZ0004599	06/01/2012	Unlimited	1
 8080 Test Library	Essentials South Africa	RBZ0000923	06/01/2020	Unlimited	16
 8080 Test Library	The European Business Review	RBZ0004527	07/01/2020	Unlimited	10
-8080 Test Library	EVEN?????	RBZ0006494	09/05/2020	Unlimited	21
+8080 Test Library	EVEN?????	RBZ0006494	10/05/2020	Unlimited	22
 8080 Test Library	Evergreen ??	RBZ0001456	09/30/2020	Unlimited	21
 8080 Test Library	Everyday Dish	RBZ0004147	10/01/2015	Unlimited	1
 8080 Test Library	Everyday Style	RBZ0006967	03/01/2014	Unlimited	1
-8080 Test Library	Evo	RBZ0000356	10/01/2020	Unlimited	21
+8080 Test Library	Evo	RBZ0000356	11/01/2020	Unlimited	22
 8080 Test Library	The evo Guide to Track Days	RBZ0003516	06/01/2011	Unlimited	1
 8080 Test Library	evo Photo	RBZ0003139	04/01/2011	Unlimited	1
 8080 Test Library	Evo Supercars Directory	RBZ0004516	03/20/2012	Unlimited	1
@@ -1143,9 +1143,9 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Fantasy Art Vol. 1	RBZ0004691	04/15/2012	Unlimited	1
 8080 Test Library	Fantasy Artist Genius Guide	RBZ0005289	07/01/2016	Unlimited	1
 8080 Test Library	Farm and Ranch Living	RBZ0008588	10/01/2020	Unlimited	11
-8080 Test Library	Farm Collector	RBZ0001878	10/01/2020	Unlimited	21
-8080 Test Library	Farmer's Weekly	RBZ0005961	10/02/2020	Unlimited	79
-8080 Test Library	Farms and Farm Machinery	RBZ0008143	09/02/2020	Unlimited	21
+8080 Test Library	Farm Collector	RBZ0001878	11/01/2020	Unlimited	22
+8080 Test Library	Farmer's Weekly	RBZ0005961	10/09/2020	Unlimited	80
+8080 Test Library	Farms and Farm Machinery	RBZ0008143	09/30/2020	Unlimited	22
 8080 Test Library	The Fashion Crochet Book Volume 1	RBZ0008251	11/01/2015	Unlimited	1
 8080 Test Library	Fashion Forward: A Stress Relieving Adult Coloring Book	RBZ0008805	07/01/2016	Unlimited	1
 8080 Test Library	Fashion Quarterly	RBZ0007909	03/01/2020	Unlimited	5
@@ -1163,7 +1163,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Ferrari Supercars The Third Edition	RBZ0000370	11/01/2011	Unlimited	1
 8080 Test Library	Ferrovissime	RBZ0002425	09/01/2020	Unlimited	10
 8080 Test Library	Fête	RBZ0008501	05/20/2020	Unlimited	7
-8080 Test Library	FHM Australia	RBZ0010160	09/01/2020	Unlimited	19
+8080 Test Library	FHM Australia	RBZ0010160	10/01/2020	Unlimited	20
 8080 Test Library	The Field	RBZ0001040	10/01/2020	Unlimited	20
 8080 Test Library	Field & Stream	RBZ0000372	08/26/2020	Unlimited	9
 8080 Test Library	Film Comment	RBZ0002876	05/01/2020	Unlimited	9
@@ -1214,7 +1214,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Food Gardening	RBZ0005405	10/01/2012	Unlimited	1
 8080 Test Library	Food Heaven	RBZ0005046	11/01/2020	Unlimited	19
 8080 Test Library	Food Ideas	RBZ0003454	05/01/2012	Unlimited	1
-8080 Test Library	Food Network Magazine	RBZ0000383	10/01/2020	Unlimited	18
+8080 Test Library	Food Network Magazine	RBZ0000383	11/01/2020	Unlimited	19
 8080 Test Library	Food To Love	RBZ0009312	01/01/2020	Unlimited	12
 8080 Test Library	FOODIE	RBZ0009079	12/01/2019	Unlimited	4
 8080 Test Library	Football	RBZ0006426	07/01/2014	Unlimited	1
@@ -1226,7 +1226,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Forbes Russia	RBZ0002823	10/01/2020	Unlimited	20
 8080 Test Library	Forbes Woman	RBZ0003030	10/01/2020	Unlimited	10
 8080 Test Library	Form	RBZ0008808	06/01/2016	Unlimited	1
-8080 Test Library	Fortean Times	RBZ0000386	10/01/2020	Unlimited	23
+8080 Test Library	Fortean Times	RBZ0000386	11/01/2020	Unlimited	24
 8080 Test Library	Fortean Times MythConceptions	RBZ0006341	07/01/2013	Unlimited	1
 8080 Test Library	Fortean Times Paranormal Handbook	RBZ0000387	03/01/2011	Unlimited	1
 8080 Test Library	Fortean Times: Book of Strange Deaths	RBZ0003740	08/01/2011	Unlimited	1
@@ -1244,13 +1244,13 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Frame	RBZ0002912	09/01/2020	Unlimited	10
 8080 Test Library	France Dimanche	RBZ0009665	10/02/2020	Unlimited	94
 8080 Test Library	France Dimanche Hors-Série	RBZ0008771	10/01/2019	Unlimited	6
-8080 Test Library	frankie Magazine	RBZ0001631	09/01/2020	Unlimited	10
+8080 Test Library	frankie Magazine	RBZ0001631	11/01/2020	Unlimited	11
 8080 Test Library	Fred Dibnah's World of Steam	RBZ0002226	07/27/2010	Unlimited	1
 8080 Test Library	Futbol Total	RBZ0010138	03/01/2020	Unlimited	15
 8080 Test Library	Future Music	RBZ0000395	10/02/2020	Unlimited	23
 8080 Test Library	FX??.com	RBZ0008623	09/21/2020	Unlimited	5
 8080 Test Library	Gadgets & Gizmos	RBZ0002420	12/01/2019	Unlimited	13
-8080 Test Library	Gala	RBZ0009114	10/01/2020	Unlimited	90
+8080 Test Library	Gala	RBZ0009114	10/08/2020	Unlimited	91
 8080 Test Library	Games Radar presents: The Ultimate Guide to Sci-Fi Shooters	RBZ0008503	01/01/2016	Unlimited	1
 8080 Test Library	Games World of Puzzles	RBZ0000398	12/01/2020	Unlimited	16
 8080 Test Library	GamesMaster Presents 2011 Shooter Special	RBZ0003627	07/01/2011	Unlimited	1
@@ -1260,10 +1260,10 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Ganoderma ????	RBZ0001726	07/14/2020	Unlimited	7
 8080 Test Library	GarageBand – The Ultimate Guide	RBZ0003746	08/01/2011	Unlimited	1
 8080 Test Library	Garden & Gun	RBZ0010228	10/01/2020	Unlimited	11
-8080 Test Library	Garden Gate	RBZ0010014	09/01/2020	Unlimited	10
+8080 Test Library	Garden Gate	RBZ0010014	11/01/2020	Unlimited	11
 8080 Test Library	Garden Railways	RBZ0000403	07/13/2020	Unlimited	7
 8080 Test Library	The Gardener Magazine	RBZ0006326	10/01/2020	Unlimited	20
-8080 Test Library	Gardening Australia	RBZ0000404	10/01/2020	Unlimited	21
+8080 Test Library	Gardening Australia	RBZ0000404	11/01/2020	Unlimited	22
 8080 Test Library	Gardening the Easy Way	RBZ0000405	02/01/2012	Unlimited	1
 8080 Test Library	Gardens Illustrated : Pots of Style	RBZ0008733	03/19/2019	Unlimited	2
 8080 Test Library	Gardens Illustrated Magazine	RBZ0002501	09/01/2020	Unlimited	23
@@ -1271,10 +1271,10 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Gavroche	RBZ0009668	01/01/2019	Unlimited	1
 8080 Test Library	Gente	RBZ0005984	10/10/2020	Unlimited	90
 8080 Test Library	Gente - Argentina	RBZ0006012	01/16/2018	Unlimited	1
-8080 Test Library	Gentleman España	RBZ0007641	09/01/2020	Unlimited	18
+8080 Test Library	Gentleman España	RBZ0007641	10/01/2020	Unlimited	19
 8080 Test Library	Gentlemen Drive	RBZ0001994	01/15/2020	Unlimited	3
 8080 Test Library	GEO	RBZ0009115	10/01/2020	Unlimited	20
-8080 Test Library	GEO EPOCHE	RBZ0009116	08/01/2020	Unlimited	10
+8080 Test Library	GEO EPOCHE	RBZ0009116	10/01/2020	Unlimited	11
 8080 Test Library	GEO Epoche Edition	RBZ0009117	09/01/2020	Unlimited	4
 8080 Test Library	GEO Epoche Panorama	RBZ0009128	08/01/2020	Unlimited	4
 8080 Test Library	GEO Saison	RBZ0009118	10/01/2020	Unlimited	21
@@ -1282,9 +1282,9 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Geo Special	RBZ0009119	06/01/2020	Unlimited	10
 8080 Test Library	GEO Wissen	RBZ0009129	07/01/2020	Unlimited	7
 8080 Test Library	GEOkompakt	RBZ0009120	09/01/2020	Unlimited	7
-8080 Test Library	GEOlino	RBZ0009098	10/01/2020	Unlimited	23
-8080 Test Library	GEOlino Extra	RBZ0009099	07/01/2020	Unlimited	10
-8080 Test Library	GEOmini	RBZ0009100	10/01/2020	Unlimited	23
+8080 Test Library	GEOlino	RBZ0009098	11/01/2020	Unlimited	24
+8080 Test Library	GEOlino Extra	RBZ0009099	10/01/2020	Unlimited	11
+8080 Test Library	GEOmini	RBZ0009100	11/01/2020	Unlimited	24
 8080 Test Library	George Lucas: The Ultimate Celebration	RBZ0007953	04/01/2015	Unlimited	1
 8080 Test Library	Get Creative!	RBZ0007954	04/01/2015	Unlimited	1
 8080 Test Library	Get into Golf	RBZ0007610	09/01/2014	Unlimited	1
@@ -1320,7 +1320,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Gli speciali di Focus Storia: Risorgimento	RBZ0006704	10/01/2013	Unlimited	1
 8080 Test Library	Global Family Monthly ?? Family	RBZ0009951	09/01/2020	Unlimited	10
 8080 Test Library	Global Tourism Vision ?@??	RBZ0006293	03/30/2020	Unlimited	14
-8080 Test Library	Global Views Monthly ????	RBZ0005191	09/01/2020	Unlimited	20
+8080 Test Library	Global Views Monthly ????	RBZ0005191	10/01/2020	Unlimited	21
 8080 Test Library	Globe	RBZ0005758	10/12/2020	Unlimited	92
 8080 Test Library	Gluten-Free Living	RBZ0000412	03/01/2020	Unlimited	7
 8080 Test Library	Go Classic	RBZ0008067	06/01/2015	Unlimited	1
@@ -1343,7 +1343,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Golf Digest	RBZ0005635	03/01/2020	Unlimited	13
 8080 Test Library	Golf Digest ?????	RBZ0003543	09/08/2020	Unlimited	19
 8080 Test Library	Golf Magazine	RBZ0007438	09/01/2020	Unlimited	17
-8080 Test Library	Golf Monthly	RBZ0000416	10/01/2020	Unlimited	22
+8080 Test Library	Golf Monthly	RBZ0000416	11/01/2020	Unlimited	23
 8080 Test Library	Golf Tips	RBZ0000417	11/01/2020	Unlimited	9
 8080 Test Library	Golf Vacations Malaysia	RBZ0010166	10/01/2019	Unlimited	4
 8080 Test Library	Golf World	RBZ0007878	07/01/2020	Unlimited	20
@@ -1364,7 +1364,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The Good Life	RBZ0003944	10/01/2020	Unlimited	8
 8080 Test Library	The Good Life Best Of Photos	RBZ0007669	10/01/2015	Unlimited	1
 8080 Test Library	The Good Life HS Speciale Rio	RBZ0008824	11/30/2019	Unlimited	2
-8080 Test Library	Good Organic Gardening	RBZ0000929	09/01/2020	Unlimited	10
+8080 Test Library	Good Organic Gardening	RBZ0000929	11/01/2020	Unlimited	11
 8080 Test Library	GoodHomes : The Décor Alphabet	RBZ0005738	01/01/2013	Unlimited	1
 8080 Test Library	GoodHomes India	RBZ0003710	08/01/2020	Unlimited	19
 8080 Test Library	GoodHomes India- Lighting Special	RBZ0005379	10/01/2012	Unlimited	1
@@ -1384,7 +1384,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	GQ India	RBZ0002617	09/01/2020	Unlimited	20
 8080 Test Library	GQ India - The Watch Manual 2014	RBZ0008412	10/01/2014	Unlimited	1
 8080 Test Library	GQ India-Smart Men Guides	RBZ0008276	10/01/2015	Unlimited	1
-8080 Test Library	GQ Italia	RBZ0005062	09/01/2020	Unlimited	17
+8080 Test Library	GQ Italia	RBZ0005062	10/01/2020	Unlimited	18
 8080 Test Library	GQ JAPAN	RBZ0002633	09/25/2020	Unlimited	17
 8080 Test Library	GQ L'essentiel du style	RBZ0005413	10/01/2017	Unlimited	1
 8080 Test Library	GQ Latin America	RBZ0005160	10/01/2020	Unlimited	18
@@ -1399,8 +1399,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	GQ Style Russia	RBZ0002265	09/04/2020	Unlimited	4
 8080 Test Library	GQ Style South Africa	RBZ0006313	10/01/2019	Unlimited	1
 8080 Test Library	GQ ??	RBZ0005124	09/17/2020	Unlimited	20
-8080 Test Library	GQ ???????	RBZ0004435	09/07/2020	Unlimited	20
-8080 Test Library	Gramophone Magazine	RBZ0000431	10/01/2020	Unlimited	21
+8080 Test Library	GQ ???????	RBZ0004435	10/08/2020	Unlimited	21
+8080 Test Library	Gramophone Magazine	RBZ0000431	10/02/2020	Unlimited	22
 8080 Test Library	Grand Designs Australia	RBZ0004746	08/01/2020	Unlimited	10
 8080 Test Library	Grandes Espacios	RBZ0001218	10/01/2020	Unlimited	17
 8080 Test Library	Granny Square Collection	RBZ0008829	07/01/2016	Unlimited	1
@@ -1408,7 +1408,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Grazia France	RBZ0004642	03/25/2020	Unlimited	56
 8080 Test Library	Grazia Hors-Série Homme	RBZ0009038	09/01/2017	Unlimited	1
 8080 Test Library	Great Adventures	RBZ0008995	10/01/2016	Unlimited	1
-8080 Test Library	Great Australian Quilts	RBZ0004168	10/01/2019	Unlimited	1
+8080 Test Library	Great Australian Quilts	RBZ0004168	09/30/2020	Unlimited	2
 8080 Test Library	Great British Greenlanes	RBZ0008895	07/01/2016	Unlimited	1
 8080 Test Library	Great Destination Weddings	RBZ0005262	04/10/2019	Unlimited	1
 8080 Test Library	Great Scale Modeling 2017	RBZ0009911	10/01/2017	Unlimited	1
@@ -1423,7 +1423,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Green Living Guide	RBZ0000433	02/12/2010	Unlimited	1
 8080 Test Library	Green Magazine	RBZ0010129	09/01/2020	Unlimited	11
 8080 Test Library	Gripped: The Climbing Magazine	RBZ0001304	10/01/2020	Unlimited	10
-8080 Test Library	Grit	RBZ0000435	09/01/2020	Unlimited	10
+8080 Test Library	Grit	RBZ0000435	11/01/2020	Unlimited	11
 8080 Test Library	GRIT Country Skills Series	RBZ0000436	01/17/2020	Unlimited	5
 8080 Test Library	Grow to Eat	RBZ0008566	07/24/2020	Unlimited	5
 8080 Test Library	Growing Vegetables is Fun	RBZ0001858	09/01/2009	Unlimited	1
@@ -1438,7 +1438,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The Guitar Magazine	RBZ0000440	11/01/2020	Unlimited	22
 8080 Test Library	Guitar Player	RBZ0000441	11/01/2020	Unlimited	23
 8080 Test Library	Guitar Techniques	RBZ0000442	11/01/2020	Unlimited	23
-8080 Test Library	Guitar World	RBZ0010162	11/01/2020	Unlimited	22
+8080 Test Library	Guitar World	RBZ0010162	12/01/2020	Unlimited	23
 8080 Test Library	Guitarist	RBZ0000443	10/01/2020	Unlimited	23
 8080 Test Library	Guitarist Guide To Effects Pedals (2015 Edition)	RBZ0007824	02/01/2015	Unlimited	1
 8080 Test Library	Guitarist Presents - 100 Great Guitars	RBZ0006694	10/01/2013	Unlimited	1
@@ -1453,7 +1453,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Guitarist Presents: Gibson Les Paul Handbook	RBZ0009313			0
 8080 Test Library	Guitarist Presents: Guitar Gods	RBZ0008961	10/01/2016	Unlimited	1
 8080 Test Library	Guitarist Presents: Historic Hardware	RBZ0009222	03/01/2017	Unlimited	1
-8080 Test Library	Gun Digest	RBZ0005995	09/05/2020	Unlimited	28
+8080 Test Library	Gun Digest	RBZ0005995	10/01/2020	Unlimited	29
 8080 Test Library	Gun Dog	RBZ0009281	11/01/2020	Unlimited	13
 8080 Test Library	Guns & Ammo	RBZ0009288	11/01/2020	Unlimited	22
 8080 Test Library	Guns of the Old West	RBZ0010186	08/01/2020	Unlimited	6
@@ -1475,7 +1475,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Harper's Bazaar - Mexico	RBZ0000448	10/01/2020	Unlimited	18
 8080 Test Library	Harper's Bazaar Art	RBZ0006690	10/01/2013	Unlimited	1
 8080 Test Library	Harper's Bazaar Australia	RBZ0005127	06/01/2020	Unlimited	14
-8080 Test Library	Harper's Bazaar India	RBZ0004039	06/01/2020	Unlimited	14
+8080 Test Library	Harper's Bazaar India	RBZ0004039	09/01/2020	Unlimited	15
 8080 Test Library	Harper's Bazaar Singapore	RBZ0006064	10/01/2020	Unlimited	21
 8080 Test Library	Harper's BAZAAR Taiwan	RBZ0008556	09/11/2020	Unlimited	21
 8080 Test Library	Harper's Bazaar UK	RBZ0000449	11/01/2020	Unlimited	22
@@ -1502,31 +1502,31 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Healthy Food Guide	RBZ0005551	11/01/2020	Unlimited	22
 8080 Test Library	Healthy Food Guide UK	RBZ0008265	03/01/2020	Unlimited	14
 8080 Test Library	Healthy Recipes from Around the World	RBZ0004465	09/01/2014	Unlimited	1
-8080 Test Library	Heat	RBZ0007880	10/03/2020	Unlimited	91
+8080 Test Library	Heat	RBZ0007880	10/10/2020	Unlimited	92
 8080 Test Library	Hello	RBZ0007850	11/01/2020	Unlimited	22
 8080 Test Library	Hello magazine Special Fashion Supplement	RBZ0003018	02/21/2011	Unlimited	1
 8080 Test Library	HELLO! Diamond Jubilee Souvenir Edition	RBZ0005146	08/01/2012	Unlimited	1
-8080 Test Library	HELLO! Fashion Monthly	RBZ0009846	10/01/2020	Unlimited	16
+8080 Test Library	HELLO! Fashion Monthly	RBZ0009846	11/01/2020	Unlimited	17
 8080 Test Library	HELLO! India	RBZ0003707	05/01/2020	Unlimited	16
 8080 Test Library	HELLO! Lifestyle Series	RBZ0006616	06/01/2015	Unlimited	1
-8080 Test Library	HELLO! magazine	RBZ0000458	10/05/2020	Unlimited	91
+8080 Test Library	HELLO! magazine	RBZ0000458	10/12/2020	Unlimited	92
 8080 Test Library	Hello! Magazine Georgia	RBZ0009002	02/01/2019	Unlimited	2
 8080 Test Library	Hello! Magazine Special Issue- ROYAL WEDDING Anniversary	RBZ0004779	05/08/2012	Unlimited	1
 8080 Test Library	HELLO! Pret a Porter	RBZ0008061	01/01/2016	Unlimited	1
 8080 Test Library	HELLO! Prince George Souvenir Edition	RBZ0006503	08/26/2013	Unlimited	1
 8080 Test Library	HELLO! Queens 90th Birthday Collectors' Edition	RBZ0008674	05/01/2016	Unlimited	1
 8080 Test Library	Hemmings Classic Car	RBZ0008658	11/01/2020	Unlimited	20
-8080 Test Library	Hemmings Motor News	RBZ0008656	10/01/2020	Unlimited	20
-8080 Test Library	Hemmings Muscle Machines	RBZ0008657	10/01/2020	Unlimited	20
+8080 Test Library	Hemmings Motor News	RBZ0008656	11/01/2020	Unlimited	21
+8080 Test Library	Hemmings Muscle Machines	RBZ0008657	11/01/2020	Unlimited	21
 8080 Test Library	Her World Brides Luxe	RBZ0010167	10/01/2019	Unlimited	1
 8080 Test Library	Her World Fit & Fab	RBZ0006228	07/01/2014	Unlimited	1
-8080 Test Library	Her World Singapore	RBZ0005812	09/01/2020	Unlimited	20
+8080 Test Library	Her World Singapore	RBZ0005812	10/01/2020	Unlimited	21
 8080 Test Library	Heritage & Co	RBZ0010151	01/01/2019	Unlimited	1
 8080 Test Library	Heritage Commercials	RBZ0001920	10/01/2020	Unlimited	21
 8080 Test Library	Heritage Railway	RBZ0001164	10/01/2020	Unlimited	23
-8080 Test Library	HGTV Magazine	RBZ0003848	10/01/2020	Unlimited	18
+8080 Test Library	HGTV Magazine	RBZ0003848	11/01/2020	Unlimited	19
 8080 Test Library	Hi Fi News	RBZ0007430	11/01/2020	Unlimited	22
-8080 Test Library	Hi-Fi Choice	RBZ0001739	10/01/2020	Unlimited	21
+8080 Test Library	Hi-Fi Choice	RBZ0001739	11/01/2020	Unlimited	22
 8080 Test Library	The Hi-Fi Choice 2011 Collection	RBZ0003208	03/01/2011	Unlimited	1
 8080 Test Library	High Five	RBZ0007848	11/01/2020	Unlimited	22
 8080 Test Library	High Five Bilingue	RBZ0007849	11/01/2020	Unlimited	22
@@ -1553,9 +1553,9 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	History's Greatest Leaders	RBZ0009585	04/01/2017	Unlimited	1
 8080 Test Library	Hobby Consolas	RBZ0002413	10/01/2020	Unlimited	21
 8080 Test Library	Hobby Farms	RBZ0008865	01/01/2020	Unlimited	6
-8080 Test Library	The Hockey News	RBZ0000462	06/22/2020	Unlimited	26
+8080 Test Library	The Hockey News	RBZ0000462	09/14/2020	Unlimited	27
 8080 Test Library	The Hockey News Poolbook French	RBZ0000464	01/01/2009	Unlimited	1
-8080 Test Library	HOLA	RBZ0001200	09/30/2020	Unlimited	93
+8080 Test Library	HOLA	RBZ0001200	10/07/2020	Unlimited	94
 8080 Test Library	Hola! Especial 70 Aniversario	RBZ0008414	09/01/2014	Unlimited	1
 8080 Test Library	Hola! Especial Cocina Internacional	RBZ0008176	07/01/2015	Unlimited	1
 8080 Test Library	Hola! Las mejores casas de Hola y sus protagonistas	RBZ0008175	05/01/2017	Unlimited	1
@@ -1565,7 +1565,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Holiday: 301 Recipes & Decorating Ideas	RBZ0000469	09/01/2011	Unlimited	1
 8080 Test Library	Holidays for Couples	RBZ0000470	03/06/2019	Unlimited	1
 8080 Test Library	Hollywood Histories Revealed	RBZ0009316			0
-8080 Test Library	The Hollywood Reporter	RBZ0002649	09/23/2020	Unlimited	104
+8080 Test Library	The Hollywood Reporter	RBZ0002649	10/07/2020	Unlimited	105
 8080 Test Library	Hollywood Scandals	RBZ0007564	07/01/2014	Unlimited	1
 8080 Test Library	Home	RBZ0000954	10/01/2020	Unlimited	24
 8080 Test Library	Home & Decor	RBZ0003911	09/01/2020	Unlimited	20
@@ -1598,22 +1598,22 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Honeysuckle Magazine	RBZ0010074	04/18/2020	Unlimited	2
 8080 Test Library	Hong Kong & Macau's Best Restaurants Chinese edition	RBZ0004277	01/01/2017	Unlimited	1
 8080 Test Library	Hong Kong & Macau's Best Restaurants English edition	RBZ0004278	11/12/2019	Unlimited	1
-8080 Test Library	Hong Kong Tatler	RBZ0004270	09/01/2020	Unlimited	21
+8080 Test Library	Hong Kong Tatler	RBZ0004270	10/01/2020	Unlimited	22
 8080 Test Library	Hong Kong Tatler & James Suckling's Guide to Great Wines of Italy	RBZ0005548	12/01/2012	Unlimited	1
 8080 Test Library	Hong Kong Tatler Homes	RBZ0004281	12/04/2018	Unlimited	1
 8080 Test Library	Hong Kong Tatler Society	RBZ0004279	12/31/2019	Unlimited	2
 8080 Test Library	Hong Kong Tatler Weddings	RBZ0004272	12/20/2019	Unlimited	2
 8080 Test Library	Hoop-La!	RBZ0006977	04/01/2015	Unlimited	1
 8080 Test Library	Horizons Perigord	RBZ0010091	01/01/2019	Unlimited	1
-8080 Test Library	Horse & Hound	RBZ0000473	10/01/2020	Unlimited	92
+8080 Test Library	Horse & Hound	RBZ0000473	10/08/2020	Unlimited	93
 8080 Test Library	Horse & Hound (NZ & AUS)	RBZ0006485	09/01/2013	Unlimited	1
 8080 Test Library	Horse & Hound Ask The Trainer	RBZ0007474	04/01/2015	Unlimited	1
 8080 Test Library	Horse & Hound Ask The Vet	RBZ0008350	03/01/2016	Unlimited	1
 8080 Test Library	Horse & Hound Ask the Vet: Your questions answered	RBZ0004748	04/01/2014	Unlimited	1
-8080 Test Library	Horse & Rider	RBZ0000474	08/12/2020	Unlimited	7
+8080 Test Library	Horse & Rider	RBZ0000474	10/01/2020	Unlimited	24
 8080 Test Library	Horse Illustrated	RBZ0008884	02/01/2020	Unlimited	12
 8080 Test Library	Horses and People	RBZ0000476	09/01/2020	Unlimited	12
-8080 Test Library	Horticulture	RBZ0010203	07/01/2020	Unlimited	9
+8080 Test Library	Horticulture	RBZ0010203	09/01/2020	Unlimited	10
 8080 Test Library	Hot Rod	RBZ0000478	11/01/2020	Unlimited	21
 8080 Test Library	Hot Rod Beach Hop Pictorial	RBZ0003374	05/01/2012	Unlimited	1
 8080 Test Library	Hot Rod Deluxe	RBZ0001578	01/01/2020	Unlimited	6
@@ -1732,11 +1732,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	I'm home.???????	RBZ0004037	09/16/2020	Unlimited	10
 8080 Test Library	I.T. For Small Businesses	RBZ0008492	06/01/2013	Unlimited	1
 8080 Test Library	iCAR	RBZ0003270	08/20/2011	Unlimited	1
-8080 Test Library	Ici Paris	RBZ0009679	09/30/2020	Unlimited	93
-8080 Test Library	iCreate	RBZ0007042	10/01/2020	Unlimited	22
+8080 Test Library	Ici Paris	RBZ0009679	10/07/2020	Unlimited	94
+8080 Test Library	iCreate	RBZ0007042	11/01/2020	Unlimited	23
 8080 Test Library	iD (Ideas & Discoveries)	RBZ0008593	11/06/2020	Unlimited	11
 8080 Test Library	Ideal Home	RBZ0000488	11/01/2020	Unlimited	24
-8080 Test Library	The Ideal Home and Garden	RBZ0002191	09/01/2020	Unlimited	21
+8080 Test Library	The Ideal Home and Garden	RBZ0002191	10/01/2020	Unlimited	22
 8080 Test Library	Ideal Home's Complete Guide to Christmas	RBZ0003905	12/07/2015	Unlimited	1
 8080 Test Library	Idealog	RBZ0003635	11/14/2019	Unlimited	3
 8080 Test Library	Ideas	RBZ0000957	09/01/2020	Unlimited	10
@@ -1818,10 +1818,10 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Inside Out Christmas	RBZ0004017	12/01/2011	Unlimited	1
 8080 Test Library	Inside Out Renovating & Decorating Guide	RBZ0000495	05/01/2012	Unlimited	1
 8080 Test Library	Inside Out Special: Origami at Home	RBZ0008859	11/01/2016	Unlimited	1
-8080 Test Library	Inside Soap UK	RBZ0005864	10/03/2020	Unlimited	90
+8080 Test Library	Inside Soap UK	RBZ0005864	10/10/2020	Unlimited	91
 8080 Test Library	Inside Soap Yearbook 2014	RBZ0006846	11/06/2019	Unlimited	1
 8080 Test Library	Inside Sport	RBZ0000496	06/01/2020	Unlimited	15
-8080 Test Library	Inspirations	RBZ0005431	07/01/2020	Unlimited	7
+8080 Test Library	Inspirations	RBZ0005431	10/01/2020	Unlimited	8
 8080 Test Library	Inspirations Index	RBZ0005432	01/01/2013	Unlimited	1
 8080 Test Library	Inspired by Vintage Quilts	RBZ0008450	11/01/2014	Unlimited	1
 8080 Test Library	Instand Guide: How to get faster Broadband	RBZ0007423	03/01/2014	Unlimited	1
@@ -1831,9 +1831,9 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	InStyle Australia Magazine	RBZ0008928	06/01/2020	Unlimited	17
 8080 Test Library	InStyle Best Advice We Have Ever Heard	RBZ0008351	10/01/2014	Unlimited	1
 8080 Test Library	InStyle Russia	RBZ0005832	10/01/2020	Unlimited	23
-8080 Test Library	InStyle Taiwan ???	RBZ0010181	09/08/2020	Unlimited	21
+8080 Test Library	InStyle Taiwan ???	RBZ0010181	10/08/2020	Unlimited	22
 8080 Test Library	InStyle UK Best Beauty Buys	RBZ0006928	01/01/2014	Unlimited	1
-8080 Test Library	Integral	RBZ0001660	09/01/2020	Unlimited	20
+8080 Test Library	Integral	RBZ0001660	10/01/2020	Unlimited	21
 8080 Test Library	Integral Extra	RBZ0008511	09/28/2020	Unlimited	10
 8080 Test Library	Interior	RBZ0004890	03/01/2020	Unlimited	5
 8080 Test Library	Interior Taiwan ??	RBZ0001295	09/16/2020	Unlimited	20
@@ -1932,7 +1932,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Junior Science	RBZ0008378	09/01/2014	Unlimited	1
 8080 Test Library	Junkies Magazine	RBZ0010037	06/01/2020	Unlimited	6
 8080 Test Library	Juno Magazine	RBZ0009582	05/18/2020	Unlimited	6
-8080 Test Library	Just Bikes	RBZ0000507	09/10/2020	Unlimited	22
+8080 Test Library	Just Bikes	RBZ0000507	10/08/2020	Unlimited	23
 8080 Test Library	Just Cars	RBZ0000508	09/17/2020	Unlimited	23
 8080 Test Library	Kamp en Karavaan	RBZ0010125	06/01/2020	Unlimited	16
 8080 Test Library	Kate Bush - The Ultimate Music Guide	RBZ0008004	03/01/2015	Unlimited	1
@@ -1959,7 +1959,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Kit Homes Yearbook	RBZ0004450	05/17/2018	Unlimited	1
 8080 Test Library	Kitchen Garden	RBZ0000517	11/01/2020	Unlimited	21
 8080 Test Library	Kitchen Yearbook	RBZ0004255	05/20/2020	Unlimited	2
-8080 Test Library	Kitchens & Bathrooms Quarterly	RBZ0003844	03/01/2020	Unlimited	5
+8080 Test Library	Kitchens & Bathrooms Quarterly	RBZ0003844	09/01/2020	Unlimited	6
 8080 Test Library	Kiteworld Magazine	RBZ0007531	04/01/2020	Unlimited	9
 8080 Test Library	Kiteworld Magazine Travel Guide 2015	RBZ0008357	04/01/2019	Unlimited	2
 8080 Test Library	Kiwi Trail Runner	RBZ0009086	06/10/2020	Unlimited	7
@@ -1979,20 +1979,20 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Kruger Magazine	RBZ0010093	10/01/2020	Unlimited	7
 8080 Test Library	Kung Fu Tai Chi	RBZ0000523	01/30/2020	Unlimited	5
 8080 Test Library	L'Ami des Jardins	RBZ0009690	10/01/2020	Unlimited	21
-8080 Test Library	L'auto-Journal	RBZ0004645	09/24/2020	Unlimited	48
+8080 Test Library	L'auto-Journal	RBZ0004645	10/08/2020	Unlimited	49
 8080 Test Library	L'Auto-Journal 4x4	RBZ0004712	10/01/2020	Unlimited	7
 8080 Test Library	L'auto-journal acheteur	RBZ0004713	01/01/2019	Unlimited	1
-8080 Test Library	L'Express	RBZ0007103	10/01/2020	Unlimited	86
+8080 Test Library	L'Express	RBZ0007103	10/08/2020	Unlimited	87
 8080 Test Library	L'Express hors-serie	RBZ0002387	10/01/2013	Unlimited	1
 8080 Test Library	L'impresa	RBZ0002571	07/01/2018	Unlimited	1
 8080 Test Library	L'Officel 1000 Modèles - Design	RBZ0002946	06/01/2012	Unlimited	1
 8080 Test Library	L'Officiel 1000 Modèles	RBZ0002941	10/01/2018	Unlimited	1
-8080 Test Library	L'Officiel Argentina	RBZ0010012	09/01/2020	Unlimited	17
+8080 Test Library	L'Officiel Argentina	RBZ0010012	10/01/2020	Unlimited	18
 8080 Test Library	L'Officiel Art	RBZ0004772	04/01/2020	Unlimited	3
 8080 Test Library	L'Officiel Hommes Italia	RBZ0005828	03/31/2020	Unlimited	5
 8080 Test Library	L'Officiel Hommes NL	RBZ0002949	01/10/2019	Unlimited	1
 8080 Test Library	L'Officiel Hommes Paris	RBZ0002933	03/01/2020	Unlimited	7
-8080 Test Library	L'Officiel Italia	RBZ0006046	02/01/2020	Unlimited	8
+8080 Test Library	L'Officiel Italia	RBZ0006046	09/01/2020	Unlimited	9
 8080 Test Library	L'Officiel Mexico	RBZ0007644	10/01/2020	Unlimited	18
 8080 Test Library	L'Officiel NL	RBZ0002948	11/01/2019	Unlimited	6
 8080 Test Library	L'Officiel Paris	RBZ0002554	08/01/2020	Unlimited	10
@@ -2003,7 +2003,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	La Revue des Montres - l'Horoguide	RBZ0002947	06/01/2015	Unlimited	1
 8080 Test Library	La Revue du Vin de France	RBZ0002910	10/01/2020	Unlimited	20
 8080 Test Library	La Revue du Vin de France Hors-série	RBZ0009689	01/01/2019	Unlimited	2
-8080 Test Library	La Semaine	RBZ0008477	10/09/2020	Unlimited	87
+8080 Test Library	La Semaine	RBZ0008477	10/16/2020	Unlimited	88
 8080 Test Library	Land Rover Defender 2015	RBZ0008486	12/01/2015	Unlimited	1
 8080 Test Library	Land Rover Monthly	RBZ0000528	11/01/2020	Unlimited	23
 8080 Test Library	Land Rover Owner	RBZ0007882	09/30/2020	Unlimited	23
@@ -2024,24 +2024,24 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Landscape Photography Workshop	RBZ0008910	07/01/2016	Unlimited	1
 8080 Test Library	Landscape Photography Workshops	RBZ0009300	04/01/2017	Unlimited	1
 8080 Test Library	Landscapes	RBZ0000529	03/01/2012	Unlimited	1
-8080 Test Library	Lapidary Journal Jewelry Artist	RBZ0000530	09/01/2020	Unlimited	10
+8080 Test Library	Lapidary Journal Jewelry Artist	RBZ0000530	11/01/2020	Unlimited	11
 8080 Test Library	Le Chasseur Français Hors Série	RBZ0004717	08/01/2020	Unlimited	11
 8080 Test Library	Le fana de l'aviation	RBZ0001870	10/01/2020	Unlimited	21
 8080 Test Library	Le français dans le monde	RBZ0005719	09/07/2020	Unlimited	10
 8080 Test Library	Le Grand Mag	RBZ0002574	04/01/2020	Unlimited	4
 8080 Test Library	Le Guide di Focus Salute	RBZ0006270	02/01/2014	Unlimited	1
-8080 Test Library	Le Journal de Mickey	RBZ0009698	09/30/2020	Unlimited	83
+8080 Test Library	Le Journal de Mickey	RBZ0009698	10/07/2020	Unlimited	84
 8080 Test Library	Le Journal de Mickey Hors-Série Best Of	RBZ0008470	10/01/2019	Unlimited	5
 8080 Test Library	Le Journal du dimanche	RBZ0008537	10/04/2020	Unlimited	91
 8080 Test Library	Le monde du camping-car	RBZ0001812	09/01/2020	Unlimited	19
-8080 Test Library	Le Point	RBZ0001404	10/01/2020	Unlimited	91
+8080 Test Library	Le Point	RBZ0001404	10/08/2020	Unlimited	92
 8080 Test Library	Le Point - Hors série Jeux	RBZ0001872	10/01/2009	Unlimited	1
 8080 Test Library	Le Point - Les années Michael Jackson	RBZ0001768	07/01/2009	Unlimited	1
-8080 Test Library	Le Soir magazine	RBZ0003111	09/30/2020	Unlimited	92
+8080 Test Library	Le Soir magazine	RBZ0003111	10/07/2020	Unlimited	93
 8080 Test Library	Learn SLR Photography	RBZ0007289	03/01/2014	Unlimited	1
-8080 Test Library	Learning & Development Monthly ????	RBZ0007611	09/04/2020	Unlimited	21
+8080 Test Library	Learning & Development Monthly ????	RBZ0007611	10/08/2020	Unlimited	22
 8080 Test Library	Lebanon Opportunities	RBZ0002118	07/01/2020	Unlimited	13
-8080 Test Library	Lecturas	RBZ0004383	10/07/2020	Unlimited	92
+8080 Test Library	Lecturas	RBZ0004383	10/14/2020	Unlimited	93
 8080 Test Library	Lééf Mooi soos 'n Beminde	RBZ0008429	09/01/2014	Unlimited	1
 8080 Test Library	The Legend of Harley Davidson	RBZ0002032	01/01/2010	Unlimited	1
 8080 Test Library	Legends Of Sport	RBZ0008774	06/01/2016	Unlimited	1
@@ -2052,9 +2052,9 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Lenses Guide	RBZ0009823	07/01/2017	Unlimited	1
 8080 Test Library	Les Affaires	RBZ0000535	09/15/2020	Unlimited	35
 8080 Test Library	Les Cahiers de Science & Vie	RBZ0004719	09/01/2020	Unlimited	13
-8080 Test Library	Les Idées de ma maison	RBZ0000536	10/01/2020	Unlimited	16
+8080 Test Library	Les Idées de ma maison	RBZ0000536	11/01/2020	Unlimited	17
 8080 Test Library	Les Trésors de Picsou	RBZ0009706	07/01/2020	Unlimited	7
-8080 Test Library	Les Veillées des chaumières	RBZ0008545	09/30/2020	Unlimited	91
+8080 Test Library	Les Veillées des chaumières	RBZ0008545	10/07/2020	Unlimited	92
 8080 Test Library	Let's Talk in English ?????	RBZ0001064	09/18/2020	Unlimited	20
 8080 Test Library	Líderes Mexicanos	RBZ0000537	02/01/2019	Unlimited	1
 8080 Test Library	Líderes Mexicanos - Nuestra Historia en cien imágenes	RBZ0006001	03/01/2013	Unlimited	1
@@ -2083,10 +2083,10 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Live ????	RBZ0010028	09/18/2020	Unlimited	21
 8080 Test Library	Liverpool FC v Melbourne Victory FC	RBZ0006372	07/01/2013	Unlimited	1
 8080 Test Library	Living and Loving	RBZ0000936	09/01/2019	Unlimited	1
-8080 Test Library	Living at Home	RBZ0009122	10/01/2020	Unlimited	21
+8080 Test Library	Living at Home	RBZ0009122	11/01/2020	Unlimited	22
 8080 Test Library	Living Etc	RBZ0000901	11/01/2020	Unlimited	22
 8080 Test Library	Liz Earle Wellbeing	RBZ0007733	09/01/2020	Unlimited	11
-8080 Test Library	Ljud & Bild	RBZ0001646	09/01/2020	Unlimited	19
+8080 Test Library	Ljud & Bild	RBZ0001646	10/01/2020	Unlimited	20
 8080 Test Library	Loco-Revue	RBZ0002426	10/01/2020	Unlimited	22
 8080 Test Library	Locomotive	RBZ0005227	07/31/2020	Unlimited	2
 8080 Test Library	Log Home Living	RBZ0005469	09/01/2020	Unlimited	16
@@ -2102,7 +2102,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	LOUD!	RBZ0008279	03/01/2020	Unlimited	15
 8080 Test Library	Louisiana Cookin'	RBZ0007830	11/01/2020	Unlimited	11
 8080 Test Library	Love Crochet	RBZ0008734	01/01/2020	Unlimited	6
-8080 Test Library	Love Knitting for Babies	RBZ0007980	03/19/2020	Unlimited	8
+8080 Test Library	Love Knitting for Babies	RBZ0007980	12/01/2020	Unlimited	9
 8080 Test Library	Love Knitting for Baby	RBZ0008735	02/01/2016	Unlimited	1
 8080 Test Library	Love of Quilting	RBZ0010204	11/01/2020	Unlimited	12
 8080 Test Library	Love Patchwork & Quilting	RBZ0006714	10/01/2020	Unlimited	21
@@ -2162,17 +2162,17 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Man Magnum .303	RBZ0008246	10/01/2015	Unlimited	1
 8080 Test Library	Man on The Moon	RBZ0009976	05/01/2019	Unlimited	3
 8080 Test Library	Man on The Moon Collector's Edition	RBZ0002500	09/01/2010	Unlimited	1
-8080 Test Library	Manager Today ???	RBZ0001160	09/01/2020	Unlimited	21
+8080 Test Library	Manager Today ???	RBZ0001160	10/01/2020	Unlimited	22
 8080 Test Library	Manga Artist Volume 2	RBZ0008078	06/01/2015	Unlimited	1
 8080 Test Library	Mania	RBZ0007861	02/01/2020	Unlimited	13
-8080 Test Library	Mannschaft Magazin	RBZ0008526	08/01/2020	Unlimited	15
+8080 Test Library	Mannschaft Magazin	RBZ0008526	10/01/2020	Unlimited	16
 8080 Test Library	MARBO WEEKLY ????	RBZ0010078	12/27/2019	Unlimited	51
 8080 Test Library	Marie Claire	RBZ0000565	09/01/2020	Unlimited	17
-8080 Test Library	Marie Claire - France	RBZ0002311	10/01/2020	Unlimited	20
+8080 Test Library	Marie Claire - France	RBZ0002311	11/01/2020	Unlimited	21
 8080 Test Library	Marie Claire - México	RBZ0008973	06/01/2020	Unlimited	15
 8080 Test Library	Marie Claire @ Work Special	RBZ0006639	04/01/2014	Unlimited	1
-8080 Test Library	Marie Claire Australia	RBZ0000567	10/01/2020	Unlimited	20
-8080 Test Library	Marie Claire Enfants	RBZ0002542	03/01/2020	Unlimited	3
+8080 Test Library	Marie Claire Australia	RBZ0000567	11/01/2020	Unlimited	21
+8080 Test Library	Marie Claire Enfants	RBZ0002542	09/01/2020	Unlimited	4
 8080 Test Library	Marie Claire España	RBZ0003148	10/01/2020	Unlimited	21
 8080 Test Library	Marie Claire Fashion Shows	RBZ0004226	05/01/2020	Unlimited	3
 8080 Test Library	Marie Claire Idées	RBZ0002911	09/01/2020	Unlimited	10
@@ -2182,13 +2182,13 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Marie Claire Maison Italia	RBZ0005986	09/01/2020	Unlimited	17
 8080 Test Library	Marie Claire Runway	RBZ0006417	01/01/2014	Unlimited	1
 8080 Test Library	Marie Claire Smart Beauty Special	RBZ0008348	09/01/2014	Unlimited	1
-8080 Test Library	Marie Claire ?????????	RBZ0005643	09/07/2020	Unlimited	21
+8080 Test Library	Marie Claire ?????????	RBZ0005643	10/07/2020	Unlimited	22
 8080 Test Library	Marie Claire: How To Get Amazing Skin Guide	RBZ0006767	11/01/2013	Unlimited	1
 8080 Test Library	Market Watch	RBZ0002674	09/01/2020	Unlimited	16
 8080 Test Library	Marketing	RBZ0002760	03/01/2020	Unlimited	5
 8080 Test Library	The Marketing Survival Guide	RBZ0002960	01/01/2013	Unlimited	1
 8080 Test Library	Marlin	RBZ0001098	10/01/2020	Unlimited	13
-8080 Test Library	Mas Alla	RBZ0001648	09/01/2020	Unlimited	20
+8080 Test Library	Mas Alla	RBZ0001648	10/01/2020	Unlimited	21
 8080 Test Library	Más Allá Monográficos	RBZ0008634	05/01/2020	Unlimited	4
 8080 Test Library	MASK The Magazine	RBZ0003090	08/28/2020	Unlimited	7
 8080 Test Library	Master Linux 2013	RBZ0005816	02/01/2013	Unlimited	1
@@ -2196,19 +2196,19 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Master your Canon DSLR	RBZ0009083	11/01/2016	Unlimited	1
 8080 Test Library	Master your Nikon D-SLR	RBZ0007958	02/01/2015	Unlimited	1
 8080 Test Library	Master your Nikon DSLR	RBZ0009084	11/01/2016	Unlimited	1
-8080 Test Library	Master60 ?????	RBZ0003167	09/30/2020	Unlimited	87
-8080 Test Library	MATCH	RBZ0007925	09/29/2020	Unlimited	90
+8080 Test Library	Master60 ?????	RBZ0003167	10/07/2020	Unlimited	88
+8080 Test Library	MATCH	RBZ0007925	10/06/2020	Unlimited	91
 8080 Test Library	Match of the Day Magazine	RBZ0007729	09/29/2020	Unlimited	78
 8080 Test Library	Maxim	RBZ0000573	09/01/2020	Unlimited	11
 8080 Test Library	Maxim Australia	RBZ0000574	10/01/2020	Unlimited	20
-8080 Test Library	Maxim México	RBZ0007787	09/01/2020	Unlimited	18
+8080 Test Library	Maxim México	RBZ0007787	10/01/2020	Unlimited	19
 8080 Test Library	MAXIM New Zealand	RBZ0010134	10/01/2020	Unlimited	19
 8080 Test Library	MAXIM Russia	RBZ0001889	10/01/2020	Unlimited	19
 8080 Test Library	Maximum PC	RBZ0005069	10/01/2020	Unlimited	23
 8080 Test Library	Maximum PC Specials	RBZ0005283	08/01/2017	Unlimited	1
 8080 Test Library	MBA Housing Awards Annual	RBZ0004462	12/05/2018	Unlimited	1
 8080 Test Library	McCall's Quilting	RBZ0010044	11/01/2020	Unlimited	11
-8080 Test Library	MCN	RBZ0007883	09/30/2020	Unlimited	90
+8080 Test Library	MCN	RBZ0007883	10/01/2020	Unlimited	91
 8080 Test Library	Medieval Kings and Queens	RBZ0009278	02/01/2017	Unlimited	1
 8080 Test Library	Medieval Life	RBZ0008736	05/01/2016	Unlimited	1
 8080 Test Library	Melbourne Custom Homes	RBZ0008223	03/01/2018	Unlimited	1
@@ -2257,8 +2257,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Men's Health The Busy Man's Guide to Effort-Free Abs	RBZ0005913	03/01/2013	Unlimited	1
 8080 Test Library	Men's Health UK	RBZ0000580	10/01/2020	Unlimited	18
 8080 Test Library	Men's Journal	RBZ0000581	09/01/2020	Unlimited	15
-8080 Test Library	men's uno	RBZ0003683	09/10/2020	Unlimited	21
-8080 Test Library	men's uno HK	RBZ0005083	08/19/2020	Unlimited	19
+8080 Test Library	men's uno	RBZ0003683	10/08/2020	Unlimited	22
+8080 Test Library	men's uno HK	RBZ0005083	10/07/2020	Unlimited	21
 8080 Test Library	Mens Fitness 50 meals that make Muscle	RBZ0005536	11/01/2012	Unlimited	1
 8080 Test Library	Mens Fitness Build a Bigger Chest	RBZ0006906	01/01/2014	Unlimited	1
 8080 Test Library	Mens Fitness Muscle Food	RBZ0008362	10/01/2014	Unlimited	1
@@ -2287,19 +2287,19 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Metro Society	RBZ0003147	12/01/2018	Unlimited	1
 8080 Test Library	Metro Weddings	RBZ0006200	06/01/2016	Unlimited	1
 8080 Test Library	México Desconocido	RBZ0004939	02/01/2020	Unlimited	7
-8080 Test Library	MHQ: The Quarterly Journal of Military History	RBZ0005989	07/07/2020	Unlimited	6
+8080 Test Library	MHQ: The Quarterly Journal of Military History	RBZ0005989	09/29/2020	Unlimited	7
 8080 Test Library	MiCasa	RBZ0001181	10/01/2020	Unlimited	18
 8080 Test Library	Michigan Game & Fish	RBZ0009260	10/01/2020	Unlimited	18
 8080 Test Library	Mickey Parade Géant	RBZ0009723	09/01/2020	Unlimited	10
 8080 Test Library	Micro Pratique	RBZ0001813	08/31/2020	Unlimited	21
-8080 Test Library	Micro Simulateur	RBZ0001814	09/01/2020	Unlimited	21
+8080 Test Library	Micro Simulateur	RBZ0001814	10/01/2020	Unlimited	22
 8080 Test Library	Micro Simulateur HS	RBZ0004422	10/01/2016	Unlimited	1
 8080 Test Library	Mieux vivre votre argent	RBZ0001534	10/01/2020	Unlimited	18
 8080 Test Library	Mieux Vivre Votre Argent Hors-Série	RBZ0009724	04/01/2017	Unlimited	1
 8080 Test Library	Military Fitness	RBZ0007451	05/01/2014	Unlimited	1
 8080 Test Library	Military History	RBZ0005786	09/01/2020	Unlimited	10
 8080 Test Library	Military Trader	RBZ0010205	10/01/2020	Unlimited	21
-8080 Test Library	Military Vehicles	RBZ0010206	10/01/2020	Unlimited	12
+8080 Test Library	Military Vehicles	RBZ0010206	12/01/2020	Unlimited	13
 8080 Test Library	MilK	RBZ0001922	09/01/2020	Unlimited	7
 8080 Test Library	MilK Decoration	RBZ0001928	09/01/2020	Unlimited	8
 8080 Test Library	Mind Games	RBZ0009889	03/01/2017	Unlimited	1
@@ -2308,7 +2308,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Minecraft Party book	RBZ0009298			0
 8080 Test Library	MINECRAFT SECRETS	RBZ0007450	05/01/2014	Unlimited	1
 8080 Test Library	Minecraft Secrets & Cheats: 100% Unofficial	RBZ0008083	07/01/2016	Unlimited	1
-8080 Test Library	Minecraft World Magazine	RBZ0008081	09/03/2020	Unlimited	22
+8080 Test Library	Minecraft World Magazine	RBZ0008081	10/01/2020	Unlimited	23
 8080 Test Library	Mini Magazine	RBZ0000587	10/01/2020	Unlimited	21
 8080 Test Library	Mini Magazine: Mini Expert	RBZ0003213	04/01/2011	Unlimited	1
 8080 Test Library	Miss Vogue	RBZ0007944	04/01/2015	Unlimited	1
@@ -2316,7 +2316,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Model Rail	RBZ0007884	10/01/2020	Unlimited	23
 8080 Test Library	Model Railroad Scenery, Step by Step	RBZ0010225	10/15/2018	Unlimited	1
 8080 Test Library	Model Railroader	RBZ0000588	11/01/2020	Unlimited	21
-8080 Test Library	Modèle Magazine	RBZ0001815	09/01/2020	Unlimited	20
+8080 Test Library	Modèle Magazine	RBZ0001815	10/01/2020	Unlimited	21
 8080 Test Library	Modern Classics Magazine	RBZ0008568	09/01/2020	Unlimited	20
 8080 Test Library	Modern Gardens Magazine	RBZ0008569	10/01/2020	Unlimited	21
 8080 Test Library	Modes & Travaux	RBZ0008550	11/01/2020	Unlimited	21
@@ -2335,7 +2335,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Mollie Makes Photography	RBZ0007547	07/01/2014	Unlimited	1
 8080 Test Library	Mollie Makes Sewing	RBZ0007799	10/23/2018	Unlimited	1
 8080 Test Library	Mollie Makes Social Media	RBZ0007981	07/29/2019	Unlimited	1
-8080 Test Library	Mombaby ??????	RBZ0004259	09/04/2020	Unlimited	21
+8080 Test Library	Mombaby ??????	RBZ0004259	10/07/2020	Unlimited	22
 8080 Test Library	Money Australia	RBZ0005793	10/01/2020	Unlimited	20
 8080 Test Library	MoneyWeek	RBZ0010159	10/02/2020	Unlimited	89
 8080 Test Library	Monográfico especial Año Cero	RBZ0007867	01/01/2017	Unlimited	1
@@ -2345,17 +2345,17 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Mopar Muscle	RBZ0001403	03/01/2020	Unlimited	12
 8080 Test Library	Moteur Boat Magazine	RBZ0001764	09/07/2020	Unlimited	23
 8080 Test Library	Mother & Baby	RBZ0007886	08/01/2020	Unlimited	20
-8080 Test Library	Mother & Baby India	RBZ0002170	09/01/2020	Unlimited	21
+8080 Test Library	Mother & Baby India	RBZ0002170	10/01/2020	Unlimited	22
 8080 Test Library	Mother Earth Living	RBZ0005254	02/14/2020	Unlimited	7
 8080 Test Library	MOTHER EARTH NEWS	RBZ0000593	10/01/2020	Unlimited	11
 8080 Test Library	Mother Jones	RBZ0000596	09/01/2020	Unlimited	10
 8080 Test Library	Moto Revue	RBZ0001758	09/13/2020	Unlimited	22
 8080 Test Library	Moto Verde	RBZ0001182	09/01/2020	Unlimited	18
 8080 Test Library	Moto verte	RBZ0001759	10/01/2020	Unlimited	20
-8080 Test Library	Motociclismo	RBZ0001093	08/01/2020	Unlimited	35
+8080 Test Library	Motociclismo	RBZ0001093	09/01/2020	Unlimited	36
 8080 Test Library	Motociclismo Especial 60 aniversario	RBZ0003582	06/01/2011	Unlimited	1
 8080 Test Library	Motociclismo Panamericano	RBZ0000598	06/01/2020	Unlimited	17
-8080 Test Library	Motor Boat & Yachting	RBZ0000599	10/01/2020	Unlimited	21
+8080 Test Library	Motor Boat & Yachting	RBZ0000599	11/01/2020	Unlimited	22
 8080 Test Library	Motor Boat & Yachting Russia	RBZ0002848	09/01/2020	Unlimited	9
 8080 Test Library	MOTOR Magazine Australia	RBZ0007758	10/01/2020	Unlimited	23
 8080 Test Library	Motor Trend	RBZ0000601	11/01/2020	Unlimited	21
@@ -2363,10 +2363,10 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Motorcycle Classics	RBZ0000602	09/01/2020	Unlimited	10
 8080 Test Library	Motorcycle Sport & Leisure	RBZ0000605	11/01/2020	Unlimited	22
 8080 Test Library	Motorcycle Trader	RBZ0008152	04/01/2020	Unlimited	17
-8080 Test Library	Motorsport News	RBZ0000607	10/01/2020	Unlimited	90
+8080 Test Library	Motorsport News	RBZ0000607	10/08/2020	Unlimited	91
 8080 Test Library	Mountain Adventures Overseas	RBZ0008855	07/01/2016	Unlimited	1
 8080 Test Library	Mountain Bike Rider	RBZ0000608	10/01/2020	Unlimited	23
-8080 Test Library	Mountain Biking Australia	RBZ0000609	08/01/2020	Unlimited	7
+8080 Test Library	Mountain Biking Australia	RBZ0000609	11/01/2020	Unlimited	8
 8080 Test Library	Mountain Biking Skills	RBZ0008737	04/01/2016	Unlimited	1
 8080 Test Library	Mountain Biking UK	RBZ0000610	10/01/2020	Unlimited	23
 8080 Test Library	Mountain Biking UK Ultimate Ride Guide	RBZ0008322	09/01/2014	Unlimited	1
@@ -2425,7 +2425,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	New Artist	RBZ0008507	01/01/2016	Unlimited	1
 8080 Test Library	New Artist Summer 2016	RBZ0008830	07/01/2016	Unlimited	1
 8080 Test Library	New Belgium Brewery	RBZ0008810	06/01/2016	Unlimited	1
-8080 Test Library	New Idea	RBZ0009176	10/05/2020	Unlimited	90
+8080 Test Library	New Idea	RBZ0009176	10/12/2020	Unlimited	91
 8080 Test Library	New Philosopher	RBZ0008618	08/01/2020	Unlimited	7
 8080 Test Library	The New Pioneer	RBZ0010187	07/01/2020	Unlimited	6
 8080 Test Library	New Royal Family	RBZ0007725	12/01/2015	Unlimited	1
@@ -2435,9 +2435,9 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	New Scientist Presents: The Anti-Zoo	RBZ0007734	11/01/2014	Unlimited	1
 8080 Test Library	New Scientist The Collection	RBZ0007315	12/01/2017	Unlimited	1
 8080 Test Library	New York Magazine	RBZ0007772	09/28/2020	Unlimited	46
-8080 Test Library	New York Review of Books	RBZ0000627	10/08/2020	Unlimited	34
-8080 Test Library	The New Yorker	RBZ0006233	10/05/2020	Unlimited	83
-8080 Test Library	New Zealand Listener	RBZ0008964	04/04/2020	Unlimited	64
+8080 Test Library	New York Review of Books	RBZ0000627	10/22/2020	Unlimited	35
+8080 Test Library	The New Yorker	RBZ0006233	10/12/2020	Unlimited	84
+8080 Test Library	New Zealand Listener	RBZ0008964	10/01/2020	Unlimited	65
 8080 Test Library	New Zealand Weddings	RBZ0002250	04/12/2020	Unlimited	6
 8080 Test Library	New Zealand Woman’s Weekly	RBZ0008875	10/12/2020	Unlimited	65
 8080 Test Library	Newsweek	RBZ0000629	10/09/2020	247500	66
@@ -2474,7 +2474,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	North American Whitetail	RBZ0009283	10/01/2020	Unlimited	14
 8080 Test Library	Nostrofiglio - Speciale Bimbi in Viaggio	RBZ0006336	07/01/2013	Unlimited	1
 8080 Test Library	Nostrofiglio ALIMENTAZIONE del Bambino 0-10 anni	RBZ0008070	05/01/2015	Unlimited	1
-8080 Test Library	Nous Deux	RBZ0008546	09/29/2020	Unlimited	91
+8080 Test Library	Nous Deux	RBZ0008546	10/06/2020	Unlimited	92
 8080 Test Library	Nueva	RBZ0000633	12/16/2019	Unlimited	25
 8080 Test Library	Nuevo Estilo	RBZ0001169	10/01/2020	Unlimited	17
 8080 Test Library	Numismatic News	RBZ0010207	10/13/2020	Unlimited	57
@@ -2516,7 +2516,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	OK! Russia	RBZ0002849	09/26/2019	Unlimited	29
 8080 Test Library	Old Bike Australasia	RBZ0003689	09/13/2020	Unlimited	13
 8080 Test Library	Old Cars Report Price Guide	RBZ0010208	09/01/2020	Unlimited	11
-8080 Test Library	Old Cars Weekly	RBZ0010209	10/15/2020	Unlimited	66
+8080 Test Library	Old Cars Weekly	RBZ0010209	10/22/2020	Unlimited	67
 8080 Test Library	Old House Journal	RBZ0005470	10/01/2020	Unlimited	15
 8080 Test Library	Olive Magazine	RBZ0000113	10/01/2020	Unlimited	23
 8080 Test Library	The Olympic & World Records Book	RBZ0008700	06/01/2016	Unlimited	1
@@ -2531,11 +2531,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	OS X Yosemite Beyond the Manual	RBZ0008056	05/01/2015	Unlimited	1
 8080 Test Library	OS X Yosemite Technology Tips Guide	RBZ0008097	07/01/2015	Unlimited	1
 8080 Test Library	Our Canada	RBZ0000646	10/01/2020	Unlimited	11
-8080 Test Library	OUT	RBZ0000648	07/01/2020	Unlimited	12
+8080 Test Library	OUT	RBZ0000648	09/01/2020	Unlimited	13
 8080 Test Library	Outdoor Design & Living	RBZ0004167	09/03/2020	Unlimited	3
 8080 Test Library	Outdoor Landscape and Nature Photography	RBZ0008075	07/01/2015	Unlimited	1
 8080 Test Library	Outdoor Life	RBZ0000650	08/12/2020	Unlimited	6
-8080 Test Library	Outdoor Photographer	RBZ0000651	10/01/2020	Unlimited	19
+8080 Test Library	Outdoor Photographer	RBZ0000651	11/01/2020	Unlimited	20
 8080 Test Library	The Outdoor Photography Book	RBZ0005429	08/01/2013	Unlimited	1
 8080 Test Library	The Outdoor Photography Book	RBZ0004975	07/01/2012	Unlimited	1
 8080 Test Library	Outdoor Photography Workshop	RBZ0008907	07/01/2016	Unlimited	1
@@ -2548,8 +2548,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Oxygen	RBZ0000655	09/12/2020	Unlimited	8
 8080 Test Library	OZ Magazine	RBZ0007643	04/01/2019	Unlimited	2
 8080 Test Library	P.M. Fragen & Antworten	RBZ0009101	10/01/2020	Unlimited	22
-8080 Test Library	P.M. HISTORY	RBZ0009102	10/01/2020	Unlimited	20
-8080 Test Library	P.M. Magazin	RBZ0009070	10/01/2020	Unlimited	21
+8080 Test Library	P.M. HISTORY	RBZ0009102	11/01/2020	Unlimited	21
+8080 Test Library	P.M. Magazin	RBZ0009070	11/01/2020	Unlimited	22
 8080 Test Library	Paddle World Magazine	RBZ0004054	07/02/2020	Unlimited	2
 8080 Test Library	Paleo Magazine	RBZ0004359	02/01/2020	Unlimited	7
 8080 Test Library	Palm Beach Illustrated	RBZ0006269	10/01/2020	Unlimited	19
@@ -2558,7 +2558,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Paramotor Magazin	RBZ0002921	04/08/2020	Unlimited	5
 8080 Test Library	Parcelle99 - English edition	RBZ0010169	05/24/2019	Unlimited	2
 8080 Test Library	Parcelle99 Ediz. italiana	RBZ0010168	05/24/2019	Unlimited	2
-8080 Test Library	Paris Match	RBZ0006187	10/01/2020	Unlimited	92
+8080 Test Library	Paris Match	RBZ0006187	10/08/2020	Unlimited	93
 8080 Test Library	The Paris Review	RBZ0003523	08/07/2020	Unlimited	7
 8080 Test Library	PassageMaker	RBZ0005471	10/01/2020	Unlimited	13
 8080 Test Library	The Pastel Journal	RBZ0010212	09/01/2020	Unlimited	10
@@ -2566,7 +2566,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Patrick Moore's Guide to the Moon	RBZ0008738	04/01/2016	Unlimited	1
 8080 Test Library	Patterns Volume 1, Celebration Edition	RBZ0008782	06/01/2016	Unlimited	1
 8080 Test Library	PC Gamer	RBZ0000984	11/01/2020	Unlimited	23
-8080 Test Library	PC Gamer (US Edition)	RBZ0005070	11/01/2020	Unlimited	22
+8080 Test Library	PC Gamer (US Edition)	RBZ0005070	12/01/2020	Unlimited	23
 8080 Test Library	PC Gamer Presents World of Tanks	RBZ0006192	05/01/2013	Unlimited	1
 8080 Test Library	PC Gamer Presents: World of Warplanes	RBZ0007627	10/01/2014	Unlimited	1
 8080 Test Library	PC Gamer presents: The Ultimate PC Hardware Guide	RBZ0005374	05/01/2016	Unlimited	1
@@ -2576,11 +2576,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	PC How To Guide 2015	RBZ0008162	06/01/2015	Unlimited	1
 8080 Test Library	PC Magazin	RBZ0010107	11/01/2020	Unlimited	22
 8080 Test Library	PC Magazine	RBZ0000660	10/01/2020	Unlimited	21
-8080 Test Library	PC Powerplay	RBZ0000661	07/01/2020	Unlimited	10
-8080 Test Library	PC Pro	RBZ0000985	11/01/2020	Unlimited	21
+8080 Test Library	PC Powerplay	RBZ0000661	09/01/2020	Unlimited	11
+8080 Test Library	PC Pro	RBZ0000985	12/01/2020	Unlimited	22
 8080 Test Library	PC Repair: The Complete Manual	RBZ0008500	06/01/2011	Unlimited	1
 8080 Test Library	PCgo	RBZ0010108	11/01/2020	Unlimited	22
-8080 Test Library	PCWorld	RBZ0000662	09/01/2020	Unlimited	21
+8080 Test Library	PCWorld	RBZ0000662	10/01/2020	Unlimited	22
 8080 Test Library	PEAKS?????	RBZ0007600	09/15/2020	Unlimited	21
 8080 Test Library	PEARL	RBZ0010096	09/01/2020	Unlimited	20
 8080 Test Library	Pelvic Floor	RBZ0004611	04/01/2012	Unlimited	1
@@ -2591,12 +2591,12 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Performance Vauxhall	RBZ0007113	10/01/2019	Unlimited	5
 8080 Test Library	Period Living	RBZ0010087	11/01/2020	Unlimited	21
 8080 Test Library	Personal Defense World	RBZ0010190	10/01/2020	Unlimited	9
-8080 Test Library	Petersen's Bowhunting	RBZ0009284	10/01/2020	Unlimited	16
+8080 Test Library	Petersen's Bowhunting	RBZ0009284	11/01/2020	Unlimited	17
 8080 Test Library	Petersen's Hunting	RBZ0009285	10/01/2020	Unlimited	14
 8080 Test Library	Petróleo & Energía	RBZ0000666	02/01/2019	Unlimited	1
 8080 Test Library	Pets Magazine	RBZ0003941	08/01/2020	Unlimited	6
 8080 Test Library	Pets Magazine Annual 2012	RBZ0004308	01/01/2012	Unlimited	1
-8080 Test Library	Philippine Tatler	RBZ0004451	09/01/2020	Unlimited	21
+8080 Test Library	Philippine Tatler	RBZ0004451	10/01/2020	Unlimited	22
 8080 Test Library	Philippine Tatler Homes	RBZ0004454	07/03/2020	Unlimited	4
 8080 Test Library	Philippine Tatler Society	RBZ0004452	01/01/2013	Unlimited	1
 8080 Test Library	Philippine Tatler Traveller	RBZ0005041	11/04/2019	Unlimited	2
@@ -2612,7 +2612,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The Photographers’ Guide to AdobePhotoshop & Lightroom	RBZ0008364	12/01/2015	Unlimited	1
 8080 Test Library	Photography For Beginners Vol 1	RBZ0005022	07/05/2012	Unlimited	1
 8080 Test Library	Photography Tips, Tricks & Fixes	RBZ0005727	04/01/2016	Unlimited	1
-8080 Test Library	Photography Week	RBZ0007637	10/01/2020	Unlimited	91
+8080 Test Library	Photography Week	RBZ0007637	10/08/2020	Unlimited	92
 8080 Test Library	PhotoPlus : The Canon Magazine	RBZ0002377	10/01/2020	Unlimited	23
 8080 Test Library	The Photoshop CC Book	RBZ0006826	03/01/2014	Unlimited	1
 8080 Test Library	Photoshop Creative Annual	RBZ0008256	11/01/2016	Unlimited	1
@@ -2631,11 +2631,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Photoshop Tips, Tricks & Fixes Vol 2	RBZ0005020	07/09/2012	Unlimited	1
 8080 Test Library	Pianiste	RBZ0002388	09/01/2020	Unlimited	9
 8080 Test Library	Piano For Beginners	RBZ0006470	03/01/2017	Unlimited	1
-8080 Test Library	Pick Me Up!	RBZ0000904	10/08/2020	Unlimited	89
+8080 Test Library	Pick Me Up!	RBZ0000904	10/15/2020	Unlimited	90
 8080 Test Library	Pick Me Up! Special	RBZ0000905	11/01/2020	Unlimited	23
 8080 Test Library	Picsou Magazine	RBZ0009748	10/01/2020	Unlimited	10
 8080 Test Library	PieceWork	RBZ0000669	07/01/2020	Unlimited	7
-8080 Test Library	Pip Permaculture Magazine	RBZ0010098	06/05/2020	Unlimited	5
+8080 Test Library	Pip Permaculture Magazine	RBZ0010098	10/02/2020	Unlimited	6
 8080 Test Library	Plane & Pilot	RBZ0000671	11/01/2020	Unlimited	20
 8080 Test Library	Planets & Solar System The Complete Manual	RBZ0008653	04/01/2016	Unlimited	1
 8080 Test Library	Play & Win at Poker The Complete Manual	RBZ0007278	03/01/2014	Unlimited	1
@@ -2643,12 +2643,12 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Play Like Your Heroes: Rock	RBZ0009590	06/01/2017	Unlimited	1
 8080 Test Library	The PlayStation Book	RBZ0008107	08/01/2015	Unlimited	1
 8080 Test Library	PleinAir Magazine	RBZ0003003	10/01/2020	Unlimited	11
-8080 Test Library	Pleine Vie	RBZ0004710	10/01/2020	Unlimited	26
+8080 Test Library	Pleine Vie	RBZ0004710	11/01/2020	Unlimited	27
 8080 Test Library	PM Magazine ??????	RBZ0006069	09/30/2020	Unlimited	11
 8080 Test Library	The Pocket Guide to Digital Photography	RBZ0003520	06/15/2011	Unlimited	1
 8080 Test Library	Pocket Guide to the wines of Bordeaux	RBZ0004775	05/01/2012	Unlimited	1
-8080 Test Library	Poets & Writers Magazine	RBZ0000673	09/01/2020	Unlimited	10
-8080 Test Library	Point de vue	RBZ0001461	09/30/2020	Unlimited	89
+8080 Test Library	Poets & Writers Magazine	RBZ0000673	11/01/2020	Unlimited	11
+8080 Test Library	Point de vue	RBZ0001461	10/07/2020	Unlimited	90
 8080 Test Library	Point de Vue Histoire	RBZ0009756	12/01/2018	Unlimited	2
 8080 Test Library	Point de Vue Histoire Hors - Série	RBZ0009757	10/01/2016	Unlimited	1
 8080 Test Library	Pokémon Go: Augmented Reality Guide	RBZ0008970	10/01/2016	Unlimited	1
@@ -2689,7 +2689,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	President Family ???????????	RBZ0009979	09/05/2020	Unlimited	7
 8080 Test Library	PRESIDENT Woman???????????	RBZ0010099	09/29/2020	Unlimited	7
 8080 Test Library	PRESIDENT ??????	RBZ0009977	09/25/2020	Unlimited	42
-8080 Test Library	Prevention	RBZ0000683	10/01/2020	Unlimited	21
+8080 Test Library	Prevention	RBZ0000683	11/01/2020	Unlimited	22
 8080 Test Library	Prevention Magazine Australia	RBZ0009172	10/01/2020	Unlimited	11
 8080 Test Library	Prevention Special Edition - Outsmart Diabetes	RBZ0006872	12/01/2013	Unlimited	1
 8080 Test Library	Prevention Special Edition - Walking for Weight Loss	RBZ0006871	12/01/2013	Unlimited	1
@@ -2701,20 +2701,20 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Prima Summer Food 2013	RBZ0006314	07/01/2013	Unlimited	1
 8080 Test Library	Prima The Joy of Baking	RBZ0008174	07/01/2015	Unlimited	1
 8080 Test Library	Prima UK	RBZ0007156	11/01/2020	Unlimited	22
-8080 Test Library	PRIME AV MAGAZINE ???	RBZ0003288	09/09/2020	Unlimited	21
+8080 Test Library	PRIME AV MAGAZINE ???	RBZ0003288	10/05/2020	Unlimited	22
 8080 Test Library	Pro Guide to Crochet	RBZ0008319	08/01/2014	Unlimited	1
 8080 Test Library	Pro Guide to Quilting	RBZ0007310	04/01/2014	Unlimited	1
 8080 Test Library	Pro Guide to Sewing	RBZ0007291	03/01/2014	Unlimited	1
 8080 Test Library	Pro Photo	RBZ0000684	08/03/2020	Unlimited	7
 8080 Test Library	Pro Wrestling Illustrated	RBZ0003976	12/01/2020	Unlimited	11
-8080 Test Library	Proceso	RBZ0000685	09/27/2020	Unlimited	91
+8080 Test Library	Proceso	RBZ0000685	10/04/2020	Unlimited	92
 8080 Test Library	Procycling	RBZ0000989	10/01/2020	Unlimited	22
 8080 Test Library	Procycling Photography 2010: A year with the pro peloton	RBZ0003013	05/16/2011	Unlimited	1
 8080 Test Library	Procycling Season Review 2011	RBZ0004056	11/11/2011	Unlimited	1
 8080 Test Library	The Professional Photoshop Book	RBZ0005293	10/01/2015	Unlimited	1
 8080 Test Library	Prog	RBZ0009842	09/25/2020	Unlimited	18
 8080 Test Library	Project Calm	RBZ0009229	01/29/2020	Unlimited	5
-8080 Test Library	Proyecto Contract	RBZ0001738	09/22/2020	Unlimited	17
+8080 Test Library	Proyecto Contract	RBZ0001738	09/30/2020	Unlimited	18
 8080 Test Library	Proyecto Contract - Especiales	RBZ0009275	03/01/2017	Unlimited	1
 8080 Test Library	PS4: The Complete Manual	RBZ0006889	01/01/2014	Unlimited	1
 8080 Test Library	PSBEAUTY ????	RBZ0003668	04/12/2018	Unlimited	1
@@ -2724,7 +2724,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The Python Book	RBZ0008044	01/01/2017	Unlimited	1
 8080 Test Library	Python The Complete Manual	RBZ0008639	10/01/2016	Unlimited	1
 8080 Test Library	Q Magazine	RBZ0007892	09/01/2020	Unlimited	21
-8080 Test Library	QMD!	RBZ0003838	10/03/2020	Unlimited	91
+8080 Test Library	QMD!	RBZ0003838	10/10/2020	Unlimited	92
 8080 Test Library	Quattroruote	RBZ0002904	04/01/2020	Unlimited	15
 8080 Test Library	Que leer	RBZ0001900	10/01/2020	Unlimited	19
 8080 Test Library	The Queen	RBZ0009233	03/07/2019	Unlimited	1
@@ -2746,15 +2746,15 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Quilts From Around The World	RBZ0006137	05/01/2013	Unlimited	1
 8080 Test Library	Quilts from Precut Fabrics	RBZ0006956	06/01/2016	Unlimited	1
 8080 Test Library	Quintessence	RBZ0006766	11/01/2013	Unlimited	1
-8080 Test Library	R&E-Relojes&Estilográficas	RBZ0001615	05/01/2020	Unlimited	8
+8080 Test Library	R&E-Relojes&Estilográficas	RBZ0001615	09/01/2020	Unlimited	9
 8080 Test Library	Racecar Engineering	RBZ0000991	11/01/2020	Unlimited	22
 8080 Test Library	Radio Ink Magazine	RBZ0001413	09/28/2020	Unlimited	25
-8080 Test Library	Radio Times	RBZ0007730	10/03/2020	Unlimited	90
+8080 Test Library	Radio Times	RBZ0007730	10/10/2020	Unlimited	91
 8080 Test Library	Radiohead - The Ultimate Music Guide	RBZ0008005	03/01/2015	Unlimited	1
-8080 Test Library	Rail Express	RBZ0000992	09/01/2020	Unlimited	20
-8080 Test Library	The Railway Magazine	RBZ0006992	09/01/2020	Unlimited	20
+8080 Test Library	Rail Express	RBZ0000992	10/01/2020	Unlimited	21
+8080 Test Library	The Railway Magazine	RBZ0006992	10/01/2020	Unlimited	21
 8080 Test Library	The Rake	RBZ0008480	03/01/2019	Unlimited	1
-8080 Test Library	The Rake	RBZ0004115	08/01/2020	Unlimited	10
+8080 Test Library	The Rake	RBZ0004115	10/01/2020	Unlimited	11
 8080 Test Library	THE RAKE JAPAN EDITION ????? ???????????	RBZ0007707	09/25/2020	Unlimited	4
 8080 Test Library	Rapid Bikes: The Collection	RBZ0008515	12/01/2015	Unlimited	1
 8080 Test Library	Raspberry Pi 21 Brilliant Projects	RBZ0007560	07/01/2014	Unlimited	1
@@ -2769,7 +2769,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Raspberry Pi Tips, Tricks & Hacks Volume 1	RBZ0007744	12/01/2016	Unlimited	1
 8080 Test Library	RC WORLD??????????	RBZ0009579	02/01/2018	Unlimited	1
 8080 Test Library	Reader's Digest	RBZ0000704	10/01/2020	Unlimited	18
-8080 Test Library	Reader's Digest Canada	RBZ0000705	10/01/2020	Unlimited	17
+8080 Test Library	Reader's Digest Canada	RBZ0000705	11/01/2020	Unlimited	18
 8080 Test Library	Reader's Digest Chinese Edition	RBZ0004857	10/01/2020	Unlimited	6
 8080 Test Library	Reader's Digest India	RBZ0004333	09/01/2020	Unlimited	20
 8080 Test Library	Reader's Digest International	RBZ0000089	10/01/2020	Unlimited	6
@@ -2780,25 +2780,25 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Real Estate Market & Lifestyle	RBZ0008722	09/01/2019	Unlimited	5
 8080 Test Library	Real Homes	RBZ0010088	11/01/2020	Unlimited	21
 8080 Test Library	Real Living Australia	RBZ0005791	10/01/2020	Unlimited	21
-8080 Test Library	Real People	RBZ0006997	10/08/2020	Unlimited	89
+8080 Test Library	Real People	RBZ0006997	10/15/2020	Unlimited	90
 8080 Test Library	Real People's Crime Confidential	RBZ0006625	04/01/2015	Unlimited	1
 8080 Test Library	RealClassic	RBZ0000993	10/01/2020	Unlimited	22
 8080 Test Library	Reason	RBZ0006615	11/01/2020	Unlimited	19
 8080 Test Library	Reason: The Ultimate Guide	RBZ0002079	01/01/2010	Unlimited	1
 8080 Test Library	Recipe Book	RBZ0005228	01/01/2014	Unlimited	1
-8080 Test Library	Recoil	RBZ0004266	09/01/2020	Unlimited	10
+8080 Test Library	Recoil	RBZ0004266	11/01/2020	Unlimited	11
 8080 Test Library	RECOIL Presents: Concealment	RBZ0007908	09/15/2020	Unlimited	7
 8080 Test Library	RÉCORD - Los Especiales	RBZ0008821	08/01/2019	Unlimited	2
 8080 Test Library	Recording & Music Production – Guerrilla Guide	RBZ0000708	05/01/2012	Unlimited	1
 8080 Test Library	The Red Bulletin STRATOS	RBZ0005633	12/01/2012	Unlimited	1
-8080 Test Library	Red UK	RBZ0006994	10/01/2020	Unlimited	21
+8080 Test Library	Red UK	RBZ0006994	11/01/2020	Unlimited	22
 8080 Test Library	Reminisce	RBZ0008589	10/01/2020	Unlimited	11
 8080 Test Library	Reminisce Extra	RBZ0008590	09/01/2020	Unlimited	10
 8080 Test Library	Remodeling & Makeovers	RBZ0000711	10/01/2011	Unlimited	1
-8080 Test Library	Réponses Photo	RBZ0004702	09/01/2020	Unlimited	12
+8080 Test Library	Réponses Photo	RBZ0004702	11/01/2020	Unlimited	13
 8080 Test Library	Residential Tech Today	RBZ0010218	06/01/2020	Unlimited	9
 8080 Test Library	The Responsive Web Design Handbook	RBZ0006202	02/16/2016	Unlimited	1
-8080 Test Library	Retro & Classic Bike Enthusiast	RBZ0005930	04/01/2020	Unlimited	6
+8080 Test Library	Retro & Classic Bike Enthusiast	RBZ0005930	09/01/2020	Unlimited	7
 8080 Test Library	Retro (games TM Collection)	RBZ0005352	11/01/2016	Unlimited	1
 8080 Test Library	Retro Gamer	RBZ0004478	09/24/2020	Unlimited	23
 8080 Test Library	Retro Gamer Annual Volume 1	RBZ0007689	01/01/2018	Unlimited	1
@@ -2810,11 +2810,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Retro Gamer Collection Vol. 4	RBZ0004621	04/01/2012	Unlimited	1
 8080 Test Library	Retro Gamer Collection Vol. 5	RBZ0004617	04/01/2012	Unlimited	1
 8080 Test Library	Retro Style Cross Stitch	RBZ0007298	04/01/2014	Unlimited	1
-8080 Test Library	Revista THC	RBZ0009145	09/01/2020	Unlimited	18
+8080 Test Library	Revista THC	RBZ0009145	10/01/2020	Unlimited	19
 8080 Test Library	Revolution	RBZ0008282	03/01/2019	Unlimited	1
 8080 Test Library	REVOLUTION DIGITAL	RBZ0005764	09/11/2020	Unlimited	7
 8080 Test Library	Rhythm Presents 100 Drum Heroes	RBZ0008386	09/01/2015	Unlimited	1
-8080 Test Library	Rhythms Monthly ??	RBZ0001054	09/01/2020	Unlimited	20
+8080 Test Library	Rhythms Monthly ??	RBZ0001054	10/05/2020	Unlimited	21
 8080 Test Library	Richard III - The Full Story of the King under the Car Park	RBZ0008739	05/01/2016	Unlimited	1
 8080 Test Library	RiDE	RBZ0007893	11/01/2020	Unlimited	20
 8080 Test Library	RIDERS CLUB?????????	RBZ0002879	09/26/2020	Unlimited	21
@@ -2822,7 +2822,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Road Cyclists Training Manual 2016	RBZ0008709	01/01/2018	Unlimited	1
 8080 Test Library	Road Rider Bike Guide	RBZ0000722	06/06/2019	Unlimited	1
 8080 Test Library	Roaditude	RBZ0009765	05/25/2020	Unlimited	3
-8080 Test Library	Robb Report	RBZ0000724	09/01/2020	Unlimited	20
+8080 Test Library	Robb Report	RBZ0000724	10/01/2020	Unlimited	21
 8080 Test Library	Robb Report	RBZ0009080	12/01/2019	Unlimited	5
 8080 Test Library	ROBB REPORT - España	RBZ0009146	03/01/2019	Unlimited	2
 8080 Test Library	Robb Report España en Chino	RBZ0008930	05/01/2017	Unlimited	1
@@ -2831,8 +2831,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Rock and Folk	RBZ0001760	10/01/2020	Unlimited	21
 8080 Test Library	Rodding USA	RBZ0005822	09/01/2020	Unlimited	10
 8080 Test Library	Rogue One Souvenir Magazine	RBZ0009238	12/01/2016	Unlimited	1
-8080 Test Library	Rolling Stone	RBZ0000729	09/01/2020	Unlimited	21
-8080 Test Library	Rolling Stone - France	RBZ0001464	09/01/2020	Unlimited	18
+8080 Test Library	Rolling Stone	RBZ0000729	10/01/2020	Unlimited	22
+8080 Test Library	Rolling Stone - France	RBZ0001464	09/10/2020	Unlimited	19
 8080 Test Library	Rolling Stone Hors-Série	RBZ0001930	04/01/2018	Unlimited	1
 8080 Test Library	Rolling Stone: Spécial Michael Jackson	RBZ0008133	08/01/2015	Unlimited	1
 8080 Test Library	The Rolling Stones	RBZ0006298	06/01/2013	Unlimited	1
@@ -2844,7 +2844,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Royal Dynasties	RBZ0008922	08/01/2016	Unlimited	1
 8080 Test Library	Royal Women	RBZ0008740	05/01/2016	Unlimited	1
 8080 Test Library	Rubicon Történelmi Magazin	RBZ0010141	09/01/2020	Unlimited	30
-8080 Test Library	Rugby World	RBZ0001037	10/01/2020	Unlimited	21
+8080 Test Library	Rugby World	RBZ0001037	11/01/2020	Unlimited	22
 8080 Test Library	Run Your Butt Off	RBZ0008530	03/01/2016	Unlimited	1
 8080 Test Library	RUN YOUR FIRST MARATHON	RBZ0006746	10/01/2013	Unlimited	1
 8080 Test Library	The Runner	RBZ0008372	09/01/2015	Unlimited	1
@@ -2860,7 +2860,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Runner's World Women's Guide to Running	RBZ0009201	01/01/2017	Unlimited	1
 8080 Test Library	Runners World Coach	RBZ0002634	11/05/2010	Unlimited	1
 8080 Test Library	Runner’s World Complete Guide to Training	RBZ0008839	07/01/2016	Unlimited	1
-8080 Test Library	RUNNER’S WORLD Deutschland	RBZ0005896	10/01/2020	Unlimited	21
+8080 Test Library	RUNNER’S WORLD Deutschland	RBZ0005896	11/01/2020	Unlimited	22
 8080 Test Library	The Runner’s World Guide to Weight-Loss	RBZ0007582	08/01/2014	Unlimited	1
 8080 Test Library	Runner’s World Trail Runner (South African Edition)	RBZ0000967	08/01/2013	Unlimited	1
 8080 Test Library	Running for Beginners	RBZ0004616	01/01/2016	Unlimited	1
@@ -2873,8 +2873,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Saber Vivir	RBZ0006311	10/01/2020	Unlimited	21
 8080 Test Library	Sabor.Club	RBZ0009050	06/01/2020	Unlimited	17
 8080 Test Library	Saga Fit For Life	RBZ0006908	01/01/2014	Unlimited	1
-8080 Test Library	SAIL	RBZ0001268	08/25/2020	Unlimited	18
-8080 Test Library	Sailing Today	RBZ0000999	10/01/2020	Unlimited	20
+8080 Test Library	SAIL	RBZ0001268	10/01/2020	Unlimited	19
+8080 Test Library	Sailing Today	RBZ0000999	11/01/2020	Unlimited	21
 8080 Test Library	Sailing World	RBZ0001101	08/17/2020	Unlimited	7
 8080 Test Library	Salon de Luxe Classic	RBZ0003435	08/01/2020	Unlimited	7
 8080 Test Library	Salon Deutschland	RBZ0009124	09/01/2020	Unlimited	7
@@ -2897,7 +2897,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Sarie Diabetes	RBZ0009197	01/01/2017	Unlimited	1
 8080 Test Library	SARIE Karamel	RBZ0007591	08/01/2014	Unlimited	1
 8080 Test Library	Sarie Karoo	RBZ0007459	05/01/2014	Unlimited	1
-8080 Test Library	SARIE KOS	RBZ0000965	07/01/2020	Unlimited	7
+8080 Test Library	SARIE KOS	RBZ0000965	10/01/2020	Unlimited	8
 8080 Test Library	SARIE Kreatief	RBZ0005241	10/28/2015	Unlimited	1
 8080 Test Library	Sarie Partytjie	RBZ0007361	03/31/2020	Unlimited	2
 8080 Test Library	Sarie Sjokolade	RBZ0006197	06/01/2013	Unlimited	1
@@ -2907,7 +2907,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Save Our Seas	RBZ0007740	06/01/2019	Unlimited	1
 8080 Test Library	Saveur	RBZ0000736	09/09/2020	Unlimited	5
 8080 Test Library	Scale Auto	RBZ0003998	10/01/2020	Unlimited	10
-8080 Test Library	Schöner Wohnen	RBZ0009071	10/01/2020	Unlimited	21
+8080 Test Library	Schöner Wohnen	RBZ0009071	11/01/2020	Unlimited	22
 8080 Test Library	Sci-Fi Art Essentials	RBZ0007959	02/01/2015	Unlimited	1
 8080 Test Library	Science & Vie	RBZ0004648	10/01/2020	Unlimited	29
 8080 Test Library	Science & Vie Découvertes	RBZ0004721	09/16/2020	Unlimited	24
@@ -2925,7 +2925,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	SciFiNow Annual Volume 1	RBZ0008403	11/01/2015	Unlimited	1
 8080 Test Library	SciFiNow Superhero Movie Collection	RBZ0007366	04/01/2016	Unlimited	1
 8080 Test Library	SciFiNow Time Warp Collection	RBZ0005427	10/01/2012	Unlimited	1
-8080 Test Library	Scoop	RBZ0010157	08/01/2020	Unlimited	11
+8080 Test Library	Scoop	RBZ0010157	10/01/2020	Unlimited	12
 8080 Test Library	Scootering	RBZ0001000	10/01/2020	Unlimited	21
 8080 Test Library	ScrapBook inspirations - Ideas Book	RBZ0002331	01/01/2010	Unlimited	1
 8080 Test Library	ScrapBook inspirations - Ideas Book 2nd Edition	RBZ0002223	01/01/2010	Unlimited	1
@@ -2939,9 +2939,9 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The Secret History of Spies	RBZ0008744	05/01/2016	Unlimited	1
 8080 Test Library	The Secrets of Natural Remedies	RBZ0009234	01/01/2017	Unlimited	1
 8080 Test Library	Sega Archives	RBZ0008920	07/01/2016	Unlimited	1
-8080 Test Library	Sélection du Reader's Digest	RBZ0000747	10/01/2020	Unlimited	17
+8080 Test Library	Sélection du Reader's Digest	RBZ0000747	11/01/2020	Unlimited	18
 8080 Test Library	Selectus Wines	RBZ0008026	07/01/2020	Unlimited	6
-8080 Test Library	Semana	RBZ0004426	10/07/2020	Unlimited	91
+8080 Test Library	Semana	RBZ0004426	10/14/2020	Unlimited	92
 8080 Test Library	Senior's Edition Smartphones & Tablets	RBZ0008023	12/01/2016	Unlimited	1
 8080 Test Library	Senior's Edition Windows 10	RBZ0008579	10/01/2016	Unlimited	1
 8080 Test Library	Senior's Edition: iPad	RBZ0006213	10/01/2016	Unlimited	1
@@ -2956,7 +2956,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Sew Ideas	RBZ0008240	10/01/2015	Unlimited	1
 8080 Test Library	SEW NEWS	RBZ0010047	10/01/2020	Unlimited	11
 8080 Test Library	Sewing For Beginners	RBZ0008263	09/01/2016	Unlimited	1
-8080 Test Library	SFX	RBZ0001001	10/01/2020	Unlimited	22
+8080 Test Library	SFX	RBZ0001001	11/01/2020	Unlimited	23
 8080 Test Library	SFX Issue One	RBZ0007517	06/01/2014	Unlimited	1
 8080 Test Library	Shangliu Tatler	RBZ0007859	09/09/2020	Unlimited	21
 8080 Test Library	Shape Singapore	RBZ0005813	10/01/2019	Unlimited	1
@@ -2966,7 +2966,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The Sherlock Holmes Book	RBZ0008727	11/01/2016	Unlimited	1
 8080 Test Library	Shooting Gazette	RBZ0006695	10/01/2020	Unlimited	21
 8080 Test Library	Shooting Times	RBZ0009289	11/01/2020	Unlimited	20
-8080 Test Library	Shooting Times & Country	RBZ0006652	09/30/2020	Unlimited	92
+8080 Test Library	Shooting Times & Country	RBZ0006652	10/07/2020	Unlimited	93
 8080 Test Library	Shop Talk!	RBZ0010246	10/01/2020	Unlimited	23
 8080 Test Library	Shopping Design ?????	RBZ0004244	09/04/2020	Unlimited	15
 8080 Test Library	Shortcut Desserts: 123 Yummy Easiest-Ever Recipes	RBZ0000756	09/01/2011	Unlimited	1
@@ -2984,11 +2984,11 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Simple Wine News	RBZ0003069	09/24/2020	Unlimited	14
 8080 Test Library	Simply Crochet	RBZ0005583	10/01/2020	Unlimited	23
 8080 Test Library	Simply Crochet Knitting	RBZ0005095	08/01/2012	Unlimited	1
-8080 Test Library	Simply Knitting	RBZ0001741	11/01/2020	Unlimited	21
+8080 Test Library	Simply Knitting	RBZ0001741	10/01/2010	Unlimited	22
 8080 Test Library	Simply Sewing	RBZ0008184	11/01/2020	Unlimited	23
 8080 Test Library	Simply Sweet	RBZ0005255	09/01/2012	Unlimited	1
 8080 Test Library	Simply You Living	RBZ0009044	03/09/2020	Unlimited	5
-8080 Test Library	Singapore Tatler	RBZ0004650	09/01/2020	Unlimited	21
+8080 Test Library	Singapore Tatler	RBZ0004650	10/01/2020	Unlimited	22
 8080 Test Library	Singapore Tatler Best of Singapore	RBZ0005573	02/03/2020	Unlimited	2
 8080 Test Library	Singapore Tatler Homes	RBZ0004652	08/01/2020	Unlimited	10
 8080 Test Library	Singapore Tatler Jewels & Time	RBZ0004656	08/01/2019	Unlimited	1
@@ -3006,22 +3006,22 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Slow Cooker	RBZ0000766	02/01/2011	Unlimited	1
 8080 Test Library	The Small Faces - The Ultimate Music Guide	RBZ0006661	10/01/2013	Unlimited	1
 8080 Test Library	Small Gardens, Balconies & Courtyards	RBZ0000768	05/15/2015	Unlimited	1
-8080 Test Library	Smart Auto ???	RBZ0010032	09/14/2020	Unlimited	19
-8080 Test Library	Smart Photography	RBZ0002187	09/01/2020	Unlimited	21
+8080 Test Library	Smart Auto ???	RBZ0010032	10/07/2020	Unlimited	20
+8080 Test Library	Smart Photography	RBZ0002187	10/01/2020	Unlimited	22
 8080 Test Library	Smart ??	RBZ0001056	10/01/2020	Unlimited	21
 8080 Test Library	Smartphones for Seniors	RBZ0007800	12/01/2014	Unlimited	1
 8080 Test Library	Smile Quarterly ????	RBZ0010034	09/30/2020	Unlimited	8
 8080 Test Library	Smith Journal	RBZ0000769	12/01/2019	Unlimited	4
 8080 Test Library	Smithsonian Magazine	RBZ0000770	10/01/2020	Unlimited	17
 8080 Test Library	SNES The Complete Manual	RBZ0009212	12/01/2016	Unlimited	1
-8080 Test Library	Soap Opera Digest	RBZ0001241	10/05/2020	Unlimited	90
+8080 Test Library	Soap Opera Digest	RBZ0001241	10/12/2020	Unlimited	91
 8080 Test Library	Social Marketing The Complete Guide	RBZ0007303	12/01/2014	Unlimited	1
 8080 Test Library	Soul of the Woodland: A Stress Relieving Adult Coloring Book	RBZ0008788	07/01/2016	Unlimited	1
 8080 Test Library	Sound & Vision	RBZ0000773	08/01/2020	Unlimited	9
 8080 Test Library	Sound + Image	RBZ0000774	09/01/2020	Unlimited	10
 8080 Test Library	Sound On Sound UK	RBZ0010164	10/01/2020	Unlimited	21
 8080 Test Library	Sound On Sound USA	RBZ0010165	10/01/2020	Unlimited	21
-8080 Test Library	Soundings	RBZ0005467	10/01/2020	Unlimited	21
+8080 Test Library	Soundings	RBZ0005467	11/01/2020	Unlimited	22
 8080 Test Library	South African Home Owner	RBZ0004059	10/01/2020	Unlimited	21
 8080 Test Library	Southern Cast Iron	RBZ0009887	09/08/2020	Unlimited	24
 8080 Test Library	Southern Home	RBZ0009888	09/08/2020	Unlimited	18
@@ -3040,14 +3040,14 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Sport Auto Hors Série	RBZ0009781	12/01/2017	Unlimited	1
 8080 Test Library	Sport Fishing	RBZ0000777	03/01/2020	Unlimited	10
 8080 Test Library	Sport Life	RBZ0001119	09/01/2020	Unlimited	20
-8080 Test Library	Sporting Gun	RBZ0006520	10/01/2020	Unlimited	21
-8080 Test Library	Sporting Shooter	RBZ0008274	10/01/2020	Unlimited	23
+8080 Test Library	Sporting Gun	RBZ0006520	11/01/2020	Unlimited	22
+8080 Test Library	Sporting Shooter	RBZ0008274	11/01/2020	Unlimited	24
 8080 Test Library	Sports Collectors Digest	RBZ0010211	10/09/2020	Unlimited	46
 8080 Test Library	Sports Illustrated Swimwear Edition 2011	RBZ0003790	10/05/2011	Unlimited	1
 8080 Test Library	SSA Hunter Jagter – Spesiale Uitgawe	RBZ0008415	10/15/2014	Unlimited	1
 8080 Test Library	Stand Up Paddle World	RBZ0004055	07/01/2020	Unlimited	2
 8080 Test Library	Star Magazine	RBZ0000780	10/12/2020	Unlimited	91
-8080 Test Library	Star Système	RBZ0005235	10/09/2020	Unlimited	43
+8080 Test Library	Star Système	RBZ0005235	10/23/2020	Unlimited	44
 8080 Test Library	Star Trek Magazine	RBZ0007040	07/01/2020	Unlimited	7
 8080 Test Library	Star Trek Magazine Movie Special	RBZ0008933	07/01/2016	Unlimited	1
 8080 Test Library	Star Wars Insider	RBZ0007151	09/01/2020	Unlimited	11
@@ -3058,8 +3058,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Steampunk Ocean: A Nautical Adult Coloring Book Device	RBZ0008806	07/01/2016	Unlimited	1
 8080 Test Library	Steelers Digest	RBZ0001644	06/01/2020	Unlimited	14
 8080 Test Library	Stereophile	RBZ0000783	10/01/2020	Unlimited	21
-8080 Test Library	stereoplay	RBZ0010109	10/01/2020	Unlimited	21
-8080 Test Library	stern	RBZ0009081	10/01/2020	Unlimited	91
+8080 Test Library	stereoplay	RBZ0010109	11/01/2020	Unlimited	22
+8080 Test Library	stern	RBZ0009081	10/08/2020	Unlimited	92
 8080 Test Library	stern Gesund Leben	RBZ0009125	09/01/2020	Unlimited	11
 8080 Test Library	Stitching For Beginners	RBZ0008990	09/01/2016	Unlimited	1
 8080 Test Library	Stories	RBZ0008421	12/01/2014	Unlimited	1
@@ -3072,9 +3072,9 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The Story of The Tudors - from the makers of BBC History Magazine	RBZ0008338	09/01/2014	Unlimited	1
 8080 Test Library	The Story of the Victorians	RBZ0009235	02/13/2020	Unlimited	3
 8080 Test Library	The Story Of Vikings and Anglo-Saxons	RBZ0008644	03/01/2016	Unlimited	1
-8080 Test Library	Storytime	RBZ0008111	09/01/2020	Unlimited	21
+8080 Test Library	Storytime	RBZ0008111	11/01/2020	Unlimited	22
 8080 Test Library	strategy+business	RBZ0005700	08/04/2020	Unlimited	7
-8080 Test Library	Street Machine	RBZ0007762	10/01/2020	Unlimited	20
+8080 Test Library	Street Machine	RBZ0007762	11/01/2020	Unlimited	21
 8080 Test Library	Street Photography	RBZ0009818	07/01/2017	Unlimited	1
 8080 Test Library	Street Rodder	RBZ0000785	02/01/2020	Unlimited	12
 8080 Test Library	Street Trucks	RBZ0008128	10/01/2020	Unlimited	21
@@ -3085,15 +3085,15 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Stuff Guide to Apps	RBZ0005529	11/01/2012	Unlimited	1
 8080 Test Library	Stuff Magazine South Africa	RBZ0004194	09/01/2020	Unlimited	15
 8080 Test Library	Stuff Taiwan ????? ?????	RBZ0010183	07/02/2019	Unlimited	1
-8080 Test Library	Stuff UK	RBZ0007092	10/01/2020	Unlimited	21
+8080 Test Library	Stuff UK	RBZ0007092	11/01/2020	Unlimited	22
 8080 Test Library	Stuff's Ultimate Guide to iPhone & iPad Apps	RBZ0003980	11/01/2011	Unlimited	1
 8080 Test Library	Style At Home	RBZ0000907	11/01/2020	Unlimited	22
 8080 Test Library	Style At Home	RBZ0007158	10/01/2020	Unlimited	16
 8080 Test Library	Super Chevy	RBZ0001438	02/01/2020	Unlimited	12
 8080 Test Library	Super Food Ideas	RBZ0004019	08/01/2020	Unlimited	17
-8080 Test Library	SUPER MOTORS	RBZ0006093	07/29/2020	Unlimited	10
+8080 Test Library	SUPER MOTORS	RBZ0006093	10/06/2020	Unlimited	11
 8080 Test Library	Super pâtisserie & dessert	RBZ0010231	10/01/2018	Unlimited	1
-8080 Test Library	Super Picsou Géant	RBZ0009783	08/01/2020	Unlimited	9
+8080 Test Library	Super Picsou Géant	RBZ0009783	10/01/2020	Unlimited	10
 8080 Test Library	Super Street	RBZ0001362	02/01/2020	Unlimited	12
 8080 Test Library	The Superfan's Guide to Justin Bieber	RBZ0001014	12/01/2011	Unlimited	1
 8080 Test Library	The Superfan's Guide to One Direction	RBZ0005534	07/01/2013	Unlimited	1
@@ -3122,16 +3122,16 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Taiwan Tatler	RBZ0004570	08/01/2020	Unlimited	20
 8080 Test Library	Take A Hike: An Outdoor Coloring Adventure	RBZ0008809	07/01/2016	Unlimited	1
 8080 Test Library	Take Better Travel Photos	RBZ0003651	07/01/2011	Unlimited	1
-8080 Test Library	TAPAS	RBZ0007836	09/01/2020	Unlimited	18
+8080 Test Library	TAPAS	RBZ0007836	10/01/2020	Unlimited	19
 8080 Test Library	TAPAS - English Version	RBZ0008001	04/01/2019	Unlimited	1
 8080 Test Library	TAPAS - Especial Guía	RBZ0008931	08/01/2016	Unlimited	1
 8080 Test Library	Taste of Home	RBZ0000796	10/01/2020	Unlimited	10
 8080 Test Library	Taste of Home Cooking School	RBZ0000797	09/01/2016	Unlimited	1
-8080 Test Library	Taste of the South	RBZ0007821	10/05/2020	Unlimited	27
-8080 Test Library	Taste&Travel International	RBZ0003299	07/01/2020	Unlimited	7
-8080 Test Library	Taste.com.au	RBZ0000079	10/01/2020	Unlimited	18
-8080 Test Library	taste.com.au Cookbooks	RBZ0009171	08/01/2020	Unlimited	8
-8080 Test Library	Tatler Russia	RBZ0002266	09/01/2020	Unlimited	20
+8080 Test Library	Taste of the South	RBZ0007821	11/01/2020	Unlimited	28
+8080 Test Library	Taste&Travel International	RBZ0003299	10/01/2020	Unlimited	8
+8080 Test Library	Taste.com.au	RBZ0000079	11/01/2020	Unlimited	19
+8080 Test Library	taste.com.au Cookbooks	RBZ0009171	09/01/2020	Unlimited	9
+8080 Test Library	Tatler Russia	RBZ0002266	10/01/2020	Unlimited	21
 8080 Test Library	Tatler UK	RBZ0007059	11/01/2020	Unlimited	21
 8080 Test Library	Tattoo Style	RBZ0003983	11/01/2011	Unlimited	1
 8080 Test Library	Teach Your kids to code	RBZ0007671	10/01/2014	Unlimited	1
@@ -3142,7 +3142,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Teach Yourself Photoshop Elements	RBZ0008080	09/01/2016	Unlimited	1
 8080 Test Library	Teach Yourself RAW in Photoshop	RBZ0008079	09/01/2015	Unlimited	1
 8080 Test Library	TeaTime	RBZ0007832	11/01/2020	Unlimited	15
-8080 Test Library	Tech Advisor	RBZ0007017	11/01/2020	Unlimited	20
+8080 Test Library	Tech Advisor	RBZ0007017	12/01/2020	Unlimited	21
 8080 Test Library	Tech Guru Guide: Start Your Own Business	RBZ0008637	03/01/2016	Unlimited	1
 8080 Test Library	TechLife	RBZ0010090	11/01/2020	Unlimited	23
 8080 Test Library	Techlife News	RBZ0007731	10/03/2020	Unlimited	92
@@ -3150,13 +3150,13 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	The TechRadar Mobile Phone Buying Guide	RBZ0003212	04/01/2011	Unlimited	1
 8080 Test Library	The TechRadar PC Upgrade Buying Guide	RBZ0003211	03/01/2011	Unlimited	1
 8080 Test Library	Télé 7 Jeux	RBZ0009786	11/01/2019	Unlimited	9
-8080 Test Library	Télé 7 Jours	RBZ0009787	10/03/2020	Unlimited	91
+8080 Test Library	Télé 7 Jours	RBZ0009787	10/10/2020	Unlimited	92
 8080 Test Library	Tennis Magazine	RBZ0009860	09/01/2020	Unlimited	11
 8080 Test Library	Tennishead	RBZ0007093	06/01/2019	Unlimited	1
 8080 Test Library	Texas Highways Magazine	RBZ0001315	09/01/2020	Unlimited	20
 8080 Test Library	Texas Monthly	RBZ0001397	10/01/2020	Unlimited	22
 8080 Test Library	The Texas Observer	RBZ0009947	09/01/2020	Unlimited	10
-8080 Test Library	that's life!	RBZ0010038	10/08/2020	Unlimited	91
+8080 Test Library	that's life!	RBZ0010038	10/15/2020	Unlimited	92
 8080 Test Library	The Theory of (nearly) Everything	RBZ0009232	02/13/2020	Unlimited	3
 8080 Test Library	Thermik Magazin	RBZ0002920	10/01/2020	Unlimited	17
 8080 Test Library	Thermik Spezial Hike & Fly	RBZ0005151	11/01/2017	Unlimited	1
@@ -3204,7 +3204,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Traces (formerly Inside History)	RBZ0000492	09/14/2020	Unlimited	7
 8080 Test Library	Tracks	RBZ0003690	04/01/2020	Unlimited	9
 8080 Test Library	Trade Insight Biweekly ???????	RBZ0003414	09/23/2020	Unlimited	44
-8080 Test Library	Trade-A-Boat	RBZ0008147	09/01/2020	Unlimited	20
+8080 Test Library	Trade-A-Boat	RBZ0008147	10/01/2020	Unlimited	21
 8080 Test Library	TRAIL	RBZ0004199	10/01/2020	Unlimited	7
 8080 Test Library	Trail	RBZ0007896	11/01/2020	Unlimited	23
 8080 Test Library	Trail Centres: Ultimate Guide 2011	RBZ0004077	12/01/2011	Unlimited	1
@@ -3212,13 +3212,13 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Train like an Olympian	RBZ0001018	01/20/2012	Unlimited	1
 8080 Test Library	Trains	RBZ0000811	11/01/2020	Unlimited	21
 8080 Test Library	Trains Go to War	RBZ0010227	04/23/2019	Unlimited	1
-8080 Test Library	Trapper & Predator Caller	RBZ0010213	10/01/2020	Unlimited	15
-8080 Test Library	Travel + Leisure India & South Asia	RBZ0002642	09/01/2020	Unlimited	21
+8080 Test Library	Trapper & Predator Caller	RBZ0010213	11/01/2020	Unlimited	16
+8080 Test Library	Travel + Leisure India & South Asia	RBZ0002642	10/01/2020	Unlimited	22
 8080 Test Library	Travel Africa	RBZ0007116	09/01/2020	Unlimited	5
 8080 Test Library	Travel Photography	RBZ0008478	02/01/2016	Unlimited	1
 8080 Test Library	The Travel Photography Book	RBZ0004833	02/01/2013	Unlimited	1
 8080 Test Library	Travel Photography Made Easy	RBZ0003879	09/20/2011	Unlimited	1
-8080 Test Library	Travelcom ????	RBZ0006881	09/09/2020	Unlimited	19
+8080 Test Library	Travelcom ????	RBZ0006881	10/05/2020	Unlimited	20
 8080 Test Library	Travellution ???	RBZ0010175	09/30/2020	Unlimited	21
 8080 Test Library	Traverse, Northern Michigan's Magazine	RBZ0001352	10/01/2020	Unlimited	21
 8080 Test Library	TREAD	RBZ0009885	09/01/2020	Unlimited	10
@@ -3236,7 +3236,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	True Love Bride	RBZ0005279	08/01/2016	Unlimited	1
 8080 Test Library	True Love Shine	RBZ0005438	11/01/2013	Unlimited	1
 8080 Test Library	Trusted Reviews Guide to Gadgets	RBZ0004069	11/21/2011	Unlimited	1
-8080 Test Library	Tú	RBZ0000820	09/22/2020	Unlimited	42
+8080 Test Library	Tú	RBZ0000820	10/19/2020	Unlimited	43
 8080 Test Library	Tú Ediciones Especiales	RBZ0000821	05/01/2011	Unlimited	1
 8080 Test Library	Tuis	RBZ0000969	10/01/2020	Unlimited	23
 8080 Test Library	Tuis Dekor	RBZ0003447	06/01/2011	Unlimited	1
@@ -3248,14 +3248,14 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Tuis Werf	RBZ0007559	08/01/2015	Unlimited	1
 8080 Test Library	Turn Your Hobby in to a Business	RBZ0008918	09/01/2016	Unlimited	1
 8080 Test Library	Turn Your Hobby Into A Business	RBZ0007966	03/01/2015	Unlimited	1
-8080 Test Library	TV Guide Magazine	RBZ0005492	09/28/2020	Unlimited	46
+8080 Test Library	TV Guide Magazine	RBZ0005492	10/12/2020	Unlimited	47
 8080 Test Library	Tv Notas Horóscopos 2015	RBZ0000823	11/12/2019	247500	1
 8080 Test Library	TV Soap	RBZ0007855	10/12/2020	Unlimited	45
-8080 Test Library	TV Times	RBZ0001042	10/03/2020	Unlimited	90
-8080 Test Library	TV&Satellite Week	RBZ0001043	10/03/2020	Unlimited	90
-8080 Test Library	TvNotas	RBZ0000824	09/29/2020	Unlimited	90
+8080 Test Library	TV Times	RBZ0001042	10/10/2020	Unlimited	91
+8080 Test Library	TV&Satellite Week	RBZ0001043	10/10/2020	Unlimited	91
+8080 Test Library	TvNotas	RBZ0000824	10/06/2020	Unlimited	91
 8080 Test Library	TvNotas Especiales	RBZ0000055	02/11/2020	Unlimited	6
-8080 Test Library	TVyNovelas	RBZ0000825	09/28/2020	Unlimited	92
+8080 Test Library	TVyNovelas	RBZ0000825	10/05/2020	Unlimited	93
 8080 Test Library	Twist It	RBZ0007803	08/01/2015	Unlimited	1
 8080 Test Library	UAAP Magazine	RBZ0008715	05/01/2016	Unlimited	1
 8080 Test Library	The Ubuntu Book	RBZ0008652	04/01/2016	Unlimited	1
@@ -3388,12 +3388,12 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Urbis	RBZ0004661	04/01/2020	Unlimited	7
 8080 Test Library	Us Weekly	RBZ0000831	10/12/2020	Unlimited	91
 8080 Test Library	Valeurs Actuelles	RBZ0009795	10/07/2020	Unlimited	76
-8080 Test Library	Vanidades - Mexico	RBZ0000836	10/01/2020	Unlimited	45
+8080 Test Library	Vanidades - Mexico	RBZ0000836	10/19/2020	Unlimited	46
 8080 Test Library	Vanidades Novias	RBZ0000837	10/01/2019	Unlimited	1
 8080 Test Library	Vanity Fair	RBZ0005579	10/01/2020	Unlimited	20
 8080 Test Library	Vanity Fair España	RBZ0004664	10/01/2020	Unlimited	21
-8080 Test Library	Vanity Fair France	RBZ0006317	09/01/2020	Unlimited	18
-8080 Test Library	Vanity Fair Italia	RBZ0005823	10/07/2020	Unlimited	77
+8080 Test Library	Vanity Fair France	RBZ0006317	10/01/2020	Unlimited	19
+8080 Test Library	Vanity Fair Italia	RBZ0005823	10/14/2020	Unlimited	78
 8080 Test Library	Vanity Fair UK	RBZ0006237	10/01/2020	Unlimited	20
 8080 Test Library	Vantage	RBZ0005882	08/26/2020	Unlimited	7
 8080 Test Library	The Vegan Life	RBZ0009153	08/07/2018	Unlimited	1
@@ -3411,7 +3411,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Video Focus: Final Cut Pro	RBZ0002803	01/01/2011	Unlimited	1
 8080 Test Library	Videogames Hardware Handbook Vol. 1	RBZ0004631	01/01/2017	Unlimited	1
 8080 Test Library	Videogames Hardware Handbook Vol. 2	RBZ0004632	07/01/2016	Unlimited	1
-8080 Test Library	Vietnam	RBZ0005973	08/01/2020	Unlimited	9
+8080 Test Library	Vietnam	RBZ0005973	10/01/2020	Unlimited	10
 8080 Test Library	View	RBZ0009072	10/01/2020	Unlimited	22
 8080 Test Library	The Vintage Knitting Book	RBZ0008311	09/01/2015	Unlimited	1
 8080 Test Library	Vintage Rock	RBZ0004657	10/01/2020	Unlimited	8
@@ -3419,7 +3419,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Virtual Reality - The Complete Guide	RBZ0008750	05/01/2016	Unlimited	1
 8080 Test Library	Visi	RBZ0002596	09/01/2020	Unlimited	10
 8080 Test Library	Vision Man ???	RBZ0006360	07/24/2020	Unlimited	4
-8080 Test Library	Vital	RBZ0006051	08/01/2020	Unlimited	9
+8080 Test Library	Vital	RBZ0006051	10/01/2020	Unlimited	10
 8080 Test Library	Vital Food	RBZ0008549	09/01/2020	Unlimited	7
 8080 Test Library	Vivir en el Campo	RBZ0008513	09/01/2020	Unlimited	10
 8080 Test Library	Viz	RBZ0002873	10/01/2020	Unlimited	18
@@ -3428,7 +3428,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Viz Fat Slags Bumper Special	RBZ0006457	08/01/2013	Unlimited	1
 8080 Test Library	Viz: The Big Hairy Almanackers	RBZ0003508	06/15/2011	Unlimited	1
 8080 Test Library	Viz: Top of the Tips	RBZ0004189	12/01/2011	Unlimited	1
-8080 Test Library	Vogue	RBZ0006586	09/01/2020	Unlimited	19
+8080 Test Library	Vogue	RBZ0006586	10/01/2020	Unlimited	20
 8080 Test Library	Vogue Australia	RBZ0000848	09/01/2020	Unlimited	19
 8080 Test Library	Vogue Australia Brides	RBZ0007440	07/01/2015	Unlimited	1
 8080 Test Library	Vogue Belleza	RBZ0010155	03/24/2020	Unlimited	3
@@ -3438,8 +3438,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Vogue Hombre	RBZ0010156	10/18/2019	Unlimited	1
 8080 Test Library	Vogue Hommes	RBZ0001706	09/01/2020	Unlimited	4
 8080 Test Library	Vogue hommes English Version	RBZ0002836	09/01/2020	Unlimited	4
-8080 Test Library	VOGUE India	RBZ0002616	09/01/2020	Unlimited	20
-8080 Test Library	Vogue Italia	RBZ0003052	09/01/2020	Unlimited	20
+8080 Test Library	VOGUE India	RBZ0002616	10/01/2020	Unlimited	21
+8080 Test Library	Vogue Italia	RBZ0003052	10/01/2020	Unlimited	21
 8080 Test Library	VOGUE JAPAN	RBZ0002632	09/28/2020	Unlimited	21
 8080 Test Library	Vogue Latin America	RBZ0005158	10/01/2020	Unlimited	19
 8080 Test Library	Vogue Living	RBZ0000849	09/01/2020	Unlimited	10
@@ -3448,7 +3448,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Vogue Mexico	RBZ0005152	10/01/2020	Unlimited	20
 8080 Test Library	Vogue Paris	RBZ0001803	09/01/2020	Unlimited	20
 8080 Test Library	Vogue Russia	RBZ0002261	10/01/2020	Unlimited	21
-8080 Test Library	VOGUE TAIWAN	RBZ0004434	09/07/2020	Unlimited	21
+8080 Test Library	VOGUE TAIWAN	RBZ0004434	10/08/2020	Unlimited	22
 8080 Test Library	VOGUE Wedding	RBZ0007010	05/27/2020	Unlimited	3
 8080 Test Library	VOGUE ?????	RBZ0005121	09/25/2020	Unlimited	21
 8080 Test Library	Vogue????? Collections	RBZ0006263	09/07/2020	Unlimited	11
@@ -3466,7 +3466,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Wanderlust	RBZ0002477	10/01/2020	Unlimited	17
 8080 Test Library	Watch!	RBZ0002612	09/01/2020	Unlimited	11
 8080 Test Library	Watercolor Artist	RBZ0005318	12/01/2020	Unlimited	11
-8080 Test Library	WEALTH INVEST WEEKLY ??????	RBZ0001066	09/29/2020	Unlimited	89
+8080 Test Library	WEALTH INVEST WEEKLY ??????	RBZ0001066	10/07/2020	Unlimited	90
 8080 Test Library	Wealth Magazine ?????	RBZ0001114	09/30/2020	Unlimited	46
 8080 Test Library	The Weather 2011	RBZ0003854	09/01/2011	Unlimited	1
 8080 Test Library	The Web Design Annual	RBZ0008258	11/01/2015	Unlimited	1
@@ -3531,17 +3531,17 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	What Car?	RBZ0007087	10/01/2020	Unlimited	22
 8080 Test Library	What Hi-Fi? Sound and Vision	RBZ0007075	11/01/2020	Unlimited	23
 8080 Test Library	What Hifi France	RBZ0004043	10/01/2020	Unlimited	21
-8080 Test Library	What's on TV	RBZ0001044	10/03/2020	Unlimited	90
-8080 Test Library	Wheels	RBZ0005118	10/01/2020	Unlimited	22
+8080 Test Library	What's on TV	RBZ0001044	10/10/2020	Unlimited	91
+8080 Test Library	Wheels	RBZ0005118	11/01/2020	Unlimited	23
 8080 Test Library	Where They Create	RBZ0004798	05/10/2012	Unlimited	1
 8080 Test Library	Whipped: A Delectable Adult Coloring Book	RBZ0008804	07/01/2016	Unlimited	1
 8080 Test Library	Whisky & Rom	RBZ0010103	08/01/2020	Unlimited	9
-8080 Test Library	Whisky Advocate	RBZ0004749	05/26/2020	Unlimited	6
+8080 Test Library	Whisky Advocate	RBZ0004749	09/30/2020	Unlimited	7
 8080 Test Library	The White Collection	RBZ0008451	10/01/2017	Unlimited	1
 8080 Test Library	White Horses	RBZ0000867	09/24/2020	Unlimited	6
 8080 Test Library	White Sposa	RBZ0002506	09/01/2020	Unlimited	5
 8080 Test Library	Whitney Houston - Now Special Series	RBZ0004439	02/14/2012	Unlimited	1
-8080 Test Library	WHO	RBZ0009175	10/12/2020	Unlimited	88
+8080 Test Library	WHO	RBZ0009175	10/19/2020	Unlimited	89
 8080 Test Library	Who Do You Think You Are?	RBZ0002504	10/01/2020	Unlimited	23
 8080 Test Library	Who Do You Think You Are? Magazine presents The Complete Guide To Tracing Your First World War Ancestors	RBZ0008337	10/01/2014	Unlimited	1
 8080 Test Library	Why is my computer so slow	RBZ0006916	01/01/2014	Unlimited	1
@@ -3574,16 +3574,16 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Windows 8: The Complete Guide	RBZ0005499	11/01/2012	Unlimited	1
 8080 Test Library	Windsor Concours of Elegance Programme	RBZ0008885	09/01/2016	Unlimited	1
 8080 Test Library	Wine Enthusiast Magazine	RBZ0001717	11/01/2020	Unlimited	19
-8080 Test Library	Wine Spectator	RBZ0001129	09/30/2020	Unlimited	22
-8080 Test Library	Winestate Magazine	RBZ0000873	08/01/2020	Unlimited	9
+8080 Test Library	Wine Spectator	RBZ0001129	10/15/2020	Unlimited	23
+8080 Test Library	Winestate Magazine	RBZ0000873	10/01/2020	Unlimited	10
 8080 Test Library	Winter Warmth	RBZ0000874	06/26/2020	Unlimited	2
 8080 Test Library	WIRED	RBZ0005574	10/01/2020	Unlimited	19
-8080 Test Library	Wired Italia	RBZ0005824	06/01/2020	Unlimited	6
+8080 Test Library	Wired Italia	RBZ0005824	09/01/2020	Unlimited	7
 8080 Test Library	WIRED UK	RBZ0003876	11/01/2020	Unlimited	11
-8080 Test Library	Woman	RBZ0001045	10/05/2020	Unlimited	89
+8080 Test Library	Woman	RBZ0001045	10/12/2020	Unlimited	90
 8080 Test Library	Woman & Home	RBZ0000915	11/01/2020	Unlimited	24
 8080 Test Library	Woman & Home Feel Good Food	RBZ0000910	04/01/2020	Unlimited	8
-8080 Test Library	Woman & Home Feel Good You	RBZ0006271	09/01/2020	Unlimited	10
+8080 Test Library	Woman & Home Feel Good You	RBZ0006271	11/01/2020	Unlimited	11
 8080 Test Library	Woman & Home South Africa	RBZ0001028	06/01/2020	Unlimited	16
 8080 Test Library	Woman Royal Baby Souvenir issue	RBZ0006409	07/01/2013	Unlimited	1
 8080 Test Library	Woman's Day	RBZ0005128	10/12/2020	Unlimited	92
@@ -3592,10 +3592,10 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Woman's Day - Holiday Appetizers	RBZ0000877	11/01/2009	Unlimited	1
 8080 Test Library	Woman's Day - Last Minute Christmas	RBZ0000878	11/01/2009	Unlimited	1
 8080 Test Library	Woman's Day Magazine NZ	RBZ0008880	10/12/2020	Unlimited	87
-8080 Test Library	Woman's Own	RBZ0001046	10/05/2020	Unlimited	90
-8080 Test Library	Woman's Weekly	RBZ0000911	10/06/2020	Unlimited	89
+8080 Test Library	Woman's Own	RBZ0001046	10/12/2020	Unlimited	91
+8080 Test Library	Woman's Weekly	RBZ0000911	10/13/2020	Unlimited	90
 8080 Test Library	Woman's Weekly Jubilee Collector's Edition	RBZ0004850	05/24/2012	Unlimited	1
-8080 Test Library	Woman's World	RBZ0008599	10/05/2020	Unlimited	91
+8080 Test Library	Woman's World	RBZ0008599	10/12/2020	Unlimited	92
 8080 Test Library	Womankind	RBZ0008619	08/01/2020	Unlimited	7
 8080 Test Library	Women on Wheels	RBZ0006286	07/01/2017	Unlimited	1
 8080 Test Library	Women's Fitness 30 Day Challenge	RBZ0007715	12/01/2014	Unlimited	1
@@ -3639,7 +3639,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	World of Animals Book of Sharks & Ocean Predators Vol 1	RBZ0008112	09/01/2015	Unlimited	1
 8080 Test Library	World of Animals Book of the Animal Kingdom	RBZ0007372	05/01/2016	Unlimited	1
 8080 Test Library	The World of Cross Stitching	RBZ0006041	12/01/2020	Unlimited	23
-8080 Test Library	The World of Interiors	RBZ0007088	10/01/2020	Unlimited	20
+8080 Test Library	The World of Interiors	RBZ0007088	11/01/2020	Unlimited	21
 8080 Test Library	World of Knowledge Special Issues	RBZ0008946	10/01/2016	Unlimited	1
 8080 Test Library	The World of Shakespeare	RBZ0008747	05/01/2016	Unlimited	1
 8080 Test Library	World of Tanks: A Century of Armoured Warfare	RBZ0008981	09/01/2016	Unlimited	1
@@ -3661,8 +3661,8 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Y Wawr	RBZ0010008	03/01/2020	Unlimited	5
 8080 Test Library	Yacht Russia	RBZ0003715	09/01/2020	Unlimited	15
 8080 Test Library	Yachting	RBZ0001285	10/01/2020	Unlimited	20
-8080 Test Library	Yachting Monthly	RBZ0000913	10/01/2020	Unlimited	22
-8080 Test Library	Yachting World	RBZ0000914	10/01/2020	Unlimited	21
+8080 Test Library	Yachting Monthly	RBZ0000913	11/01/2020	Unlimited	23
+8080 Test Library	Yachting World	RBZ0000914	11/01/2020	Unlimited	22
 8080 Test Library	Yachts & Yachting magazine	RBZ0001033	10/01/2020	Unlimited	21
 8080 Test Library	YMag	RBZ0009825	01/01/2019	Unlimited	1
 8080 Test Library	Yoga for Beginners	RBZ0000889	01/01/2009	Unlimited	1
@@ -3723,7 +3723,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Your Handmade Wedding	RBZ0009224	03/01/2017	Unlimited	1
 8080 Test Library	Your Home and Garden	RBZ0008877	04/01/2020	Unlimited	15
 8080 Test Library	Your Horse	RBZ0007923	11/01/2020	Unlimited	23
-8080 Test Library	Yours Magazine	RBZ0007920	09/22/2020	Unlimited	46
+8080 Test Library	Yours Magazine	RBZ0007920	10/06/2020	Unlimited	47
 8080 Test Library	Youth Juvenile Monthly ????	RBZ0006284	09/30/2020	Unlimited	21
 8080 Test Library	Youth literary Monthly ????	RBZ0006285	09/30/2020	Unlimited	21
 8080 Test Library	YouTube Vlogging The Complete Manual	RBZ0008062	06/01/2015	Unlimited	1
@@ -3734,7 +3734,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	Zigzag Photo Journal	RBZ0000978	11/01/2012	Unlimited	1
 8080 Test Library	ZiNG Caribbean	RBZ0009998	03/01/2020	Unlimited	7
 8080 Test Library	Zoom Magazine	RBZ0005676	04/05/2019	Unlimited	1
-8080 Test Library	Zoomer Magazine	RBZ0000895	09/01/2020	Unlimited	12
+8080 Test Library	Zoomer Magazine	RBZ0000895	11/01/2020	Unlimited	13
 8080 Test Library	ZUHAUSE WOHNEN	RBZ0009077	08/01/2019	Unlimited	7
 8080 Test Library	The ZX Spectrum / Commodore 64 Book 30th Anniversary Special	RBZ0005339	05/23/2016	Unlimited	1
 8080 Test Library	¡Hola! Cocina	RBZ0002062	10/09/2019	Unlimited	1
@@ -3747,7 +3747,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	¡Hola! Prêt-À-Porter	RBZ0002061	09/01/2016	Unlimited	1
 8080 Test Library	?????	RBZ0008290	10/01/2020	Unlimited	21
 8080 Test Library	??????? ?????????	RBZ0010081	08/01/2020	Unlimited	9
-8080 Test Library	?????? ??????	RBZ0008852	09/01/2020	Unlimited	18
+8080 Test Library	?????? ??????	RBZ0008852	09/01/2020	Unlimited	19
 8080 Test Library	?????? ??????. ???????? ??????	RBZ0009969	09/01/2020	Unlimited	20
 8080 Test Library	?????? ????	RBZ0010094	08/01/2020	Unlimited	19
 8080 Test Library	???? ?????? ????	RBZ0004458	09/01/2020	Unlimited	13
@@ -3765,7 +3765,7 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	??????? ????????. ?????-?????????	RBZ0006786	12/01/2017	Unlimited	1
 8080 Test Library	?????	RBZ0008916	08/01/2016	Unlimited	1
 8080 Test Library	??????????? CALIFORNIA STYLE	RBZ0008650	09/29/2020	Unlimited	4
-8080 Test Library	?????? Sunday Mainichi	RBZ0002670	09/29/2020	Unlimited	82
+8080 Test Library	?????? Sunday Mainichi	RBZ0002670	10/06/2020	Unlimited	83
 8080 Test Library	??????STYLE	RBZ0008873	11/04/2019	Unlimited	1
 8080 Test Library	???????? Stereo Sound	RBZ0005273	09/05/2020	Unlimited	7
 8080 Test Library	????	RBZ0007602	09/23/2020	Unlimited	11
@@ -3782,10 +3782,10 @@ Library Name	Title	RBID	Issue Date	Remaining Circs	Active Issues
 8080 Test Library	?????SHOTENKENCHIKU	RBZ0004206	09/30/2020	Unlimited	21
 8080 Test Library	????????????????????????????	RBZ0006776	12/01/2013	247500	1
 8080 Test Library	?? Condé Nast Traveler	RBZ0005843	09/25/2020	Unlimited	20
-8080 Test Library	????Shinkenchiku	RBZ0005110	09/10/2020	Unlimited	21
+8080 Test Library	????Shinkenchiku	RBZ0005110	10/10/2020	Unlimited	22
 8080 Test Library	?????????Jutakutokushu	RBZ0005111	10/05/2020	Unlimited	21
 8080 Test Library	??HiVi	RBZ0004349	09/17/2020	Unlimited	21
 8080 Test Library	??????	RBZ0007009	09/10/2020	Unlimited	7
-8080 Test Library	????????	RBZ0002669	09/28/2020	Unlimited	81
-8080 Test Library	??????	RBZ0004151	09/28/2020	Unlimited	85
-Total	37332
+8080 Test Library	????????	RBZ0002669	10/05/2020	Unlimited	82
+8080 Test Library	??????	RBZ0004151	10/05/2020	Unlimited	86
+Total	37683
