@@ -1,5 +1,7 @@
 package Gateway;
 
+import Gateway.pages.MainPage;
+import Gson.Map.Main;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
@@ -18,9 +20,14 @@ import java.util.Calendar;
 public class BaseClass_TestRBDigital_Gateway  {
     //public WebDriver driver;
     public WebDriver driver;
+    MainPage mainPage;
 
     @AfterClass
     public void afterClass() {
+        mainPage = new MainPage(driver);
+        if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
+            mainPage.Logout();
+        }
         driver.close();
         driver.quit();
     }

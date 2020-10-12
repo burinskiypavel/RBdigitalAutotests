@@ -1,15 +1,28 @@
 package Gateway;
 
+import Gateway.BaseClass_TestRBDigital_Gateway;
 import Gateway.Steps.CommonSteps;
 import Gateway.pages.*;
+import net.lightbody.bmp.BrowserMobProxy;
+import net.lightbody.bmp.BrowserMobProxyServer;
+import net.lightbody.bmp.client.ClientUtil;
+import net.lightbody.bmp.core.har.Har;
+import net.lightbody.bmp.core.har.HarEntry;
+import net.lightbody.bmp.core.har.HarRequest;
+import net.lightbody.bmp.core.har.HarResponse;
+import net.lightbody.bmp.proxy.CaptureType;
 import org.apache.tools.ant.types.resources.selectors.Compare;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Proxy;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.remote.CapabilityType;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.*;
 import org.testng.Assert;
 import org.testng.annotations.*;
@@ -18,7 +31,10 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
+
 import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.List;
 
 @Test
@@ -37,10 +53,45 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
     String magazineUrl4;
     String comicsUrl4;
     WebDriverWait wait;
+    public BrowserMobProxy proxy;
 
 
     @BeforeClass
-    void beforeClass() {
+    void beforeClass() throws MalformedURLException {
+
+
+//        String path = System.getProperty("user.dir") + "/driver/chromedriver.exe";
+//        System.setProperty("webdriver.chrome.driver", path);
+//
+//        //старт прокси
+//        proxy = new BrowserMobProxyServer();
+//        proxy.setTrustAllServers(true);
+//        proxy.start(9091);
+//
+//        //получить обьект Selenium
+//        Proxy seleniumProxy = ClientUtil.createSeleniumProxy(proxy);
+//
+//        //настройка для драйвера
+//        DesiredCapabilities capabilities = new DesiredCapabilities();
+//        capabilities.setCapability(CapabilityType.PROXY, seleniumProxy);
+//
+//        ChromeOptions options = new ChromeOptions();
+//        options.addArguments("--ignore-certificate-errors", "--user-data-dir=somedirectory");
+//
+//        capabilities.setCapability(ChromeOptions.CAPABILITY, options);
+//
+//        //создание драйвера
+//        driver = new ChromeDriver(capabilities);
+//
+//        //включить более детальный захват HAR
+//        proxy.newHar("www.rbdigitalqa.com");
+
+
+        //docker
+        //driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), DesiredCapabilities.chrome());
+
+        //selenium server
+        //driver = new RemoteWebDriver(new URL("http://192.168.32.51:4444/wd/hub"), DesiredCapabilities.chrome());
 
         //chrome browser
         System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
@@ -82,6 +133,23 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
+
+        //////////////////////
+//        Har har = proxy.getHar();
+//        for (HarEntry entry : har.getLog().getEntries()) {
+//            HarRequest request = entry.getRequest();
+//            HarResponse response = entry.getResponse();
+//
+//            if(response.getStatus() == 500){
+//                org.junit.Assert.fail(request.getUrl() + " returns 500 error");
+//            }
+//
+//            System.out.println(response.getStatus() + " : " + request.getUrl()
+//                    + ", " + entry.getTime() + "ms");
+//
+//            //assertThat(response.getStatus(), is(200));
+//        }
+        //////////////////////
     }
 
     @Test(enabled = false)

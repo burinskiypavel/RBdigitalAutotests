@@ -1,3 +1,7 @@
 [0529/184032.056:ERROR:file_io_win.cc(179)] CreateFile C:\Users\PBURIN~1\AppData\Local\Temp\scoped_dir11756_3165\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
 [0906/131037.032:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
 [1125/125812.927:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1009/230901.751:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1009/230903.857:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1012/133248.018:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1012/142726.541:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

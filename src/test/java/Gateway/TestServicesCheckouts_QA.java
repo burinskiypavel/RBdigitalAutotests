@@ -1,5 +1,6 @@
 package Gateway;
 
+import Gateway.BaseClass_TestServiceCheckout;
 import Gateway.pages.MainPage;
 import Gateway.pages.PlatformPage;
 import Gateway.pages.ServicePage;
@@ -13,6 +14,16 @@ import org.testng.annotations.*;
 
 @Test
 public class TestServicesCheckouts_QA extends BaseClass_TestServiceCheckout {
+
+    @AfterMethod
+    void AfterMethod() {
+        driver.navigate().to("https://www.rbdigitalqa.com/test51/");
+        //driver.switchTo().defaultContent();//exit from iframe
+        if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
+            //mainPage.Logout();
+            logout();
+        }
+    }
 
     @Test(enabled = false)
     void test_01_audiobooksEBooksService_test51() {

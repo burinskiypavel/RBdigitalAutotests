@@ -1,9 +1,19 @@
 package Gateway.PROD;
 
 import Gateway.BaseClass_TestServiceCheckout;
+import net.lightbody.bmp.BrowserMobProxy;
+import net.lightbody.bmp.BrowserMobProxyServer;
+import net.lightbody.bmp.client.ClientUtil;
+import net.lightbody.bmp.core.har.Har;
+import net.lightbody.bmp.core.har.HarEntry;
+import net.lightbody.bmp.core.har.HarRequest;
+import net.lightbody.bmp.core.har.HarResponse;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Proxy;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.remote.CapabilityType;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterMethod;
@@ -12,17 +22,57 @@ import org.testng.annotations.Test;
 
 @Test
 public class TestServicesCheckouts_PROD extends BaseClass_TestServiceCheckout {
+    public BrowserMobProxy proxy;
+
 
     @BeforeClass
     void beforeClass() {
 
-        System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
-        ChromeOptions chromeOptions = new ChromeOptions();
-        driver = new ChromeDriver(chromeOptions);
-        //firefox
+        String path = System.getProperty("user.dir") + "/driver/chromedriver.exe";
+        System.setProperty("webdriver.chrome.driver", path);
+
+        //старт прокси
+        proxy = new BrowserMobProxyServer();
+        proxy.setTrustAllServers(true);
+        proxy.start(9094);
+
+        //получить обьект Selenium
+        Proxy seleniumProxy = ClientUtil.createSeleniumProxy(proxy);
+
+        //настройка для драйвера
+        DesiredCapabilities capabilities = new DesiredCapabilities();
+        capabilities.setCapability(CapabilityType.PROXY, seleniumProxy);
+
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("--ignore-certificate-errors", "--user-data-dir=somedirectory");
+
+        capabilities.setCapability(ChromeOptions.CAPABILITY, options);
+
+        //создание драйвера
+        driver = new ChromeDriver(capabilities);
+
+        //включить более детальный захват HAR
+        proxy.newHar("www.rbdigital.com/");
+
+
+        //docker
+        //driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), DesiredCapabilities.chrome());
+
+        //selenium server
+        //driver = new RemoteWebDriver(new URL("http://192.168.32.51:4444/wd/hub"), DesiredCapabilities.chrome());
+
+        //chrome browser
+        //System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
+        //ChromeOptions chromeOptions = new ChromeOptions();
+        //driver = new ChromeDriver(chromeOptions);
+
+        //firefox browser
         //System.setProperty("webdriver.gecko.driver","driver/geckodriver.exe");
         //driver = new FirefoxDriver();
 
+        //ie browser
+        //System.setProperty("webdriver.ie.driver","driver/IEDriverServer.exe");
+        //driver = new InternetExplorerDriver();
 
         driver.navigate().to("https://www.rbdigital.com/test51/");
         wait = new WebDriverWait(driver, 40);
@@ -60,7 +110,7 @@ public class TestServicesCheckouts_PROD extends BaseClass_TestServiceCheckout {
         pressGetStartedButton();
         //checkURL("https://www.beta.pressreader.com/catalog");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("a[class = 'toolbar-button-appmenu']")));
-        checkText("Publications");
+        checkText("Featured Publications");
     }
 
     @Test
@@ -142,7 +192,6 @@ public class TestServicesCheckouts_PROD extends BaseClass_TestServiceCheckout {
         login("qauser", "password1");
         goIntoServiceByButtonByXpath("//a[@href='//www.rbdigital.com/rbdigitalinternal/service/lawdepot']");
         pressGetStartedButton();
-        checkURLcontains("https://www.lawdepot.com/libraries/errorRBDG.aspx");
         checkText("Free Legal Documents, Forms and Contracts");
     }
 
@@ -200,5 +249,21 @@ public class TestServicesCheckouts_PROD extends BaseClass_TestServiceCheckout {
             //mainPage.Logout();
             logout();
         }
+        //////////////////////
+        Har har = proxy.getHar();
+        for (HarEntry entry : har.getLog().getEntries()) {
+            HarRequest request = entry.getRequest();
+            HarResponse response = entry.getResponse();
+
+            if(response.getStatus() == 500){
+                org.junit.Assert.fail(request.getUrl() + " returns 500 error");
+            }
+
+            System.out.println(response.getStatus() + " : " + request.getUrl()
+                    + ", " + entry.getTime() + "ms");
+
+            //assertThat(response.getStatus(), is(200));
+        }
+        //////////////////////
     }
 }

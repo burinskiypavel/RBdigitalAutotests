@@ -63,17 +63,6 @@ public class BaseClass_TestServiceCheckout  {
 
     }
 
-    @AfterMethod
-    void AfterMethod() {
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/");
-        //driver.switchTo().defaultContent();//exit from iframe
-        if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
-            //mainPage.Logout();
-            logout();
-        }
-    }
-
-
     @FindBy(name = "username")
     public WebElement usernameField;
 

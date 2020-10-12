@@ -1,26 +1,34 @@
-package Gateway;
+package Gateway.PROD;
 
+import Gateway.PageObj;
 import Gateway.pages.AdminPage;
 import Gateway.pages.MainPage;
 import Gateway.pages.ServicePage;
+import net.lightbody.bmp.BrowserMobProxy;
+import net.lightbody.bmp.BrowserMobProxyServer;
+import net.lightbody.bmp.client.ClientUtil;
+import net.lightbody.bmp.core.har.Har;
+import net.lightbody.bmp.core.har.HarEntry;
+import net.lightbody.bmp.core.har.HarRequest;
+import net.lightbody.bmp.core.har.HarResponse;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Proxy;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.remote.CapabilityType;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.*;
 import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
 
-public class TestLocalAdmin_QA {
+public class TestLocalAdmin_PROD {
     public WebDriver driver;
     WebDriverWait wait;
     PageObj pageObj;
@@ -29,16 +37,58 @@ public class TestLocalAdmin_QA {
     ServicePage servicePage;
     String libraryAdminTimeStamp;
     String libraryAdminTS;
+    public BrowserMobProxy proxy;
+
 
     @BeforeClass
     void beforeClass() throws InterruptedException {
-        System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
-        ChromeOptions chromeOptions = new ChromeOptions();
-        driver = new ChromeDriver(chromeOptions);
+        String path = System.getProperty("user.dir") + "/driver/chromedriver.exe";
+        System.setProperty("webdriver.chrome.driver", path);
+
+        //старт прокси
+        proxy = new BrowserMobProxyServer();
+        proxy.setTrustAllServers(true);
+        proxy.start(9093);
+
+        //получить обьект Selenium
+        Proxy seleniumProxy = ClientUtil.createSeleniumProxy(proxy);
+
+        //настройка для драйвера
+        DesiredCapabilities capabilities = new DesiredCapabilities();
+        capabilities.setCapability(CapabilityType.PROXY, seleniumProxy);
+
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("--ignore-certificate-errors", "--user-data-dir=somedirectory");
+
+        capabilities.setCapability(ChromeOptions.CAPABILITY, options);
+
+        //создание драйвера
+        driver = new ChromeDriver(capabilities);
+
+        //включить более детальный захват HAR
+        proxy.newHar("www.rbdigital.com/test51/admin");
+
+
+        //docker
+        //driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), DesiredCapabilities.chrome());
+
+        //selenium server
+        //driver = new RemoteWebDriver(new URL("http://192.168.32.51:4444/wd/hub"), DesiredCapabilities.chrome());
+
+        //chrome browser
+        //System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
+        //ChromeOptions chromeOptions = new ChromeOptions();
+        //driver = new ChromeDriver(chromeOptions);
+
+        //firefox browser
         //System.setProperty("webdriver.gecko.driver","driver/geckodriver.exe");
         //driver = new FirefoxDriver();
 
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
+        //ie browser
+        //System.setProperty("webdriver.ie.driver","driver/IEDriverServer.exe");
+        //driver = new InternetExplorerDriver();
+
+        driver.navigate().to("https://www.rbdigital.com/test51/admin");
         wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.name("login")));
         driver.manage().window().maximize();
@@ -50,26 +100,27 @@ public class TestLocalAdmin_QA {
         servicePage = new ServicePage(driver);
         adminPage.LoginInAdmin("pburinskiy", "pburinskiy123");
         adminPage.updateWeeklyOverallPatronCap("99999");
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
+        driver.navigate().to("https://www.rbdigital.com/test51/admin");
         adminPage.updateMonthlyOverallPatronCap("99999");
     }
 
     @AfterClass
     void afterClass() throws InterruptedException {
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
+        driver.navigate().to("https://www.rbdigital.com/test51/admin");
         //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.name("login")));
         adminPage.Logout();
         adminPage.LoginInAdmin("pburinskiy", "pburinskiy123");
         adminPage.updateWeeklyOverallPatronCap("99999");
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
+        driver.navigate().to("https://www.rbdigital.com/test51/admin");
         adminPage.updateMonthlyOverallPatronCap("99999");
+        adminPage.Logout();
         driver.close();
         driver.quit();
     }
 
     @BeforeMethod
     void beforeMethod() {
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
+        driver.navigate().to("https://www.rbdigital.com/test51/admin");
         //adminPage.licensesTab.click();
     }
 
@@ -78,6 +129,23 @@ public class TestLocalAdmin_QA {
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
+
+        //////////////////////
+        Har har = proxy.getHar();
+        for (HarEntry entry : har.getLog().getEntries()) {
+            HarRequest request = entry.getRequest();
+            HarResponse response = entry.getResponse();
+
+            if(response.getStatus() == 500){
+                org.junit.Assert.fail(request.getUrl() + " returns 500 error");
+            }
+
+            System.out.println(response.getStatus() + " : " + request.getUrl()
+                    + ", " + entry.getTime() + "ms");
+
+            //assertThat(response.getStatus(), is(200));
+        }
+        //////////////////////
     }
 
 
@@ -104,9 +172,9 @@ public class TestLocalAdmin_QA {
     @Test
     public void test_02_licenses_updateWeeklyOverallPatronCap() throws InterruptedException {
         adminPage.updateWeeklyOverallPatronCap("0");
-        driver.navigate().to("https://www.rbdigitalqa.com/test51");
+        driver.navigate().to("https://www.rbdigital.com/test51");
         mainPage.Login("mar13@gmail.com", "12345qw")
-                .goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/indieflix']");
+                .goIntoServiceByButtonByXpath("//a[@href='//www.rbdigital.com/test51/service/indieflix']");
         servicePage.pressGetStartedButton();
         adminPage.checkAlertModal("You have exceeded the number of services that you can access through your library this week.");
     }
@@ -114,11 +182,11 @@ public class TestLocalAdmin_QA {
     @Test
     public void test_03_licenses_updateMonthlyOverallPatronCap() throws InterruptedException {
         adminPage.updateWeeklyOverallPatronCap("9999");
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
+        driver.navigate().to("https://www.rbdigital.com/test51/admin");
         adminPage.updateMonthlyOverallPatronCap("0");
-        driver.navigate().to("https://www.rbdigitalqa.com/test51");
+        driver.navigate().to("https://www.rbdigital.com/test51");
         mainPage.Login("mar13@gmail.com", "12345qw")
-                .goIntoServiceByButtonByXpath("//a[@href='//www.rbdigitalqa.com/test51/service/indieflix']");
+                .goIntoServiceByButtonByXpath("//a[@href='//www.rbdigital.com/test51/service/indieflix']");
         servicePage.pressGetStartedButton();
         adminPage.checkAlertModal("You have exceeded the number of services that you can access through your library this month.");
     }
@@ -127,8 +195,8 @@ public class TestLocalAdmin_QA {
     public void test_04_serviceSubscriptions_checkServicesPresent() throws IOException {
         adminPage.serviceSubscriptions.click();
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//h3[contains(text(), 'Audiobook and eBook Service Subscription')]")));
-        List<String> actualReport = adminPage.GetActualDatadef("//ul[@class='left_menu']", "TestRBDigital_Gateway/QA/test_04_serviceSubscriptions_checkServicesPresent/actual.txt");
-        List<String> expectedReport = adminPage.GetDateFromFiledef("TestRBDigital_Gateway/QA/test_04_serviceSubscriptions_checkServicesPresent/expected.txt");
+        List<String> actualReport = adminPage.GetActualDatadef("//ul[@class='left_menu']", "TestRBDigital_Gateway/PROD/test_04_serviceSubscriptions_checkServicesPresent/actual.txt");
+        List<String> expectedReport = adminPage.GetDateFromFiledef("TestRBDigital_Gateway/PROD/test_04_serviceSubscriptions_checkServicesPresent/expected.txt");
         Assert.assertEquals(actualReport, expectedReport);
     }
 
@@ -141,8 +209,8 @@ public class TestLocalAdmin_QA {
         driver.findElement(By.id("submit_update")).click();
         adminPage.checkAlert("Are you sure you want to update?\nThis will erase the current subscription parameters.");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//li[contains(text(), 'Subscription was successfully updated')]")));
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/");
-        Assert.assertTrue(driver.findElement(By.xpath("//a[@href='//www.rbdigitalqa.com/test51/service/rbtestprep']")).isDisplayed());
+        driver.navigate().to("https://www.rbdigital.com/test51/");
+        Assert.assertTrue(driver.findElement(By.xpath("//a[@href='//www.rbdigital.com/test51/service/rbtestprep']")).isDisplayed());
     }
 
     @Test
@@ -153,8 +221,8 @@ public class TestLocalAdmin_QA {
         driver.findElement(By.id("submit_update")).click();
         adminPage.checkAlert("Are you sure you want to update?\nThis will erase the current subscription parameters.");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//li[contains(text(), 'Subscription was successfully updated')]")));
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/");
-        Assert.assertFalse(driver.findElements(By.xpath("//a[@href='//www.rbdigitalqa.com/test51/service/rbtestprep']")).size() != 0);
+        driver.navigate().to("https://www.rbdigital.com/test51/");
+        Assert.assertFalse(driver.findElements(By.xpath("//a[@href='//www.rbdigital.com/test51/service/rbtestprep']")).size() != 0);
     }
 
     @Test
@@ -185,7 +253,7 @@ public class TestLocalAdmin_QA {
                 .searchPatron("01_23_2020_13_10@gmail.com")
                 .pressModify()
                 .updatePatronPassword("12345qwe");
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/");
+        driver.navigate().to("https://www.rbdigital.com/test51/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
@@ -200,7 +268,7 @@ public class TestLocalAdmin_QA {
                 .searchPatron("01_23_2020_13_10@gmail.com")
                 .pressModify()
                 .updatePatronPassword("qw12345");
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/");
+        driver.navigate().to("https://www.rbdigital.com/test51/");
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
@@ -234,7 +302,7 @@ public class TestLocalAdmin_QA {
                 .showInactiveUsers();
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("input[type='checkbox']")));
         driver.findElement(By.cssSelector("input[type='checkbox']")).click();
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/");
+        driver.navigate().to("https://www.rbdigital.com/test51/");
         mainPage.LoginUnsuccessful("01_23_2020_13_03@gmail.com", "12345qw");//kdeamandel@asdads.nl
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("div[class='error']")));
         String errorText = driver.findElement(By.cssSelector("div[class='error']")).getText();
@@ -248,7 +316,7 @@ public class TestLocalAdmin_QA {
                 .showInactiveUsers();
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("input[type='checkbox']")));
         driver.findElement(By.cssSelector("input[type='checkbox']")).click();
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/");
+        driver.navigate().to("https://www.rbdigital.com/test51/");
         mainPage.Login("01_23_2020_13_03@gmail.com", "12345qw");
         wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("div[class='welcome']")));
         String welcomeText = driver.findElement(By.cssSelector("div[class='welcome']")).getText();
@@ -293,7 +361,7 @@ public class TestLocalAdmin_QA {
         adminPage.openAdminsTab();
         adminPage.searchPatron(libraryAdminTimeStamp);
         driver.findElement(By.cssSelector("td[class='Stop']")).click();
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
+        driver.navigate().to("https://www.rbdigital.com/test51/admin");
         adminPage.Logout();
         adminPage.LoginInAdminFailed(libraryAdminTS + "test123", "qw12345");
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("div[class='error']")));
@@ -308,7 +376,7 @@ public class TestLocalAdmin_QA {
         adminPage.searchPatron(libraryAdminTimeStamp);
         adminPage.showInactiveUsers();
         driver.findElement(By.cssSelector("td[class='Start']")).click();
-        driver.navigate().to("https://www.rbdigitalqa.com/test51/admin");
+        driver.navigate().to("https://www.rbdigital.com/test51/admin");
         adminPage.Logout();
         adminPage.LoginInAdmin(libraryAdminTS + "test123", "qw12345");
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("logout")));

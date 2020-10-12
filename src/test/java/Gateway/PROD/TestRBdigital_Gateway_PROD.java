@@ -3,13 +3,22 @@ package Gateway.PROD;
 import Gateway.BaseClass_TestRBDigital_Gateway;
 import Gateway.Steps.CommonSteps;
 import Gateway.pages.*;
+import net.lightbody.bmp.BrowserMobProxy;
+import net.lightbody.bmp.BrowserMobProxyServer;
+import net.lightbody.bmp.client.ClientUtil;
+import net.lightbody.bmp.core.har.Har;
+import net.lightbody.bmp.core.har.HarEntry;
+import net.lightbody.bmp.core.har.HarRequest;
+import net.lightbody.bmp.core.har.HarResponse;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Proxy;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.interactions.SourceType;
+import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -27,6 +36,9 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.List;
 
+import static org.hamcrest.CoreMatchers.is;
+import static org.junit.Assert.assertThat;
+
 @Test
 public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway {
     //public WebDriver driver;
@@ -43,10 +55,40 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
     String magazineUrl4;
     String comicsUrl4;
     WebDriverWait wait;
+    public BrowserMobProxy proxy;
+
 
 
     @BeforeClass
     void beforeClass() throws MalformedURLException {
+
+
+        String path = System.getProperty("user.dir") + "/driver/chromedriver.exe";
+        System.setProperty("webdriver.chrome.driver", path);
+
+        //старт прокси
+        proxy = new BrowserMobProxyServer();
+        proxy.setTrustAllServers(true);
+        proxy.start(9091);
+
+        //получить обьект Selenium
+        Proxy seleniumProxy = ClientUtil.createSeleniumProxy(proxy);
+
+        //настройка для драйвера
+        DesiredCapabilities capabilities = new DesiredCapabilities();
+        capabilities.setCapability(CapabilityType.PROXY, seleniumProxy);
+
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("--ignore-certificate-errors", "--user-data-dir=somedirectory");
+
+        capabilities.setCapability(ChromeOptions.CAPABILITY, options);
+
+        //создание драйвера
+        driver = new ChromeDriver(capabilities);
+
+        //включить более детальный захват HAR
+        proxy.newHar("www.rbdigital.com");
+
 
         //docker
         //driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), DesiredCapabilities.chrome());
@@ -55,9 +97,9 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
         //driver = new RemoteWebDriver(new URL("http://192.168.32.51:4444/wd/hub"), DesiredCapabilities.chrome());
 
         //chrome browser
-        System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
-        ChromeOptions chromeOptions = new ChromeOptions();
-        driver = new ChromeDriver(chromeOptions);
+        //System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
+        //ChromeOptions chromeOptions = new ChromeOptions();
+        //driver = new ChromeDriver(chromeOptions);
 
         //firefox browser
         //System.setProperty("webdriver.gecko.driver","driver/geckodriver.exe");
@@ -89,11 +131,29 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
 
     @AfterMethod
     void AfterMethod() {
+
         driver.navigate().to("https://www.rbdigital.com/test51/");
         driver.switchTo().defaultContent();//exit from iframe
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
             mainPage.Logout();
         }
+
+        //////////////////////
+        Har har = proxy.getHar();
+        for (HarEntry entry : har.getLog().getEntries()) {
+            HarRequest request = entry.getRequest();
+            HarResponse response = entry.getResponse();
+
+            if(response.getStatus() == 500){
+                org.junit.Assert.fail(request.getUrl() + " returns 500 error");
+            }
+
+            System.out.println(response.getStatus() + " : " + request.getUrl()
+                    + ", " + entry.getTime() + "ms");
+
+            //assertThat(response.getStatus(), is(200));
+        }
+        //////////////////////
     }
 
     @Test(enabled = false)
