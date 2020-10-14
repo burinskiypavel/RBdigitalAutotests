@@ -55,7 +55,7 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
     String magazineUrl4;
     String comicsUrl4;
     WebDriverWait wait;
-    public BrowserMobProxy proxy;
+    public static BrowserMobProxy proxy;
 
 
 
@@ -79,7 +79,7 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
         capabilities.setCapability(CapabilityType.PROXY, seleniumProxy);
 
         ChromeOptions options = new ChromeOptions();
-        options.addArguments("--ignore-certificate-errors", "--user-data-dir=somedirectory");
+        options.addArguments("--ignore-certificate-errors", "--user-data-dir=somedirectory2");
 
         capabilities.setCapability(ChromeOptions.CAPABILITY, options);
 

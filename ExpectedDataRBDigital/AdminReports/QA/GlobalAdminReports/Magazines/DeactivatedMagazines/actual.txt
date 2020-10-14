@@ -1,20 +1,20 @@
 Region: Asia
 Country: IN
 Library Name	Library Nickname	Title	RBID	Zenith Issue Id	Issue Date
-DNUIndiaReads Trial Library	indiareads	BBC Good Food India	RBZ0004214	267343	09/01/2014
-DNUIndiaReads Trial Library	indiareads	BBC Knowledge India	RBZ0004223	266633	10/01/2014
-DNUIndiaReads Trial Library	indiareads	BBC Top Gear Magazine India	RBZ0004231	266549	09/01/2014
-DNUIndiaReads Trial Library	indiareads	Commercial Vehicle India	RBZ0002171	267422	09/01/2014
-DNUIndiaReads Trial Library	indiareads	Complete Wellbeing	RBZ0002601	263734	08/01/2014
-DNUIndiaReads Trial Library	indiareads	Complete Wellbeing	RBZ0002601	266615	09/01/2014
-DNUIndiaReads Trial Library	indiareads	Computeractive India	RBZ0002169	264582	08/01/2014
-DNUIndiaReads Trial Library	indiareads	Computeractive India	RBZ0002169	267244	09/01/2014
-DNUIndiaReads Trial Library	indiareads	Diabetic Living India	RBZ0003375	262422	07/01/2014
-DNUIndiaReads Trial Library	indiareads	Diabetic Living India	RBZ0003375	267298	09/01/2014
-DNUIndiaReads Trial Library	indiareads	FHM India	RBZ0002184	266996	09/01/2014
-DNUIndiaReads Trial Library	indiareads	Good Housekeeping India	RBZ0004029	264871	08/01/2014
-DNUIndiaReads Trial Library	indiareads	Good Housekeeping India	RBZ0004029	267429	09/01/2014
-DNUIndiaReads Trial Library	indiareads	Grazia India	RBZ0003748	264338	08/01/2014
-DNUIndiaReads Trial Library	indiareads	Grazia India	RBZ0003748	267378	09/01/2014
-DNUIndiaReads Trial Library	indiareads	India Today Travel Plus	RBZ0002355	263936	07/01/2014
-DNUIndiaReads Trial Library	indiareads	India Today Travel Plus	RBZ0002355	267122	09/01/2014
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	30529	05/01/2016
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	39961	06/01/2016
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	35716	08/01/2016
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	43803	10/01/2016
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	47851	11/01/2016
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	46781	12/01/2016
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	349606	01/01/2017
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	352689	03/01/2017
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	352690	05/01/2017
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	352691	06/01/2017
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	352692	06/01/2017
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	352693	09/01/2017
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	352695	10/01/2017
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	352694	11/01/2017
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	352696	01/01/2018
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	393134	03/01/2018
+American Embassy School, New Delhi - Elementary School Collection	aeses	American Girl Magazine	RBZ0003805	393135	05/01/2018

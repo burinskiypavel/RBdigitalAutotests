@@ -22,7 +22,7 @@ public class BaseClass_TestRBDigital_Gateway  {
     public WebDriver driver;
     MainPage mainPage;
 
-    @AfterClass
+    @AfterClass(alwaysRun = true)
     public void afterClass() {
         mainPage = new MainPage(driver);
         if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {

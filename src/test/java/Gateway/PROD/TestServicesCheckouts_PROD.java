@@ -44,7 +44,7 @@ public class TestServicesCheckouts_PROD extends BaseClass_TestServiceCheckout {
         capabilities.setCapability(CapabilityType.PROXY, seleniumProxy);
 
         ChromeOptions options = new ChromeOptions();
-        options.addArguments("--ignore-certificate-errors", "--user-data-dir=somedirectory");
+        options.addArguments("--ignore-certificate-errors", "--user-data-dir=somedirectory3");
 
         capabilities.setCapability(ChromeOptions.CAPABILITY, options);
 
@@ -52,7 +52,7 @@ public class TestServicesCheckouts_PROD extends BaseClass_TestServiceCheckout {
         driver = new ChromeDriver(capabilities);
 
         //включить более детальный захват HAR
-        proxy.newHar("www.rbdigital.com/");
+        proxy.newHar("www.rbdigital.com/services");
 
 
         //docker

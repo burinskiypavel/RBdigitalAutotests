@@ -68,7 +68,7 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
         capabilities.setCapability(CapabilityType.PROXY, seleniumProxy);
 
         ChromeOptions options = new ChromeOptions();
-        options.addArguments("--ignore-certificate-errors", "--user-data-dir=somedirectory");
+        options.addArguments("--ignore-certificate-errors", "--user-data-dir=somedirectory4");
 
         capabilities.setCapability(ChromeOptions.CAPABILITY, options);
 
@@ -204,11 +204,11 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
                 .SelectMagazine("//img[@alt='The New Yorker']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPage(467910);
+                .openMagazineReadingPage(467940);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(467910, 4);
+        readingPage.openMagazinePageFromTableOfContents(467940, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/467910/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/467940/Cover");
     }
 
     @Test
@@ -317,14 +317,14 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
                 .SearchMagazine("HGTV Magazine")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPage(469890);
+                .openMagazineReadingPage(469897);
         magazineUrl4 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(469890, 4);
+        readingPage.openMagazinePageFromTableOfContents(469897, 4);
         openMagazineComicsPage(6);
         pressArrowNextFromPage(6);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page-6")));
 
-        checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/469890/Cover");
+        checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/469897/Cover");
     }
 
     @Test
@@ -498,11 +498,11 @@ public class TestRBdigital_Gateway_Stage extends BaseClass_TestRBDigital_Gateway
                 .SelectMagazine("//img[@alt='The Economist']")
                 .SelectMagazineFromBackIssues(1)
                 .PressStartReadingBtn()
-                .openMagazineReadingPage(463503);
+                .openMagazineReadingPage(463536);
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(463503, 4);
+        readingPage.openMagazinePageFromTableOfContents(463536, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/463503/Cover");
+        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/463536/Cover");
     }
 
     @Test

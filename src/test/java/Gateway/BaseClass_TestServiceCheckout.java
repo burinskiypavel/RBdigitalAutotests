@@ -1,6 +1,7 @@
 package Gateway;
 
 import Gateway.Steps.CommonSteps;
+import Gateway.pages.MainPage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.WebDriver;
@@ -52,8 +53,13 @@ public class BaseClass_TestServiceCheckout  {
         //serviceSitePage = new ServiceSitePage(driver);
     }
 
-    @AfterClass
+    @AfterClass(alwaysRun = true)
     public void afterClass() {
+        MainPage mainPage = new MainPage(driver);
+        mainPage = new MainPage(driver);
+        if (driver.findElements(By.xpath("//div[contains(text(), 'Welcome')]")).size() != 0) {
+            mainPage.Logout();
+        }
         driver.close();
         driver.quit();
     }

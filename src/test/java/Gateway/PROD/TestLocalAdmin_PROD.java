@@ -42,8 +42,9 @@ public class TestLocalAdmin_PROD {
 
     @BeforeClass
     void beforeClass() throws InterruptedException {
-        String path = System.getProperty("user.dir") + "/driver/chromedriver.exe";
-        System.setProperty("webdriver.chrome.driver", path);
+        //String path = System.getProperty("user.dir") + "/driver/chromedriver.exe";
+        //System.setProperty("webdriver.chrome.driver", path);
+        System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
 
         //старт прокси
         proxy = new BrowserMobProxyServer();

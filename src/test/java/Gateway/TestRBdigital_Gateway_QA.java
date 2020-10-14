@@ -60,31 +60,31 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
     void beforeClass() throws MalformedURLException {
 
 
-//        String path = System.getProperty("user.dir") + "/driver/chromedriver.exe";
-//        System.setProperty("webdriver.chrome.driver", path);
-//
-//        //старт прокси
-//        proxy = new BrowserMobProxyServer();
-//        proxy.setTrustAllServers(true);
-//        proxy.start(9091);
-//
-//        //получить обьект Selenium
-//        Proxy seleniumProxy = ClientUtil.createSeleniumProxy(proxy);
-//
-//        //настройка для драйвера
-//        DesiredCapabilities capabilities = new DesiredCapabilities();
-//        capabilities.setCapability(CapabilityType.PROXY, seleniumProxy);
-//
-//        ChromeOptions options = new ChromeOptions();
-//        options.addArguments("--ignore-certificate-errors", "--user-data-dir=somedirectory");
-//
-//        capabilities.setCapability(ChromeOptions.CAPABILITY, options);
-//
-//        //создание драйвера
-//        driver = new ChromeDriver(capabilities);
-//
-//        //включить более детальный захват HAR
-//        proxy.newHar("www.rbdigitalqa.com");
+        String path = System.getProperty("user.dir") + "/driver/chromedriver.exe";
+        System.setProperty("webdriver.chrome.driver", path);
+
+        //старт прокси
+        proxy = new BrowserMobProxyServer();
+        proxy.setTrustAllServers(true);
+        proxy.start(9095);
+
+        //получить обьект Selenium
+        Proxy seleniumProxy = ClientUtil.createSeleniumProxy(proxy);
+
+        //настройка для драйвера
+        DesiredCapabilities capabilities = new DesiredCapabilities();
+        capabilities.setCapability(CapabilityType.PROXY, seleniumProxy);
+
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("--ignore-certificate-errors", "--user-data-dir=somedirectory5");
+
+        capabilities.setCapability(ChromeOptions.CAPABILITY, options);
+
+        //создание драйвера
+        driver = new ChromeDriver(capabilities);
+
+        //включить более детальный захват HAR
+        proxy.newHar("www.rbdigitalqa.com");
 
 
         //docker
@@ -94,9 +94,9 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
         //driver = new RemoteWebDriver(new URL("http://192.168.32.51:4444/wd/hub"), DesiredCapabilities.chrome());
 
         //chrome browser
-        System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
-        ChromeOptions chromeOptions = new ChromeOptions();
-        driver = new ChromeDriver(chromeOptions);
+        //System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
+        //ChromeOptions chromeOptions = new ChromeOptions();
+        //driver = new ChromeDriver(chromeOptions);
 
         //firefox browser
         //System.setProperty("webdriver.gecko.driver","driver/geckodriver.exe");
@@ -135,20 +135,20 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
         }
 
         //////////////////////
-//        Har har = proxy.getHar();
-//        for (HarEntry entry : har.getLog().getEntries()) {
-//            HarRequest request = entry.getRequest();
-//            HarResponse response = entry.getResponse();
-//
-//            if(response.getStatus() == 500){
-//                org.junit.Assert.fail(request.getUrl() + " returns 500 error");
-//            }
-//
-//            System.out.println(response.getStatus() + " : " + request.getUrl()
-//                    + ", " + entry.getTime() + "ms");
-//
-//            //assertThat(response.getStatus(), is(200));
-//        }
+        Har har = proxy.getHar();
+        for (HarEntry entry : har.getLog().getEntries()) {
+            HarRequest request = entry.getRequest();
+            HarResponse response = entry.getResponse();
+
+            if(response.getStatus() == 500){
+                org.junit.Assert.fail(request.getUrl() + " returns 500 error");
+            }
+
+            System.out.println(response.getStatus() + " : " + request.getUrl()
+                    + ", " + entry.getTime() + "ms");
+
+            //assertThat(response.getStatus(), is(200));
+        }
         //////////////////////
     }
 
