@@ -25,15 +25,14 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
 import static org.hamcrest.CoreMatchers.is;
@@ -223,17 +222,25 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
         checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/480767/Cover");
     }
 
-    @Test
-    void test_07_magazineCheckoutAndReturnAreAvailable() throws InterruptedException {
+    @DataProvider
+    public Iterator<Object[]> checkoutForReturnList(){
+        List<Object[]> list = new ArrayList <Object[]>();
+        list.add(new Object[] {"//img[@alt='AppleMagazine']"});
+        list.add(new Object[] {"//img[@alt='OK! Magazine']"});
+        return list.iterator();
+    }
+
+    @Test(dataProvider = "checkoutForReturnList")
+    void test_07_magazineCheckoutAndReturnAreAvailable(String magazine) throws InterruptedException {
         mainPage.Login("oct10@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
-                .SelectMagazine("//img[@alt='AppleMagazine']")
+                .SelectMagazine(magazine)
                 .PressCheckoutBtn()
                 .pressKeepBrowsingBtn()
                 .OpenMyCollection();
         collectionPage.returnMagazineOrComics();
 
-        commonSteps.thenIShouldNotSee("AppleMagazine");
+        commonSteps.thenIShouldNotSee2(magazine);
     }
 
     @Test

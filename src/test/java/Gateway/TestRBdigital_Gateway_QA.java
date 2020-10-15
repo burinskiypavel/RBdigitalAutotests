@@ -35,6 +35,8 @@ import org.testng.asserts.SoftAssert;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
 @Test
@@ -219,17 +221,25 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
         checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/264457/Cover");
     }
 
-    @Test
-    void test_07_magazineCheckoutAndReturnAreAvailable() throws InterruptedException {
+    @DataProvider
+    public Iterator<Object[]> checkoutForReturnList(){
+        List<Object[]> list = new ArrayList<Object[]>();
+        list.add(new Object[] {"//img[@alt='Bride To Be - Your Day: Best Real Weddings']"});
+        list.add(new Object[] {"//img[@alt='OK! Magazine']"});
+        return list.iterator();
+    }
+
+    @Test(dataProvider = "checkoutForReturnList")
+    void test_07_magazineCheckoutAndReturnAreAvailable(String magazine) throws InterruptedException {
         mainPage.Login("mar13@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
-                .SelectMagazine("//img[@alt='Bride To Be - Your Day: Best Real Weddings']")
+                .SelectMagazine(magazine)
                 .PressCheckoutBtn()
                 .pressKeepBrowsingBtn()
                 .OpenMyCollection();
         collectionPage.returnMagazineOrComics();
 
-        commonSteps.thenIShouldNotSee("Bride To Be - Your Day: Best Real Weddings");
+        commonSteps.thenIShouldNotSee2(magazine);
     }
 
     @Test

@@ -25,6 +25,12 @@ public class CommonSteps {
         Assert.assertFalse(driver.findElements(By.cssSelector("img[alt*='"+item+"'")).size() != 0);
     }
 
+    public void thenIShouldNotSee2(String locator){
+        WebDriverWait wait = new WebDriverWait(driver, 30);
+        wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath(locator)));
+        Assert.assertFalse(driver.findElements(By.xpath(locator)).size() != 0);
+    }
+
     public void thenIShouldSee(String item){
         WebDriverWait wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("img[alt*='"+item+"'")));
