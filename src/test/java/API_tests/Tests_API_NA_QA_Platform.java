@@ -221,6 +221,29 @@ public class Tests_API_NA_QA_Platform {
     }
 
     @Test
+    public void test_searchMagazineByGenre() throws UnirestException {
+        String response = Unirest.get("https://api.rbdigitalqa.com/v1/search/emagazine?search-source=advanced-search&page-index=0&mediatype=emagazine&genre=cycling")
+                .header("authorization", "bearer " + bearer + "")
+                .asString()
+                .getBody();
+        System.out.println(response);
+
+        Gson g = new Gson();
+        SearchRBGenre request = g.fromJson(response, SearchRBGenre.class);
+        String actualGenre = null;
+        String actualMediaType = null;
+        for (SearchRBGenre rb : request.items) {
+            actualGenre = rb.item.genre;
+            actualMediaType = rb.item.mediaType;
+            System.out.println("genre: " + rb.item.genre);
+            System.out.println("mediaType: " + rb.item.mediaType);
+        }
+        Assert.assertNotNull(response);
+        Assert.assertEquals(actualGenre, "Cycling");
+        Assert.assertEquals(actualMediaType, "eMagazine");
+    }
+
+    @Test
     public void test_audiobookHold_ReturnHold() throws UnirestException {
         SoftAssert softAssert = new SoftAssert();
         //hold

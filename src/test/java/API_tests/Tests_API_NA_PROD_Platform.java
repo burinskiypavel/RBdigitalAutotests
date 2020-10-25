@@ -189,7 +189,7 @@ public class Tests_API_NA_PROD_Platform {
         String searchQueryApi = "https://api.rbdigital.com/v1/titles/9781470381806/summary";
         //JsonNode body = Unirest.get(searchQueryApi)
         HttpResponse <JsonNode> response = Unirest.get(searchQueryApi)
-                .header("authorization", "bearer 5de50e0fa5ac8019e87abc55")
+                .header("authorization", "bearer "+bearer+"")
                 .asJson();
         //.asString();
         //.getBody();
@@ -199,8 +199,8 @@ public class Tests_API_NA_PROD_Platform {
     }
 
     @Test
-    public void test_searchComicsByRatingG() throws UnirestException {
-        String response = Unirest.get("https://api.rbdigital.com/v1/search/comic?search-source=advanced-search&page-index=0&mediatype=ecomic&rating=g")
+    public void test_searchComicsByRatingPG() throws UnirestException {
+        String response = Unirest.get("https://api.rbdigital.com/v1/search/comic?search-source=advanced-search&page-index=0&mediatype=ecomic&rating=pg")
                 .header("authorization", "bearer " + bearer + "")
                 .asString()
                 .getBody();
@@ -217,8 +217,31 @@ public class Tests_API_NA_PROD_Platform {
             System.out.println("mediaType: " + rb.item.mediaType);
         }
         Assert.assertNotNull(response);
-        Assert.assertEquals(actualRating, "G");
+        Assert.assertEquals(actualRating, "PG");
         Assert.assertEquals(actualMediaType, "eComic");
+    }
+
+    @Test
+    public void test_searchMagazineByGenre() throws UnirestException {
+        String response = Unirest.get("https://api.rbdigital.com/v1/search/emagazine?search-source=advanced-search&page-index=0&mediatype=emagazine&genre=cycling")
+                .header("authorization", "bearer " + bearer + "")
+                .asString()
+                .getBody();
+        System.out.println(response);
+
+        Gson g = new Gson();
+        SearchRBGenre request = g.fromJson(response, SearchRBGenre.class);
+        String actualGenre = null;
+        String actualMediaType = null;
+        for (SearchRBGenre rb : request.items) {
+            actualGenre = rb.item.genre;
+            actualMediaType = rb.item.mediaType;
+            System.out.println("genre: " + rb.item.genre);
+            System.out.println("mediaType: " + rb.item.mediaType);
+        }
+        Assert.assertNotNull(response);
+        Assert.assertEquals(actualGenre, "Cycling");
+        Assert.assertEquals(actualMediaType, "eMagazine");
     }
 
     @Test
