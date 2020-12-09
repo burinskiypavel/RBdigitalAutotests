@@ -118,7 +118,7 @@ public class ComicPage {
         WebElement search = driver.findElement(By.id("title_search_line"));
         search.sendKeys(comicName);
         search.sendKeys(Keys.ENTER);
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("img[alt = '"+comicName+"']")));
+        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("img[alt = '"+comicName+"']")));
         driver.findElement(By.cssSelector("img[alt = '"+comicName+"']")).click();
         return this;
     }
