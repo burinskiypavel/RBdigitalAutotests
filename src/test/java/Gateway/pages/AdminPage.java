@@ -348,6 +348,35 @@ public class AdminPage {
         return table;
     }
 
+    public List<String> GetDateFromFiledefIgnoreDate(String path) {
+        List<String> table = new ArrayList<String>();
+        //String fullPathToFile = "ExpectedDataRBDigital/AdminReports/PROD/" + path;//PROD
+        String fullPathToFile = "ExpectedDataRBDigital/" + path;//QA
+
+        try (BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(fullPathToFile), "UTF-8"))) {
+
+            String line;
+            int count = 0;
+            while ((line = br.readLine()) != null) {
+                if(count == 2){
+
+                } else {
+                    table.add(line);
+                    table.add("\r\n");
+                }
+
+
+
+                //StringBuilder result = new StringBuilder();
+                //  result.append('\n').append(line);
+                count++;
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return table;
+    }
+
   public List<String> GetActualData(String xpath, String path) throws IOException {
 
       List<String> table = new ArrayList<String>();
@@ -375,11 +404,10 @@ public class AdminPage {
         List<String> actualReport = GetAllDataFromReport(xpath);
         FileWriter writer = new FileWriter(fullPathToFile);
         for(String str: actualReport) {
-            writer.write(str);
-
+                writer.write(str);
         }
         writer.close();
-        actualReport = GetDateFromFiledef(path);
+        actualReport = GetDateFromFiledefIgnoreDate(path);
         return actualReport;
     }
 
