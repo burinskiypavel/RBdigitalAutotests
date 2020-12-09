@@ -171,7 +171,7 @@ public class MagazinePage {
         Thread.sleep(500);
         search.sendKeys(magazineName);
         search.sendKeys(Keys.ENTER);
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("img[alt = '"+magazineName+"']")));
+        wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("img[alt = '"+magazineName+"']")));
         driver.findElement(By.cssSelector("img[alt = '"+magazineName+"']")).click();
         return this;
     }
