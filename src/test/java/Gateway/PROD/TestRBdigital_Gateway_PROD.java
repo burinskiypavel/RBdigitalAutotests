@@ -226,7 +226,7 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
     public Iterator<Object[]> checkoutForReturnList(){
         List<Object[]> list = new ArrayList <Object[]>();
         list.add(new Object[] {"//img[@alt='AppleMagazine']"});
-        list.add(new Object[] {"//img[@alt='OK! Magazine']"});
+        //list.add(new Object[] {"//img[@alt='OK! Magazine']"});
         return list.iterator();
     }
 
