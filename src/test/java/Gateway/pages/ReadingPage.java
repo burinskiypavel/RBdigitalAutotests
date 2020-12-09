@@ -51,7 +51,27 @@ public class ReadingPage {
         OpenMagazinePageFromListWaitForSpinnerLoading(magazineID, pageNumber);
     }
 
+    public void openMagazinePageFromTableOfContents2(String url, int pageNumber) throws InterruptedException {
+        //Thread.sleep(500);
+        int magazineID = 0;
+        magazineID = Integer.parseInt(url.substring(53, 59));
+        Wait<WebDriver> wait = new WebDriverWait(driver, 35);
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("thumbs-toggle")));
+        tableOfContentsBtn.click();
+        OpenMagazinePageFromListWaitForSpinnerLoading(magazineID, pageNumber);
+    }
+
     public void openComicsPageFromTableOfContents(int comicsID, int pageNumber){
+        Wait<WebDriver> wait = new WebDriverWait(driver, 35);
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("thumbs-toggle")));
+        tableOfContentsBtn.click();
+        OpenComicsPageFromListWaitForSpinnerLoading(comicsID, pageNumber);
+    }
+
+    public void openComicsPageFromTableOfContents2(String url, int pageNumber){
+        int comicsID = 0;
+        comicsID = Integer.parseInt(url.substring(53, 59));
+
         Wait<WebDriver> wait = new WebDriverWait(driver, 35);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("thumbs-toggle")));
         tableOfContentsBtn.click();

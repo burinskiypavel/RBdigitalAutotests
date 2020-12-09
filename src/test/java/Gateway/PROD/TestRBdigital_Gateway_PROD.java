@@ -215,11 +215,11 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
                 .SelectMagazine("//img[@alt='Us Weekly']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPageProd(480775);
+                .openMagazineReadingPageProd();
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(480775, 4);
+        readingPage.openMagazinePageFromTableOfContents2(magazineUrl2, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/480775/Cover");
+        checkUrlContains(magazineUrl2, "/Cover");
     }
 
     @DataProvider
@@ -250,13 +250,13 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
                 .SelectComics("//img[@alt='Judge Dredd, Vol. 2']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openComicsReadingPageProd(387508);
+                .openComicsReadingPageProd();
         String comicsUrl2 = getCurrentUrl();
-        readingPage.openComicsPageFromTableOfContents(387508, 4);
+        readingPage.openComicsPageFromTableOfContents2(comicsUrl2, 4);
         readingPage.openBookmarks();
         String actualText = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
 
-        checkUrlContains(comicsUrl2, "com/reader.php#/reader/readsvg/387508/Cover");
+        checkUrlContains(comicsUrl2, "/Cover");
         checkTextContains(actualText, "Select the page you want to bookmark");
     }
 
@@ -305,13 +305,13 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
                 .SelectComics("//img[@alt='SPIDER-MAN: MILES MORALES VOL. 1 - Special']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openComicsReadingPageProd(424635);
+                .openComicsReadingPageProd();
         comicsUrl3 = getCurrentUrl();
-        readingPage.openComicsPageFromTableOfContents(424635, 4);
+        readingPage.openComicsPageFromTableOfContents2(comicsUrl3, 4);
         readingPage.openBookmarks();
         String actualText = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
 
-        checkUrlContains(comicsUrl3, "com/reader.php#/reader/readsvg/424635/Cover");
+        checkUrlContains(comicsUrl3, "/Cover");
         checkTextContains(actualText, "Select the page you want to bookmark");
     }
 
@@ -336,14 +336,14 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
                 .SearchMagazine("Zen et bien dans ma vie")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPageProd(453469);
+                .openMagazineReadingPageProd();
         magazineUrl4 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(453469, 4);
+        readingPage.openMagazinePageFromTableOfContents2(magazineUrl4, 4);
         openMagazineComicsPage(6);
         pressArrowNextFromPage(6);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page-6")));
 
-        checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/453469/Cover");
+        checkUrlContains(magazineUrl4, "/Cover");
     }
 
     @Test
@@ -353,14 +353,14 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
                 .SearchComic("Black Dynamite")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openComicsReadingPageProd(389797);
+                .openComicsReadingPageProd();
         comicsUrl4 = getCurrentUrl();
-        readingPage.openComicsPageFromTableOfContents(389797, 2);
+        readingPage.openComicsPageFromTableOfContents2(comicsUrl4, 2);
         openMagazineComicsPage(4);
         pressArrowNextFromPage(4);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page-6")));
 
-        checkUrlContains(comicsUrl4, "com/reader.php#/reader/readsvg/389797/Cover");
+        checkUrlContains(comicsUrl4, "/Cover");
     }
 
 
@@ -517,11 +517,11 @@ public class TestRBdigital_Gateway_PROD extends BaseClass_TestRBDigital_Gateway 
                 .SelectMagazine("//img[@alt='The Economist']")
                 .SelectMagazineFromBackIssues(1)
                 .PressStartReadingBtn()
-                .openMagazineReadingPageProd(463544);
+                .openMagazineReadingPageProd();
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(463544, 4);
+        readingPage.openMagazinePageFromTableOfContents2(magazineUrl2, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/463544/Cover");
+        checkUrlContains(magazineUrl2, "/Cover");
     }
 
     @Test

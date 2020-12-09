@@ -65,7 +65,7 @@ public class ComicPage {
         }
 
         //wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("div[class = 'magazine-card']")));
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath(xpath)));
+        wait.until(ExpectedConditions.elementToBeClickable(By.xpath(xpath)));
         driver.findElement(By.xpath(xpath)).click();
         return this;
     }
@@ -149,6 +149,19 @@ public class ComicPage {
         wait2.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("div[title = 'Bookmarks']")));
     }
 
+    public void SwitchToIFrameOpenComicsReadingPageProd2() throws InterruptedException {
+        Thread.sleep(5000);
+        int size = driver.findElements(By.tagName("iframe")).size();
+        driver.switchTo().frame(0);
+        //Thread.sleep(4000);
+        //driver.switchTo().frame(driver.findElement(By.cssSelector("iframe[src = 'https://rbreader.zinioapps.com/#/reader/readsvg/"+comicsID+"']")));
+        //driver.switchTo().frame(driver.findElement(By.tagName("iframe")));
+        //wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.cssSelector("iframe[src = 'https://rb_reader.sbx.zinioapps.com/#/reader/readsvg/438090']")));
+        Wait<WebDriver> wait2 = new WebDriverWait(driver, 30);
+        //Thread.sleep(1000);
+        wait2.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("div[title = 'Bookmarks']")));
+    }
+
     public ComicPage openComicsReadingPage(int comicsID) throws InterruptedException {
         SwitchToTab();
         SwitchToIFrameOpenComicsReadingPage(comicsID);
@@ -158,6 +171,12 @@ public class ComicPage {
     public ComicPage openComicsReadingPageProd(int comicsID) throws InterruptedException {
         SwitchToTab();
         SwitchToIFrameOpenComicsReadingPageProd(comicsID);
+        return this;
+    }
+
+    public ComicPage openComicsReadingPageProd() throws InterruptedException {
+        SwitchToTab();
+        SwitchToIFrameOpenComicsReadingPageProd2();
         return this;
     }
 
