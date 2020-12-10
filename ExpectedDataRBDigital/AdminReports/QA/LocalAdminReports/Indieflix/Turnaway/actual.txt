@@ -33,21 +33,21 @@ License Type	Library Name	Barcode	Email	Branch	Licenses #	Description	Monthly Pa
 7-day	8080 Test Library		v.2612.115351@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
 7-day	8080 Test Library		v.2612.115440@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
 7-day	8080 Test Library		v.2612.115800@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.121114@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.121138@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.202919@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.202944@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.204241@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2612.204311@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2712.111516@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2712.111546@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2712.114130@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2712.114153@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2712.194345@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2712.194419@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2712.200013@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library		v.2712.200416@gmail.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	1
-7-day	8080 Test Library	qwerty	avolkov@envionsoftware.com		187	Test	99999	99999	1000	1000	100	Service or Patron Cap	2
+7-day	8080 Test Library		v.2612.121114@gmail.com		187	Test	0	99999	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.121138@gmail.com		187	Test	0	99999	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.202919@gmail.com		187	Test	0	99999	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.202944@gmail.com		187	Test	0	99999	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.204241@gmail.com		187	Test	0	99999	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2612.204311@gmail.com		187	Test	0	99999	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2712.111516@gmail.com		187	Test	0	99999	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2712.111546@gmail.com		187	Test	0	99999	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2712.114130@gmail.com		187	Test	0	99999	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2712.114153@gmail.com		187	Test	0	99999	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2712.194345@gmail.com		187	Test	0	99999	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2712.194419@gmail.com		187	Test	0	99999	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2712.200013@gmail.com		187	Test	0	99999	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library		v.2712.200416@gmail.com		187	Test	0	99999	1000	1000	100	Service or Patron Cap	1
+7-day	8080 Test Library	qwerty	avolkov@envionsoftware.com		187	Test	0	99999	1000	1000	100	Service or Patron Cap	2
 Total	70
 
 

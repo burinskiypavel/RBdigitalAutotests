@@ -1,20 +1,20 @@
-Libraries that were subscribed to comics on 10/31/2020
+Libraries that were subscribed to comics on 11/30/2020
 Library Nickname	Official Name	State	Country	Child Library Name
 test51	8080 Test Library	Alabama	US	fixed format goodness
 test51	8080 Test Library	Alabama	US	test
-Yellowheadab	Yellowhead Regional Library	Alberta	CA	Alberta Beach Municipal library
-Yellowheadab	Yellowhead Regional Library	Alberta	CA	Alder Flats Buck Lake Public Library
-Yellowheadab	Yellowhead Regional Library	Alberta	CA	Barrhead Public Library
-Yellowheadab	Yellowhead Regional Library	Alberta	CA	Bibliotheque de Beaumont Library
-Yellowheadab	Yellowhead Regional Library	Alberta	CA	Blue Ridge Community Library
-Yellowheadab	Yellowhead Regional Library	Alberta	CA	Breton Public Library
-Yellowheadab	Yellowhead Regional Library	Alberta	CA	Calmar Public Library
-Yellowheadab	Yellowhead Regional Library	Alberta	CA	Darwell Public Library
-Yellowheadab	Yellowhead Regional Library	Alberta	CA	Devon Public Library
-Yellowheadab	Yellowhead Regional Library	Alberta	CA	Drayton Valley Municipal Library
-Yellowheadab	Yellowhead Regional Library	Alberta	CA	Duffield Community Library
-Yellowheadab	Yellowhead Regional Library	Alberta	CA	Edson & District Public Library
-Yellowheadab	Yellowhead Regional Library	Alberta	CA	Entwistle Public Library
-Yellowheadab	Yellowhead Regional Library	Alberta	CA	Evansburg & District Public Library
-Yellowheadab	Yellowhead Regional Library	Alberta	CA	Fort Assiniboine Public Library
-Yellowheadab	Yellowhead Regional Library	Alberta	CA	Grande Cache Municipal Library
+princegeorgemd	Prince George's County Memorial Library System	Maryland	US	Accokeek
+princegeorgemd	Prince George's County Memorial Library System	Maryland	US	Baden
+princegeorgemd	Prince George's County Memorial Library System	Maryland	US	Beltsville
+princegeorgemd	Prince George's County Memorial Library System	Maryland	US	Bladensburg
+princegeorgemd	Prince George's County Memorial Library System	Maryland	US	Bowie
+princegeorgemd	Prince George's County Memorial Library System	Maryland	US	Fairmount Heights
+princegeorgemd	Prince George's County Memorial Library System	Maryland	US	Glenarden
+princegeorgemd	Prince George's County Memorial Library System	Maryland	US	Greenbelt
+princegeorgemd	Prince George's County Memorial Library System	Maryland	US	Hillcrest Heights
+princegeorgemd	Prince George's County Memorial Library System	Maryland	US	Hyattsville
+princegeorgemd	Prince George's County Memorial Library System	Maryland	US	Largo-Kettering
+princegeorgemd	Prince George's County Memorial Library System	Maryland	US	Laurel
+princegeorgemd	Prince George's County Memorial Library System	Maryland	US	Mount Rainier
+princegeorgemd	Prince George's County Memorial Library System	Maryland	US	New Carrollton
+princegeorgemd	Prince George's County Memorial Library System	Maryland	US	Oxon Hill
+princegeorgemd	Prince George's County Memorial Library System	Maryland	US	South Bowie

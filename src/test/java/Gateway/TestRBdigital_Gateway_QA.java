@@ -66,27 +66,27 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
         System.setProperty("webdriver.chrome.driver", path);
 
         //старт прокси
-        proxy = new BrowserMobProxyServer();
-        proxy.setTrustAllServers(true);
-        proxy.start(9095);
-
-        //получить обьект Selenium
-        Proxy seleniumProxy = ClientUtil.createSeleniumProxy(proxy);
-
-        //настройка для драйвера
-        DesiredCapabilities capabilities = new DesiredCapabilities();
-        capabilities.setCapability(CapabilityType.PROXY, seleniumProxy);
-
-        ChromeOptions options = new ChromeOptions();
-        options.addArguments("--ignore-certificate-errors", "--user-data-dir=somedirectory5");
-
-        capabilities.setCapability(ChromeOptions.CAPABILITY, options);
-
-        //создание драйвера
-        driver = new ChromeDriver(capabilities);
-
-        //включить более детальный захват HAR
-        proxy.newHar("www.rbdigitalqa.com");
+//        proxy = new BrowserMobProxyServer();
+//        proxy.setTrustAllServers(true);
+//        proxy.start(9095);
+//
+//        //получить обьект Selenium
+//        Proxy seleniumProxy = ClientUtil.createSeleniumProxy(proxy);
+//
+//        //настройка для драйвера
+//        DesiredCapabilities capabilities = new DesiredCapabilities();
+//        capabilities.setCapability(CapabilityType.PROXY, seleniumProxy);
+//
+//        ChromeOptions options = new ChromeOptions();
+//        options.addArguments("--ignore-certificate-errors", "--user-data-dir=somedirectory5");
+//
+//        capabilities.setCapability(ChromeOptions.CAPABILITY, options);
+//
+//        //создание драйвера
+//        driver = new ChromeDriver(capabilities);
+//
+//        //включить более детальный захват HAR
+//        proxy.newHar("www.rbdigitalqa.com");
 
 
         //docker
@@ -96,9 +96,9 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
         //driver = new RemoteWebDriver(new URL("http://192.168.32.51:4444/wd/hub"), DesiredCapabilities.chrome());
 
         //chrome browser
-        //System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
-        //ChromeOptions chromeOptions = new ChromeOptions();
-        //driver = new ChromeDriver(chromeOptions);
+        System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
+        ChromeOptions chromeOptions = new ChromeOptions();
+        driver = new ChromeDriver(chromeOptions);
 
         //firefox browser
         //System.setProperty("webdriver.gecko.driver","driver/geckodriver.exe");
@@ -137,20 +137,20 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
         }
 
         //////////////////////
-        Har har = proxy.getHar();
-        for (HarEntry entry : har.getLog().getEntries()) {
-            HarRequest request = entry.getRequest();
-            HarResponse response = entry.getResponse();
-
-            if(response.getStatus() == 500){
-                org.junit.Assert.fail(request.getUrl() + " returns 500 error");
-            }
-
-            System.out.println(response.getStatus() + " : " + request.getUrl()
-                    + ", " + entry.getTime() + "ms");
-
-            //assertThat(response.getStatus(), is(200));
-        }
+//        Har har = proxy.getHar();
+//        for (HarEntry entry : har.getLog().getEntries()) {
+//            HarRequest request = entry.getRequest();
+//            HarResponse response = entry.getResponse();
+//
+//            if(response.getStatus() == 500){
+//                org.junit.Assert.fail(request.getUrl() + " returns 500 error");
+//            }
+//
+//            System.out.println(response.getStatus() + " : " + request.getUrl()
+//                    + ", " + entry.getTime() + "ms");
+//
+//            //assertThat(response.getStatus(), is(200));
+//        }
         //////////////////////
     }
 
@@ -214,11 +214,11 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
                 .SelectMagazine("//img[@alt='Your Crochet Home']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPage(264457);
+                .openMagazineReadingPage();
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(264457, 4);
+        readingPage.openMagazinePageFromTableOfContents2(magazineUrl2, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/264457/Cover");
+        checkUrlContains(magazineUrl2, "/Cover");
     }
 
     @DataProvider
@@ -249,13 +249,13 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
                 .SelectComics("//img[@alt='X-MEN: SECOND COMING - Special']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openComicsReadingPage(424672);
+                .openComicsReadingPage();
         String comicsUrl2 = getCurrentUrl();
-        readingPage.openComicsPageFromTableOfContents(424672, 4);
+        readingPage.openComicsPageFromTableOfContents2(comicsUrl2, 4);
         readingPage.openBookmarks();
         String actualText = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
 
-        checkUrlContains(comicsUrl2, "com/reader.php#/reader/readsvg/424672/Cover");
+        checkUrlContains(comicsUrl2, "/Cover");
         checkTextContains(actualText, "Select the page you want to bookmark");
     }
 
