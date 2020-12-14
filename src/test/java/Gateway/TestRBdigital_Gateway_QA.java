@@ -211,7 +211,7 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
     void  test_06_magazineCheckoutAndReadAreAvailable() throws InterruptedException {
         mainPage.Login("mar13@gmail.com", "12345qw");
         magazinePage.OpenMagazinesPage()
-                .SelectMagazine("//img[@alt='Your Crochet Home']")
+                .SelectMagazine("//img[@alt='Drew League']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
                 .openMagazineReadingPage();
@@ -304,13 +304,13 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
                 .SelectComics("//img[@alt='CAPTAIN MARVEL VOL. 1: HIGHER, FURTHER, FASTER, MORE - Special']")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openComicsReadingPage(424456);
+                .openComicsReadingPage();
         comicsUrl3 = getCurrentUrl();
-        readingPage.openComicsPageFromTableOfContents(424456, 4);
+        readingPage.openComicsPageFromTableOfContents2(comicsUrl3, 4);
         readingPage.openBookmarks();
         String actualText = getTextFromElement("//h6[contains(text(), 'Select the page you want to bookmark')]");
 
-        checkUrlContains(comicsUrl3, "com/reader.php#/reader/readsvg/424456/Cover");
+        checkUrlContains(comicsUrl3, "/Cover");
         checkTextContains(actualText, "Select the page you want to bookmark");
     }
 
@@ -335,14 +335,14 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
                 .SearchMagazine("Zigzag Photo Journal")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openMagazineReadingPage(343054);
+                .openMagazineReadingPage();
         magazineUrl4 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(343054, 4);
+        readingPage.openMagazinePageFromTableOfContents2(magazineUrl4, 4);
         openMagazineComicsPage(6);
         pressArrowNextFromPage(6);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page-6")));
 
-        checkUrlContains(magazineUrl4, "com/reader.php#/reader/readsvg/343054/Cover");
+        checkUrlContains(magazineUrl4, "/Cover");
     }
 
     @Test
@@ -352,14 +352,14 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
                 .SearchComic("Black Dynamite")
                 .PressCheckoutBtn()
                 .PressStartReadingBtn()
-                .openComicsReadingPage(389797);
+                .openComicsReadingPage();
         comicsUrl4 = getCurrentUrl();
-        readingPage.openComicsPageFromTableOfContents(389797, 2);
+        readingPage.openComicsPageFromTableOfContents2(comicsUrl4, 2);
         openMagazineComicsPage(4);
         pressArrowNextFromPage(4);
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.id("page-6")));
 
-        checkUrlContains(comicsUrl4, "com/reader.php#/reader/readsvg/389797/Cover");
+        checkUrlContains(comicsUrl4, "/Cover");
     }
 
 
@@ -402,13 +402,13 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='cycling']")));
         SelectFromSelectByIdAndValue("genre_search_line", "cycling");
-        magazinePage.SelectMagazine("//img[@alt='Ultimate Adventure Bike']");
+        magazinePage.SelectMagazine("//img[@alt='Ultimate Guide to Bicycle maintenance & upgrades']");
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Cycling')]")));
 
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='architecture']")));
-        SelectFromSelectByIdAndValue("genre_search_line", "architecture");
-        magazinePage.SelectMagazine("//img[@alt='Architectural Digest']");
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: Architecture')]")));
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='history']")));
+        SelectFromSelectByIdAndValue("genre_search_line", "history");
+        magazinePage.SelectMagazine("//img[@alt='World Histories 2']");
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//p[contains(text(), 'genre: History')]")));
 
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("option[value='art-photo']")));
         SelectFromSelectByIdAndValue("genre_search_line", "art-photo");
@@ -516,11 +516,11 @@ public class TestRBdigital_Gateway_QA extends BaseClass_TestRBDigital_Gateway {
                 .SelectMagazine("//img[@alt='The Economist']")
                 .SelectMagazineFromBackIssues(2)
                 .PressStartReadingBtn()
-                .openMagazineReadingPage(463534);
+                .openMagazineReadingPage();
         String magazineUrl2 = getCurrentUrl();
-        readingPage.openMagazinePageFromTableOfContents(463534, 4);
+        readingPage.openMagazinePageFromTableOfContents2(magazineUrl2, 4);
 
-        checkUrlContains(magazineUrl2, "com/reader.php#/reader/readsvg/463534/Cover");
+        checkUrlContains(magazineUrl2, "/Cover");
     }
 
     @Test
